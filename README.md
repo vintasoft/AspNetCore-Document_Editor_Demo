@@ -39,7 +39,7 @@ The project demonstrates how to edit new or existing DOCX document in ASP.NET Co
    dotnet build AspNetCoreDocumentEditorDemo.Net10.csproj
    ```
 
-4. Run compiled application and try to view and annotate images and documents.
+4. Run compiled application and try to edit new or existing DOCX document.
 
 
 ## Documentation
