@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "फ़ाइल"
+		},
+		"homeLabel": {
+			"text": "मुख्य"
+		},
+		"insertLabel": {
+			"text": "सम्मिलित करें"
+		},
+		"layoutLabel": {
+			"text": "लेआउट"
+		},
+		"createDocxDocumentButton": {
+			"title": "नया DOCX डॉक्यूमेंट बनाएं"
+		},
+		"uploadDocumentFileButton": {
+			"title": "डॉक्यूमेंट अपलोड करें और खोलें"
+		},
+		"documentInfoButton": {
+			"title": "डॉक्यूमेंट की जानकारी..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "सोर्स फ़ाइल में बदलाव सेव करें"
+		},
+		"downloadFileButton": {
+			"title": "डाउनलोड फ़ाइल"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX डॉक्यूमेंट को PDF में एक्सपोर्ट करें और PDF फ़ाइल डाउनलोड करें..."
+		},
+		"printDocumentButton": {
+			"title": "डॉक्यूमेंट प्रिंट करें..."
+		},
+		"closeDocumentButton": {
+			"title": "डॉक्यूमेंट बंद करें"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "सत्र कैश साफ़ करें"
+		},
+		"documentEditorSettingsButton": {
+			"title": "डॉक्यूमेंट एडिटर सेटिंग्स..."
+		},
+		"copyContentButton": {
+			"title": "सामग्री कॉपी करें"
+		},
+		"cutContentButton": {
+			"title": "सामग्री काटें"
+		},
+		"pasteContentButton": {
+			"title": "सामग्री चिपकाएँ"
+		},
+		"pasteTextContentButton": {
+			"title": "टेक्स्ट कंटेंट पेस्ट करें"
+		},
+		"increaseFontSizeButton": {
+			"title": "फ़ॉन्ट साइज़ बढ़ाएँ"
+		},
+		"decreaseFontSizeButton": {
+			"title": "फ़ॉन्ट साइज़ घटाएँ"
+		},
+		"boldTextButton": {
+			"title": "बोल्ड"
+		},
+		"italicTextButton": {
+			"title": "इटैलिक"
+		},
+		"underlineTextButton": {
+			"title": "रेखांकित"
+		},
+		"strikethroughTextButton": {
+			"title": "क्रॉस्ड"
+		},
+		"superscriptTextButton": {
+			"title": "सुपरस्क्रिप्ट टेक्स्ट"
+		},
+		"subscriptTextButton": {
+			"title": "सबस्क्रिप्ट टेक्स्ट"
+		},
+		"setTextColorButton": {
+			"title": "टेक्स्ट का रंग सेट करें"
+		},
+		"selectTextColorButton": {
+			"title": "टेक्स्ट का रंग चुनें"
+		},
+		"setTextFillColorButton": {
+			"title": "टेक्स्ट भरने का रंग सेट करें"
+		},
+		"selectTextFillColorButton": {
+			"title": "टेक्स्ट भरने का रंग चुनें"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "सभी फ़ॉर्मेटिंग साफ़ करें"
+		},
+		"textPropertiesButton": {
+			"title": "टेक्स्ट प्रॉपर्टीज़..."
+		},
+		"decreaseIndentButton": {
+			"title": "इंडेंट घटाएँ"
+		},
+		"increaseIndentButton": {
+			"title": "इंडेंट बढ़ाएँ"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "पहली लाइन का इंडेंट घटाएँ"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "पहली लाइन का इंडेंट बढ़ाएँ"
+		},
+		"bulletedListButton": {
+			"title": "बुलेटेड लिस्ट"
+		},
+		"bulletedListStylesButton": {
+			"title": "बुलेटेड लिस्ट के लिए स्टाइल"
+		},
+		"numberedListButton": {
+			"title": "नंबर वाली लिस्ट"
+		},
+		"numberedListStylesButton": {
+			"title": "नंबर वाली लिस्ट के लिए स्टाइल"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "नॉन-प्रिंटेबल कैरेक्टर दिखाएँ"
+		},
+		"alignLeftButton": {
+			"title": "बाएँ संरेखित करें"
+		},
+		"alignCenterButton": {
+			"title": "केंद्र संरेखित करें"
+		},
+		"alignRightButton": {
+			"title": "दाएँ संरेखित करें"
+		},
+		"alignBothButton": {
+			"title": "दोनों को अलाइन करें"
+		},
+		"setParagraphFillColorButton": {
+			"title": "पैराग्राफ भरने का रंग सेट करें"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "पैराग्राफ भरने का रंग चुनें"
+		},
+		"stylePainterButton": {
+			"title": "स्टाइल पेंटर"
+		},
+		"paragraphPropertiesButton": {
+			"title": "पैराग्राफ प्रॉपर्टीज़..."
+		},
+		"insertPageBreakButton": {
+			"title": "पेज ब्रेक डालें"
+		},
+		"createHeaderButton": {
+			"title": "हेडर बनाएँ/एडिट करें"
+		},
+		"deleteHeaderButton": {
+			"title": "हेडर डिलीट करें"
+		},
+		"createFooterButton": {
+			"title": "फ़ूटर बनाएँ/एडिट करें"
+		},
+		"deleteFooterButton": {
+			"title": "फ़ूटर डिलीट करें"
+		},
+		"changePageOrientationButton": {
+			"title": "पेज ओरिएंटेशन बदलें"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "सेक्शन ब्रेक जोड़ें (अगला पेज)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "सेक्शन ब्रेक जोड़ें (कंटीन्यूअस)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "सेक्शन ब्रेक जोड़ें (ईवन पेज)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "सेक्शन ब्रेक जोड़ें (ऑड पेज)"
+		},
+		"addColumnBreak_Button": {
+			"title": "कॉलम ब्रेक जोड़ें"
+		},
+		"removeSectionBreakButton": {
+			"title": "सेक्शन ब्रेक हटाएँ"
+		},
+		"pageSettingsButton": {
+			"title": "डॉक्यूमेंट पेज सेटिंग्स..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "पेज कॉलम सेटिंग्स..."
+		},
+		"goToFirstPageButton": {
+			"title": "पहले पेज पर जाएँ"
+		},
+		"goToPreviousPageButton": {
+			"title": "पिछले पेज पर जाएँ"
+		},
+		"gotoPageInput": {
+			"title": "पेज"
+		},
+		"goToNextPageButton": {
+			"title": "अगले पेज पर जाएँ"
+		},
+		"goToLastPageButton": {
+			"title": "आखिरी पेज पर जाएँ"
+		},
+		"viewPropertiesButton": {
+			"title": "सेटिंग्स देखें..."
+		},
+		"view_fitToPageButton": {
+			"title": "पेज में फ़िट करें"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "पेज की चौड़ाई में फ़िट करें"
+		},
+		"view_multiPagesButton": {
+			"title": "एक से ज़्यादा पेज"
+		},
+		"view_onePageButton": {
+			"title": "एक पेज"
+		},
+		"zoomOutButton": {
+			"title": "ज़ूम आउट"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "ज़ूम इन करें"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "बाएं:"
+			},
+			"rightIndentationLabel": {
+				"text": "दाएं:"
+			},
+			"specialIndentationLabel": {
+				"text": "स्पेशल:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "नहीं"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "पहली लाइन"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "हैंगिंग"
+			},
+			"byLabel": {
+				"text": "बाय:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			},
+			"viewModeListLabel": {
+				"text": "व्यू मोड:"
+			},
+			"Vertical": {
+				"text": "ऊर्ध्वाधर"
+			},
+			"Horizontal": {
+				"text": "क्षैतिज"
+			},
+			"pagesInLineLabel": {
+				"text": "लाइन/कॉलम में पेज:"
+			},
+			"pagePaddingLabel": {
+				"text": "पेज पैडिंग (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "पहले:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "ऑटो"
+			},
+			"spacingAfterLabel": {
+				"text": "बाद में:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "ऑटो"
+			},
+			"lineSpacingLabel": {
+				"text": "लाइन स्पेसिंग:"
+			},
+			"Scale": {
+				"text": "स्केल"
+			},
+			"Exact": {
+				"text": "एकदम सही"
+			},
+			"AtLeast": {
+				"text": "कम से कम"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "एक ही स्टाइल के पैराग्राफ के बीच स्पेस न दें"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "विडो कंट्रोल"
+			},
+			"keepNextLabel": {
+				"text": "अगला रखें"
+			},
+			"keepLinesLabel": {
+				"text": "लाइन रखें"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "पेज ब्रेक पहले"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "फ़ॉन्ट:"
+			},
+			"fontStyleLabel": {
+				"text": "फ़ॉन्ट स्टाइल:"
+			},
+			"Regular": {
+				"text": "रेगुलर"
+			},
+			"Italic": {
+				"text": "इटैलिक"
+			},
+			"Bold": {
+				"text": "बोल्ड"
+			},
+			"BoldItalic": {
+				"text": "बोल्ड इटैलिक"
+			},
+			"fontSizeLabel": {
+				"text": "फ़ॉन्ट साइज़:"
+			},
+			"fontColorLabel": {
+				"text": "फ़ॉन्ट कलर:"
+			},
+			"underlineStyleLabel": {
+				"text": "अंडरलाइन टेक्स्ट:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "स्ट्राइकआउट टेक्स्ट:"
+			},
+			"verticalPositionLabel": {
+				"text": "वर्टिकल पोजीशन:"
+			},
+			"Baseline": {
+				"text": "बेसलाइन"
+			},
+			"Superscript": {
+				"text": "सुपरस्क्रिप्ट"
+			},
+			"Subscript": {
+				"text": "सबस्क्रिप्ट"
+			},
+			"smallCapsLabel": {
+				"text": "स्मॉल कैप्स"
+			},
+			"allCapsLabel": {
+				"text": "ऑल कैप्स"
+			},
+			"scaleLabel": {
+				"text": "थंबनेल स्केल:"
+			},
+			"spacingLabel": {
+				"text": "स्पेसिंग:"
+			},
+			"positionLabel": {
+				"text": "पोजीशन:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "मल्टी-लेवल लिस्ट:"
+			},
+			"alignmentLabel": {
+				"text": "अलाइनमेंट:"
+			},
+			"Left": {
+				"text": "बाएं"
+			},
+			"Right": {
+				"text": "सही"
+			},
+			"Center": {
+				"text": "केंद्र संरेखित करें"
+			},
+			"Both": {
+				"text": "दोनों"
+			},
+			"lineSpacingLabel": {
+				"text": "लाइन स्पेसिंग:"
+			},
+			"Single": {
+				"text": "सिंगल"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "डबल"
+			},
+			"Triple": {
+				"text": "ट्रिपल"
+			},
+			"Custom...": {
+				"text": "कस्टम..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "पैराग्राफ लाइन स्पेसिंग सेटिंग्स..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "पैराग्राफ इंडेंटेशन सेटिंग्स..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "पैराग्राफ पेजिनेशन सेटिंग्स..."
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "टाइटल:"
+			},
+			"subjectLabel": {
+				"text": "सब्जेक्ट:"
+			},
+			"creatorLabel": {
+				"text": "क्रिएटर:"
+			},
+			"descriptionLabel": {
+				"text": "डिस्क्रिप्शन:"
+			},
+			"categoryLabel": {
+				"text": "कैटेगरी:"
+			},
+			"keywordsLabel": {
+				"text": "कीवर्ड्स:"
+			},
+			"createdLabel": {
+				"text": "क्रिएटेड:"
+			},
+			"modifiedLabel": {
+				"text": "मॉडिफाइड:"
+			},
+			"printedLabel": {
+				"text": "मुद्रित:"
+			},
+			"lastModifiedByLabel": {
+				"text": "अंतिम बार संशोधित:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "पाठ चयन रंग:"
+			},
+			"backgroundColorLabel": {
+				"text": "पृष्ठभूमि का रंग:"
+			},
+			"defaultUnitsLabel": {
+				"text": "डिफ़ॉल्ट इकाइयाँ:"
+			},
+			"Centimeters": {
+				"text": "सेंटीमीटर"
+			},
+			"Millimeters": {
+				"text": "मिलीमीटर"
+			},
+			"Inches": {
+				"text": "इंच"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "अदृश्य तालिका सीमाएँ दिखाएँ"
+			},
+			"asyncModeLabel": {
+				"text": "एसिंक मोड"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "अनुभाग प्रारंभ:"
+			},
+			"NextPage": {
+				"text": "अगला पृष्ठ"
+			},
+			"NextColumn": {
+				"text": "अगलास्तंभ"
+			},
+			"Continuous": {
+				"text": "निरंतर"
+			},
+			"EvenPage": {
+				"text": "यहां तक कि पेज भी"
+			},
+			"OddPage": {
+				"text": "अजीब पेज"
+			},
+			"pageSizeLabel": {
+				"text": "पेज का आकार:"
+			},
+			"pageOrientationLabel": {
+				"text": "पेज ओरिएंटेशन:"
+			},
+			"Portrait": {
+				"text": "चित्र"
+			},
+			"Landscape": {
+				"text": "भूदृश्य"
+			},
+			"pageMarginsLabel": {
+				"text": "पेज मार्जिन (सेमी):"
+			},
+			"leftLabel": {
+				"text": "वाम:"
+			},
+			"rightLabel": {
+				"text": "सही:"
+			},
+			"topLabel": {
+				"text": "शीर्ष:"
+			},
+			"bottomLabel": {
+				"text": "निचला:"
+			},
+			"headerLabel": {
+				"text": "शीर्षलेख:"
+			},
+			"footerLabel": {
+				"text": "पाद लेख:"
+			},
+			"gutterLabel": {
+				"text": "गटर:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "प्रथम पृष्ठ के लिए भिन्न शीर्षक का प्रयोग करें"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "विषम और सम पृष्ठों के लिए अलग-अलग शीर्षक का उपयोग करें"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "कॉलम गिनती:"
+			},
+			"lineBetweenLabel": {
+				"text": "बीच की रेखा"
+			},
+			"widthAndSpacingLabel": {
+				"text": "चौड़ाई और अंतर"
+			},
+			"equalColumnWidthLabel": {
+				"text": "समान स्तंभ चौड़ाई"
+			},
+			"columnNumberLabel": {
+				"text": "कॉलम संख्या:"
+			},
+			"widthLabel": {
+				"text": "चौड़ाई:"
+			},
+			"spacingLabel": {
+				"text": "स्पेसिंग:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"closeButton": {
+				"value": "बंद करें"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "त्रुटि"
+		},
+		"closeButton": {
+			"text": "बंद करें"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "दस्तावेज़ खुल रहा है...",
+		"vssde-numberFormat-custom": "कस्टम",
+		"vssde-findTextPanel-textIsNotFound": "पाठ '{0}' नहीं मिला.",
+		"vssde-selectFunctionPanel-all": "सभी",
+		"vssde-createXlsxDocument": "नया XLSX दस्तावेज़ बनाएँ",
+		"vssde-uploadXlsxFile": "XLSX फ़ाइल अपलोड करें",
+		"vssde-downloadXlsxFile": "XLSX फ़ाइल अपलोड करें",
+		"vssde-exportXlsxToPdf": "XLSX को पीडीएफ में निर्यात करें",
+		"vssde-fileSizeExceedsLimit": "अपलोड की गई फ़ाइल का आकार अधिकतम आकार ({0} बाइट्स) से अधिक है।",
+		"vssde-error-noError": "कोई ग़लती नहीं।",
+		"vssde-error-divisionByZero": "किसी भी संख्या (शून्य सहित) या किसी त्रुटि कोड को शून्य से विभाजित किया जाता है।",
+		"vssde-error-cellRefCannotBeEvaluated": "सेल संदर्भ का मूल्यांकन नहीं किया जा सकता क्योंकि सेल का मान पुनर्प्राप्त या गणना नहीं किया गया है।",
+		"vssde-error-valueIsNotAvailable": "निर्दिष्ट मान उपलब्ध नहीं है.",
+		"vssde-error-wrongName": "ऐसा लगता है कि किसी नाम का उपयोग किया गया है लेकिन ऐसे किसी नाम को परिभाषित नहीं किया गया है।",
+		"vssde-error-twoAreasNotIntersecting": "दो क्षेत्रों को प्रतिच्छेद करना आवश्यक है लेकिन ऐसा नहीं है।",
+		"vssde-error-notCorrectValue": "किसी फ़ंक्शन के तर्क का एक संगत प्रकार होता है, लेकिन उसका एक मान उस डोमेन से बाहर होता है जिस पर वह फ़ंक्शन परिभाषित होता है।",
+		"vssde-error-cannotEvaluateCellRef": "सेल संदर्भ का मूल्यांकन नहीं किया जा सकता.",
+		"vssde-error-incompatibleType": "एक असंगत प्रकार का तर्क किसी फ़ंक्शन को पास किया जाता है, या एक ऑपरेटर के साथ एक असंगत प्रकार के ऑपरेंड का उपयोग किया जाता है।",
+		"vssde-error-unknownError": "अज्ञात त्रुटि।",
+		"vssde-error-externalError": "बाहरी त्रुटि.",
+		"vssde-uriOpen-question": "यूआरएल '{0}' खोलें?",
+		"vssde-uriOpen-wrongUri": "इस साइट का पता मान्य नहीं है: {0}",
+		"vssde-createXlsxDocumentConfirmation": "क्या आप एक नई कार्यपुस्तिका बनाना चाहते हैं?",
+		"vsde-documentIsOpening": "दस्तावेज़ खुल रहा है...",
+		"vsde-createDocxDocument": "नया DOCX डॉक्यूमेंट बनाएं",
+		"vsde-uploadDocumentFile": "फ़ाइल डाउनलोड करें और खोलें",
+		"vsde-exportDocxDocumentToPdf": "DOCX दस्तावेज़ को पीडीएफ में निर्यात करें",
+		"vsde-downloadFile": "डाउनलोड फ़ाइल",
+		"vsde-cacheIsNotCleared": "कैश साफ़ नहीं किया गया है क्योंकि डिफ़ॉल्ट फ़ाइल वेब सेवा (Vintasoft.Shared.WebServiceJS.defaultFileService) परिभाषित नहीं है।",
+		"vsde-uriOpen-question": "यूआरएल '{0}' खोलें?",
+		"vsde-uriOpen-wrongUri": "इस साइट का पता मान्य नहीं है: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "फ़ाइल डाउनलोड करें और खोलें",
+		"vsdv-uploadAndAddFileButton-addFileString": "फ़ाइल अपलोड करें और जोड़ें",
+		"vsui-textSearchPanel-pageLabel": "पेज",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "टिप्पणियाँ जलाएँ",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "एनोटेशन सहेजें",
+		"vsui-annotationListPanel-pageLabel": "पेज",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "एनोटेशन गुण",
+		"vsdv-openFile-addFileString": "फ़ाइल जोड़ें",
+		"vsdv-openFile-authenticateFileString": "फ़ाइल प्रमाणित करें",
+		"vsdv-downloadFile-actionMessage": "डाउनलोड फ़ाइल",
+		"vsdv-saveChanges-saveChangesInImages": "छवियों में परिवर्तन सहेजें",
+		"vsdv-saveChanges-saveChangesInAnnotations": "एनोटेशन में परिवर्तन सहेजें",
+		"vsdv-saveChanges-burnAnnotationsInImages": "छवियों पर एनोटेशन जलाएँ",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "फ़ाइल डाउनलोड करें और खोलें",
+		"vsui-uploadAndAddFileButton-addFileString": "फ़ाइल अपलोड करें और जोड़ें",
+		"vsui-openFile-addFileString": "फ़ाइल जोड़ें",
+		"vsui-openFile-authenticateFileString": "फ़ाइल प्रमाणित करें",
+		"vsui-downloadFile-actionMessage": "डाउनलोड फ़ाइल",
+		"vsui-saveChanges-saveChangesInImages": "छवियों में परिवर्तन सहेजें",
+		"vsui-saveChanges-saveChangesInAnnotations": "एनोटेशन में परिवर्तन सहेजें",
+		"vsui-saveChanges-burnAnnotationsInImages": "छवियों पर एनोटेशन जलाएँ",
+		"vsui-saveChanges-saveChangesInPdfDocument": "पीडीएफ दस्तावेज़ में परिवर्तन सहेजें",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "टिप्पणियाँ जलाएँ",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "एनोटेशन सहेजें",
+		"vsui-documentPasswordDialog-title": "दस्तावेज़ पासवर्ड",
+		"vsui-dialog-okButton": "ठीक है",
+		"vsui-dialog-cancelButton": "रद्द करें",
+		"vsui-documentPasswordPanel-authenticateFileString": "फ़ाइल प्रमाणित करें",
+		"vsui-imageSelectionDialog-title": "छवियां चुनें",
+		"vsui-imageSelectionDialog-currentImageString": "वर्तमान छवि",
+		"vsui-imageSelectionDialog-allImagesString": "सभी छवियाँ",
+		"vsui-imageSelectionDialog-customImagesString": "कस्टम",
+		"vsui-documentLayoutSettingsDialog-title": "दस्तावेज़ लेआउट सेटिंग",
+		"vsui-printImagesDialog-title": "छवियाँ मुद्रित करें",
+		"vsui-printImagesPanel-imagePrintingString": "छवि मुद्रित हो रही है",
+		"vsui-printImagesPanel-withAnnotationsLabel": "एनोटेशन के साथ",
+		"vsui-imageViewerSettingsDialog-title": "छवि दर्शक सेटिंग्स",
+		"vsui-thumbnailViewerSettingDialog-title": "थंबनेल व्यूअर सेटिंग्स",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "थंबनेल पर एनोटेशन प्रदर्शित करें:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "एनोटेटेड छवि घुमाएँ",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "घूर्णन कोण 0 नहीं होना चाहिए.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "एनोटेट छवि को घुमाया जा रहा है",
+		"vsui-uploadImageFromUrlDialog-title": "यूआरएल से छवि अपलोड करें",
+		"vsui-exportFileSettingsDialog-title": "फ़ाइल निर्यात करने की सेटिंग",
+		"vsdv-documentLayoutSettingsDialog-title": "दस्तावेज़ लेआउट सेटिंग",
+		"vsdv-dialog-okButton": "ठीक है",
+		"vsdv-dialog-cancelButton": "रद्द करें",
+		"vsdv-uploadImageFromUrlDialog-title": "यूआरएल से छवि अपलोड करें",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "परिवर्तन इतिहास सक्षम करें",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "पूर्ववत/पुनः करें अक्षम करें",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "सक्षम मोड 'एनोटेशन के लिए इरेज़र'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'एनोटेशन इरेज़र' अक्षम करें",
+		"vsui-documentNavigationTool-getActions": "कार्रवाई पाएँ",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "पैराग्राफ़ इंडेंटेशन सेटिंग्स",
+		"vsde-dialog-okButton": "ठीक है",
+		"vsde-dialog-closeButton": "बंद करें",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "अनुच्छेद पंक्ति रिक्ति सेटिंग",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "अनुच्छेद पृष्ठांकन सेटिंग्स",
+		"vsde-documentTextPropertiesDialog-title": "पाठ गुण",
+		"vsde-documentParagraphPropertiesDialog-title": "अनुच्छेद गुण",
+		"vsde-documentInfoDialog-title": "दस्तावेज़ जानकारी",
+		"vsde-documentEditorSettingsDialog-title": "दस्तावेज़ संपादक सेटिंग्स",
+		"vsde-documentEditorViewSettingsDialog-title": "दस्तावेज़ संपादक दृश्य सेटिंग्स",
+		"vsde-documentPageSettingsDialog-title": "दस्तावेज़ पृष्ठ सेटिंग",
+		"vsde-documentPageColumnsSettingsDialog-title": "पेज कॉलम सेटिंग्स"
+	}
+}

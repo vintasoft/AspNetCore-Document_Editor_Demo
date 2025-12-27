@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fil"
+		},
+		"homeLabel": {
+			"text": "Huvudsida"
+		},
+		"insertLabel": {
+			"text": "Infoga"
+		},
+		"layoutLabel": {
+			"text": "Layout"
+		},
+		"createDocxDocumentButton": {
+			"title": "Skapa nytt DOCX-dokument"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Ladda upp och öppna dokument"
+		},
+		"documentInfoButton": {
+			"title": "Dokumentinformation..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Spara ändringar i originalfilen"
+		},
+		"downloadFileButton": {
+			"title": "Nedladdning fil"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Exportera DOCX-dokument till PDF och ladda ner PDF-fil..."
+		},
+		"printDocumentButton": {
+			"title": "Skriv ut dokument..."
+		},
+		"closeDocumentButton": {
+			"title": "Stäng dokument"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Rensa sessionscache"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Inställningar för dokumentredigerare..."
+		},
+		"copyContentButton": {
+			"title": "Kopiera innehåll"
+		},
+		"cutContentButton": {
+			"title": "Klippt innehåll"
+		},
+		"pasteContentButton": {
+			"title": "Klistra innehåll"
+		},
+		"pasteTextContentButton": {
+			"title": "Klistra in textinnehåll"
+		},
+		"increaseFontSizeButton": {
+			"title": "Öka teckenstorlek"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Minska teckenstorlek"
+		},
+		"boldTextButton": {
+			"title": "Fet"
+		},
+		"italicTextButton": {
+			"title": "Kursiv"
+		},
+		"underlineTextButton": {
+			"title": "Understruken"
+		},
+		"strikethroughTextButton": {
+			"title": "Korsad"
+		},
+		"superscriptTextButton": {
+			"title": "Upphöjd text"
+		},
+		"subscriptTextButton": {
+			"title": "Nedsänkt text"
+		},
+		"setTextColorButton": {
+			"title": "Ställ in textfärg"
+		},
+		"selectTextColorButton": {
+			"title": "Välj textfärg"
+		},
+		"setTextFillColorButton": {
+			"title": "Ställ in textfyllningsfärg"
+		},
+		"selectTextFillColorButton": {
+			"title": "Välj textfyllningsfärg"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Rensa alla formateringar"
+		},
+		"textPropertiesButton": {
+			"title": "Textegenskaper..."
+		},
+		"decreaseIndentButton": {
+			"title": "Minska indrag"
+		},
+		"increaseIndentButton": {
+			"title": "Öka indrag"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Minska indrag för första raden"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Öka indrag för första raden"
+		},
+		"bulletedListButton": {
+			"title": "Punktlista"
+		},
+		"bulletedListStylesButton": {
+			"title": "Stilar för punktlistor"
+		},
+		"numberedListButton": {
+			"title": "Numrerad lista"
+		},
+		"numberedListStylesButton": {
+			"title": "Stilar för numrerade listor"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Visa tecken som inte kan skrivas ut"
+		},
+		"alignLeftButton": {
+			"title": "Vänsterjustera"
+		},
+		"alignCenterButton": {
+			"title": "Justera centrera"
+		},
+		"alignRightButton": {
+			"title": "Högerjustera"
+		},
+		"alignBothButton": {
+			"title": "Justera båda"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Ställ in styckefyllningsfärg"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Välj styckefyllningsfärg"
+		},
+		"stylePainterButton": {
+			"title": "Stilmålare"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Egenskaper för stycke..."
+		},
+		"insertPageBreakButton": {
+			"title": "Infoga sidbrytning"
+		},
+		"createHeaderButton": {
+			"title": "Skapa/redigera sidhuvud"
+		},
+		"deleteHeaderButton": {
+			"title": "Ta bort sidhuvud"
+		},
+		"createFooterButton": {
+			"title": "Skapa/redigera sidfot"
+		},
+		"deleteFooterButton": {
+			"title": "Ta bort sidfot"
+		},
+		"changePageOrientationButton": {
+			"title": "Ändra sidorientering"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Lägg till avsnittsbrytning (nästa sida)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Lägg till avsnittsbrytning (sammanhängande)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Lägg till avsnittsbrytning (jämn sida)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Lägg till avsnittsbrytning (udda sida)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Lägg till kolumnbrytning"
+		},
+		"removeSectionBreakButton": {
+			"title": "Ta bort avsnittsbrytning"
+		},
+		"pageSettingsButton": {
+			"title": "Inställningar för dokumentsid..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Inställningar för sidkolumner..."
+		},
+		"goToFirstPageButton": {
+			"title": "Gå till första sidan"
+		},
+		"goToPreviousPageButton": {
+			"title": "Gå till föregående sida"
+		},
+		"gotoPageInput": {
+			"title": "Sida"
+		},
+		"goToNextPageButton": {
+			"title": "Gå till nästa sida"
+		},
+		"goToLastPageButton": {
+			"title": "Gå till sista sidan"
+		},
+		"viewPropertiesButton": {
+			"title": "Visa inställningar..."
+		},
+		"view_fitToPageButton": {
+			"title": "Anpassa till sidan"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Anpassa till sidans bredd"
+		},
+		"view_multiPagesButton": {
+			"title": "Flera sidor"
+		},
+		"view_onePageButton": {
+			"title": "En sida"
+		},
+		"zoomOutButton": {
+			"title": "Zooma ut"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Zooma in"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Vänster:"
+			},
+			"rightIndentationLabel": {
+				"text": "Höger:"
+			},
+			"specialIndentationLabel": {
+				"text": "Special:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Nej"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Första raden"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Hängande"
+			},
+			"byLabel": {
+				"text": "Av:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			},
+			"viewModeListLabel": {
+				"text": "Visningsläge:"
+			},
+			"Vertical": {
+				"text": "Vertikal"
+			},
+			"Horizontal": {
+				"text": "Horisontell"
+			},
+			"pagesInLineLabel": {
+				"text": "Sidor i rad/kolumn:"
+			},
+			"pagePaddingLabel": {
+				"text": "Sidfyllning (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Före:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Auto"
+			},
+			"spacingAfterLabel": {
+				"text": "Efter:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Auto"
+			},
+			"lineSpacingLabel": {
+				"text": "Radavstånd:"
+			},
+			"Scale": {
+				"text": "Skala"
+			},
+			"Exact": {
+				"text": "Exakt"
+			},
+			"AtLeast": {
+				"text": "Minst"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Lägg inte till mellanslag mellan stycken med samma stil"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Änkekontroll"
+			},
+			"keepNextLabel": {
+				"text": "Behåll nästa"
+			},
+			"keepLinesLabel": {
+				"text": "Behåll rader"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Sidbrytning före"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Teckensnitt:"
+			},
+			"fontStyleLabel": {
+				"text": "Teckensnittsstil:"
+			},
+			"Regular": {
+				"text": "Vanlig"
+			},
+			"Italic": {
+				"text": "Kursiv"
+			},
+			"Bold": {
+				"text": "Djärv"
+			},
+			"BoldItalic": {
+				"text": "Fet Kursiv stil"
+			},
+			"fontSizeLabel": {
+				"text": "Teckenstorlek:"
+			},
+			"fontColorLabel": {
+				"text": "Teckensnittsfärg:"
+			},
+			"underlineStyleLabel": {
+				"text": "Understruken text:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Stryk text:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vertikal position:"
+			},
+			"Baseline": {
+				"text": "Baslinje"
+			},
+			"Superscript": {
+				"text": "Upphöjd text"
+			},
+			"Subscript": {
+				"text": "Nedsänkt text"
+			},
+			"smallCapsLabel": {
+				"text": "Versaler"
+			},
+			"allCapsLabel": {
+				"text": "Versaler"
+			},
+			"scaleLabel": {
+				"text": "Miniatyrskala:"
+			},
+			"spacingLabel": {
+				"text": "Avstånd:"
+			},
+			"positionLabel": {
+				"text": "Position:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Flernivålista:"
+			},
+			"alignmentLabel": {
+				"text": "Justering:"
+			},
+			"Left": {
+				"text": "Vänster"
+			},
+			"Right": {
+				"text": "Höger"
+			},
+			"Center": {
+				"text": "Justera centrera"
+			},
+			"Both": {
+				"text": "Båda"
+			},
+			"lineSpacingLabel": {
+				"text": "Radavstånd:"
+			},
+			"Single": {
+				"text": "Enkel"
+			},
+			"1.15": {
+				"text": "1,15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dubbel"
+			},
+			"Triple": {
+				"text": "Trippel"
+			},
+			"Custom...": {
+				"text": "Anpassad..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Inställningar för radavstånd för stycke..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Inställningar för indrag för stycke..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Inställningar för paginering för stycke..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Titel:"
+			},
+			"subjectLabel": {
+				"text": "Ämne:"
+			},
+			"creatorLabel": {
+				"text": "Skapare:"
+			},
+			"descriptionLabel": {
+				"text": "Beskrivning:"
+			},
+			"categoryLabel": {
+				"text": "Kategori:"
+			},
+			"keywordsLabel": {
+				"text": "Nyckelord:"
+			},
+			"createdLabel": {
+				"text": "Skapad:"
+			},
+			"modifiedLabel": {
+				"text": "Ändrad:"
+			},
+			"printedLabel": {
+				"text": "Tryckt:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Senast ändrad av:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Textvalsfärg:"
+			},
+			"backgroundColorLabel": {
+				"text": "Bakgrundsfärg:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Standardenheter:"
+			},
+			"Centimeters": {
+				"text": "Centimeter"
+			},
+			"Millimeters": {
+				"text": "Millimeter"
+			},
+			"Inches": {
+				"text": "Inches"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Visa osynliga bordskanter"
+			},
+			"asyncModeLabel": {
+				"text": "Asynkront läge"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Avsnittsstart:"
+			},
+			"NextPage": {
+				"text": "Nästa sida"
+			},
+			"NextColumn": {
+				"text": "Nästa kolumn"
+			},
+			"Continuous": {
+				"text": "Kontinuerlig"
+			},
+			"EvenPage": {
+				"text": "Jämn sida"
+			},
+			"OddPage": {
+				"text": "Udda sida"
+			},
+			"pageSizeLabel": {
+				"text": "Sidstorlek:"
+			},
+			"pageOrientationLabel": {
+				"text": "Sidorientering:"
+			},
+			"Portrait": {
+				"text": "Porträtt"
+			},
+			"Landscape": {
+				"text": "Landskap"
+			},
+			"pageMarginsLabel": {
+				"text": "Sidmarginaler (cm):"
+			},
+			"leftLabel": {
+				"text": "Vänster:"
+			},
+			"rightLabel": {
+				"text": "Höger:"
+			},
+			"topLabel": {
+				"text": "Överst:"
+			},
+			"bottomLabel": {
+				"text": "Nederst:"
+			},
+			"headerLabel": {
+				"text": "Rubrik:"
+			},
+			"footerLabel": {
+				"text": "Sidfot:"
+			},
+			"gutterLabel": {
+				"text": "Ränna:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Använd en annan rubrik för första sidan"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Använd en annan rubrik för udda och jämna sidor"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Antal kolumner:"
+			},
+			"lineBetweenLabel": {
+				"text": "Linje mellan"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Bredd och avstånd"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Lika kolumnbredd"
+			},
+			"columnNumberLabel": {
+				"text": "Kolumnnummer:"
+			},
+			"widthLabel": {
+				"text": "Bredd:"
+			},
+			"spacingLabel": {
+				"text": "Avstånd:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Stäng"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Fel"
+		},
+		"closeButton": {
+			"text": "Stäng"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokumentet öppnas...",
+		"vssde-numberFormat-custom": "Anpassad",
+		"vssde-findTextPanel-textIsNotFound": "Texten '{0}' hittades inte.",
+		"vssde-selectFunctionPanel-all": "Alla",
+		"vssde-createXlsxDocument": "Skapa nytt XLSX-dokument",
+		"vssde-uploadXlsxFile": "Ladda upp XLSX-fil",
+		"vssde-downloadXlsxFile": "Ladda upp XLSX-fil",
+		"vssde-exportXlsxToPdf": "Exportera XLSX till PDF",
+		"vssde-fileSizeExceedsLimit": "Storleken på den uppladdade filen överstiger den maximala storleken ({0} byte).",
+		"vssde-error-noError": "Inget fel.",
+		"vssde-error-divisionByZero": "Alla tal (inklusive noll) eller valfri felkod delas med noll.",
+		"vssde-error-cellRefCannotBeEvaluated": "En cellreferens kan inte utvärderas eftersom värdet för cellen inte har hämtats eller beräknats.",
+		"vssde-error-valueIsNotAvailable": "Ett angivet värde är inte tillgängligt.",
+		"vssde-error-wrongName": "Det ser ut som om ett namn används men inget sådant namn har definierats.",
+		"vssde-error-twoAreasNotIntersecting": "Två områden krävs för att skära varandra men gör det inte.",
+		"vssde-error-notCorrectValue": "Ett argument till en funktion har en kompatibel typ, men har ett värde som ligger utanför den domän över vilken den funktionen är definierad.",
+		"vssde-error-cannotEvaluateCellRef": "En cellreferens kan inte utvärderas.",
+		"vssde-error-incompatibleType": "Ett argument för inkompatibel typ skickas till en funktion, eller så används en operand av inkompatibel typ med en operator.",
+		"vssde-error-unknownError": "Okänt fel.",
+		"vssde-error-externalError": "Externt fel.",
+		"vssde-uriOpen-question": "Öppna webbadressen '{0}'?",
+		"vssde-uriOpen-wrongUri": "Adressen till denna webbplats är ogiltig: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Vill du skapa en ny arbetsbok?",
+		"vsde-documentIsOpening": "Dokumentet öppnas...",
+		"vsde-createDocxDocument": "Skapa nytt DOCX-dokument",
+		"vsde-uploadDocumentFile": "Ladda ner och öppna filen",
+		"vsde-exportDocxDocumentToPdf": "Exportera DOCX-dokument till PDF",
+		"vsde-downloadFile": "Nedladdning fil",
+		"vsde-cacheIsNotCleared": "Cache rensas inte eftersom standardfilwebbtjänsten (Vintasoft.Shared.WebServiceJS.defaultFileService) inte är definierad.",
+		"vsde-uriOpen-question": "Öppna webbadressen '{0}'?",
+		"vsde-uriOpen-wrongUri": "Adressen till denna webbplats är ogiltig: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Ladda ner och öppna filen",
+		"vsdv-uploadAndAddFileButton-addFileString": "Ladda upp och lägg till fil",
+		"vsui-textSearchPanel-pageLabel": "Sida",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Bränn anteckningar",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Spara kommentarer",
+		"vsui-annotationListPanel-pageLabel": "Sida",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Anteckningsegenskaper",
+		"vsdv-openFile-addFileString": "Lägg till fil",
+		"vsdv-openFile-authenticateFileString": "Autentisera fil",
+		"vsdv-downloadFile-actionMessage": "Nedladdning fil",
+		"vsdv-saveChanges-saveChangesInImages": "Spara ändringar i bilder",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Spara ändringar i kommentarer",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Bränn kommentarer på bilder",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Ladda ner och öppna filen",
+		"vsui-uploadAndAddFileButton-addFileString": "Ladda upp och lägg till fil",
+		"vsui-openFile-addFileString": "Lägg till fil",
+		"vsui-openFile-authenticateFileString": "Autentisera fil",
+		"vsui-downloadFile-actionMessage": "Nedladdning fil",
+		"vsui-saveChanges-saveChangesInImages": "Spara ändringar i bilder",
+		"vsui-saveChanges-saveChangesInAnnotations": "Spara ändringar i kommentarer",
+		"vsui-saveChanges-burnAnnotationsInImages": "Bränn kommentarer på bilder",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Spara ändringar i PDF-dokument",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Bränn anteckningar",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Spara kommentarer",
+		"vsui-documentPasswordDialog-title": "Dokumentlösenord",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Avbryt",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentisera fil",
+		"vsui-imageSelectionDialog-title": "Välj bilder",
+		"vsui-imageSelectionDialog-currentImageString": "Aktuell bild",
+		"vsui-imageSelectionDialog-allImagesString": "Alla bilder",
+		"vsui-imageSelectionDialog-customImagesString": "Anpassad",
+		"vsui-documentLayoutSettingsDialog-title": "Inställningar för dokumentlayout",
+		"vsui-printImagesDialog-title": "Skriv ut bilder",
+		"vsui-printImagesPanel-imagePrintingString": "Bilden skrivs ut",
+		"vsui-printImagesPanel-withAnnotationsLabel": "med kommentarer",
+		"vsui-imageViewerSettingsDialog-title": "Inställningar för bildvisning",
+		"vsui-thumbnailViewerSettingDialog-title": "Inställningar för miniatyrvisning",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Visa kommentarer på miniatyrer:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Rotera kommenterad bild",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Rotationsvinkeln får inte vara 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Kommenterad bild roteras",
+		"vsui-uploadImageFromUrlDialog-title": "Ladda upp bild från URL",
+		"vsui-exportFileSettingsDialog-title": "Inställningarna för att exportera filen",
+		"vsdv-documentLayoutSettingsDialog-title": "Inställningar för dokumentlayout",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Avbryt",
+		"vsdv-uploadImageFromUrlDialog-title": "Ladda upp bild från URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Aktivera ändringshistorik",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Inaktivera ångra/gör om",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Aktivera läget 'Radergummi för kommentarer'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Inaktivera 'Annotationsraderare'",
+		"vsui-documentNavigationTool-getActions": "Få åtgärder",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Inställningar för styckeindrag",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Stäng",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Inställningar för stycke radavstånd",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Inställningar för styckepaginering",
+		"vsde-documentTextPropertiesDialog-title": "Textegenskaper",
+		"vsde-documentParagraphPropertiesDialog-title": "Styckeegenskaper",
+		"vsde-documentInfoDialog-title": "Dokumentinformation",
+		"vsde-documentEditorSettingsDialog-title": "Dokumentredigeringsinställningar",
+		"vsde-documentEditorViewSettingsDialog-title": "Visa inställningar för dokumentredigerare",
+		"vsde-documentPageSettingsDialog-title": "Inställningar för dokumentsida",
+		"vsde-documentPageColumnsSettingsDialog-title": "Inställningar för sidkolumner"
+	}
+}

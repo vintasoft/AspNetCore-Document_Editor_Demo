@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Ֆայլ"
+		},
+		"homeLabel": {
+			"text": "տուն"
+		},
+		"insertLabel": {
+			"text": "Տեղադրեք"
+		},
+		"layoutLabel": {
+			"text": "Դասավորություն"
+		},
+		"createDocxDocumentButton": {
+			"title": "Ստեղծել նոր DOCX փաստաթուղթ"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Բեռնել և բացել փաստաթուղթը"
+		},
+		"documentInfoButton": {
+			"title": "Փաստաթղթի տեղեկատվությունը..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Պահպանել փոփոխությունները սկզբնաղբյուր ֆայլում"
+		},
+		"downloadFileButton": {
+			"title": "Ներբեռնել ֆայլը"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Արտահանել DOCX փաստաթուղթը PDF ձևաչափով և ներբեռնել PDF ֆայլը..."
+		},
+		"printDocumentButton": {
+			"title": "Տպել փաստաթուղթը..."
+		},
+		"closeDocumentButton": {
+			"title": "Փակել փաստաթուղթը"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Մաքրել նստաշրջանի քեշը"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Փաստաթղթի խմբագրիչի կարգավորումները..."
+		},
+		"copyContentButton": {
+			"title": "Պատճենել բովանդակությունը"
+		},
+		"cutContentButton": {
+			"title": "Կտրել բովանդակությունը"
+		},
+		"pasteContentButton": {
+			"title": "Կպցնել բովանդակությունը"
+		},
+		"pasteTextContentButton": {
+			"title": "Տեղադրել տեքստի բովանդակությունը"
+		},
+		"increaseFontSizeButton": {
+			"title": "Մեծացնել տառատեսակի չափը"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Նվազեցնել տառատեսակի չափը"
+		},
+		"boldTextButton": {
+			"title": "Հաստ տեքստ"
+		},
+		"italicTextButton": {
+			"title": "Շեղ տեքստ"
+		},
+		"underlineTextButton": {
+			"title": "Ընդգծի՛ր տեքստը"
+		},
+		"strikethroughTextButton": {
+			"title": "Հատված տեքստ"
+		},
+		"superscriptTextButton": {
+			"title": "Վերևի տեքստ"
+		},
+		"subscriptTextButton": {
+			"title": "Ենթագրային տեքստ"
+		},
+		"setTextColorButton": {
+			"title": "Սահմանել տեքստի գույնը"
+		},
+		"selectTextColorButton": {
+			"title": "Ընտրել տեքստի գույնը"
+		},
+		"setTextFillColorButton": {
+			"title": "Սահմանել տեքստի լրացման գույնը"
+		},
+		"selectTextFillColorButton": {
+			"title": "Ընտրել տեքստի լրացման գույնը"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Մաքրել բոլոր ձևաչափումները"
+		},
+		"textPropertiesButton": {
+			"title": "Տեքստի հատկություններ..."
+		},
+		"decreaseIndentButton": {
+			"title": "Նվազեցնել նահանջը"
+		},
+		"increaseIndentButton": {
+			"title": "Մեծացնել նահանջը"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Նվազեցնել առաջին տողի նահանջը"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Մեծացնել առաջին տողի նահանջը"
+		},
+		"bulletedListButton": {
+			"title": "Կետավոր ցուցակ"
+		},
+		"bulletedListStylesButton": {
+			"title": "Կետավոր ցուցակների ոճեր"
+		},
+		"numberedListButton": {
+			"title": "Համարակալված ցուցակ"
+		},
+		"numberedListStylesButton": {
+			"title": "Համարակալված ցուցակների ոճեր"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Ցուցադրել տպելի նիշերը"
+		},
+		"alignLeftButton": {
+			"title": "Հավասարեցնել ձախ"
+		},
+		"alignCenterButton": {
+			"title": "Կենտրոն"
+		},
+		"alignRightButton": {
+			"title": "Հավասարեցնել աջ"
+		},
+		"alignBothButton": {
+			"title": "Հավասարեցնել երկուսն էլ"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Սահմանել պարբերության լրացման գույնը"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Ընտրել պարբերության լրացման գույնը"
+		},
+		"stylePainterButton": {
+			"title": "Ոճ նկարիչ"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Պարբերության հատկությունները..."
+		},
+		"insertPageBreakButton": {
+			"title": "Տեղադրել էջի ընդմիջում"
+		},
+		"createHeaderButton": {
+			"title": "Ստեղծել/խմբագրել վերնագիր"
+		},
+		"deleteHeaderButton": {
+			"title": "Ջնջել վերնագիր"
+		},
+		"createFooterButton": {
+			"title": "Ստեղծել/խմբագրել ստորոտը"
+		},
+		"deleteFooterButton": {
+			"title": "Ջնջել ստորոտը"
+		},
+		"changePageOrientationButton": {
+			"title": "Փոխել էջի կողմնորոշումը"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Ավելացնել բաժնի ընդմիջում (Հաջորդ էջ)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Ավելացնել բաժնի ընդմիջում (Շարունակական)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Ավելացնել բաժնի ընդմիջում (Զույգ էջ)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Ավելացնել բաժնի ընդմիջում (Կենտ էջ)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Ավելացնել սյունակի ընդմիջում"
+		},
+		"removeSectionBreakButton": {
+			"title": "Հեռացնել բաժնի ընդմիջումը"
+		},
+		"pageSettingsButton": {
+			"title": "Փաստաթղթի էջի կարգավորումները..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Էջի սյուների կարգավորումները..."
+		},
+		"goToFirstPageButton": {
+			"title": "Անցնել առաջին էջին"
+		},
+		"goToPreviousPageButton": {
+			"title": "Անցնել նախորդ էջին"
+		},
+		"gotoPageInput": {
+			"title": "Էջ"
+		},
+		"goToNextPageButton": {
+			"title": "Անցնել հաջորդ էջին"
+		},
+		"goToLastPageButton": {
+			"title": "Անցնել վերջին էջին"
+		},
+		"viewPropertiesButton": {
+			"title": "Դիտել կարգավորումները..."
+		},
+		"view_fitToPageButton": {
+			"title": "Տարածել էջին"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Տարածել էջի լայնությանը"
+		},
+		"view_multiPagesButton": {
+			"title": "Բազմաթիվ էջեր"
+		},
+		"view_onePageButton": {
+			"title": "Մեկ էջ"
+		},
+		"zoomOutButton": {
+			"title": "Մանրացնել"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Խոշորացնել. մոտեցնել"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Ձախ՝"
+			},
+			"rightIndentationLabel": {
+				"text": "Աջ՝"
+			},
+			"specialIndentationLabel": {
+				"text": "Հատուկ՝"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Ոչ ոք"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Առաջին տող"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Կախված"
+			},
+			"byLabel": {
+				"text": "Ըստ՝"
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			},
+			"viewModeListLabel": {
+				"text": "Դիտման ռեժիմ՝"
+			},
+			"Vertical": {
+				"text": "Ուղղահայաց"
+			},
+			"Horizontal": {
+				"text": "Հորիզոնական"
+			},
+			"pagesInLineLabel": {
+				"text": "Էջեր տողի/սյունակի մեջ՝"
+			},
+			"pagePaddingLabel": {
+				"text": "Էջի լրացում (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Նախքան՝"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Ավտոմատ"
+			},
+			"spacingAfterLabel": {
+				"text": "Հետո՝"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Ավտոմատ"
+			},
+			"lineSpacingLabel": {
+				"text": "Տողերի միջև հեռավորությունը՝"
+			},
+			"Scale": {
+				"text": "Մասշտաբ"
+			},
+			"Exact": {
+				"text": "Ճշգրիտ"
+			},
+			"AtLeast": {
+				"text": "Առնվազն"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Մի ավելացրեք տարածություն նույն ոճի պարբերությունների միջև"
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Այրիության կառավարում"
+			},
+			"keepNextLabel": {
+				"text": "Պահպանել հաջորդը"
+			},
+			"keepLinesLabel": {
+				"text": "Պահպանել տողերը"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Էջի ընդմիջումը նախորդից"
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Տառատեսակ՝"
+			},
+			"fontStyleLabel": {
+				"text": "Տառատեսակի ոճ՝"
+			},
+			"Regular": {
+				"text": "Սովորական"
+			},
+			"Italic": {
+				"text": "Շեղ"
+			},
+			"Bold": {
+				"text": "Համարձակ"
+			},
+			"BoldItalic": {
+				"text": "Թավատառ թեքատառ"
+			},
+			"fontSizeLabel": {
+				"text": "Տառատեսակի չափ՝"
+			},
+			"fontColorLabel": {
+				"text": "Տառատեսակի գույնը՝"
+			},
+			"underlineStyleLabel": {
+				"text": "Տեքստի ընդգծում."
+			},
+			"strikeoutTypeLabel": {
+				"text": "Տեքստի գծանշում."
+			},
+			"verticalPositionLabel": {
+				"text": "Ուղղահայաց դիրք."
+			},
+			"Baseline": {
+				"text": "Հիմնական գիծ"
+			},
+			"Superscript": {
+				"text": "Վերևի ցուցիչ"
+			},
+			"Subscript": {
+				"text": "Ենթագրիչ"
+			},
+			"smallCapsLabel": {
+				"text": "Փոքր մեծատառեր"
+			},
+			"allCapsLabel": {
+				"text": "Բոլոր մեծատառերը"
+			},
+			"scaleLabel": {
+				"text": "Սանդղակ:"
+			},
+			"spacingLabel": {
+				"text": "Տարածություն."
+			},
+			"positionLabel": {
+				"text": "Դիրք."
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Բազմամակարդակ ցանկ."
+			},
+			"alignmentLabel": {
+				"text": "Հավասարեցում."
+			},
+			"Left": {
+				"text": "Ձախ"
+			},
+			"Right": {
+				"text": "Ճիշտ"
+			},
+			"Center": {
+				"text": "Կենտրոն"
+			},
+			"Both": {
+				"text": "Երկուսն էլ"
+			},
+			"lineSpacingLabel": {
+				"text": "Տողերի միջև հեռավորությունը՝"
+			},
+			"Single": {
+				"text": "Միակ"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Կրկնակի"
+			},
+			"Triple": {
+				"text": "Եռակի"
+			},
+			"Custom...": {
+				"text": "Անհատական..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Պարբերության տողերի միջև հեռավորության կարգավորումներ..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Պարբերության խորացման կարգավորումներ..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Պարբերության էջերի կարգավորումներ..."
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Վերնագիր."
+			},
+			"subjectLabel": {
+				"text": "Թեմա."
+			},
+			"creatorLabel": {
+				"text": "Ստեղծող."
+			},
+			"descriptionLabel": {
+				"text": "Նկարագրություն."
+			},
+			"categoryLabel": {
+				"text": "Կատեգորիա."
+			},
+			"keywordsLabel": {
+				"text": "Հիմնաբառեր."
+			},
+			"createdLabel": {
+				"text": "Ստեղծվել է."
+			},
+			"modifiedLabel": {
+				"text": "Փոփոխված է."
+			},
+			"printedLabel": {
+				"text": "Տպագրված:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Վերջին անգամ փոփոխվել է."
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Տեքստի ընտրության գույնը."
+			},
+			"backgroundColorLabel": {
+				"text": "Ֆոնի գույնը."
+			},
+			"defaultUnitsLabel": {
+				"text": "Կանխադրված միավորներ."
+			},
+			"Centimeters": {
+				"text": "սանտիմետրեր"
+			},
+			"Millimeters": {
+				"text": "Միլիմետրեր"
+			},
+			"Inches": {
+				"text": "դյույմներով"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Ցույց տալ սեղանի անտեսանելի եզրագծերը"
+			},
+			"asyncModeLabel": {
+				"text": "Async ռեժիմ"
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Բաժնի սկիզբը."
+			},
+			"NextPage": {
+				"text": "Հաջորդ Էջ"
+			},
+			"NextColumn": {
+				"text": "Հաջորդ սյունակ"
+			},
+			"Continuous": {
+				"text": "Շարունակական"
+			},
+			"EvenPage": {
+				"text": "Նույնիսկ Էջ"
+			},
+			"OddPage": {
+				"text": "Տարօրինակ էջ"
+			},
+			"pageSizeLabel": {
+				"text": "Էջի չափը՝"
+			},
+			"pageOrientationLabel": {
+				"text": "Էջի կողմնորոշում."
+			},
+			"Portrait": {
+				"text": "Դիմանկար"
+			},
+			"Landscape": {
+				"text": "Լանդշաֆտ"
+			},
+			"pageMarginsLabel": {
+				"text": "Էջի լուսանցքները (սմ):"
+			},
+			"leftLabel": {
+				"text": "Ձախ՝"
+			},
+			"rightLabel": {
+				"text": "Աջ:"
+			},
+			"topLabel": {
+				"text": "Վերև:"
+			},
+			"bottomLabel": {
+				"text": "Ստորին:"
+			},
+			"headerLabel": {
+				"text": "Վերնագիր:"
+			},
+			"footerLabel": {
+				"text": "Ստորագիր:"
+			},
+			"gutterLabel": {
+				"text": "Հեղեղաջր."
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Առաջին էջի համար օգտագործեք տարբեր վերնագրեր"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Տարբեր վերնագրեր օգտագործեք կենտ և զույգ էջերի համար"
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Սյունակների քանակը."
+			},
+			"lineBetweenLabel": {
+				"text": "Գիծ միջեւ"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Լայնությունը և տարածությունը"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Հավասար սյունակի լայնությունը"
+			},
+			"columnNumberLabel": {
+				"text": "Սյունակի համարը:"
+			},
+			"widthLabel": {
+				"text": "Լայնությունը:"
+			},
+			"spacingLabel": {
+				"text": "Տարածություն."
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"closeButton": {
+				"value": "փակել"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Սխալ"
+		},
+		"closeButton": {
+			"text": "փակել"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Փաստաթուղթը բացվում է...",
+		"vssde-numberFormat-custom": "Պատվերով",
+		"vssde-findTextPanel-textIsNotFound": "'{0}' տեքստը չի գտնվել:",
+		"vssde-selectFunctionPanel-all": "Բոլորը",
+		"vssde-createXlsxDocument": "Ստեղծեք նոր XLSX փաստաթուղթ",
+		"vssde-uploadXlsxFile": "Վերբեռնեք XLSX ֆայլը",
+		"vssde-downloadXlsxFile": "Ներբեռնեք XLSX ֆայլը",
+		"vssde-exportXlsxToPdf": "Արտահանել XLSX-ը PDF",
+		"vssde-fileSizeExceedsLimit": "Վերբեռնված ֆայլի չափը գերազանցում է առավելագույն չափը ({0} բայթ):",
+		"vssde-error-noError": "Սխալ չկա:",
+		"vssde-error-divisionByZero": "Ցանկացած թիվ (ներառյալ զրո) կամ ցանկացած սխալի կոդը բաժանվում է զրոյի:",
+		"vssde-error-cellRefCannotBeEvaluated": "Բջջի հղումը չի կարող գնահատվել, քանի որ բջջի արժեքը չի վերցվել կամ հաշվարկվել:",
+		"vssde-error-valueIsNotAvailable": "Նշանակված արժեքը հասանելի չէ:",
+		"vssde-error-wrongName": "Կարծես թե անուն է օգտագործվում, բայց այդպիսի անուն չի սահմանվել:",
+		"vssde-error-twoAreasNotIntersecting": "Երկու տարածք պահանջվում է հատվելու համար, բայց ոչ:",
+		"vssde-error-notCorrectValue": "Ֆունկցիայի արգումենտն ունի համատեղելի տեսակ, բայց ունի արժեք, որը դուրս է այն տիրույթից, որի վրա սահմանված է այդ գործառույթը:",
+		"vssde-error-cannotEvaluateCellRef": "Բջջի հղումը հնարավոր չէ գնահատել:",
+		"vssde-error-incompatibleType": "Անհամատեղելի տիպի արգումենտը փոխանցվում է ֆունկցիայի, կամ անհամատեղելի տիպի օպերանդն օգտագործվում է օպերատորի հետ։",
+		"vssde-error-unknownError": "Անհայտ սխալ.",
+		"vssde-error-externalError": "Արտաքին սխալ.",
+		"vssde-uriOpen-question": "Բացե՞լ '{0}' URL-ը:",
+		"vssde-uriOpen-wrongUri": "Այս կայքի հասցեն վավեր չէ՝ {0}",
+		"vssde-createXlsxDocumentConfirmation": "Ցանկանու՞մ եք ստեղծել նոր աշխատանքային գրքույկ:",
+		"vsde-documentIsOpening": "Փաստաթուղթը բացվում է...",
+		"vsde-createDocxDocument": "Ստեղծել նոր DOCX փաստաթուղթ",
+		"vsde-uploadDocumentFile": "Վերբեռնեք և բացեք ֆայլը",
+		"vsde-exportDocxDocumentToPdf": "Արտահանել DOCX փաստաթուղթը PDF",
+		"vsde-downloadFile": "Ներբեռնել ֆայլը",
+		"vsde-cacheIsNotCleared": "Քեշը չի մաքրվում, քանի որ ֆայլերի լռելյայն վեբ ծառայությունը (Vintasoft.Shared.WebServiceJS.defaultFileService) սահմանված չէ:",
+		"vsde-uriOpen-question": "Բացե՞լ '{0}' URL-ը:",
+		"vsde-uriOpen-wrongUri": "Այս կայքի հասցեն վավեր չէ՝ {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Վերբեռնեք և բացեք ֆայլը",
+		"vsdv-uploadAndAddFileButton-addFileString": "Վերբեռնեք և ավելացրեք ֆայլ",
+		"vsui-textSearchPanel-pageLabel": "Էջ",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Այրել ծանոթագրությունները",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Պահպանեք ծանոթագրությունները",
+		"vsui-annotationListPanel-pageLabel": "Էջ",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Անոտացիայի հատկություններ",
+		"vsdv-openFile-addFileString": "Ավելացնել ֆայլ",
+		"vsdv-openFile-authenticateFileString": "Նույնականացնել ֆայլը",
+		"vsdv-downloadFile-actionMessage": "Ներբեռնել ֆայլը",
+		"vsdv-saveChanges-saveChangesInImages": "Պահպանեք պատկերների փոփոխությունները",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Պահպանեք փոփոխությունները ծանոթագրություններում",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Այրել ծանոթագրությունները պատկերների վրա",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Վերբեռնեք և բացեք ֆայլը",
+		"vsui-uploadAndAddFileButton-addFileString": "Վերբեռնեք և ավելացրեք ֆայլ",
+		"vsui-openFile-addFileString": "Ավելացնել ֆայլ",
+		"vsui-openFile-authenticateFileString": "Նույնականացնել ֆայլը",
+		"vsui-downloadFile-actionMessage": "Ներբեռնել ֆայլը",
+		"vsui-saveChanges-saveChangesInImages": "Պահպանեք պատկերների փոփոխությունները",
+		"vsui-saveChanges-saveChangesInAnnotations": "Պահպանեք փոփոխությունները ծանոթագրություններում",
+		"vsui-saveChanges-burnAnnotationsInImages": "Այրել ծանոթագրությունները պատկերների վրա",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Պահպանեք փոփոխությունները PDF փաստաթղթում",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Այրել ծանոթագրությունները",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Պահպանեք ծանոթագրությունները",
+		"vsui-documentPasswordDialog-title": "Փաստաթղթի գաղտնաբառը",
+		"vsui-dialog-okButton": "լավ",
+		"vsui-dialog-cancelButton": "Չեղարկել",
+		"vsui-documentPasswordPanel-authenticateFileString": "Նույնականացնել ֆայլը",
+		"vsui-imageSelectionDialog-title": "Ընտրեք պատկերներ",
+		"vsui-imageSelectionDialog-currentImageString": "Ընթացիկ պատկեր",
+		"vsui-imageSelectionDialog-allImagesString": "Բոլոր պատկերները",
+		"vsui-imageSelectionDialog-customImagesString": "Պատվերով",
+		"vsui-documentLayoutSettingsDialog-title": "Փաստաթղթի դասավորության կարգավորումներ",
+		"vsui-printImagesDialog-title": "Տպել պատկերներ",
+		"vsui-printImagesPanel-imagePrintingString": "Պատկերը տպագրվում է",
+		"vsui-printImagesPanel-withAnnotationsLabel": "ծանոթագրություններով",
+		"vsui-imageViewerSettingsDialog-title": "Պատկերների դիտման կարգավորումներ",
+		"vsui-thumbnailViewerSettingDialog-title": "Մանրապատկերների դիտման կարգավորումներ",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Ցույց տալ ծանոթագրությունները.",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Պտտեցնել պատկերը ծանոթագրություններով",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Պտտման անկյունը պետք է լինի զրոյից ավելի:",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Պտտվող պատկեր՝ ծանոթագրություններով",
+		"vsui-uploadImageFromUrlDialog-title": "Վերբեռնեք պատկեր URL-ից",
+		"vsui-exportFileSettingsDialog-title": "Ֆայլի արտահանման կարգավորումները",
+		"vsdv-documentLayoutSettingsDialog-title": "Փաստաթղթի դասավորության կարգավորումներ",
+		"vsdv-dialog-okButton": "լավ",
+		"vsdv-dialog-cancelButton": "Չեղարկել",
+		"vsdv-uploadImageFromUrlDialog-title": "Վերբեռնեք պատկեր URL-ից",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Միացնել հետարկել/վերագործարկել",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Անջատել հետարկել/վերագործարկել",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Միացնել 'Ջնջիչ ծանոթագրությունների համար' ռեժիմը",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Անջատել 'Ծանոթագրությունների ջնջիչը'",
+		"vsui-documentNavigationTool-getActions": "Ստացեք գործողություններ",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Պարբերության նահանջի կարգավորումներ",
+		"vsde-dialog-okButton": "լավ",
+		"vsde-dialog-closeButton": "փակել",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Պարբերության տողերի տարածության կարգավորումներ",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Պարբերության էջադրման կարգավորումներ",
+		"vsde-documentTextPropertiesDialog-title": "Տեքստի հատկությունները",
+		"vsde-documentParagraphPropertiesDialog-title": "Պարբերության հատկությունները",
+		"vsde-documentInfoDialog-title": "Փաստաթղթի տեղեկատվություն",
+		"vsde-documentEditorSettingsDialog-title": "Փաստաթղթերի խմբագրի կարգավորումներ",
+		"vsde-documentEditorViewSettingsDialog-title": "Փաստաթղթերի խմբագրի դիտման կարգավորումները",
+		"vsde-documentPageSettingsDialog-title": "Փաստաթղթի էջի կարգավորումներ",
+		"vsde-documentPageColumnsSettingsDialog-title": "Էջի սյունակների կարգավորումներ"
+	}
+}

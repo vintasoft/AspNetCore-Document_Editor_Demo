@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"homeLabel": {
+			"text": "Хона"
+		},
+		"insertLabel": {
+			"text": "Ворид кунед"
+		},
+		"layoutLabel": {
+			"text": "Тарҳбандӣ"
+		},
+		"createDocxDocumentButton": {
+			"title": "Эҷоди ҳуҷҷати нави DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Боргузорӣ ва кушодани ҳуҷҷат"
+		},
+		"documentInfoButton": {
+			"title": "Маълумоти ҳуҷҷат..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Тағиротро дар файли аслӣ захира кунед"
+		},
+		"downloadFileButton": {
+			"title": "Файлро зеркашӣ кунед"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Содироти ҳуҷҷати DOCX ба PDF ва зеркашӣ кардани файли PDF..."
+		},
+		"printDocumentButton": {
+			"title": "Чоп кардани ҳуҷҷат..."
+		},
+		"closeDocumentButton": {
+			"title": "Пӯшидани ҳуҷҷат"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Тоза кардани кэши сессия"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Танзимоти муҳаррири ҳуҷҷат..."
+		},
+		"copyContentButton": {
+			"title": "Мазмуни нусхабардорӣ"
+		},
+		"cutContentButton": {
+			"title": "Мундариҷаро буред"
+		},
+		"pasteContentButton": {
+			"title": "Мазмуни часбонед"
+		},
+		"pasteTextContentButton": {
+			"title": "Часбонидани мундариҷаи матн"
+		},
+		"increaseFontSizeButton": {
+			"title": "Андозаи шрифтро зиёд кунед"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Андозаи шрифтро кам кунед"
+		},
+		"boldTextButton": {
+			"title": "Матни ғафс"
+		},
+		"italicTextButton": {
+			"title": "Матни курсив"
+		},
+		"underlineTextButton": {
+			"title": "Матнро хатто кунед"
+		},
+		"strikethroughTextButton": {
+			"title": "Матни хаткашӣ"
+		},
+		"superscriptTextButton": {
+			"title": "Матни болоӣ"
+		},
+		"subscriptTextButton": {
+			"title": "Матни зерӣ"
+		},
+		"setTextColorButton": {
+			"title": "Ранги матнро муқаррар кунед"
+		},
+		"selectTextColorButton": {
+			"title": "Ранги матнро интихоб кунед"
+		},
+		"setTextFillColorButton": {
+			"title": "Ранги пуркунии матнро муқаррар кунед"
+		},
+		"selectTextFillColorButton": {
+			"title": "Ранги пуркунии матнро интихоб кунед"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Тоза кардани ҳама форматҳо"
+		},
+		"textPropertiesButton": {
+			"title": "Хусусиятҳои матн..."
+		},
+		"decreaseIndentButton": {
+			"title": "Андозаи фосила"
+		},
+		"increaseIndentButton": {
+			"title": "Кам кардани фосила"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Кам кардани фосилаи сатри аввал"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Андозаи фосилаи сатри аввал"
+		},
+		"bulletedListButton": {
+			"title": "Рӯйхати бандшуда"
+		},
+		"bulletedListStylesButton": {
+			"title": "Услубҳо барои рӯйхатҳои бандшуда"
+		},
+		"numberedListButton": {
+			"title": "Рӯйхати рақамшуда"
+		},
+		"numberedListStylesButton": {
+			"title": "Услубҳо барои рӯйхатҳои рақамшуда"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Нишон додани аломатҳои чопнашаванда"
+		},
+		"alignLeftButton": {
+			"title": "Ба чап рост кунед"
+		},
+		"alignCenterButton": {
+			"title": "Марказ"
+		},
+		"alignRightButton": {
+			"title": "Ба рост мувофиқат кунед"
+		},
+		"alignBothButton": {
+			"title": "Ҳардуро ҳамоҳанг кунед"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Ранги пуркунии параграфро муқаррар кунед"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Ранги пуркунии параграфро интихоб кунед"
+		},
+		"stylePainterButton": {
+			"title": "Рассоми услуб"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Хусусиятҳои параграф..."
+		},
+		"insertPageBreakButton": {
+			"title": "Ворид кардани рахи саҳифа"
+		},
+		"createHeaderButton": {
+			"title": "Эҷод/таҳрири сарлавҳа"
+		},
+		"deleteHeaderButton": {
+			"title": "Нест кардани сарлавҳа"
+		},
+		"createFooterButton": {
+			"title": "Эҷод/таҳрири поёни саҳифа"
+		},
+		"deleteFooterButton": {
+			"title": "Нест кардани поёни саҳифа"
+		},
+		"changePageOrientationButton": {
+			"title": "Тағйир додани самти саҳифа"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Иловаи рахи бахш (Саҳифаи оянда)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Иловаи рахи бахш (Идома)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Иловаи рахи бахш (Саҳифаи ҷуфт)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Иловаи рахи бахш (Саҳифаи тоқ)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Иловаи рахи сутун"
+		},
+		"removeSectionBreakButton": {
+			"title": "Нест кардани рахи бахш"
+		},
+		"pageSettingsButton": {
+			"title": "Танзимоти саҳифаи ҳуҷҷат..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Танзимоти сутунҳои саҳифа..."
+		},
+		"goToFirstPageButton": {
+			"title": "Ба саҳифаи аввал равед"
+		},
+		"goToPreviousPageButton": {
+			"title": "Ба саҳифаи қаблӣ равед"
+		},
+		"gotoPageInput": {
+			"title": "Саҳифа"
+		},
+		"goToNextPageButton": {
+			"title": "Ба саҳифаи оянда равед"
+		},
+		"goToLastPageButton": {
+			"title": "Ба саҳифаи охир равед"
+		},
+		"viewPropertiesButton": {
+			"title": "Танзимотро бинед..."
+		},
+		"view_fitToPageButton": {
+			"title": "Мувофиқ ба саҳифа"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Мувофиқ ба паҳнои саҳифа"
+		},
+		"view_multiPagesButton": {
+			"title": "Саҳифаҳои сершумор"
+		},
+		"view_onePageButton": {
+			"title": "Як саҳифа"
+		},
+		"zoomOutButton": {
+			"title": "Масоҳат кардан"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Масштаб кардан"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Чап:"
+			},
+			"rightIndentationLabel": {
+				"text": "Рост:"
+			},
+			"specialIndentationLabel": {
+				"text": "Махсус:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Ҳеҷ"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Сатри аввал"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Овезон"
+			},
+			"byLabel": {
+				"text": "Аз рӯи:"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			},
+			"viewModeListLabel": {
+				"text": "Ҳолати намоиш:"
+			},
+			"Vertical": {
+				"text": "Амудӣ"
+			},
+			"Horizontal": {
+				"text": "Уфуқӣ"
+			},
+			"pagesInLineLabel": {
+				"text": "Саҳифаҳо дар сатр/сутун:"
+			},
+			"pagePaddingLabel": {
+				"text": "Ҷойгиркунии саҳифа (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Пеш:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Автоматӣ"
+			},
+			"spacingAfterLabel": {
+				"text": "Баъд:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Автоматӣ"
+			},
+			"lineSpacingLabel": {
+				"text": "Фоизи сатрҳо:"
+			},
+			"Scale": {
+				"text": "Миқёс"
+			},
+			"Exact": {
+				"text": "Дақиқ"
+			},
+			"AtLeast": {
+				"text": "Ҳадди ақал"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Байни параграфҳои як услуб фосила илова накунед"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Идоракунии бевазан"
+			},
+			"keepNextLabel": {
+				"text": "Нигоҳ доштани навбатӣ"
+			},
+			"keepLinesLabel": {
+				"text": "Нигоҳ доштани сатрҳо"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Қисмати саҳифа пеш аз"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Шрифт:"
+			},
+			"fontStyleLabel": {
+				"text": "Услуби шрифт:"
+			},
+			"Regular": {
+				"text": "Муқаррарӣ"
+			},
+			"Italic": {
+				"text": "Курсив"
+			},
+			"Bold": {
+				"text": "Далер"
+			},
+			"BoldItalic": {
+				"text": "Қаблӣ курсив"
+			},
+			"fontSizeLabel": {
+				"text": "Андозаи шрифт:"
+			},
+			"fontColorLabel": {
+				"text": "Ранги шрифт:"
+			},
+			"underlineStyleLabel": {
+				"text": "Матни зерхат:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Матни хаткашӣ:"
+			},
+			"verticalPositionLabel": {
+				"text": "Мавқеи амудӣ:"
+			},
+			"Baseline": {
+				"text": "Хати асосӣ"
+			},
+			"Superscript": {
+				"text": "Суроға"
+			},
+			"Subscript": {
+				"text": "Суроға"
+			},
+			"smallCapsLabel": {
+				"text": "Ҳарфҳои калон"
+			},
+			"allCapsLabel": {
+				"text": "Ҳама калон"
+			},
+			"scaleLabel": {
+				"text": "Миқёс:"
+			},
+			"spacingLabel": {
+				"text": "Фосила:"
+			},
+			"positionLabel": {
+				"text": "Мавқеъ:"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Рӯйхати бисёрсатҳӣ:"
+			},
+			"alignmentLabel": {
+				"text": "Ҳамоҳангсозӣ:"
+			},
+			"Left": {
+				"text": "Чап"
+			},
+			"Right": {
+				"text": "Дуруст"
+			},
+			"Center": {
+				"text": "Марказ"
+			},
+			"Both": {
+				"text": "Ҳарду"
+			},
+			"lineSpacingLabel": {
+				"text": "Фоизи сатрҳо:"
+			},
+			"Single": {
+				"text": "Як"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Дукарата"
+			},
+			"Triple": {
+				"text": "Секарата"
+			},
+			"Custom...": {
+				"text": "Фармоишӣ..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Танзимоти фосилаи сатрҳои параграф..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Танзимоти фосилаи параграф..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Танзимоти саҳифабандии параграф..."
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Унвон:"
+			},
+			"subjectLabel": {
+				"text": "Мавзӯъ:"
+			},
+			"creatorLabel": {
+				"text": "Офаранда:"
+			},
+			"descriptionLabel": {
+				"text": "Тавсиф:"
+			},
+			"categoryLabel": {
+				"text": "Категория:"
+			},
+			"keywordsLabel": {
+				"text": "Калимаҳои калидӣ:"
+			},
+			"createdLabel": {
+				"text": "Эҷодшуда:"
+			},
+			"modifiedLabel": {
+				"text": "Тағйир дода шудааст:"
+			},
+			"printedLabel": {
+				"text": "Чоп карда шуд:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Охирин тағйирот аз ҷониби:"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Ранги интихоби матн:"
+			},
+			"backgroundColorLabel": {
+				"text": "Ранги пасзамина:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Воҳидҳои пешфарз:"
+			},
+			"Centimeters": {
+				"text": "Сантиметр"
+			},
+			"Millimeters": {
+				"text": "Миллиметр"
+			},
+			"Inches": {
+				"text": "инч"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Нишон додани сарҳадҳои ноаёни ҷадвал"
+			},
+			"asyncModeLabel": {
+				"text": "Ҳолати асинхронӣ"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Оғози бахш:"
+			},
+			"NextPage": {
+				"text": "Саҳифаи навбатӣ"
+			},
+			"NextColumn": {
+				"text": "Сутуни навбатӣ"
+			},
+			"Continuous": {
+				"text": "Идомавӣ"
+			},
+			"EvenPage": {
+				"text": "Саҳифаи ҷуфт"
+			},
+			"OddPage": {
+				"text": "Саҳифаи тоқ"
+			},
+			"pageSizeLabel": {
+				"text": "Андозаи саҳифа:"
+			},
+			"pageOrientationLabel": {
+				"text": "Самтгирии саҳифа:"
+			},
+			"Portrait": {
+				"text": "Портретӣ"
+			},
+			"Landscape": {
+				"text": "Манзара"
+			},
+			"pageMarginsLabel": {
+				"text": "Ҳудуди саҳифа (см):"
+			},
+			"leftLabel": {
+				"text": "Чап:"
+			},
+			"rightLabel": {
+				"text": "Рост:"
+			},
+			"topLabel": {
+				"text": "Боло:"
+			},
+			"bottomLabel": {
+				"text": "Поён:"
+			},
+			"headerLabel": {
+				"text": "Сарлавҳа:"
+			},
+			"footerLabel": {
+				"text": "Пойгоҳ:"
+			},
+			"gutterLabel": {
+				"text": "Навба:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Барои саҳифаи аввал сарлавҳаи гуногунро истифода баред"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Барои саҳифаҳои тоқ ва ҷуфт сарлавҳаи гуногунро истифода баред"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Шумораи сутунҳо:"
+			},
+			"lineBetweenLabel": {
+				"text": "Хатри байни"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Паҳноӣ ва фосила"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Паҳнои баробари сутун"
+			},
+			"columnNumberLabel": {
+				"text": "Рақами сутун:"
+			},
+			"widthLabel": {
+				"text": "Бар:"
+			},
+			"spacingLabel": {
+				"text": "Фосила:"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"closeButton": {
+				"value": "Пӯшед"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Хатогӣ"
+		},
+		"closeButton": {
+			"text": "Пӯшед"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Ҳуҷҷат кушода мешавад...",
+		"vssde-numberFormat-custom": "Фармоишгар",
+		"vssde-findTextPanel-textIsNotFound": "Матни '{0}' ёфт нашуд.",
+		"vssde-selectFunctionPanel-all": "Ҳама",
+		"vssde-createXlsxDocument": "Ҳуҷҷати нави XLSX эҷод кунед",
+		"vssde-uploadXlsxFile": "Файли XLSX-ро бор кунед",
+		"vssde-downloadXlsxFile": "Файли XLSX-ро зеркашӣ кунед",
+		"vssde-exportXlsxToPdf": "Содироти XLSX ба PDF",
+		"vssde-fileSizeExceedsLimit": "Андозаи файли боршуда аз андозаи ҳадди аксар ({0} байт) зиёд аст.",
+		"vssde-error-noError": "Хато нест.",
+		"vssde-error-divisionByZero": "Ҳама рақам (аз ҷумла сифр) ё ягон рамзи хато ба сифр тақсим карда мешавад.",
+		"vssde-error-cellRefCannotBeEvaluated": "Истиноди чашмакро арзёбӣ кардан мумкин нест, зеро арзиши ячейка гирифта ё ҳисоб карда нашудааст.",
+		"vssde-error-valueIsNotAvailable": "Арзиши таъиншуда дастрас нест.",
+		"vssde-error-wrongName": "Чунин ба назар мерасад, ки ном истифода мешавад, аммо чунин ном муайян нашудааст.",
+		"vssde-error-twoAreasNotIntersecting": "Ду минтақа бояд бурида шаванд, аммо не.",
+		"vssde-error-notCorrectValue": "Аргумент ба функсия дорои навъи мувофиқ аст, аммо дорои арзишест, ки берун аз домене, ки бар он ин функсия муайян шудааст, мебошад.",
+		"vssde-error-cannotEvaluateCellRef": "Истиноди ячейкаро арзёбӣ кардан мумкин нест.",
+		"vssde-error-incompatibleType": "Аргументи навъи номувофиқ ба функсия интиқол дода мешавад ё операнди навъи номувофиқ бо оператор истифода мешавад.",
+		"vssde-error-unknownError": "Хатогии номаълум.",
+		"vssde-error-externalError": "Хатогии беруна.",
+		"vssde-uriOpen-question": "URL-и '{0}' кушоед?",
+		"vssde-uriOpen-wrongUri": "Суроғаи ин сайт дуруст нест: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Оё шумо мехоҳед китоби нави корӣ эҷод кунед?",
+		"vsde-documentIsOpening": "Ҳуҷҷат кушода мешавад...",
+		"vsde-createDocxDocument": "Эҷоди ҳуҷҷати нави DOCX",
+		"vsde-uploadDocumentFile": "Файлро бор кунед ва кушоед",
+		"vsde-exportDocxDocumentToPdf": "Содироти ҳуҷҷати DOCX ба PDF",
+		"vsde-downloadFile": "Файлро зеркашӣ кунед",
+		"vsde-cacheIsNotCleared": "Кэш тоза карда намешавад, зеро хидмати пешфарзии веби файл (Vintasoft.Shared.WebServiceJS.defaultFileService) муайян нашудааст.",
+		"vsde-uriOpen-question": "URL-и '{0}' кушоед?",
+		"vsde-uriOpen-wrongUri": "Суроғаи ин сайт дуруст нест: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Файлро бор кунед ва кушоед",
+		"vsdv-uploadAndAddFileButton-addFileString": "Файлро бор кунед ва илова кунед",
+		"vsui-textSearchPanel-pageLabel": "Саҳифа",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Аннотацияҳоро сӯзондан",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Эзоҳҳоро захира кунед",
+		"vsui-annotationListPanel-pageLabel": "Саҳифа",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Хусусиятҳои эзоҳ",
+		"vsdv-openFile-addFileString": "Илова кардани файл",
+		"vsdv-openFile-authenticateFileString": "Файлро тасдиқ кунед",
+		"vsdv-downloadFile-actionMessage": "Файлро зеркашӣ кунед",
+		"vsdv-saveChanges-saveChangesInImages": "Тағиротро дар тасвирҳо захира кунед",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Тағиротро дар шарҳҳо захира кунед",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Аннотацияҳоро дар тасвирҳо сӯзонед",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Файлро бор кунед ва кушоед",
+		"vsui-uploadAndAddFileButton-addFileString": "Файлро бор кунед ва илова кунед",
+		"vsui-openFile-addFileString": "Илова кардани файл",
+		"vsui-openFile-authenticateFileString": "Файлро тасдиқ кунед",
+		"vsui-downloadFile-actionMessage": "Файлро зеркашӣ кунед",
+		"vsui-saveChanges-saveChangesInImages": "Тағиротро дар тасвирҳо захира кунед",
+		"vsui-saveChanges-saveChangesInAnnotations": "Тағиротро дар шарҳҳо захира кунед",
+		"vsui-saveChanges-burnAnnotationsInImages": "Аннотацияҳоро дар тасвирҳо сӯзонед",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Тағиротро дар ҳуҷҷати PDF захира кунед",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Аннотацияҳоро сӯзондан",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Эзоҳҳоро захира кунед",
+		"vsui-documentPasswordDialog-title": "Пароли ҳуҷҷат",
+		"vsui-dialog-okButton": "ДУРУСТ",
+		"vsui-dialog-cancelButton": "Бекор кардан",
+		"vsui-documentPasswordPanel-authenticateFileString": "Файлро тасдиқ кунед",
+		"vsui-imageSelectionDialog-title": "Тасвирҳоро интихоб кунед",
+		"vsui-imageSelectionDialog-currentImageString": "Тасвири ҷорӣ",
+		"vsui-imageSelectionDialog-allImagesString": "Ҳама тасвирҳо",
+		"vsui-imageSelectionDialog-customImagesString": "Фармоишгар",
+		"vsui-documentLayoutSettingsDialog-title": "Танзимоти тарҳбандии ҳуҷҷат",
+		"vsui-printImagesDialog-title": "Тасвирҳоро чоп кунед",
+		"vsui-printImagesPanel-imagePrintingString": "Тасвир чоп мешавад",
+		"vsui-printImagesPanel-withAnnotationsLabel": "бо эзоҳҳо",
+		"vsui-imageViewerSettingsDialog-title": "Танзимоти намоишгари тасвир",
+		"vsui-thumbnailViewerSettingDialog-title": "Танзимоти намоишгари ангора",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Нишон додани эзоҳҳо:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Тасвирро бо эзоҳҳо гардиш кунед",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Кунҷи гардиш бояд аз сифр зиёд бошад.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Тасвирро даврзананда бо эзоҳҳо",
+		"vsui-uploadImageFromUrlDialog-title": "Тасвирро аз URL бор кунед",
+		"vsui-exportFileSettingsDialog-title": "Танзимот барои содироти файл",
+		"vsdv-documentLayoutSettingsDialog-title": "Танзимоти тарҳбандии ҳуҷҷат",
+		"vsdv-dialog-okButton": "ДУРУСТ",
+		"vsdv-dialog-cancelButton": "Бекор кардан",
+		"vsdv-uploadImageFromUrlDialog-title": "Тасвирро аз URL бор кунед",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Барқарор/бозкоркуниро фаъол созед",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Бекор кардан/бозор карданро хомӯш кунед",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Ҳолати мутақобиларо фаъол созед 'Расзер барои эзоҳҳо'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Хомӯш кардани 'Хафкунаки эзоҳ'",
+		"vsui-documentNavigationTool-getActions": "Амалҳо гиред",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Танзимоти фосилаи параграфҳо",
+		"vsde-dialog-okButton": "ДУРУСТ",
+		"vsde-dialog-closeButton": "Пӯшед",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Танзимоти фосилаи сатрҳои параграфҳо",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Танзимоти саҳифабандии параграфҳо",
+		"vsde-documentTextPropertiesDialog-title": "Хусусиятҳои матн",
+		"vsde-documentParagraphPropertiesDialog-title": "Хусусиятҳои параграфҳо",
+		"vsde-documentInfoDialog-title": "Маълумоти ҳуҷҷатҳо",
+		"vsde-documentEditorSettingsDialog-title": "Танзимоти муҳаррири ҳуҷҷатҳо",
+		"vsde-documentEditorViewSettingsDialog-title": "Танзимоти намоиши муҳаррири ҳуҷҷатҳо",
+		"vsde-documentPageSettingsDialog-title": "Танзимоти саҳифаи ҳуҷҷатҳо",
+		"vsde-documentPageColumnsSettingsDialog-title": "Танзимоти сутунҳои саҳифаҳо"
+	}
+}

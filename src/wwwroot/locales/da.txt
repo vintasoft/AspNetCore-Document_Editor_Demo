@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fil"
+		},
+		"homeLabel": {
+			"text": "Hoved"
+		},
+		"insertLabel": {
+			"text": "Indsæt"
+		},
+		"layoutLabel": {
+			"text": "Layout"
+		},
+		"createDocxDocumentButton": {
+			"title": "Opret nyt DOCX-dokument"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Upload og åbn dokument"
+		},
+		"documentInfoButton": {
+			"title": "Dokumentoplysninger..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Gem ændringer i kildefilen"
+		},
+		"downloadFileButton": {
+			"title": "Download fil"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Eksporter DOCX-dokument til PDF og download PDF-fil..."
+		},
+		"printDocumentButton": {
+			"title": "Udskriv dokument..."
+		},
+		"closeDocumentButton": {
+			"title": "Luk dokument"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Ryd sessionscache"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Indstillinger for dokumentredigering..."
+		},
+		"copyContentButton": {
+			"title": "Kopiér indhold"
+		},
+		"cutContentButton": {
+			"title": "Klip indhold"
+		},
+		"pasteContentButton": {
+			"title": "Indsæt indhold"
+		},
+		"pasteTextContentButton": {
+			"title": "Indsæt tekstindhold"
+		},
+		"increaseFontSizeButton": {
+			"title": "Øg skriftstørrelse"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Reducer skriftstørrelse"
+		},
+		"boldTextButton": {
+			"title": "Fed"
+		},
+		"italicTextButton": {
+			"title": "Kursiv"
+		},
+		"underlineTextButton": {
+			"title": "Understreget"
+		},
+		"strikethroughTextButton": {
+			"title": "Kryddet"
+		},
+		"superscriptTextButton": {
+			"title": "Høj skrift"
+		},
+		"subscriptTextButton": {
+			"title": "Sænket tekst"
+		},
+		"setTextColorButton": {
+			"title": "Indstil tekstfarven"
+		},
+		"selectTextColorButton": {
+			"title": "Vælg tekstfarven"
+		},
+		"setTextFillColorButton": {
+			"title": "Indstil tekstfyldfarven"
+		},
+		"selectTextFillColorButton": {
+			"title": "Vælg tekstfyldfarven"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Ryd alle formateringer"
+		},
+		"textPropertiesButton": {
+			"title": "Tekstegenskaber..."
+		},
+		"decreaseIndentButton": {
+			"title": "Reducer indrykning"
+		},
+		"increaseIndentButton": {
+			"title": "Øg indrykning"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Reducer indrykning af første linje"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Øg indrykning af første linje"
+		},
+		"bulletedListButton": {
+			"title": "Punktliste"
+		},
+		"bulletedListStylesButton": {
+			"title": "Typer til punktlister"
+		},
+		"numberedListButton": {
+			"title": "Nummereret liste"
+		},
+		"numberedListStylesButton": {
+			"title": "Typer til nummererede lister"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Vis ikke-udskrivbare tegn"
+		},
+		"alignLeftButton": {
+			"title": "Juster til venstre"
+		},
+		"alignCenterButton": {
+			"title": "Juster center"
+		},
+		"alignRightButton": {
+			"title": "Juster til højre"
+		},
+		"alignBothButton": {
+			"title": "Juster begge"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Indstil afsnitfyldfarven"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Vælg afsnitfyldfarven"
+		},
+		"stylePainterButton": {
+			"title": "Stilmaler"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Afsnitsegenskaber..."
+		},
+		"insertPageBreakButton": {
+			"title": "Indsæt sideskift"
+		},
+		"createHeaderButton": {
+			"title": "Opret/rediger overskrift"
+		},
+		"deleteHeaderButton": {
+			"title": "Slet overskrift"
+		},
+		"createFooterButton": {
+			"title": "Opret/rediger sidefod"
+		},
+		"deleteFooterButton": {
+			"title": "Slet sidefod"
+		},
+		"changePageOrientationButton": {
+			"title": "Ændr sideretning"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Tilføj sektionsskift (Næste side)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Tilføj sektionsskift (Fortløbende)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Tilføj sektionsskift (Lige side)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Tilføj sektionsskift (Ulige side)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Tilføj kolonneskift"
+		},
+		"removeSectionBreakButton": {
+			"title": "Fjern sektionsskift"
+		},
+		"pageSettingsButton": {
+			"title": "Indstillinger for dokumentside..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Indstillinger for sidekolonner..."
+		},
+		"goToFirstPageButton": {
+			"title": "Gå til den første side"
+		},
+		"goToPreviousPageButton": {
+			"title": "Gå til den forrige side"
+		},
+		"gotoPageInput": {
+			"title": "Side"
+		},
+		"goToNextPageButton": {
+			"title": "Gå til den næste side"
+		},
+		"goToLastPageButton": {
+			"title": "Gå til den sidste side"
+		},
+		"viewPropertiesButton": {
+			"title": "Vis indstillinger..."
+		},
+		"view_fitToPageButton": {
+			"title": "Tilpas til siden"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Tilpas til sidebredden"
+		},
+		"view_multiPagesButton": {
+			"title": "Flere sider"
+		},
+		"view_onePageButton": {
+			"title": "En side"
+		},
+		"zoomOutButton": {
+			"title": "Zoom ud"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Zoom ind"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Venstre:"
+			},
+			"rightIndentationLabel": {
+				"text": "Højre:"
+			},
+			"specialIndentationLabel": {
+				"text": "Special:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Nej"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Første linje"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Hængende"
+			},
+			"byLabel": {
+				"text": "Efter:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			},
+			"viewModeListLabel": {
+				"text": "Visningstilstand:"
+			},
+			"Vertical": {
+				"text": "Lodret"
+			},
+			"Horizontal": {
+				"text": "Horisontal"
+			},
+			"pagesInLineLabel": {
+				"text": "Sider i linje/kolonne:"
+			},
+			"pagePaddingLabel": {
+				"text": "Sidepolstring (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Før:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Auto"
+			},
+			"spacingAfterLabel": {
+				"text": "Efter:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Auto"
+			},
+			"lineSpacingLabel": {
+				"text": "Linjeafstand:"
+			},
+			"Scale": {
+				"text": "Skalering"
+			},
+			"Exact": {
+				"text": "Nøjagtig"
+			},
+			"AtLeast": {
+				"text": "Mindst"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Tilføj ikke mellemrum mellem afsnit med samme stil"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Enkekontrol"
+			},
+			"keepNextLabel": {
+				"text": "Behold næste"
+			},
+			"keepLinesLabel": {
+				"text": "Behold linjer"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Sideskift før"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Skrifttype:"
+			},
+			"fontStyleLabel": {
+				"text": "Skrifttypestil:"
+			},
+			"Regular": {
+				"text": "Almindelig"
+			},
+			"Italic": {
+				"text": "Kursiv"
+			},
+			"Bold": {
+				"text": "Dristig"
+			},
+			"BoldItalic": {
+				"text": "Fed Kursiv"
+			},
+			"fontSizeLabel": {
+				"text": "Skriftstørrelse:"
+			},
+			"fontColorLabel": {
+				"text": "Skriftfarve:"
+			},
+			"underlineStyleLabel": {
+				"text": "Understreg tekst:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Udstreget tekst:"
+			},
+			"verticalPositionLabel": {
+				"text": "Lodret position:"
+			},
+			"Baseline": {
+				"text": "Grundlinje"
+			},
+			"Superscript": {
+				"text": "Højt skrift"
+			},
+			"Subscript": {
+				"text": "Sænket skrift"
+			},
+			"smallCapsLabel": {
+				"text": "Små bogstaver"
+			},
+			"allCapsLabel": {
+				"text": "Kun store bogstaver"
+			},
+			"scaleLabel": {
+				"text": "Miniatureskala:"
+			},
+			"spacingLabel": {
+				"text": "Afstand:"
+			},
+			"positionLabel": {
+				"text": "Position:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Liste med flere niveauer:"
+			},
+			"alignmentLabel": {
+				"text": "Justering:"
+			},
+			"Left": {
+				"text": "Venstre"
+			},
+			"Right": {
+				"text": "Ret"
+			},
+			"Center": {
+				"text": "Juster center"
+			},
+			"Both": {
+				"text": "Begge"
+			},
+			"lineSpacingLabel": {
+				"text": "Linjeafstand:"
+			},
+			"Single": {
+				"text": "Enkelt"
+			},
+			"1.15": {
+				"text": "1,15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dobbelt"
+			},
+			"Triple": {
+				"text": "Tredobbelt"
+			},
+			"Custom...": {
+				"text": "Brugerdefineret..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Indstillinger for linjeafstand i afsnit..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Indrykningsindstillinger for afsnit..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Indstillinger for sideopdeling i afsnit..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Titel:"
+			},
+			"subjectLabel": {
+				"text": "Emne:"
+			},
+			"creatorLabel": {
+				"text": "Opretter:"
+			},
+			"descriptionLabel": {
+				"text": "Beskrivelse:"
+			},
+			"categoryLabel": {
+				"text": "Kategori:"
+			},
+			"keywordsLabel": {
+				"text": "Nøgleord:"
+			},
+			"createdLabel": {
+				"text": "Oprettet:"
+			},
+			"modifiedLabel": {
+				"text": "Ændret:"
+			},
+			"printedLabel": {
+				"text": "Trykt:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Sidst ændret af:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Tekstvalgfarve:"
+			},
+			"backgroundColorLabel": {
+				"text": "Baggrundsfarve:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Standardenheder:"
+			},
+			"Centimeters": {
+				"text": "Centimeter"
+			},
+			"Millimeters": {
+				"text": "Millimeter"
+			},
+			"Inches": {
+				"text": "Tommer"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Vis usynlige bordkanter"
+			},
+			"asyncModeLabel": {
+				"text": "Asynkron tilstand"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Afsnit start:"
+			},
+			"NextPage": {
+				"text": "Næste Side"
+			},
+			"NextColumn": {
+				"text": "Næste kolonne"
+			},
+			"Continuous": {
+				"text": "Kontinuerlig"
+			},
+			"EvenPage": {
+				"text": "Lige side"
+			},
+			"OddPage": {
+				"text": "Ulige side"
+			},
+			"pageSizeLabel": {
+				"text": "Sidestørrelse:"
+			},
+			"pageOrientationLabel": {
+				"text": "Sideorientering:"
+			},
+			"Portrait": {
+				"text": "Portræt"
+			},
+			"Landscape": {
+				"text": "Landskab"
+			},
+			"pageMarginsLabel": {
+				"text": "Sidemargener (cm):"
+			},
+			"leftLabel": {
+				"text": "Venstre:"
+			},
+			"rightLabel": {
+				"text": "Til højre:"
+			},
+			"topLabel": {
+				"text": "[EN]"
+			},
+			"bottomLabel": {
+				"text": "Nederst:"
+			},
+			"headerLabel": {
+				"text": "Overskrift:"
+			},
+			"footerLabel": {
+				"text": "Sidefod:"
+			},
+			"gutterLabel": {
+				"text": "Tagrende:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Brug en anden overskrift til første side"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Brug en anden overskrift til lige og ulige sider"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Kolonneantal:"
+			},
+			"lineBetweenLabel": {
+				"text": "Linje mellem"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Bredde og afstand"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Lige kolonnebredde"
+			},
+			"columnNumberLabel": {
+				"text": "Kolonnenummer:"
+			},
+			"widthLabel": {
+				"text": "Bredde:"
+			},
+			"spacingLabel": {
+				"text": "Afstand:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Luk"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Fejl"
+		},
+		"closeButton": {
+			"text": "Luk"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokument åbner...",
+		"vssde-numberFormat-custom": "Brugerdefineret",
+		"vssde-findTextPanel-textIsNotFound": "Teksten '{0}' blev ikke fundet.",
+		"vssde-selectFunctionPanel-all": "Alle",
+		"vssde-createXlsxDocument": "Opret nyt XLSX-dokument",
+		"vssde-uploadXlsxFile": "Upload XLSX-fil",
+		"vssde-downloadXlsxFile": "Upload XLSX-fil",
+		"vssde-exportXlsxToPdf": "Eksporter XLSX til PDF",
+		"vssde-fileSizeExceedsLimit": "Størrelsen på den uploadede fil overstiger den maksimale størrelse ({0} bytes).",
+		"vssde-error-noError": "Ingen fejl.",
+		"vssde-error-divisionByZero": "Ethvert tal (inklusive nul) eller enhver fejlkode divideres med nul.",
+		"vssde-error-cellRefCannotBeEvaluated": "En cellereference kan ikke evalueres, fordi værdien for cellen ikke er blevet hentet eller beregnet.",
+		"vssde-error-valueIsNotAvailable": "En angivet værdi er ikke tilgængelig.",
+		"vssde-error-wrongName": "Det ser ud til, at der er brugt et navn, men et sådant navn er ikke defineret.",
+		"vssde-error-twoAreasNotIntersecting": "To områder er påkrævet for at krydse hinanden, men gør det ikke.",
+		"vssde-error-notCorrectValue": "Et argument til en funktion har en kompatibel type, men har en værdi, der er uden for det domæne, som denne funktion er defineret over.",
+		"vssde-error-cannotEvaluateCellRef": "En cellereference kan ikke evalueres.",
+		"vssde-error-incompatibleType": "Et inkompatibelt typeargument sendes til en funktion, eller en inkompatibel typeoperand bruges sammen med en operator.",
+		"vssde-error-unknownError": "Ukendt fejl.",
+		"vssde-error-externalError": "Ekstern fejl.",
+		"vssde-uriOpen-question": "Vil du åbne URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Adressen på dette websted er ikke gyldig: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Vil du oprette en ny projektmappe?",
+		"vsde-documentIsOpening": "Dokument åbner...",
+		"vsde-createDocxDocument": "Opret nyt DOCX-dokument",
+		"vsde-uploadDocumentFile": "Download og åbn fil",
+		"vsde-exportDocxDocumentToPdf": "Eksporter DOCX-dokument til PDF",
+		"vsde-downloadFile": "Download fil",
+		"vsde-cacheIsNotCleared": "Cachen er ikke ryddet, fordi standardfilwebtjenesten (Vintasoft.Shared.WebServiceJS.defaultFileService) ikke er defineret.",
+		"vsde-uriOpen-question": "Vil du åbne URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Adressen på dette websted er ikke gyldig: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Download og åbn fil",
+		"vsdv-uploadAndAddFileButton-addFileString": "Upload og tilføj fil",
+		"vsui-textSearchPanel-pageLabel": "Side",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Brænd annoteringer",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Gem annoteringer",
+		"vsui-annotationListPanel-pageLabel": "Side",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Annoteringsegenskaber",
+		"vsdv-openFile-addFileString": "Tilføj fil",
+		"vsdv-openFile-authenticateFileString": "Godkend fil",
+		"vsdv-downloadFile-actionMessage": "Download fil",
+		"vsdv-saveChanges-saveChangesInImages": "Gem ændringer i billeder",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Gem ændringer i annoteringer",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Brænd annoteringer på billeder",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Download og åbn fil",
+		"vsui-uploadAndAddFileButton-addFileString": "Upload og tilføj fil",
+		"vsui-openFile-addFileString": "Tilføj fil",
+		"vsui-openFile-authenticateFileString": "Godkend fil",
+		"vsui-downloadFile-actionMessage": "Download fil",
+		"vsui-saveChanges-saveChangesInImages": "Gem ændringer i billeder",
+		"vsui-saveChanges-saveChangesInAnnotations": "Gem ændringer i annoteringer",
+		"vsui-saveChanges-burnAnnotationsInImages": "Brænd annoteringer på billeder",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Gem ændringer i PDF-dokument",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Brænd annoteringer",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Gem annoteringer",
+		"vsui-documentPasswordDialog-title": "Dokumentadgangskode",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Annuller",
+		"vsui-documentPasswordPanel-authenticateFileString": "Godkend fil",
+		"vsui-imageSelectionDialog-title": "Vælg billeder",
+		"vsui-imageSelectionDialog-currentImageString": "Aktuelt billede",
+		"vsui-imageSelectionDialog-allImagesString": "Alle billeder",
+		"vsui-imageSelectionDialog-customImagesString": "Brugerdefineret",
+		"vsui-documentLayoutSettingsDialog-title": "Indstillinger for dokumentlayout",
+		"vsui-printImagesDialog-title": "Udskriv billeder",
+		"vsui-printImagesPanel-imagePrintingString": "Billedet udskrives",
+		"vsui-printImagesPanel-withAnnotationsLabel": "med anmærkninger",
+		"vsui-imageViewerSettingsDialog-title": "Indstillinger for billedfremviser",
+		"vsui-thumbnailViewerSettingDialog-title": "Indstillinger for miniaturefremviser",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Vis annoteringer på miniaturebilleder:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Roter kommenteret billede",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Rotationsvinklen må ikke være 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Kommenteret billede bliver roteret",
+		"vsui-uploadImageFromUrlDialog-title": "Upload billede fra URL",
+		"vsui-exportFileSettingsDialog-title": "Indstillingerne for at eksportere fil",
+		"vsdv-documentLayoutSettingsDialog-title": "Indstillinger for dokumentlayout",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Annuller",
+		"vsdv-uploadImageFromUrlDialog-title": "Upload billede fra URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Aktiver ændringshistorik",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Deaktiver fortryd/gentag",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Aktiver 'Viskelæder for annoteringer'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Deaktiver 'Annotations viskelæder'",
+		"vsui-documentNavigationTool-getActions": "Få handlinger",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Indstillinger for afsnitindrykning",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Luk",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Indstillinger for linjeafstand i afsnit",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Indstillinger for afsnitssideopdeling",
+		"vsde-documentTextPropertiesDialog-title": "Tekstegenskaber",
+		"vsde-documentParagraphPropertiesDialog-title": "Afsnitegenskaber",
+		"vsde-documentInfoDialog-title": "Dokumentoplysninger",
+		"vsde-documentEditorSettingsDialog-title": "Indstillinger for dokumenteditor",
+		"vsde-documentEditorViewSettingsDialog-title": "Visningsindstillinger for dokumenteditor",
+		"vsde-documentPageSettingsDialog-title": "Sideindstillinger for dokument",
+		"vsde-documentPageColumnsSettingsDialog-title": "Sidekolonnerindstillinger"
+	}
+}

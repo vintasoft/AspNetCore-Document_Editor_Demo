@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Failas"
+		},
+		"homeLabel": {
+			"text": "Namai"
+		},
+		"insertLabel": {
+			"text": "Įdėti"
+		},
+		"layoutLabel": {
+			"text": "Maketas"
+		},
+		"createDocxDocumentButton": {
+			"title": "Sukurti naują DOCX dokumentą"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Įkelti ir atidaryti dokumentą"
+		},
+		"documentInfoButton": {
+			"title": "Dokumento informacija..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Įrašyti pakeitimus šaltinio faile"
+		},
+		"downloadFileButton": {
+			"title": "Atsisiųsti failą"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Eksportuoti DOCX dokumentą į PDF ir atsisiųsti PDF failą..."
+		},
+		"printDocumentButton": {
+			"title": "Spausdinti dokumentą..."
+		},
+		"closeDocumentButton": {
+			"title": "Uždaryti dokumentą"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Išvalyti seanso talpyklą"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Dokumentų redaktoriaus nustatymai..."
+		},
+		"copyContentButton": {
+			"title": "Kopijuoti turinį"
+		},
+		"cutContentButton": {
+			"title": "Iškirpti turinį"
+		},
+		"pasteContentButton": {
+			"title": "Įklijuokite turinį"
+		},
+		"pasteTextContentButton": {
+			"title": "Įklijuoti teksto turinį"
+		},
+		"increaseFontSizeButton": {
+			"title": "Padidinti šrifto dydį"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Sumažinti šrifto dydį"
+		},
+		"boldTextButton": {
+			"title": "Paryškintas tekstas"
+		},
+		"italicTextButton": {
+			"title": "Kursyvas tekstas"
+		},
+		"underlineTextButton": {
+			"title": "Pabraukite tekstą"
+		},
+		"strikethroughTextButton": {
+			"title": "Perbrauktas tekstas"
+		},
+		"superscriptTextButton": {
+			"title": "Viršutinio indekso tekstas"
+		},
+		"subscriptTextButton": {
+			"title": "Apatinio indekso tekstas"
+		},
+		"setTextColorButton": {
+			"title": "Nustatyti teksto spalvą"
+		},
+		"selectTextColorButton": {
+			"title": "Pasirinkti teksto spalvą"
+		},
+		"setTextFillColorButton": {
+			"title": "Nustatyti teksto užpildymo spalvą"
+		},
+		"selectTextFillColorButton": {
+			"title": "Pasirinkti teksto užpildymo spalvą"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Išvalyti visus formatavimus"
+		},
+		"textPropertiesButton": {
+			"title": "Teksto ypatybės..."
+		},
+		"decreaseIndentButton": {
+			"title": "Sumažinti įtrauką"
+		},
+		"increaseIndentButton": {
+			"title": "Padidinti įtrauką"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Sumažinti pirmos eilutės įtrauką"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Padidinti pirmos eilutės įtrauką"
+		},
+		"bulletedListButton": {
+			"title": "Sąrašas su ženkleliais"
+		},
+		"bulletedListStylesButton": {
+			"title": "Sąrašų su ženkleliais stiliai"
+		},
+		"numberedListButton": {
+			"title": "Numeruotas sąrašas"
+		},
+		"numberedListStylesButton": {
+			"title": "Numeruotų sąrašų stiliai"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Rodyti nespausdinamus simbolius"
+		},
+		"alignLeftButton": {
+			"title": "Lygiuoti į kairę"
+		},
+		"alignCenterButton": {
+			"title": "centras"
+		},
+		"alignRightButton": {
+			"title": "Sulygiuoti į dešinę"
+		},
+		"alignBothButton": {
+			"title": "Sulygiuoti abu"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Nustatyti pastraipos užpildymo spalvą"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Pasirinkti pastraipos užpildymo spalvą"
+		},
+		"stylePainterButton": {
+			"title": "Stiliaus tapytojas"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Pastraipos ypatybės..."
+		},
+		"insertPageBreakButton": {
+			"title": "Įterpti puslapio lūžį"
+		},
+		"createHeaderButton": {
+			"title": "Sukurti / redaguoti antraštę"
+		},
+		"deleteHeaderButton": {
+			"title": "Ištrinti antraštę"
+		},
+		"createFooterButton": {
+			"title": "Sukurti / redaguoti poraštę"
+		},
+		"deleteFooterButton": {
+			"title": "Ištrinti poraštę"
+		},
+		"changePageOrientationButton": {
+			"title": "Keisti puslapio orientaciją"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Pridėti skyriaus lūžį (kitas puslapis)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Pridėti skyriaus lūžį (tęstinis)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Pridėti skyriaus lūžį (lyginis puslapis)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Pridėti skyriaus lūžį (nelyginis puslapis)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Pridėti stulpelio lūžį"
+		},
+		"removeSectionBreakButton": {
+			"title": "Pašalinti skyriaus lūžį"
+		},
+		"pageSettingsButton": {
+			"title": "Dokumento puslapio nustatymai..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Puslapio stulpelių nustatymai..."
+		},
+		"goToFirstPageButton": {
+			"title": "Grįžti į pirmą puslapį"
+		},
+		"goToPreviousPageButton": {
+			"title": "Grįžti į ankstesnį puslapį"
+		},
+		"gotoPageInput": {
+			"title": "Puslapis"
+		},
+		"goToNextPageButton": {
+			"title": "Grįžti į kitą puslapį"
+		},
+		"goToLastPageButton": {
+			"title": "Grįžti į paskutinį puslapį"
+		},
+		"viewPropertiesButton": {
+			"title": "Peržiūrėti nustatymus..."
+		},
+		"view_fitToPageButton": {
+			"title": "Pritaikyti puslapiui"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Pritaikyti puslapio pločiui"
+		},
+		"view_multiPagesButton": {
+			"title": "Keli puslapiai"
+		},
+		"view_onePageButton": {
+			"title": "Vienas puslapis"
+		},
+		"zoomOutButton": {
+			"title": "Nutolinti"
+		},
+		"zoomValueLabel": {
+			"text": "100 %"
+		},
+		"zoomInButton": {
+			"title": "Priartinti"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Kairėje:"
+			},
+			"rightIndentationLabel": {
+				"text": "Dešinėje:"
+			},
+			"specialIndentationLabel": {
+				"text": "Specialiai:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Nė vienas"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Pirma eilutė"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Kabantis"
+			},
+			"byLabel": {
+				"text": "Prieš:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			},
+			"viewModeListLabel": {
+				"text": "Rodymo režimas:"
+			},
+			"Vertical": {
+				"text": "Vertikalus"
+			},
+			"Horizontal": {
+				"text": "Horizontaliai"
+			},
+			"pagesInLineLabel": {
+				"text": "Puslapiai eilutėje/stulpelyje:"
+			},
+			"pagePaddingLabel": {
+				"text": "Puslapio užpildymas (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Prieš:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automatinis"
+			},
+			"spacingAfterLabel": {
+				"text": "Po:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automatinis"
+			},
+			"lineSpacingLabel": {
+				"text": "Eilučių tarpai:"
+			},
+			"Scale": {
+				"text": "Mastelis"
+			},
+			"Exact": {
+				"text": "Tikslus"
+			},
+			"AtLeast": {
+				"text": "Bent"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Nepridėti tarpo tarp to paties stiliaus pastraipų"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Lauko valdiklis"
+			},
+			"keepNextLabel": {
+				"text": "Išsaugoti kitą"
+			},
+			"keepLinesLabel": {
+				"text": "Išsaugoti eilutes"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Puslapio lūžis prieš"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Šriftas:"
+			},
+			"fontStyleLabel": {
+				"text": "Šrifto stilius:"
+			},
+			"Regular": {
+				"text": "Įprastas"
+			},
+			"Italic": {
+				"text": "Kursyvas"
+			},
+			"Bold": {
+				"text": "Paryškintas"
+			},
+			"BoldItalic": {
+				"text": "Paryškintas kursyvas"
+			},
+			"fontSizeLabel": {
+				"text": "Šrifto dydis:"
+			},
+			"fontColorLabel": {
+				"text": "Šrifto spalva:"
+			},
+			"underlineStyleLabel": {
+				"text": "Pabrauktas tekstas:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Perbrauktas tekstas:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vertikali pozicija:"
+			},
+			"Baseline": {
+				"text": "Bazinė linija"
+			},
+			"Superscript": {
+				"text": "Viršutinis indeksas"
+			},
+			"Subscript": {
+				"text": "Apatinis indeksas"
+			},
+			"smallCapsLabel": {
+				"text": "Mažosios didžiosios raidės"
+			},
+			"allCapsLabel": {
+				"text": "Visos didžiosios raidės"
+			},
+			"scaleLabel": {
+				"text": "Skalė:"
+			},
+			"spacingLabel": {
+				"text": "Tarpai:"
+			},
+			"positionLabel": {
+				"text": "Pozicija:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Daugiapakopis sąrašas:"
+			},
+			"alignmentLabel": {
+				"text": "Lygiavimas:"
+			},
+			"Left": {
+				"text": "Kairė"
+			},
+			"Right": {
+				"text": "Teisingai"
+			},
+			"Center": {
+				"text": "centras"
+			},
+			"Both": {
+				"text": "Abu"
+			},
+			"lineSpacingLabel": {
+				"text": "Eilučių tarpai:"
+			},
+			"Single": {
+				"text": "Vienas"
+			},
+			"1.15": {
+				"text": "1,15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dvigubas"
+			},
+			"Triple": {
+				"text": "Trigubas"
+			},
+			"Custom...": {
+				"text": "Pasirinktinis..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Pastraipos eilutės tarpo nustatymai..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Pastraipos įtraukos nustatymai..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Pastraipos puslapiavimo nustatymai..."
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Pavadinimas:"
+			},
+			"subjectLabel": {
+				"text": "Tema:"
+			},
+			"creatorLabel": {
+				"text": "Kūrėjas:"
+			},
+			"descriptionLabel": {
+				"text": "Aprašymas:"
+			},
+			"categoryLabel": {
+				"text": "Kategorija:"
+			},
+			"keywordsLabel": {
+				"text": "Raktiniai žodžiai:"
+			},
+			"createdLabel": {
+				"text": "Sukurta:"
+			},
+			"modifiedLabel": {
+				"text": "Modifikuota:"
+			},
+			"printedLabel": {
+				"text": "Išspausdinta:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Paskutinį kartą modifikavo:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Teksto pasirinkimo spalva:"
+			},
+			"backgroundColorLabel": {
+				"text": "Fono spalva:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Numatytieji vienetai:"
+			},
+			"Centimeters": {
+				"text": "centimetrai"
+			},
+			"Millimeters": {
+				"text": "Milimetrai"
+			},
+			"Inches": {
+				"text": "Colių"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Rodyti nematomas lentelės ribas"
+			},
+			"asyncModeLabel": {
+				"text": "Asinchroninis režimas"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Skyriaus pradžia:"
+			},
+			"NextPage": {
+				"text": "Kitas Puslapis"
+			},
+			"NextColumn": {
+				"text": "KitasStulpelis"
+			},
+			"Continuous": {
+				"text": "Nuolatinis"
+			},
+			"EvenPage": {
+				"text": "Net Puslapis"
+			},
+			"OddPage": {
+				"text": "Nelyginis puslapis"
+			},
+			"pageSizeLabel": {
+				"text": "Puslapio dydis:"
+			},
+			"pageOrientationLabel": {
+				"text": "Puslapio orientacija:"
+			},
+			"Portrait": {
+				"text": "Portretas"
+			},
+			"Landscape": {
+				"text": "Peizažas"
+			},
+			"pageMarginsLabel": {
+				"text": "Puslapio paraštės (cm):"
+			},
+			"leftLabel": {
+				"text": "Kairė:"
+			},
+			"rightLabel": {
+				"text": "Teisingai:"
+			},
+			"topLabel": {
+				"text": "Į viršų:"
+			},
+			"bottomLabel": {
+				"text": "Apačia:"
+			},
+			"headerLabel": {
+				"text": "Antraštė:"
+			},
+			"footerLabel": {
+				"text": "Poraštė:"
+			},
+			"gutterLabel": {
+				"text": "Latakas:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Pirmame puslapyje naudokite kitą antraštę"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Naudokite skirtingą antraštę nelyginiams ir lyginiams puslapiams"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Stulpelių skaičius:"
+			},
+			"lineBetweenLabel": {
+				"text": "Linija tarp"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Plotis ir tarpai"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Vienodo stulpelio plotis"
+			},
+			"columnNumberLabel": {
+				"text": "Stulpelio numeris:"
+			},
+			"widthLabel": {
+				"text": "Plotis:"
+			},
+			"spacingLabel": {
+				"text": "Tarpai:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"closeButton": {
+				"value": "Uždaryti"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Klaida"
+		},
+		"closeButton": {
+			"text": "Uždaryti"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokumentas atidaromas...",
+		"vssde-numberFormat-custom": "Pasirinktinis",
+		"vssde-findTextPanel-textIsNotFound": "Tekstas '{0}' nerastas.",
+		"vssde-selectFunctionPanel-all": "Visi",
+		"vssde-createXlsxDocument": "Sukurkite naują XLSX dokumentą",
+		"vssde-uploadXlsxFile": "Įkelti XLSX failą",
+		"vssde-downloadXlsxFile": "Atsisiųskite XLSX failą",
+		"vssde-exportXlsxToPdf": "Eksportuokite XLSX į PDF",
+		"vssde-fileSizeExceedsLimit": "Įkelto failo dydis viršija maksimalų dydį ({0} baitai).",
+		"vssde-error-noError": "Jokios klaidos.",
+		"vssde-error-divisionByZero": "Bet koks skaičius (įskaitant nulį) arba bet koks klaidos kodas yra padalintas iš nulio.",
+		"vssde-error-cellRefCannotBeEvaluated": "Neįmanoma įvertinti langelio nuorodos, nes langelio reikšmė nebuvo nuskaityta arba apskaičiuota.",
+		"vssde-error-valueIsNotAvailable": "Nurodyta vertė nepasiekiama.",
+		"vssde-error-wrongName": "Atrodo, kad naudojamas vardas, bet toks pavadinimas nebuvo apibrėžtas.",
+		"vssde-error-twoAreasNotIntersecting": "Dvi sritys turi susikirsti, bet ne.",
+		"vssde-error-notCorrectValue": "Funkcijos argumentas yra suderinamo tipo, bet jo reikšmė yra už domeno, kuriame ta funkcija apibrėžta, ribų.",
+		"vssde-error-cannotEvaluateCellRef": "Ląstelės nuoroda negali būti įvertinta.",
+		"vssde-error-incompatibleType": "Nesuderinamo tipo argumentas perduodamas funkcijai arba su operatoriumi naudojamas nesuderinamas tipo operandas.",
+		"vssde-error-unknownError": "Nežinoma klaida.",
+		"vssde-error-externalError": "Išorinė klaida.",
+		"vssde-uriOpen-question": "Atidaryti URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Šios svetainės adresas neteisingas: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Ar norite sukurti naują darbaknygę?",
+		"vsde-documentIsOpening": "Dokumentas atidaromas...",
+		"vsde-createDocxDocument": "Sukurti naują DOCX dokumentą",
+		"vsde-uploadDocumentFile": "Įkelti ir atidaryti failą",
+		"vsde-exportDocxDocumentToPdf": "Eksportuokite DOCX dokumentą į PDF",
+		"vsde-downloadFile": "Atsisiųsti failą",
+		"vsde-cacheIsNotCleared": "Talpykla neišvalyta, nes numatytoji failo žiniatinklio paslauga (Vintasoft.Shared.WebServiceJS.defaultFileService) neapibrėžta.",
+		"vsde-uriOpen-question": "Atidaryti URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Šios svetainės adresas neteisingas: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Įkelti ir atidaryti failą",
+		"vsdv-uploadAndAddFileButton-addFileString": "Įkelti ir pridėti failą",
+		"vsui-textSearchPanel-pageLabel": "Puslapis",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Įrašyti komentarus",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Išsaugoti komentarus",
+		"vsui-annotationListPanel-pageLabel": "Puslapis",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Anotacijos ypatybės",
+		"vsdv-openFile-addFileString": "Pridėti failą",
+		"vsdv-openFile-authenticateFileString": "Autentifikuoti failą",
+		"vsdv-downloadFile-actionMessage": "Atsisiųsti failą",
+		"vsdv-saveChanges-saveChangesInImages": "Išsaugokite vaizdų pakeitimus",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Išsaugokite komentarų pakeitimus",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Įrašykite komentarus ant vaizdų",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Įkelti ir atidaryti failą",
+		"vsui-uploadAndAddFileButton-addFileString": "Įkelti ir pridėti failą",
+		"vsui-openFile-addFileString": "Pridėti failą",
+		"vsui-openFile-authenticateFileString": "Autentifikuoti failą",
+		"vsui-downloadFile-actionMessage": "Atsisiųsti failą",
+		"vsui-saveChanges-saveChangesInImages": "Išsaugokite vaizdų pakeitimus",
+		"vsui-saveChanges-saveChangesInAnnotations": "Išsaugokite komentarų pakeitimus",
+		"vsui-saveChanges-burnAnnotationsInImages": "Įrašykite komentarus ant vaizdų",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Išsaugokite pakeitimus PDF dokumente",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Įrašyti komentarus",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Išsaugoti komentarus",
+		"vsui-documentPasswordDialog-title": "Dokumento slaptažodis",
+		"vsui-dialog-okButton": "Gerai",
+		"vsui-dialog-cancelButton": "Atšaukti",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentifikuoti failą",
+		"vsui-imageSelectionDialog-title": "Pasirinkite vaizdus",
+		"vsui-imageSelectionDialog-currentImageString": "Dabartinis vaizdas",
+		"vsui-imageSelectionDialog-allImagesString": "Visi vaizdai",
+		"vsui-imageSelectionDialog-customImagesString": "Pasirinktinis",
+		"vsui-documentLayoutSettingsDialog-title": "Dokumento maketavimo nustatymai",
+		"vsui-printImagesDialog-title": "Spausdinti vaizdus",
+		"vsui-printImagesPanel-imagePrintingString": "Vaizdas spausdinamas",
+		"vsui-printImagesPanel-withAnnotationsLabel": "su anotacijomis",
+		"vsui-imageViewerSettingsDialog-title": "Vaizdų peržiūros programos nustatymai",
+		"vsui-thumbnailViewerSettingDialog-title": "Miniatiūrų peržiūros priemonės nustatymai",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Rodyti komentarus:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Pasukite vaizdą su komentarais",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Sukimosi kampas turi būti didesnis nei nulis.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Sukamasis vaizdas su komentarais",
+		"vsui-uploadImageFromUrlDialog-title": "Įkelti vaizdą iš URL",
+		"vsui-exportFileSettingsDialog-title": "Failo eksporto nustatymai",
+		"vsdv-documentLayoutSettingsDialog-title": "Dokumento maketavimo nustatymai",
+		"vsdv-dialog-okButton": "Gerai",
+		"vsdv-dialog-cancelButton": "Atšaukti",
+		"vsdv-uploadImageFromUrlDialog-title": "Įkelti vaizdą iš URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Įgalinti anuliuoti / perdaryti",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Išjungti anuliavimą / perdarymą",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Įjungti režimą 'Komentarų trintukas'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Išjungti 'Komentarų trintuką'",
+		"vsui-documentNavigationTool-getActions": "Gaukite veiksmų",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Pastraipos įtraukos nustatymai",
+		"vsde-dialog-okButton": "Gerai",
+		"vsde-dialog-closeButton": "Uždaryti",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Pastraipos tarpų eilučių nustatymai",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Pastraipų puslapių skyrimo nustatymai",
+		"vsde-documentTextPropertiesDialog-title": "Teksto savybės",
+		"vsde-documentParagraphPropertiesDialog-title": "Pastraipos savybės",
+		"vsde-documentInfoDialog-title": "Dokumento informacija",
+		"vsde-documentEditorSettingsDialog-title": "Dokumentų rengyklės nustatymai",
+		"vsde-documentEditorViewSettingsDialog-title": "Dokumentų rengyklės peržiūros nustatymai",
+		"vsde-documentPageSettingsDialog-title": "Dokumento puslapio nustatymai",
+		"vsde-documentPageColumnsSettingsDialog-title": "Puslapio stulpelių nustatymai"
+	}
+}

@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fayl"
+		},
+		"homeLabel": {
+			"text": "Uy"
+		},
+		"insertLabel": {
+			"text": "Kiritmoq"
+		},
+		"layoutLabel": {
+			"text": "Joylashtirish"
+		},
+		"createDocxDocumentButton": {
+			"title": "Yangi DOCX hujjatini yaratish"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Hujjatni yuklash va ochish"
+		},
+		"documentInfoButton": {
+			"title": "Hujjat haqida ma'lumot..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "O'zgarishlarni asl faylga saqlang"
+		},
+		"downloadFileButton": {
+			"title": "Faylni yuklab oling"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX hujjatini PDF formatiga eksport qilish va PDF faylini yuklab olish..."
+		},
+		"printDocumentButton": {
+			"title": "Hujjatni chop etish..."
+		},
+		"closeDocumentButton": {
+			"title": "Hujjatni yopish"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Seans keshini tozalash"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Hujjat muharriri sozlamalari..."
+		},
+		"copyContentButton": {
+			"title": "Tarkibni nusxalash"
+		},
+		"cutContentButton": {
+			"title": "Tarkibni kesish"
+		},
+		"pasteContentButton": {
+			"title": "Tarkibni joylashtirish"
+		},
+		"pasteTextContentButton": {
+			"title": "Matn tarkibini joylashtirish"
+		},
+		"increaseFontSizeButton": {
+			"title": "Shrift o'lchamini oshirish"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Shrift o'lchamini kamaytirish"
+		},
+		"boldTextButton": {
+			"title": "Qalin matn"
+		},
+		"italicTextButton": {
+			"title": "Kursiv matn"
+		},
+		"underlineTextButton": {
+			"title": "Matnni tagiga chizish"
+		},
+		"strikethroughTextButton": {
+			"title": "Chizilgan matn"
+		},
+		"superscriptTextButton": {
+			"title": "Ustki yozuv matni"
+		},
+		"subscriptTextButton": {
+			"title": "Ostki yozuv matni"
+		},
+		"setTextColorButton": {
+			"title": "Matn rangini o'rnating"
+		},
+		"selectTextColorButton": {
+			"title": "Matn rangini tanlang"
+		},
+		"setTextFillColorButton": {
+			"title": "Matnni to'ldirish rangini o'rnating"
+		},
+		"selectTextFillColorButton": {
+			"title": "Matnni to'ldirish rangini tanlang"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Barcha formatlashlarni tozalash"
+		},
+		"textPropertiesButton": {
+			"title": "Matn xususiyatlari..."
+		},
+		"decreaseIndentButton": {
+			"title": "Chuqurchani kamaytirish"
+		},
+		"increaseIndentButton": {
+			"title": "Chuqurchani oshirish"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Birinchi qatordagi chuqurchani kamaytirish"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Birinchi qatordagi chuqurchani oshirish"
+		},
+		"bulletedListButton": {
+			"title": "Belgilangan ro'yxat"
+		},
+		"bulletedListStylesButton": {
+			"title": "Belgilangan ro'yxatlar uchun uslublar"
+		},
+		"numberedListButton": {
+			"title": "Raqamlangan ro'yxat"
+		},
+		"numberedListStylesButton": {
+			"title": "Raqamlangan ro'yxatlar uchun uslublar"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Chop etilmaydigan belgilarni ko'rsatish"
+		},
+		"alignLeftButton": {
+			"title": "Chapga tekislang"
+		},
+		"alignCenterButton": {
+			"title": "Markaz"
+		},
+		"alignRightButton": {
+			"title": "O'ngga tekislang"
+		},
+		"alignBothButton": {
+			"title": "Ikkalasini ham tekislash"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Xatboshi to'ldirish rangini o'rnating"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Xatboshi to'ldirish rangini tanlang"
+		},
+		"stylePainterButton": {
+			"title": "Uslub rassomi"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Partografiya xususiyatlari..."
+		},
+		"insertPageBreakButton": {
+			"title": "Sahifa oralig'ini qo'shish"
+		},
+		"createHeaderButton": {
+			"title": "Sarlavha yaratish/tahrirlash"
+		},
+		"deleteHeaderButton": {
+			"title": "Sarlavhani o'chirish"
+		},
+		"createFooterButton": {
+			"title": "Altbilgi yaratish/tahrirlash"
+		},
+		"deleteFooterButton": {
+			"title": "Altbilgini o'chirish"
+		},
+		"changePageOrientationButton": {
+			"title": "Sahifa yo'nalishini o'zgartirish"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Bo'lim oralig'ini qo'shish (Keyingi sahifa)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Bo'lim oralig'ini qo'shish (Davomli)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Bo'lim oralig'ini qo'shish (Juft sahifa)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Bo'lim oralig'ini qo'shish (Toq sahifa)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Ustun oralig'ini qo'shish"
+		},
+		"removeSectionBreakButton": {
+			"title": "Bo'lim oralig'ini olib tashlash"
+		},
+		"pageSettingsButton": {
+			"title": "Hujjat sahifasi sozlamalari..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Sahifa ustunlari sozlamalari..."
+		},
+		"goToFirstPageButton": {
+			"title": "Birinchi sahifaga o'tish"
+		},
+		"goToPreviousPageButton": {
+			"title": "Oldingi sahifaga o'tish"
+		},
+		"gotoPageInput": {
+			"title": "Sahifa"
+		},
+		"goToNextPageButton": {
+			"title": "Keyingi sahifaga o'tish"
+		},
+		"goToLastPageButton": {
+			"title": "Oxirgi sahifaga o'tish"
+		},
+		"viewPropertiesButton": {
+			"title": "Sozlamalarni ko'rish..."
+		},
+		"view_fitToPageButton": {
+			"title": "Sahifaga moslashtirish"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Sahifa kengligiga moslashtirish"
+		},
+		"view_multiPagesButton": {
+			"title": "Bir nechta sahifalar"
+		},
+		"view_onePageButton": {
+			"title": "Bir sahifa"
+		},
+		"zoomOutButton": {
+			"title": "Kichraytirish"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Kattalashtirish"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Chap:"
+			},
+			"rightIndentationLabel": {
+				"text": "O'ng:"
+			},
+			"specialIndentationLabel": {
+				"text": "Maxsus:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Yo'q"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Birinchi qator"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Osilib turish"
+			},
+			"byLabel": {
+				"text": "Muallif:"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			},
+			"viewModeListLabel": {
+				"text": "Ko'rish rejimi:"
+			},
+			"Vertical": {
+				"text": "Vertikal"
+			},
+			"Horizontal": {
+				"text": "Gorizontal"
+			},
+			"pagesInLineLabel": {
+				"text": "Qator/ustundagi sahifalar:"
+			},
+			"pagePaddingLabel": {
+				"text": "Sahifa to'ldirilishi (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Oldin:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Avtomatik"
+			},
+			"spacingAfterLabel": {
+				"text": "Keyin:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Avtomatik"
+			},
+			"lineSpacingLabel": {
+				"text": "Qator oralig'i:"
+			},
+			"Scale": {
+				"text": "Masshtab"
+			},
+			"Exact": {
+				"text": "Aniq"
+			},
+			"AtLeast": {
+				"text": "Hech bo'lmaganda"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Bir xil uslubdagi paragraflar orasiga bo'sh joy qo'shmang"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Bol boshqaruvi"
+			},
+			"keepNextLabel": {
+				"text": "Keyingisini saqlash"
+			},
+			"keepLinesLabel": {
+				"text": "Qatorlarni saqlash"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Sahifa oralig'i oldingisidan oldin"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Shrift:"
+			},
+			"fontStyleLabel": {
+				"text": "Shrift uslubi:"
+			},
+			"Regular": {
+				"text": "Oddiy"
+			},
+			"Italic": {
+				"text": "Kursiv"
+			},
+			"Bold": {
+				"text": "Qalin"
+			},
+			"BoldItalic": {
+				"text": "Qalin kursiv"
+			},
+			"fontSizeLabel": {
+				"text": "Shrift o'lchami:"
+			},
+			"fontColorLabel": {
+				"text": "Shrift rangi:"
+			},
+			"underlineStyleLabel": {
+				"text": "Matn ostiga chizilgan:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Chizilgan matn:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vertikal holat:"
+			},
+			"Baseline": {
+				"text": "Asosiy chiziq"
+			},
+			"Superscript": {
+				"text": "Ustki indeks"
+			},
+			"Subscript": {
+				"text": "Osti indeks"
+			},
+			"smallCapsLabel": {
+				"text": "Kichik harflar bilan yozilgan"
+			},
+			"allCapsLabel": {
+				"text": "Barcha katta harflar bilan yozilgan"
+			},
+			"scaleLabel": {
+				"text": "Masshtab:"
+			},
+			"spacingLabel": {
+				"text": "Oraliq:"
+			},
+			"positionLabel": {
+				"text": "Pozitsiya:"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Ko'p darajali ro'yxat:"
+			},
+			"alignmentLabel": {
+				"text": "Tekislash:"
+			},
+			"Left": {
+				"text": "Chapga"
+			},
+			"Right": {
+				"text": "To'g'ri"
+			},
+			"Center": {
+				"text": "Markaz"
+			},
+			"Both": {
+				"text": "Ikkala"
+			},
+			"lineSpacingLabel": {
+				"text": "Qator oralig'i:"
+			},
+			"Single": {
+				"text": "Yagona"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Ikki"
+			},
+			"Triple": {
+				"text": "Uch karra"
+			},
+			"Custom...": {
+				"text": "Maxsus..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Abzas qator oralig'i sozlamalari..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Abzas chertish sozlamalari..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Abzas sahifalash sozlamalari..."
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Sarlavha:"
+			},
+			"subjectLabel": {
+				"text": "Mavzu:"
+			},
+			"creatorLabel": {
+				"text": "Yaratgan:"
+			},
+			"descriptionLabel": {
+				"text": "Tavsif:"
+			},
+			"categoryLabel": {
+				"text": "Kategoriya:"
+			},
+			"keywordsLabel": {
+				"text": "Kalit so'zlar:"
+			},
+			"createdLabel": {
+				"text": "Yaratilgan:"
+			},
+			"modifiedLabel": {
+				"text": "O'zgartirilgan:"
+			},
+			"printedLabel": {
+				"text": "Chop etilgan:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Oxirgi marta o'zgartirgan:"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Matn tanlash rangi:"
+			},
+			"backgroundColorLabel": {
+				"text": "Fon rangi:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Standart birliklar:"
+			},
+			"Centimeters": {
+				"text": "Santimetr"
+			},
+			"Millimeters": {
+				"text": "Millimetr"
+			},
+			"Inches": {
+				"text": "dyuym"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Ko'rinmas jadval chegaralarini ko'rsatish"
+			},
+			"asyncModeLabel": {
+				"text": "Asinxron rejim"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Bo'lim boshlanishi:"
+			},
+			"NextPage": {
+				"text": "Keyingi sahifa"
+			},
+			"NextColumn": {
+				"text": "Keyingi ustun"
+			},
+			"Continuous": {
+				"text": "Uzluksiz"
+			},
+			"EvenPage": {
+				"text": "Juft sahifa"
+			},
+			"OddPage": {
+				"text": "Toq sahifa"
+			},
+			"pageSizeLabel": {
+				"text": "Sahifa hajmi:"
+			},
+			"pageOrientationLabel": {
+				"text": "Sahifa yo'nalishi:"
+			},
+			"Portrait": {
+				"text": "Portret"
+			},
+			"Landscape": {
+				"text": "Landshaft"
+			},
+			"pageMarginsLabel": {
+				"text": "Sahifa chegaralari (sm):"
+			},
+			"leftLabel": {
+				"text": "Chap:"
+			},
+			"rightLabel": {
+				"text": "O'ng:"
+			},
+			"topLabel": {
+				"text": "Yuqori:"
+			},
+			"bottomLabel": {
+				"text": "Pastki:"
+			},
+			"headerLabel": {
+				"text": "Sarlavha:"
+			},
+			"footerLabel": {
+				"text": "Pastki qism:"
+			},
+			"gutterLabel": {
+				"text": "Nov:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Birinchi sahifa uchun turli sarlavhalardan foydalaning"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Toq va juft sahifalar uchun turli sarlavhalardan foydalaning"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Ustunlar soni:"
+			},
+			"lineBetweenLabel": {
+				"text": "Orasidagi qatorlar"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Kenglik va oraliq"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Teng ustun kengligi"
+			},
+			"columnNumberLabel": {
+				"text": "Ustun raqami:"
+			},
+			"widthLabel": {
+				"text": "Kengligi:"
+			},
+			"spacingLabel": {
+				"text": "Oraliq:"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"closeButton": {
+				"value": "Yopish"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Xato"
+		},
+		"closeButton": {
+			"text": "Yopish"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Hujjat ochilmoqda...",
+		"vssde-numberFormat-custom": "Maxsus",
+		"vssde-findTextPanel-textIsNotFound": "'{0}' matni topilmadi.",
+		"vssde-selectFunctionPanel-all": "Hammasi",
+		"vssde-createXlsxDocument": "Yangi XLSX hujjatini yarating",
+		"vssde-uploadXlsxFile": "XLSX faylini yuklang",
+		"vssde-downloadXlsxFile": "XLSX faylini yuklab oling",
+		"vssde-exportXlsxToPdf": "XLSX-ni PDF-ga eksport qiling",
+		"vssde-fileSizeExceedsLimit": "Yuklangan fayl hajmi maksimal hajmdan ({0} bayt) oshib ketdi.",
+		"vssde-error-noError": "Hech qanday xato.",
+		"vssde-error-divisionByZero": "Har qanday raqam (shu jumladan nol) yoki har qanday xato kodi nolga bo'linadi.",
+		"vssde-error-cellRefCannotBeEvaluated": "Hujayraga havolani baholab bo'lmaydi, chunki hujayra qiymati olinmagan yoki hisoblanmagan.",
+		"vssde-error-valueIsNotAvailable": "Belgilangan qiymat mavjud emas.",
+		"vssde-error-wrongName": "Nom ishlatilganga o'xshaydi, lekin bunday nom aniqlanmagan.",
+		"vssde-error-twoAreasNotIntersecting": "Ikkita maydon kesishishi kerak, lekin yo'q.",
+		"vssde-error-notCorrectValue": "Funksiyaga argument mos keladigan turga ega, lekin bu funksiya aniqlangan domendan tashqaridagi qiymatga ega.",
+		"vssde-error-cannotEvaluateCellRef": "Hujayra havolasini baholab bo'lmaydi.",
+		"vssde-error-incompatibleType": "Mos kelmaydigan turdagi argument funksiyaga uzatiladi yoki operator bilan mos kelmaydigan turdagi operand ishlatiladi.",
+		"vssde-error-unknownError": "Noma'lum xato.",
+		"vssde-error-externalError": "Tashqi xato.",
+		"vssde-uriOpen-question": "'{0}' URL manzili ochilsinmi?",
+		"vssde-uriOpen-wrongUri": "Bu sayt manzili noto‘g‘ri: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Yangi ish kitobini yaratmoqchimisiz?",
+		"vsde-documentIsOpening": "Hujjat ochilmoqda...",
+		"vsde-createDocxDocument": "Yangi DOCX hujjatini yaratish",
+		"vsde-uploadDocumentFile": "Faylni yuklang va oching",
+		"vsde-exportDocxDocumentToPdf": "DOCX hujjatini PDF formatiga eksport qilish",
+		"vsde-downloadFile": "Faylni yuklab oling",
+		"vsde-cacheIsNotCleared": "Kesh tozalanmadi, chunki standart fayl veb-xizmati (Vintasoft.Shared.WebServiceJS.defaultFileService) aniqlanmagan.",
+		"vsde-uriOpen-question": "'{0}' URL manzili ochilsinmi?",
+		"vsde-uriOpen-wrongUri": "Bu sayt manzili noto‘g‘ri: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Faylni yuklang va oching",
+		"vsdv-uploadAndAddFileButton-addFileString": "Faylni yuklang va qo'shing",
+		"vsui-textSearchPanel-pageLabel": "Sahifa",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Izohlarni yoqish",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Izohlarni saqlang",
+		"vsui-annotationListPanel-pageLabel": "Sahifa",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Izoh xususiyatlari",
+		"vsdv-openFile-addFileString": "Fayl qo'shish",
+		"vsdv-openFile-authenticateFileString": "Faylni autentifikatsiya qilish",
+		"vsdv-downloadFile-actionMessage": "Faylni yuklab oling",
+		"vsdv-saveChanges-saveChangesInImages": "Rasmlardagi o'zgarishlarni saqlang",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Izohlardagi o'zgarishlarni saqlang",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Rasmlarga izohlarni yozish",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Faylni yuklang va oching",
+		"vsui-uploadAndAddFileButton-addFileString": "Faylni yuklang va qo'shing",
+		"vsui-openFile-addFileString": "Fayl qo'shish",
+		"vsui-openFile-authenticateFileString": "Faylni autentifikatsiya qilish",
+		"vsui-downloadFile-actionMessage": "Faylni yuklab oling",
+		"vsui-saveChanges-saveChangesInImages": "Rasmlardagi o'zgarishlarni saqlang",
+		"vsui-saveChanges-saveChangesInAnnotations": "Izohlardagi o'zgarishlarni saqlang",
+		"vsui-saveChanges-burnAnnotationsInImages": "Rasmlarga izohlarni yozish",
+		"vsui-saveChanges-saveChangesInPdfDocument": "O'zgarishlarni PDF hujjatida saqlang",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Izohlarni yoqish",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Izohlarni saqlang",
+		"vsui-documentPasswordDialog-title": "Hujjat uchun parol",
+		"vsui-dialog-okButton": "KELISHDIKMI",
+		"vsui-dialog-cancelButton": "Bekor qilish",
+		"vsui-documentPasswordPanel-authenticateFileString": "Faylni autentifikatsiya qilish",
+		"vsui-imageSelectionDialog-title": "Rasmlarni tanlang",
+		"vsui-imageSelectionDialog-currentImageString": "Joriy rasm",
+		"vsui-imageSelectionDialog-allImagesString": "Barcha rasmlar",
+		"vsui-imageSelectionDialog-customImagesString": "Maxsus",
+		"vsui-documentLayoutSettingsDialog-title": "Hujjatlarni joylashtirish sozlamalari",
+		"vsui-printImagesDialog-title": "Rasmlarni chop etish",
+		"vsui-printImagesPanel-imagePrintingString": "Rasm chop etilmoqda",
+		"vsui-printImagesPanel-withAnnotationsLabel": "izohlar bilan",
+		"vsui-imageViewerSettingsDialog-title": "Rasmlarni ko'rish sozlamalari",
+		"vsui-thumbnailViewerSettingDialog-title": "Eskizni ko'rish sozlamalari",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Izohlarni ko'rsatish:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Tasvirni izohlar bilan aylantiring",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Burilish burchagi noldan ortiq bo'lishi kerak.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Izohlar bilan aylantiriladigan rasm",
+		"vsui-uploadImageFromUrlDialog-title": "Rasmni URL manzilidan yuklang",
+		"vsui-exportFileSettingsDialog-title": "Faylni eksport qilish uchun sozlamalar",
+		"vsdv-documentLayoutSettingsDialog-title": "Hujjatlarni joylashtirish sozlamalari",
+		"vsdv-dialog-okButton": "KELISHDIKMI",
+		"vsdv-dialog-cancelButton": "Bekor qilish",
+		"vsdv-uploadImageFromUrlDialog-title": "Rasmni URL manzilidan yuklang",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Bekor qilish/qayta qilishni yoqish",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Bekor qilish/qayta bajarishni o‘chirib qo‘ying",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "'Izohlar uchun o'chirgich' rejimini yoqish",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'Izohlarni o'chirish' ni o'chirib qo'ying",
+		"vsui-documentNavigationTool-getActions": "Amallarni oling",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Parf ostki qismi sozlamalari",
+		"vsde-dialog-okButton": "KELISHDIKMI",
+		"vsde-dialog-closeButton": "Yopish",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Parf qator oralig'i sozlamalari",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Parf sahifalash sozlamalari",
+		"vsde-documentTextPropertiesDialog-title": "Matn xususiyatlari",
+		"vsde-documentParagraphPropertiesDialog-title": "Parf xususiyatlari",
+		"vsde-documentInfoDialog-title": "Hujjat haqida ma'lumot",
+		"vsde-documentEditorSettingsDialog-title": "Hujjat muharriri sozlamalari",
+		"vsde-documentEditorViewSettingsDialog-title": "Hujjat muharriri ko'rinishi sozlamalari",
+		"vsde-documentPageSettingsDialog-title": "Hujjat sahifasi sozlamalari",
+		"vsde-documentPageColumnsSettingsDialog-title": "Sahifa ustunlari sozlamalari"
+	}
+}

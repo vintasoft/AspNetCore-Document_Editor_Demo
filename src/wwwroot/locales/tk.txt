@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Faýl"
+		},
+		"homeLabel": {
+			"text": "Öý"
+		},
+		"insertLabel": {
+			"text": "Goýmak"
+		},
+		"layoutLabel": {
+			"text": "Düzüm"
+		},
+		"createDocxDocumentButton": {
+			"title": "Täze DOCX resminamasyny dörediň"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Resminamany ýükläň we açyň"
+		},
+		"documentInfoButton": {
+			"title": "Resminama maglumaty..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Üýtgeşmeleri asyl faýla saklaň"
+		},
+		"downloadFileButton": {
+			"title": "Faýly göçürip al"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX resminamasyny PDF-e eksport ediň we PDF faýlyny göçürip alyň..."
+		},
+		"printDocumentButton": {
+			"title": "Resminamany çap ediň..."
+		},
+		"closeDocumentButton": {
+			"title": "Resminamany ýapyň"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Sessiýa keşini arassalaň"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Resminama redaktorynyň sazlamalary..."
+		},
+		"copyContentButton": {
+			"title": "Mazmuny göçüriň"
+		},
+		"cutContentButton": {
+			"title": "Mazmuny kesiň"
+		},
+		"pasteContentButton": {
+			"title": "Mazmuny goýuň"
+		},
+		"pasteTextContentButton": {
+			"title": "Tekst mazmunyny goýuň"
+		},
+		"increaseFontSizeButton": {
+			"title": "Şriftiň ölçegini ulaldyň"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Şriftiň ölçegini kiçeltiň"
+		},
+		"boldTextButton": {
+			"title": "Goňur tekst"
+		},
+		"italicTextButton": {
+			"title": "Göçme manyda"
+		},
+		"underlineTextButton": {
+			"title": "Tekstiň aşagy"
+		},
+		"strikethroughTextButton": {
+			"title": "Ajaýyp tekst"
+		},
+		"superscriptTextButton": {
+			"title": "Ýokarky tekst"
+		},
+		"subscriptTextButton": {
+			"title": "Aşakky tekst"
+		},
+		"setTextColorButton": {
+			"title": "Tekstiň reňkini sazlaň"
+		},
+		"selectTextColorButton": {
+			"title": "Tekstiň reňkini saýlaň"
+		},
+		"setTextFillColorButton": {
+			"title": "Tekstiň dolduryş reňkini sazlaň"
+		},
+		"selectTextFillColorButton": {
+			"title": "Tekstiň dolduryş reňkini saýlaň"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Ähli formatlamalary arassalaň"
+		},
+		"textPropertiesButton": {
+			"title": "Tekstiň häsiýetleri..."
+		},
+		"decreaseIndentButton": {
+			"title": "Çekini kiçeltiň"
+		},
+		"increaseIndentButton": {
+			"title": "Çekini ulaldyň"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Birinji setiriň çetini kiçeltiň"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Birinji setiriň çetini ulaldyň"
+		},
+		"bulletedListButton": {
+			"title": "Bellikli sanaw"
+		},
+		"bulletedListStylesButton": {
+			"title": "Bellikli sanawlar üçin stiller"
+		},
+		"numberedListButton": {
+			"title": "Nömerli sanaw"
+		},
+		"numberedListStylesButton": {
+			"title": "Nömerli sanawlar üçin stiller"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Çap edilip bilinmeýän simwollary görkez"
+		},
+		"alignLeftButton": {
+			"title": "Çepe deňleşdiriň"
+		},
+		"alignCenterButton": {
+			"title": "Merkez"
+		},
+		"alignRightButton": {
+			"title": "Dogry deňleşdiriň"
+		},
+		"alignBothButton": {
+			"title": "Ikisini hem deňleşdir"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Abzagyň dolduryş reňkini sazlaň"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Abzagyň dolduryş reňkini saýlaň"
+		},
+		"stylePainterButton": {
+			"title": "Stil suratkeşi"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Abzagyň häsiýetleri..."
+		},
+		"insertPageBreakButton": {
+			"title": "Sahypa arakesmesini goş"
+		},
+		"createHeaderButton": {
+			"title": "Sahypany döret/düzet"
+		},
+		"deleteHeaderButton": {
+			"title": "Sahypany poz"
+		},
+		"createFooterButton": {
+			"title": "Aşakdakyny döret/düzet"
+		},
+		"deleteFooterButton": {
+			"title": "Aşakdakyny poz"
+		},
+		"changePageOrientationButton": {
+			"title": "Sahypa ugruny üýtget"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Bölüm arakesmesini goş (Indiki sahypa)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Bölüm arakesmesini goş (Dowamly)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Bölüm arakesmesini goş (Jübüt sahypa)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Bölüm arakesmesini goş (Tek sahypa)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Sütün arakesmesini goş"
+		},
+		"removeSectionBreakButton": {
+			"title": "Bölüm arakesmesini aýyr"
+		},
+		"pageSettingsButton": {
+			"title": "Resminama sahypasynyň sazlamalary..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Sahypa sütunlarynyň sazlamalary..."
+		},
+		"goToFirstPageButton": {
+			"title": "Birinji sahypa git"
+		},
+		"goToPreviousPageButton": {
+			"title": "Öňki sahypa git"
+		},
+		"gotoPageInput": {
+			"title": "Sahypa"
+		},
+		"goToNextPageButton": {
+			"title": "Indiki sahypa git"
+		},
+		"goToLastPageButton": {
+			"title": "Soňky sahypa git"
+		},
+		"viewPropertiesButton": {
+			"title": "Sazlamalary görkez..."
+		},
+		"view_fitToPageButton": {
+			"title": "Sahypa laýyk gelmek"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Sahypanyň giňligine laýyk gelmek"
+		},
+		"view_multiPagesButton": {
+			"title": "Birnäçe sahypa"
+		},
+		"view_onePageButton": {
+			"title": "Bir sahypa"
+		},
+		"zoomOutButton": {
+			"title": "Ulaltmak"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Ýakynlaşdyrmak"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Çep:"
+			},
+			"rightIndentationLabel": {
+				"text": "Sag:"
+			},
+			"specialIndentationLabel": {
+				"text": "Ýörite:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Hiç"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Birinji setir"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Asylýar"
+			},
+			"byLabel": {
+				"text": "Baýlanyşy:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			},
+			"viewModeListLabel": {
+				"text": "Görünüş režimi:"
+			},
+			"Vertical": {
+				"text": "Dik"
+			},
+			"Horizontal": {
+				"text": "Gorizontal"
+			},
+			"pagesInLineLabel": {
+				"text": "Setirdäki/sütündäki sahypalar:"
+			},
+			"pagePaddingLabel": {
+				"text": "Sahypa boşlugy (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Öň:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Awtomatiki"
+			},
+			"spacingAfterLabel": {
+				"text": "Soň:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Awtomatiki"
+			},
+			"lineSpacingLabel": {
+				"text": "Setir aralygy:"
+			},
+			"Scale": {
+				"text": "Ölçeg"
+			},
+			"Exact": {
+				"text": "Takyk"
+			},
+			"AtLeast": {
+				"text": "Iň bolmanda"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Şol bir stildäki abzaslaryň arasynda boşluk goşmaň"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Dul aýalyň gözegçiligi"
+			},
+			"keepNextLabel": {
+				"text": "Indikisini sakla"
+			},
+			"keepLinesLabel": {
+				"text": "Setirleri sakla"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Öňki sahypa aralygy"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Şrift:"
+			},
+			"fontStyleLabel": {
+				"text": "Şrift stili:"
+			},
+			"Regular": {
+				"text": "Adaty"
+			},
+			"Italic": {
+				"text": "Italýan"
+			},
+			"Bold": {
+				"text": "Batyr"
+			},
+			"BoldItalic": {
+				"text": "Galyň kursiw"
+			},
+			"fontSizeLabel": {
+				"text": "Şrift ölçegi:"
+			},
+			"fontColorLabel": {
+				"text": "Şrift reňki:"
+			},
+			"underlineStyleLabel": {
+				"text": "Aşaky çyzykly tekst:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Çyzykly tekst:"
+			},
+			"verticalPositionLabel": {
+				"text": "Dik pozisiýa:"
+			},
+			"Baseline": {
+				"text": "Esasy çyzyk"
+			},
+			"Superscript": {
+				"text": "Ýokarky indeks"
+			},
+			"Subscript": {
+				"text": "Aşaky indeks"
+			},
+			"smallCapsLabel": {
+				"text": "Kiçi uly harplar bilen ýazylyň"
+			},
+			"allCapsLabel": {
+				"text": "Ähli uly harplar bilen ýazylyň"
+			},
+			"scaleLabel": {
+				"text": "Terezisi:"
+			},
+			"spacingLabel": {
+				"text": "Aralylyk:"
+			},
+			"positionLabel": {
+				"text": "Orny:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Köp derejeli sanaw:"
+			},
+			"alignmentLabel": {
+				"text": "Deňleşdirme:"
+			},
+			"Left": {
+				"text": "Çep"
+			},
+			"Right": {
+				"text": "Dogry"
+			},
+			"Center": {
+				"text": "Merkez"
+			},
+			"Both": {
+				"text": "Ikisi hem"
+			},
+			"lineSpacingLabel": {
+				"text": "Setir aralygy:"
+			},
+			"Single": {
+				"text": "Ýeke"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Goşa"
+			},
+			"Triple": {
+				"text": "Üçlü"
+			},
+			"Custom...": {
+				"text": "Özboluşly..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Abzag setir aralygy sazlamalary..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Abzag çetleşdirme sazlamalary..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Abzag sahypalaşdyrma sazlamalary..."
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Ady:"
+			},
+			"subjectLabel": {
+				"text": "Tema:"
+			},
+			"creatorLabel": {
+				"text": "Dörediji:"
+			},
+			"descriptionLabel": {
+				"text": "Düşündiriş:"
+			},
+			"categoryLabel": {
+				"text": "Kategoriýa:"
+			},
+			"keywordsLabel": {
+				"text": "Açarsözler:"
+			},
+			"createdLabel": {
+				"text": "Döredildi:"
+			},
+			"modifiedLabel": {
+				"text": "Üýtgedildi:"
+			},
+			"printedLabel": {
+				"text": "Çap edildi:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Soňky gezek üýtgedilen:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Tekst saýlama reňki:"
+			},
+			"backgroundColorLabel": {
+				"text": "Fon reňki:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Bellenen birlikler:"
+			},
+			"Centimeters": {
+				"text": "Santimetr"
+			},
+			"Millimeters": {
+				"text": "Millimetr"
+			},
+			"Inches": {
+				"text": "Inçler"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Görünmeýän tablisanyň çäklerini görkez"
+			},
+			"asyncModeLabel": {
+				"text": "Asinhron režim"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Bölümiň başlangyjy:"
+			},
+			"NextPage": {
+				"text": "Indiki Sahypa"
+			},
+			"NextColumn": {
+				"text": "Indiki Sütün"
+			},
+			"Continuous": {
+				"text": "Dowamly"
+			},
+			"EvenPage": {
+				"text": "Jübüt Sahypa"
+			},
+			"OddPage": {
+				"text": "Tek Sahypa"
+			},
+			"pageSizeLabel": {
+				"text": "Sahypanyň ölçegi:"
+			},
+			"pageOrientationLabel": {
+				"text": "Sahypa ugry:"
+			},
+			"Portrait": {
+				"text": "Portret"
+			},
+			"Landscape": {
+				"text": "Peýzaž"
+			},
+			"pageMarginsLabel": {
+				"text": "Sahypanyň gyralary (sm):"
+			},
+			"leftLabel": {
+				"text": "Çep:"
+			},
+			"rightLabel": {
+				"text": "Sag:"
+			},
+			"topLabel": {
+				"text": "Ýokarky:"
+			},
+			"bottomLabel": {
+				"text": "Aşakky:"
+			},
+			"headerLabel": {
+				"text": "Başlyk:"
+			},
+			"footerLabel": {
+				"text": "Aşakky:"
+			},
+			"gutterLabel": {
+				"text": "Nowa:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Birinji sahypa üçin dürli sözbaşy ulanyň"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Tek we jübüt sahypalar üçin dürli sözbaşy ulanyň"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Sütün sany:"
+			},
+			"lineBetweenLabel": {
+				"text": "Arasyndaky setir"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Ini we aralygy"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Deň sütün ini"
+			},
+			"columnNumberLabel": {
+				"text": "Sütün belgisi:"
+			},
+			"widthLabel": {
+				"text": "Giňligi:"
+			},
+			"spacingLabel": {
+				"text": "Aralylyk:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"closeButton": {
+				"value": ".Akyn"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Roralňyşlyk"
+		},
+		"closeButton": {
+			"text": ".Akyn"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Resminama açylýar ...",
+		"vssde-numberFormat-custom": "Omörite",
+		"vssde-findTextPanel-textIsNotFound": "'{0}' teksti tapylmady",
+		"vssde-selectFunctionPanel-all": "Hemmesi",
+		"vssde-createXlsxDocument": "Täze XLSX resminama dörediň",
+		"vssde-uploadXlsxFile": "XLSX faýly ýükläň",
+		"vssde-downloadXlsxFile": "XLSX faýly göçürip alyň",
+		"vssde-exportXlsxToPdf": "XLSX-ni PDF-e eksport ediň",
+		"vssde-fileSizeExceedsLimit": "Uploadüklenen faýlyň ululygy iň uly ululykdan ({0} baýt) geçýär.",
+		"vssde-error-noError": "Erroralňyşlyk ýok.",
+		"vssde-error-divisionByZero": "Islendik san (noly goşmak bilen) ýa-da islendik säwlik kody nola bölünýär.",
+		"vssde-error-cellRefCannotBeEvaluated": "Öýjügiň salgylanmasy bahalandyrylyp bilinmez, sebäbi öýjügiň bahasy alynmady ýa-da hasaplanmady.",
+		"vssde-error-valueIsNotAvailable": "Bellenen baha elýeterli däl",
+		"vssde-error-wrongName": "Bir at ulanylana meňzeýär, ýöne beýle at kesgitlenmedi.",
+		"vssde-error-twoAreasNotIntersecting": "Iki ugur kesişmeli, ýöne kesmeli däl.",
+		"vssde-error-notCorrectValue": "Funksiýa üçin argumentiň gabat gelýän görnüşi bar, ýöne şol funksiýanyň kesgitlenen domeniniň daşyndaky gymmaty bar.",
+		"vssde-error-cannotEvaluateCellRef": "Öýjük salgylanmasyna baha berip bolmaz.",
+		"vssde-error-incompatibleType": "Gabat gelmeýän görnüş argumenti bir funksiýa geçirilýär ýa-da operator bilen gabat gelmeýän görnüşli operand ulanylýar.",
+		"vssde-error-unknownError": "Näbelli ýalňyşlyk",
+		"vssde-error-externalError": "Daşarky ýalňyşlyk.",
+		"vssde-uriOpen-question": "URL '{0}' açyň?",
+		"vssde-uriOpen-wrongUri": "Bu sahypanyň salgysy dogry däl: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Täze iş kitabyny döretmek isleýärsiňizmi?",
+		"vsde-documentIsOpening": "Resminama açylýar ...",
+		"vsde-createDocxDocument": "Täze DOCX resminamasyny dörediň",
+		"vsde-uploadDocumentFile": "Faýly ýükläň we açyň",
+		"vsde-exportDocxDocumentToPdf": "DOCX resminamasyny PDF-e eksport ediň",
+		"vsde-downloadFile": "Faýly göçürip al",
+		"vsde-cacheIsNotCleared": "Keş arassalanmady, sebäbi standart faýl web hyzmaty (Vintasoft.Shared.WebServiceJS.defaultFileService) kesgitlenmedi.",
+		"vsde-uriOpen-question": "URL '{0}' açyň?",
+		"vsde-uriOpen-wrongUri": "Bu sahypanyň salgysy dogry däl: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Faýly ýükläň we açyň",
+		"vsdv-uploadAndAddFileButton-addFileString": "Faýl ýükläň we goşuň",
+		"vsui-textSearchPanel-pageLabel": "Sahypa",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Annotasiýalary ýakyň",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Bellikleri ýazdyryň",
+		"vsui-annotationListPanel-pageLabel": "Sahypa",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Annotasiýa aýratynlyklary",
+		"vsdv-openFile-addFileString": "Faýl goşuň",
+		"vsdv-openFile-authenticateFileString": "Faýly tassyklamak",
+		"vsdv-downloadFile-actionMessage": "Faýly göçürip al",
+		"vsdv-saveChanges-saveChangesInImages": "Suratlardaky üýtgeşmeleri ýazdyryň",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Annotasiýalarda üýtgeşmeleri ýazdyryň",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Suratlara düşündirişleri ýakyň",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Faýly ýükläň we açyň",
+		"vsui-uploadAndAddFileButton-addFileString": "Faýl ýükläň we goşuň",
+		"vsui-openFile-addFileString": "Faýl goşuň",
+		"vsui-openFile-authenticateFileString": "Faýly tassyklamak",
+		"vsui-downloadFile-actionMessage": "Faýly göçürip al",
+		"vsui-saveChanges-saveChangesInImages": "Suratlardaky üýtgeşmeleri ýazdyryň",
+		"vsui-saveChanges-saveChangesInAnnotations": "Annotasiýalarda üýtgeşmeleri ýazdyryň",
+		"vsui-saveChanges-burnAnnotationsInImages": "Suratlara düşündirişleri ýakyň",
+		"vsui-saveChanges-saveChangesInPdfDocument": "PDF resminamasyndaky üýtgeşmeleri ýazdyryň",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Annotasiýalary ýakyň",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Bellikleri ýazdyryň",
+		"vsui-documentPasswordDialog-title": "Resminamanyň paroly",
+		"vsui-dialog-okButton": "Bolýar",
+		"vsui-dialog-cancelButton": "Elatyr",
+		"vsui-documentPasswordPanel-authenticateFileString": "Faýly tassyklamak",
+		"vsui-imageSelectionDialog-title": "Suratlary saýlaň",
+		"vsui-imageSelectionDialog-currentImageString": "Häzirki surat",
+		"vsui-imageSelectionDialog-allImagesString": "Imageshli suratlar",
+		"vsui-imageSelectionDialog-customImagesString": "Omörite",
+		"vsui-documentLayoutSettingsDialog-title": "Resminamanyň ýerleşiş sazlamalary",
+		"vsui-printImagesDialog-title": "Suratlary çap ediň",
+		"vsui-printImagesPanel-imagePrintingString": "Surat çap edilýär",
+		"vsui-printImagesPanel-withAnnotationsLabel": "düşündirişler bilen",
+		"vsui-imageViewerSettingsDialog-title": "Surat görüjiniň sazlamalary",
+		"vsui-thumbnailViewerSettingDialog-title": "Kiçijik tomaşaçy sazlamalary",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Annotasiýalary görkez:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Suraty düşündirişler bilen aýlaň",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Aýlanma burçy noldan köp bolmaly.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Annotasiýa bilen şekili aýlamak",
+		"vsui-uploadImageFromUrlDialog-title": "Suraty URL-den ýükläň",
+		"vsui-exportFileSettingsDialog-title": "Faýl eksport etmek üçin sazlamalar",
+		"vsdv-documentLayoutSettingsDialog-title": "Resminamanyň ýerleşiş sazlamalary",
+		"vsdv-dialog-okButton": "Bolýar",
+		"vsdv-dialog-cancelButton": "Elatyr",
+		"vsdv-uploadImageFromUrlDialog-title": "Suraty URL-den ýükläň",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Yzyna / yzyna gaýtarmaga mümkinçilik beriň",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Yzyna / yzyna gaýtarmagy öçüriň",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Özara täsir ediş tertibini işjeňleşdiriň 'Bellikler üçin pozujy'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'Annotasiýa öçürijini' öçüriň",
+		"vsui-documentNavigationTool-getActions": "Hereket ediň",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Abzas boşlugynyň sazlamalary",
+		"vsde-dialog-okButton": "Bolýar",
+		"vsde-dialog-closeButton": ".Akyn",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Abzas setir aralygynyň sazlamalary",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Abzas sahypalarynyň sazlamalary",
+		"vsde-documentTextPropertiesDialog-title": "Tekst häsiýetleri",
+		"vsde-documentParagraphPropertiesDialog-title": "Abzas häsiýetleri",
+		"vsde-documentInfoDialog-title": "Resminama maglumaty",
+		"vsde-documentEditorSettingsDialog-title": "Resminama redaktorynyň sazlamalary",
+		"vsde-documentEditorViewSettingsDialog-title": "Resminama redaktorynyň görnüşi sazlamalary",
+		"vsde-documentPageSettingsDialog-title": "Resminama sahypasynyň sazlamalary",
+		"vsde-documentPageColumnsSettingsDialog-title": "Sahypa sütünleriniň sazlamalary"
+	}
+}

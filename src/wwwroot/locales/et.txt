@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fail"
+		},
+		"homeLabel": {
+			"text": "Kodu"
+		},
+		"insertLabel": {
+			"text": "Sisesta"
+		},
+		"layoutLabel": {
+			"text": "Paigutus"
+		},
+		"createDocxDocumentButton": {
+			"title": "Loo uus DOCX-dokument"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Laadi üles ja ava dokument"
+		},
+		"documentInfoButton": {
+			"title": "Dokumendi teave..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Salvesta muudatused lähtefaili"
+		},
+		"downloadFileButton": {
+			"title": "Laadige fail alla"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Ekspordi DOCX-dokument PDF-vormingusse ja laadi PDF-fail alla..."
+		},
+		"printDocumentButton": {
+			"title": "Prindi dokument..."
+		},
+		"closeDocumentButton": {
+			"title": "Sulge dokument"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Tühjendage seansi vahemälu"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Dokumendiredaktori seaded..."
+		},
+		"copyContentButton": {
+			"title": "Kopeeri sisu"
+		},
+		"cutContentButton": {
+			"title": "Lõika sisu"
+		},
+		"pasteContentButton": {
+			"title": "Kleebi sisu"
+		},
+		"pasteTextContentButton": {
+			"title": "Kleebi tekstisisu"
+		},
+		"increaseFontSizeButton": {
+			"title": "Suurenda fondi suurust"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Vähenda fondi suurust"
+		},
+		"boldTextButton": {
+			"title": "Paks tekst"
+		},
+		"italicTextButton": {
+			"title": "Kaldkiri"
+		},
+		"underlineTextButton": {
+			"title": "Teksti allajoonimine"
+		},
+		"strikethroughTextButton": {
+			"title": "Läbikriipsutatud tekst"
+		},
+		"superscriptTextButton": {
+			"title": "Ülaindekstekst"
+		},
+		"subscriptTextButton": {
+			"title": "Allindekstekst"
+		},
+		"setTextColorButton": {
+			"title": "Määra teksti värv"
+		},
+		"selectTextColorButton": {
+			"title": "Vali teksti värv"
+		},
+		"setTextFillColorButton": {
+			"title": "Määra teksti täitevärv"
+		},
+		"selectTextFillColorButton": {
+			"title": "Vali teksti täitevärv"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Tühjenda kõik vormingud"
+		},
+		"textPropertiesButton": {
+			"title": "Teksti omadused..."
+		},
+		"decreaseIndentButton": {
+			"title": "Vähenda taanet"
+		},
+		"increaseIndentButton": {
+			"title": "Suurenda taanet"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Vähenda esimese rea taanet"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Suurenda esimese rea taanet"
+		},
+		"bulletedListButton": {
+			"title": "Täpploend"
+		},
+		"bulletedListStylesButton": {
+			"title": "Täpploendite stiilid"
+		},
+		"numberedListButton": {
+			"title": "Nummerdatud loend"
+		},
+		"numberedListStylesButton": {
+			"title": "Nummerdatud loendite stiilid"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Näita mitteprinditavaid märke"
+		},
+		"alignLeftButton": {
+			"title": "Joonda vasakule"
+		},
+		"alignCenterButton": {
+			"title": "Keskus"
+		},
+		"alignRightButton": {
+			"title": "Joonda paremale"
+		},
+		"alignBothButton": {
+			"title": "Joonda mõlemad"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Määra lõigu täitevärv"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Vali lõigu täitevärv"
+		},
+		"stylePainterButton": {
+			"title": "Stiilimaalija"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Lõigu omadused..."
+		},
+		"insertPageBreakButton": {
+			"title": "Lisa leheküljepiir"
+		},
+		"createHeaderButton": {
+			"title": "Loo/muuda päist"
+		},
+		"deleteHeaderButton": {
+			"title": "Kustuta päis"
+		},
+		"createFooterButton": {
+			"title": "Loo/muuda jalust"
+		},
+		"deleteFooterButton": {
+			"title": "Kustuta jalus"
+		},
+		"changePageOrientationButton": {
+			"title": "Muuda lehe suunda"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Lisa sektsioonipiir (järgmine leht)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Lisa sektsioonipiir (pidev)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Lisa sektsioonipiir (paarisleht)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Lisa sektsioonipiir (paaritu leht)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Lisa veerupiir"
+		},
+		"removeSectionBreakButton": {
+			"title": "Eemalda sektsioonipiir"
+		},
+		"pageSettingsButton": {
+			"title": "Dokumendi lehe seaded..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Lehe veergude seaded..."
+		},
+		"goToFirstPageButton": {
+			"title": "Mine esimesele lehele"
+		},
+		"goToPreviousPageButton": {
+			"title": "Mine eelmisele lehele"
+		},
+		"gotoPageInput": {
+			"title": "Lehekülg"
+		},
+		"goToNextPageButton": {
+			"title": "Mine järgmisele lehele"
+		},
+		"goToLastPageButton": {
+			"title": "Mine viimasele lehele"
+		},
+		"viewPropertiesButton": {
+			"title": "Vaata seadeid..."
+		},
+		"view_fitToPageButton": {
+			"title": "Mahuta lehele"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Mahuta lehe laiusele"
+		},
+		"view_multiPagesButton": {
+			"title": "Mitu lehekülge"
+		},
+		"view_onePageButton": {
+			"title": "Üks leht"
+		},
+		"zoomOutButton": {
+			"title": "Suumi välja"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Suurenda"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Vasakule:"
+			},
+			"rightIndentationLabel": {
+				"text": "Paremale:"
+			},
+			"specialIndentationLabel": {
+				"text": "Eriline:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Mitte ühtegi"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Esimene rida"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Rippuv"
+			},
+			"byLabel": {
+				"text": "Võimaldab:"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			},
+			"viewModeListLabel": {
+				"text": "Vaaterežiim:"
+			},
+			"Vertical": {
+				"text": "Vertikaalne"
+			},
+			"Horizontal": {
+				"text": "Horisontaalne"
+			},
+			"pagesInLineLabel": {
+				"text": "Lehekülgi reas/veerus:"
+			},
+			"pagePaddingLabel": {
+				"text": "Lehe täitetase (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Enne:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automaatne"
+			},
+			"spacingAfterLabel": {
+				"text": "Pärast:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automaatne"
+			},
+			"lineSpacingLabel": {
+				"text": "Reavahe:"
+			},
+			"Scale": {
+				"text": "Skaleerimine"
+			},
+			"Exact": {
+				"text": "Täpne"
+			},
+			"AtLeast": {
+				"text": "Vähemalt"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Ära lisa tühikut sama stiiliga lõikude vahele"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Lehe juhtimine"
+			},
+			"keepNextLabel": {
+				"text": "Säilita järgmine"
+			},
+			"keepLinesLabel": {
+				"text": "Säilita read"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Lehevahetus enne"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Font:"
+			},
+			"fontStyleLabel": {
+				"text": "Fondi stiil:"
+			},
+			"Regular": {
+				"text": "Tavaline"
+			},
+			"Italic": {
+				"text": "Kursiiv"
+			},
+			"Bold": {
+				"text": "Paks"
+			},
+			"BoldItalic": {
+				"text": "Paks kursiiv"
+			},
+			"fontSizeLabel": {
+				"text": "Fondi suurus:"
+			},
+			"fontColorLabel": {
+				"text": "Fondi värv:"
+			},
+			"underlineStyleLabel": {
+				"text": "Allakriipsutatud tekst:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Läbikriipsutatud tekst:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vertikaalne paigutus:"
+			},
+			"Baseline": {
+				"text": "Alusjoon"
+			},
+			"Superscript": {
+				"text": "Ülaindeks"
+			},
+			"Subscript": {
+				"text": "Allaindeks"
+			},
+			"smallCapsLabel": {
+				"text": "Väikesed suurtähed"
+			},
+			"allCapsLabel": {
+				"text": "Kõik suurtähed"
+			},
+			"scaleLabel": {
+				"text": "Kaal:"
+			},
+			"spacingLabel": {
+				"text": "Vahe:"
+			},
+			"positionLabel": {
+				"text": "Asukoht:"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Mitmetasandiline loend:"
+			},
+			"alignmentLabel": {
+				"text": "Joodustus:"
+			},
+			"Left": {
+				"text": "Vasakule"
+			},
+			"Right": {
+				"text": "Õige"
+			},
+			"Center": {
+				"text": "Keskus"
+			},
+			"Both": {
+				"text": "Mõlemad"
+			},
+			"lineSpacingLabel": {
+				"text": "Reavahe:"
+			},
+			"Single": {
+				"text": "Üksik"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Kahekordne"
+			},
+			"Triple": {
+				"text": "Kolmekordne"
+			},
+			"Custom...": {
+				"text": "Kohandatud..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Lõigu reavahe seaded..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Lõigu taande seaded..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Lõigu lehekülgjaotuse seaded..."
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Pealkiri:"
+			},
+			"subjectLabel": {
+				"text": "Teema:"
+			},
+			"creatorLabel": {
+				"text": "Looja:"
+			},
+			"descriptionLabel": {
+				"text": "Kirjeldus:"
+			},
+			"categoryLabel": {
+				"text": "Kategooria:"
+			},
+			"keywordsLabel": {
+				"text": "Märksõnad:"
+			},
+			"createdLabel": {
+				"text": "Loodud:"
+			},
+			"modifiedLabel": {
+				"text": "Muudetud:"
+			},
+			"printedLabel": {
+				"text": "Trükitud:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Viimati muutis:"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Teksti valiku värv:"
+			},
+			"backgroundColorLabel": {
+				"text": "Taustavärv:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Vaikeühikud:"
+			},
+			"Centimeters": {
+				"text": "Sentimeetrid"
+			},
+			"Millimeters": {
+				"text": "Millimeetrid"
+			},
+			"Inches": {
+				"text": "Tollid"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Kuva nähtamatud tabeliäärised"
+			},
+			"asyncModeLabel": {
+				"text": "Asünkroonrežiim"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Jao algus:"
+			},
+			"NextPage": {
+				"text": "Järgmine leht"
+			},
+			"NextColumn": {
+				"text": "JärgmineVeerg"
+			},
+			"Continuous": {
+				"text": "Pidev"
+			},
+			"EvenPage": {
+				"text": "Isegi leht"
+			},
+			"OddPage": {
+				"text": "Paaritu leht"
+			},
+			"pageSizeLabel": {
+				"text": "Lehekülje suurus:"
+			},
+			"pageOrientationLabel": {
+				"text": "Lehe suund:"
+			},
+			"Portrait": {
+				"text": "Portree"
+			},
+			"Landscape": {
+				"text": "Maastik"
+			},
+			"pageMarginsLabel": {
+				"text": "Lehekülje veerised (cm):"
+			},
+			"leftLabel": {
+				"text": "Vasak:"
+			},
+			"rightLabel": {
+				"text": "Õige:"
+			},
+			"topLabel": {
+				"text": "Ülemine:"
+			},
+			"bottomLabel": {
+				"text": "Alt:"
+			},
+			"headerLabel": {
+				"text": "Päis:"
+			},
+			"footerLabel": {
+				"text": "Jalus:"
+			},
+			"gutterLabel": {
+				"text": "Vihm:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Kasutage esimesel lehel erinevat pealkirja"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Kasutage paaritute ja paarislehtede jaoks erinevat pealkirja"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Veergude arv:"
+			},
+			"lineBetweenLabel": {
+				"text": "Rida vahel"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Laius ja vahekaugus"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Võrdne veeru laius"
+			},
+			"columnNumberLabel": {
+				"text": "Veeru number:"
+			},
+			"widthLabel": {
+				"text": "Laius:"
+			},
+			"spacingLabel": {
+				"text": "Vahe:"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"closeButton": {
+				"value": "Sulge"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Viga"
+		},
+		"closeButton": {
+			"text": "Sulge"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokument on avamisel...",
+		"vssde-numberFormat-custom": "Kohandatud",
+		"vssde-findTextPanel-textIsNotFound": "Teksti '{0}' ei leitud.",
+		"vssde-selectFunctionPanel-all": "Kõik",
+		"vssde-createXlsxDocument": "Looge uus XLSX-dokument",
+		"vssde-uploadXlsxFile": "Laadige üles XLSX-fail",
+		"vssde-downloadXlsxFile": "Laadige alla XLSX-fail",
+		"vssde-exportXlsxToPdf": "Ekspordi XLSX PDF-i",
+		"vssde-fileSizeExceedsLimit": "Üleslaaditud faili suurus ületab maksimaalse suuruse ({0} baiti).",
+		"vssde-error-noError": "Pole viga.",
+		"vssde-error-divisionByZero": "Iga arv (sh null) või mis tahes veakood jagatakse nulliga.",
+		"vssde-error-cellRefCannotBeEvaluated": "Lahtriviidet ei saa hinnata, kuna lahtri väärtust pole toodud ega arvutatud.",
+		"vssde-error-valueIsNotAvailable": "Määratud väärtus pole saadaval.",
+		"vssde-error-wrongName": "Näib, et kasutatakse nime, kuid sellist nime pole määratletud.",
+		"vssde-error-twoAreasNotIntersecting": "Kahe ala ristamiseks on vaja, kuid mitte.",
+		"vssde-error-notCorrectValue": "Funktsiooni argumendil on ühilduv tüüp, kuid selle väärtus on väljaspool domeeni, mille üle see funktsioon on määratletud.",
+		"vssde-error-cannotEvaluateCellRef": "Lahtriviidet ei saa hinnata.",
+		"vssde-error-incompatibleType": "Funktsioonile edastatakse ühildumatu tüübi argument või kasutatakse operaatoriga ühildumatut tüüpi operandi.",
+		"vssde-error-unknownError": "Tundmatu viga.",
+		"vssde-error-externalError": "Väline viga.",
+		"vssde-uriOpen-question": "Kas avada URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Selle saidi aadress ei kehti: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Kas soovite luua uue töövihiku?",
+		"vsde-documentIsOpening": "Dokument on avamisel...",
+		"vsde-createDocxDocument": "Loo uus DOCX-dokument",
+		"vsde-uploadDocumentFile": "Laadige üles ja avage fail",
+		"vsde-exportDocxDocumentToPdf": "Ekspordi DOCX-dokument PDF-vormingusse",
+		"vsde-downloadFile": "Laadige fail alla",
+		"vsde-cacheIsNotCleared": "Vahemälu ei tühjendata, kuna faili vaikeveebiteenus (Vintasoft.Shared.WebServiceJS.defaultFileService) ei ole määratletud.",
+		"vsde-uriOpen-question": "Kas avada URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Selle saidi aadress ei kehti: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Laadige üles ja avage fail",
+		"vsdv-uploadAndAddFileButton-addFileString": "Laadige üles ja lisage fail",
+		"vsui-textSearchPanel-pageLabel": "Lehekülg",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Märkuste kirjutamine",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Salvestage märkused",
+		"vsui-annotationListPanel-pageLabel": "Lehekülg",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Annotatsiooni omadused",
+		"vsdv-openFile-addFileString": "Lisa fail",
+		"vsdv-openFile-authenticateFileString": "Autentige fail",
+		"vsdv-downloadFile-actionMessage": "Laadige fail alla",
+		"vsdv-saveChanges-saveChangesInImages": "Salvestage piltidel muudatused",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Salvestage muudatused märkustes",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Kirjutage piltidele märkused",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Laadige üles ja avage fail",
+		"vsui-uploadAndAddFileButton-addFileString": "Laadige üles ja lisage fail",
+		"vsui-openFile-addFileString": "Lisa fail",
+		"vsui-openFile-authenticateFileString": "Autentige fail",
+		"vsui-downloadFile-actionMessage": "Laadige fail alla",
+		"vsui-saveChanges-saveChangesInImages": "Salvestage piltidel muudatused",
+		"vsui-saveChanges-saveChangesInAnnotations": "Salvestage muudatused märkustes",
+		"vsui-saveChanges-burnAnnotationsInImages": "Kirjutage piltidele märkused",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Salvestage muudatused PDF-dokumenti",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Märkuste kirjutamine",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Salvestage märkused",
+		"vsui-documentPasswordDialog-title": "Dokumendi parool",
+		"vsui-dialog-okButton": "Okei",
+		"vsui-dialog-cancelButton": "Tühista",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentige fail",
+		"vsui-imageSelectionDialog-title": "Valige pildid",
+		"vsui-imageSelectionDialog-currentImageString": "Praegune pilt",
+		"vsui-imageSelectionDialog-allImagesString": "Kõik pildid",
+		"vsui-imageSelectionDialog-customImagesString": "Kohandatud",
+		"vsui-documentLayoutSettingsDialog-title": "Dokumendi paigutuse seaded",
+		"vsui-printImagesDialog-title": "Printige pilte",
+		"vsui-printImagesPanel-imagePrintingString": "Pilt prinditakse",
+		"vsui-printImagesPanel-withAnnotationsLabel": "annotatsioonidega",
+		"vsui-imageViewerSettingsDialog-title": "Pildivaaturi seaded",
+		"vsui-thumbnailViewerSettingDialog-title": "Pisipiltide vaataja seaded",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Kuva märkused:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Pöörake pilti koos märkustega",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Pöörlemisnurk peaks olema suurem kui null.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Pööratav pilt koos märkustega",
+		"vsui-uploadImageFromUrlDialog-title": "Laadige pilt üles URL-ist",
+		"vsui-exportFileSettingsDialog-title": "Faili eksportimise sätted",
+		"vsdv-documentLayoutSettingsDialog-title": "Dokumendi paigutuse seaded",
+		"vsdv-dialog-okButton": "Okei",
+		"vsdv-dialog-cancelButton": "Tühista",
+		"vsdv-uploadImageFromUrlDialog-title": "Laadige pilt üles URL-ist",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Luba tagasivõtmine/teha uuesti",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Keela tagasivõtmine/teha uuesti",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Luba režiim 'Märkuste kustutuskumm'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Keela 'Märkuste kustutuskumm'",
+		"vsui-documentNavigationTool-getActions": "Hankige toiminguid",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Lõigu taande sätted",
+		"vsde-dialog-okButton": "Okei",
+		"vsde-dialog-closeButton": "Sulge",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Lõigu reavahe seaded",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Lõikude lehekülgede muutmise seaded",
+		"vsde-documentTextPropertiesDialog-title": "Teksti omadused",
+		"vsde-documentParagraphPropertiesDialog-title": "Lõigu omadused",
+		"vsde-documentInfoDialog-title": "Dokumendi teave",
+		"vsde-documentEditorSettingsDialog-title": "Dokumendiredaktori seaded",
+		"vsde-documentEditorViewSettingsDialog-title": "Dokumendiredaktori vaate sätted",
+		"vsde-documentPageSettingsDialog-title": "Dokumendi lehe seaded",
+		"vsde-documentPageColumnsSettingsDialog-title": "Leheveergude seaded"
+	}
+}

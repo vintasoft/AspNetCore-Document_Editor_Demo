@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"homeLabel": {
+			"text": "Додому"
+		},
+		"insertLabel": {
+			"text": "Вставка"
+		},
+		"layoutLabel": {
+			"text": "Макет"
+		},
+		"createDocxDocumentButton": {
+			"title": "Створити новий документ DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Завантажити та відкрити документ"
+		},
+		"documentInfoButton": {
+			"title": "Інформація про документ..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Зберегти зміни у вихідний файл"
+		},
+		"downloadFileButton": {
+			"title": "Завантажити файл"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Експортувати документ DOCX у PDF та завантажити PDF-файл..."
+		},
+		"printDocumentButton": {
+			"title": "Друкувати документ..."
+		},
+		"closeDocumentButton": {
+			"title": "Закрити документ"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Очистити кеш сесії"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Налаштування редактора документів..."
+		},
+		"copyContentButton": {
+			"title": "Скопіюйте вміст"
+		},
+		"cutContentButton": {
+			"title": "Вирізати вміст"
+		},
+		"pasteContentButton": {
+			"title": "Вставити вміст"
+		},
+		"pasteTextContentButton": {
+			"title": "Вставити текстовий вміст"
+		},
+		"increaseFontSizeButton": {
+			"title": "Збільшити розмір шрифту"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Зменшити розмір шрифту"
+		},
+		"boldTextButton": {
+			"title": "Жирний текст"
+		},
+		"italicTextButton": {
+			"title": "Текст курсивом"
+		},
+		"underlineTextButton": {
+			"title": "Підкреслити текст"
+		},
+		"strikethroughTextButton": {
+			"title": "Закреслений текст"
+		},
+		"superscriptTextButton": {
+			"title": "Надрядковий текст"
+		},
+		"subscriptTextButton": {
+			"title": "Підрядковий текст"
+		},
+		"setTextColorButton": {
+			"title": "Встановити колір тексту"
+		},
+		"selectTextColorButton": {
+			"title": "Вибрати колір тексту"
+		},
+		"setTextFillColorButton": {
+			"title": "Встановити колір заливки тексту"
+		},
+		"selectTextFillColorButton": {
+			"title": "Вибрати колір заливки тексту"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Очистити все форматування"
+		},
+		"textPropertiesButton": {
+			"title": "Властивості тексту..."
+		},
+		"decreaseIndentButton": {
+			"title": "Зменшити відступ"
+		},
+		"increaseIndentButton": {
+			"title": "Збільшити відступ"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Зменшити відступ першого рядка"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Збільшити відступ першого рядка"
+		},
+		"bulletedListButton": {
+			"title": "Маркірований список"
+		},
+		"bulletedListStylesButton": {
+			"title": "Стилі для маркованих списків"
+		},
+		"numberedListButton": {
+			"title": "Нумерований список"
+		},
+		"numberedListStylesButton": {
+			"title": "Стилі для нумерованих списків"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Показати недруковані символи"
+		},
+		"alignLeftButton": {
+			"title": "Вирівняти ліворуч"
+		},
+		"alignCenterButton": {
+			"title": "центр"
+		},
+		"alignRightButton": {
+			"title": "Вирівняти праворуч"
+		},
+		"alignBothButton": {
+			"title": "Вирівняти обидва"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Встановити колір заливки абзацу"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Вибрати колір заливки абзацу"
+		},
+		"stylePainterButton": {
+			"title": "Художник стилю"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Властивості абзацу..."
+		},
+		"insertPageBreakButton": {
+			"title": "Вставити розрив сторінки"
+		},
+		"createHeaderButton": {
+			"title": "Створити/редагувати заголовок"
+		},
+		"deleteHeaderButton": {
+			"title": "Видалити заголовок"
+		},
+		"createFooterButton": {
+			"title": "Створити/редагувати нижній колонтитул"
+		},
+		"deleteFooterButton": {
+			"title": "Видалити нижній колонтитул"
+		},
+		"changePageOrientationButton": {
+			"title": "Змінити орієнтацію сторінки"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Додати розрив розділу (наступна сторінка)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Додати розрив розділу (безперервний)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Додати розрив розділу (парна сторінка)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Додати розрив розділу (непарна сторінка)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Додати розрив стовпця"
+		},
+		"removeSectionBreakButton": {
+			"title": "Видалити розрив розділу"
+		},
+		"pageSettingsButton": {
+			"title": "Налаштування сторінки документа..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Налаштування стовпців сторінки..."
+		},
+		"goToFirstPageButton": {
+			"title": "Перейти на першу сторінку"
+		},
+		"goToPreviousPageButton": {
+			"title": "Перейти на попередню сторінку"
+		},
+		"gotoPageInput": {
+			"title": "Сторінка"
+		},
+		"goToNextPageButton": {
+			"title": "Перейти на наступну сторінку"
+		},
+		"goToLastPageButton": {
+			"title": "Перейти на останню сторінку"
+		},
+		"viewPropertiesButton": {
+			"title": "Налаштування перегляду..."
+		},
+		"view_fitToPageButton": {
+			"title": "За розміром сторінки"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "За розміром сторінки"
+		},
+		"view_multiPagesButton": {
+			"title": "Кілька сторінок"
+		},
+		"view_onePageButton": {
+			"title": "Одна сторінка"
+		},
+		"zoomOutButton": {
+			"title": "Зменшення"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Збільшувати"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Ліворуч:"
+			},
+			"rightIndentationLabel": {
+				"text": "Праворуч:"
+			},
+			"specialIndentationLabel": {
+				"text": "Спеціальний:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Жодного"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Перший рядок"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Висячий"
+			},
+			"byLabel": {
+				"text": "За:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			},
+			"viewModeListLabel": {
+				"text": "Режим перегляду:"
+			},
+			"Vertical": {
+				"text": "Вертикальний"
+			},
+			"Horizontal": {
+				"text": "Горизонтальний"
+			},
+			"pagesInLineLabel": {
+				"text": "Сторінок у рядку/колонці:"
+			},
+			"pagePaddingLabel": {
+				"text": "Відступи сторінки (пікселі):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "До:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Автоматично"
+			},
+			"spacingAfterLabel": {
+				"text": "Після:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Автоматично"
+			},
+			"lineSpacingLabel": {
+				"text": "Міжрядковий інтервал:"
+			},
+			"Scale": {
+				"text": "Масштаб"
+			},
+			"Exact": {
+				"text": "Точно"
+			},
+			"AtLeast": {
+				"text": "Принаймні"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Не додавати пробіл між абзацами одного стилю"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Елемент керування вікною"
+			},
+			"keepNextLabel": {
+				"text": "Залишити наступним"
+			},
+			"keepLinesLabel": {
+				"text": "Залишити рядки"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Розрив сторінки перед"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Шрифт:"
+			},
+			"fontStyleLabel": {
+				"text": "Стиль шрифту:"
+			},
+			"Regular": {
+				"text": "Звичайний"
+			},
+			"Italic": {
+				"text": "Курсив"
+			},
+			"Bold": {
+				"text": "Жирний"
+			},
+			"BoldItalic": {
+				"text": "Жирний Курсив"
+			},
+			"fontSizeLabel": {
+				"text": "Розмір шрифту:"
+			},
+			"fontColorLabel": {
+				"text": "Колір шрифту:"
+			},
+			"underlineStyleLabel": {
+				"text": "Підкреслений текст:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Закреслений текст:"
+			},
+			"verticalPositionLabel": {
+				"text": "Вертикальне положення:"
+			},
+			"Baseline": {
+				"text": "Базовий рядок"
+			},
+			"Superscript": {
+				"text": "Надрядковий рядок"
+			},
+			"Subscript": {
+				"text": "Підрядковий рядок"
+			},
+			"smallCapsLabel": {
+				"text": "Малі літери"
+			},
+			"allCapsLabel": {
+				"text": "Усі великі літери"
+			},
+			"scaleLabel": {
+				"text": "Масштаб:"
+			},
+			"spacingLabel": {
+				"text": "Інтервал:"
+			},
+			"positionLabel": {
+				"text": "Позиція:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Багаторівневий список:"
+			},
+			"alignmentLabel": {
+				"text": "Вирівнювання:"
+			},
+			"Left": {
+				"text": "Ліворуч"
+			},
+			"Right": {
+				"text": "правильно"
+			},
+			"Center": {
+				"text": "центр"
+			},
+			"Both": {
+				"text": "Обидва"
+			},
+			"lineSpacingLabel": {
+				"text": "Міжрядковий інтервал:"
+			},
+			"Single": {
+				"text": "Одинарне"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Подвійне"
+			},
+			"Triple": {
+				"text": "Потрійне"
+			},
+			"Custom...": {
+				"text": "Налаштування..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Налаштування міжрядкового інтервалу абзаців..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Налаштування відступів абзаців..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Налаштування нумерації абзаців..."
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Заголовок:"
+			},
+			"subjectLabel": {
+				"text": "Тема:"
+			},
+			"creatorLabel": {
+				"text": "Автор:"
+			},
+			"descriptionLabel": {
+				"text": "Опис:"
+			},
+			"categoryLabel": {
+				"text": "Категорія:"
+			},
+			"keywordsLabel": {
+				"text": "Ключові слова:"
+			},
+			"createdLabel": {
+				"text": "Створено:"
+			},
+			"modifiedLabel": {
+				"text": "Змінено:"
+			},
+			"printedLabel": {
+				"text": "Надруковано:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Остання зміна:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Колір виділеного тексту:"
+			},
+			"backgroundColorLabel": {
+				"text": "Колір фону:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Одиниці вимірювання за замовчуванням:"
+			},
+			"Centimeters": {
+				"text": "Сантиметри"
+			},
+			"Millimeters": {
+				"text": "міліметрів"
+			},
+			"Inches": {
+				"text": "Дюйми"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Показувати невидимі межі таблиці"
+			},
+			"asyncModeLabel": {
+				"text": "Асинхронний режим"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Початок розділу:"
+			},
+			"NextPage": {
+				"text": "Наступна сторінка"
+			},
+			"NextColumn": {
+				"text": "Наступний стовпець"
+			},
+			"Continuous": {
+				"text": "Безперервний"
+			},
+			"EvenPage": {
+				"text": "Парний"
+			},
+			"OddPage": {
+				"text": "Непарний"
+			},
+			"pageSizeLabel": {
+				"text": "Розмір сторінки:"
+			},
+			"pageOrientationLabel": {
+				"text": "Орієнтація сторінки:"
+			},
+			"Portrait": {
+				"text": "Книжкова"
+			},
+			"Landscape": {
+				"text": "Альбомна"
+			},
+			"pageMarginsLabel": {
+				"text": "Поля сторінки (см):"
+			},
+			"leftLabel": {
+				"text": "Ліве:"
+			},
+			"rightLabel": {
+				"text": "Праве:"
+			},
+			"topLabel": {
+				"text": "Верхнє:"
+			},
+			"bottomLabel": {
+				"text": "Нижнє:"
+			},
+			"headerLabel": {
+				"text": "Заголовок:"
+			},
+			"footerLabel": {
+				"text": "Нижній колонтитул:"
+			},
+			"gutterLabel": {
+				"text": "Колодильний рядок:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Використовувати різні заголовки для першої сторінки"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Використовувати різні заголовки для парних та непарних сторінок"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Кількість стовпців:"
+			},
+			"lineBetweenLabel": {
+				"text": "Рядок між"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Ширина та інтервал"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Рівна ширина стовпців"
+			},
+			"columnNumberLabel": {
+				"text": "Номер стовпця:"
+			},
+			"widthLabel": {
+				"text": "Ширина:"
+			},
+			"spacingLabel": {
+				"text": "Інтервал:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"closeButton": {
+				"value": "Закрити"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Помилка"
+		},
+		"closeButton": {
+			"text": "Закрити"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Відкривається документ...",
+		"vssde-numberFormat-custom": "Custom",
+		"vssde-findTextPanel-textIsNotFound": "Текст '{0}' не знайдено.",
+		"vssde-selectFunctionPanel-all": "Всі",
+		"vssde-createXlsxDocument": "Створіть новий документ XLSX",
+		"vssde-uploadXlsxFile": "Завантажте файл XLSX",
+		"vssde-downloadXlsxFile": "Завантажте файл XLSX",
+		"vssde-exportXlsxToPdf": "Експорт XLSX у PDF",
+		"vssde-fileSizeExceedsLimit": "Розмір завантаженого файлу перевищує максимальний розмір ({0} байт).",
+		"vssde-error-noError": "Помилки немає.",
+		"vssde-error-divisionByZero": "Будь-яке число (включаючи нуль) або будь-який код помилки ділиться на нуль.",
+		"vssde-error-cellRefCannotBeEvaluated": "Посилання на клітинку не можна оцінити, оскільки значення для клітинки не було отримано або обчислено.",
+		"vssde-error-valueIsNotAvailable": "Визначене значення недоступне.",
+		"vssde-error-wrongName": "Схоже, використовується ім’я, але таке ім’я не визначено.",
+		"vssde-error-twoAreasNotIntersecting": "Дві області повинні перетинатися, але це не так.",
+		"vssde-error-notCorrectValue": "Аргумент функції має сумісний тип, але має значення, яке знаходиться за межами домену, у якому ця функція визначена.",
+		"vssde-error-cannotEvaluateCellRef": "Посилання на клітинку не можна оцінити.",
+		"vssde-error-incompatibleType": "Функції передається аргумент несумісного типу або операнд несумісного типу використовується з оператором.",
+		"vssde-error-unknownError": "Невідома помилка.",
+		"vssde-error-externalError": "Зовнішня помилка.",
+		"vssde-uriOpen-question": "Відкрити URL-адресу '{0}'?",
+		"vssde-uriOpen-wrongUri": "Адреса цього сайту недійсна: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Ви хочете створити нову книгу?",
+		"vsde-documentIsOpening": "Відкривається документ...",
+		"vsde-createDocxDocument": "Створити новий документ DOCX",
+		"vsde-uploadDocumentFile": "Завантажте та відкрийте файл",
+		"vsde-exportDocxDocumentToPdf": "Експортувати документ DOCX у PDF",
+		"vsde-downloadFile": "Завантажити файл",
+		"vsde-cacheIsNotCleared": "Кеш не очищено, оскільки веб-служба файлів за замовчуванням (Vintasoft.Shared.WebServiceJS.defaultFileService) не визначена.",
+		"vsde-uriOpen-question": "Відкрити URL-адресу '{0}'?",
+		"vsde-uriOpen-wrongUri": "Адреса цього сайту недійсна: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Завантажте та відкрийте файл",
+		"vsdv-uploadAndAddFileButton-addFileString": "Завантажити та додати файл",
+		"vsui-textSearchPanel-pageLabel": "Сторінка",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Записати анотації",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Зберегти анотації",
+		"vsui-annotationListPanel-pageLabel": "Сторінка",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Властивості анотації",
+		"vsdv-openFile-addFileString": "Додати файл",
+		"vsdv-openFile-authenticateFileString": "Автентифікувати файл",
+		"vsdv-downloadFile-actionMessage": "Завантажити файл",
+		"vsdv-saveChanges-saveChangesInImages": "Збережіть зміни в зображеннях",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Збережіть зміни в анотаціях",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Запис анотацій на зображеннях",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Завантажте та відкрийте файл",
+		"vsui-uploadAndAddFileButton-addFileString": "Завантажити та додати файл",
+		"vsui-openFile-addFileString": "Додати файл",
+		"vsui-openFile-authenticateFileString": "Автентифікувати файл",
+		"vsui-downloadFile-actionMessage": "Завантажити файл",
+		"vsui-saveChanges-saveChangesInImages": "Збережіть зміни в зображеннях",
+		"vsui-saveChanges-saveChangesInAnnotations": "Збережіть зміни в анотаціях",
+		"vsui-saveChanges-burnAnnotationsInImages": "Запис анотацій на зображеннях",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Зберегти зміни в документі PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Записати анотації",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Зберегти анотації",
+		"vsui-documentPasswordDialog-title": "Пароль документа",
+		"vsui-dialog-okButton": "В порядку",
+		"vsui-dialog-cancelButton": "Скасувати",
+		"vsui-documentPasswordPanel-authenticateFileString": "Автентифікувати файл",
+		"vsui-imageSelectionDialog-title": "Виберіть зображення",
+		"vsui-imageSelectionDialog-currentImageString": "Поточне зображення",
+		"vsui-imageSelectionDialog-allImagesString": "Всі зображення",
+		"vsui-imageSelectionDialog-customImagesString": "Custom",
+		"vsui-documentLayoutSettingsDialog-title": "Параметри оформлення документа",
+		"vsui-printImagesDialog-title": "Друк зображень",
+		"vsui-printImagesPanel-imagePrintingString": "Зображення друкується",
+		"vsui-printImagesPanel-withAnnotationsLabel": "з анотаціями",
+		"vsui-imageViewerSettingsDialog-title": "Налаштування програми перегляду зображень",
+		"vsui-thumbnailViewerSettingDialog-title": "Налаштування перегляду мініатюр",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Показати анотації:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Обертання зображення з анотаціями",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Кут повороту повинен бути більше нуля.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Зображення, що обертається, з анотаціями",
+		"vsui-uploadImageFromUrlDialog-title": "Завантажте зображення з URL",
+		"vsui-exportFileSettingsDialog-title": "Параметри експорту файлу",
+		"vsdv-documentLayoutSettingsDialog-title": "Параметри оформлення документа",
+		"vsdv-dialog-okButton": "В порядку",
+		"vsdv-dialog-cancelButton": "Скасувати",
+		"vsdv-uploadImageFromUrlDialog-title": "Завантажте зображення з URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Увімкнути скасування/повторення",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Вимкнути скасування/повторення",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Увімкнути режим «Гумка для анотацій»",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Вимкнути 'Стирання анотацій'",
+		"vsui-documentNavigationTool-getActions": "Отримати дії",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Налаштування відступів абзаців",
+		"vsde-dialog-okButton": "В порядку",
+		"vsde-dialog-closeButton": "Закрити",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Налаштування міжрядкового інтервалу абзаців",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Налаштування нумерації абзаців",
+		"vsde-documentTextPropertiesDialog-title": "Властивості тексту",
+		"vsde-documentParagraphPropertiesDialog-title": "Властивості абзацу",
+		"vsde-documentInfoDialog-title": "Інформація про документ",
+		"vsde-documentEditorSettingsDialog-title": "Налаштування редактора документів",
+		"vsde-documentEditorViewSettingsDialog-title": "Налаштування перегляду редактора документів",
+		"vsde-documentPageSettingsDialog-title": "Налаштування сторінки документа",
+		"vsde-documentPageColumnsSettingsDialog-title": "Налаштування стовпців сторінки"
+	}
+}

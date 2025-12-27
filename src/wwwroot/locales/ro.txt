@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fișier"
+		},
+		"homeLabel": {
+			"text": "Principal"
+		},
+		"insertLabel": {
+			"text": "Inserare"
+		},
+		"layoutLabel": {
+			"text": "Aspect"
+		},
+		"createDocxDocumentButton": {
+			"title": "Creați un document DOCX nou"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Încărcați și deschideți documentul"
+		},
+		"documentInfoButton": {
+			"title": "Informații despre document..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Salvați modificările aduse fișierului sursă"
+		},
+		"downloadFileButton": {
+			"title": "Descărcare fișier"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Exportați documentul DOCX în format PDF și descărcați fișierul PDF..."
+		},
+		"printDocumentButton": {
+			"title": "Imprimați documentul..."
+		},
+		"closeDocumentButton": {
+			"title": "Închideți documentul"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Goliți memoria cache a sesiunii"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Setări editor documente..."
+		},
+		"copyContentButton": {
+			"title": "Copiați conținutul"
+		},
+		"cutContentButton": {
+			"title": "Tăiați conținutul"
+		},
+		"pasteContentButton": {
+			"title": "Lipire conținut"
+		},
+		"pasteTextContentButton": {
+			"title": "Lipiți conținut text"
+		},
+		"increaseFontSizeButton": {
+			"title": "Măriți dimensiunea fontului"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Micșorați dimensiunea fontului"
+		},
+		"boldTextButton": {
+			"title": "Aldin"
+		},
+		"italicTextButton": {
+			"title": "Italică"
+		},
+		"underlineTextButton": {
+			"title": "Subliniat"
+		},
+		"strikethroughTextButton": {
+			"title": "Încrucișat"
+		},
+		"superscriptTextButton": {
+			"title": "Text exponent"
+		},
+		"subscriptTextButton": {
+			"title": "Text indice"
+		},
+		"setTextColorButton": {
+			"title": "Setează culoarea textului"
+		},
+		"selectTextColorButton": {
+			"title": "Selectează culoarea textului"
+		},
+		"setTextFillColorButton": {
+			"title": "Setează culoarea de umplere a textului"
+		},
+		"selectTextFillColorButton": {
+			"title": "Selectează culoarea de umplere a textului"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Ștergeți toate formatele"
+		},
+		"textPropertiesButton": {
+			"title": "Proprietăți text..."
+		},
+		"decreaseIndentButton": {
+			"title": "Micșorați indentarea"
+		},
+		"increaseIndentButton": {
+			"title": "Măriți indentarea"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Micșorați indentarea primului rând"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Măriți indentarea primului rând"
+		},
+		"bulletedListButton": {
+			"title": "Listă cu marcatori"
+		},
+		"bulletedListStylesButton": {
+			"title": "Stiluri pentru liste cu marcatori"
+		},
+		"numberedListButton": {
+			"title": "Listă numerotată"
+		},
+		"numberedListStylesButton": {
+			"title": "Stiluri pentru liste numerotate"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Afișare caractere neimprimabile"
+		},
+		"alignLeftButton": {
+			"title": "Aliniere la stânga"
+		},
+		"alignCenterButton": {
+			"title": "Aliniere la centru"
+		},
+		"alignRightButton": {
+			"title": "Aliniați la dreapta"
+		},
+		"alignBothButton": {
+			"title": "Aliniere ambele"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Setează culoarea de umplere a paragrafului"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Selectează culoarea de umplere a paragrafului"
+		},
+		"stylePainterButton": {
+			"title": "Pictor de stil"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Proprietăți paragraf..."
+		},
+		"insertPageBreakButton": {
+			"title": "Inserare sfârșit de pagină"
+		},
+		"createHeaderButton": {
+			"title": "Creare/editare antet"
+		},
+		"deleteHeaderButton": {
+			"title": "Ștergere antet"
+		},
+		"createFooterButton": {
+			"title": "Creare/editare subsol"
+		},
+		"deleteFooterButton": {
+			"title": "Ștergere subsol"
+		},
+		"changePageOrientationButton": {
+			"title": "Modificare orientare pagină"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Adăugare sfârșit de secțiune (Pagina următoare)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Adăugare sfârșit de secțiune (Continuu)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Adăugare sfârșit de secțiune (Pagina pară)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Adăugare sfârșit de secțiune (Pagina impară)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Adăugare sfârșit de coloană"
+		},
+		"removeSectionBreakButton": {
+			"title": "Eliminare sfârșit de secțiune"
+		},
+		"pageSettingsButton": {
+			"title": "Setări pagină document..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Setări coloane pagină..."
+		},
+		"goToFirstPageButton": {
+			"title": "Salt la prima pagină"
+		},
+		"goToPreviousPageButton": {
+			"title": "Salt la pagina anterioară"
+		},
+		"gotoPageInput": {
+			"title": "Pagină"
+		},
+		"goToNextPageButton": {
+			"title": "Salt la pagina următoare"
+		},
+		"goToLastPageButton": {
+			"title": "Salt la ultima pagină"
+		},
+		"viewPropertiesButton": {
+			"title": "Vizualizare setări..."
+		},
+		"view_fitToPageButton": {
+			"title": "Potrivire la pagină"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Potrivire la lățimea paginii"
+		},
+		"view_multiPagesButton": {
+			"title": "Mai multe pagini"
+		},
+		"view_onePageButton": {
+			"title": "O pagină"
+		},
+		"zoomOutButton": {
+			"title": "Mărire"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Măriți"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Stânga:"
+			},
+			"rightIndentationLabel": {
+				"text": "Dreapta:"
+			},
+			"specialIndentationLabel": {
+				"text": "Special:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Nu"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Prima linie"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Atârnat"
+			},
+			"byLabel": {
+				"text": "De:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			},
+			"viewModeListLabel": {
+				"text": "Mod de vizualizare:"
+			},
+			"Vertical": {
+				"text": "Verticală"
+			},
+			"Horizontal": {
+				"text": "Orizontal"
+			},
+			"pagesInLineLabel": {
+				"text": "Pagini pe linie/coloană:"
+			},
+			"pagePaddingLabel": {
+				"text": "Umplutură pagină (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Înainte:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automat"
+			},
+			"spacingAfterLabel": {
+				"text": "După:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automat"
+			},
+			"lineSpacingLabel": {
+				"text": "Spațiere rând:"
+			},
+			"Scale": {
+				"text": "Scală"
+			},
+			"Exact": {
+				"text": "Exact"
+			},
+			"AtLeast": {
+				"text": "Cel puțin"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Nu adăugați spațiu între paragrafe de același stil"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Control fereastră"
+			},
+			"keepNextLabel": {
+				"text": "Păstrați următorul"
+			},
+			"keepLinesLabel": {
+				"text": "Păstrați liniile"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Sfârșit de pagină înainte"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Font:"
+			},
+			"fontStyleLabel": {
+				"text": "Stil font:"
+			},
+			"Regular": {
+				"text": "Regular"
+			},
+			"Italic": {
+				"text": "Cursiv"
+			},
+			"Bold": {
+				"text": "Îndrăzneţ"
+			},
+			"BoldItalic": {
+				"text": "Îngroșat Italic"
+			},
+			"fontSizeLabel": {
+				"text": "Dimensiune font:"
+			},
+			"fontColorLabel": {
+				"text": "Culoare font:"
+			},
+			"underlineStyleLabel": {
+				"text": "Text subliniat:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Text tăiat:"
+			},
+			"verticalPositionLabel": {
+				"text": "Poziție verticală:"
+			},
+			"Baseline": {
+				"text": "Linie de bază"
+			},
+			"Superscript": {
+				"text": "Exponent"
+			},
+			"Subscript": {
+				"text": "Indice"
+			},
+			"smallCapsLabel": {
+				"text": "Majuscule mici"
+			},
+			"allCapsLabel": {
+				"text": "Toate majuscule"
+			},
+			"scaleLabel": {
+				"text": "Scara miniaturi:"
+			},
+			"spacingLabel": {
+				"text": "Spațiere:"
+			},
+			"positionLabel": {
+				"text": "Poziție:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Listă cu mai multe niveluri:"
+			},
+			"alignmentLabel": {
+				"text": "Aliniere:"
+			},
+			"Left": {
+				"text": "Stânga"
+			},
+			"Right": {
+				"text": "Corect"
+			},
+			"Center": {
+				"text": "Aliniere la centru"
+			},
+			"Both": {
+				"text": "Ambele"
+			},
+			"lineSpacingLabel": {
+				"text": "Spațiere rând:"
+			},
+			"Single": {
+				"text": "Simple"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dublu"
+			},
+			"Triple": {
+				"text": "Triplu"
+			},
+			"Custom...": {
+				"text": "Personalizat..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Setări spațiere paragraf..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Setări indentare paragraf..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Setări paginare paragraf..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Titlu:"
+			},
+			"subjectLabel": {
+				"text": "Subiect:"
+			},
+			"creatorLabel": {
+				"text": "Creator:"
+			},
+			"descriptionLabel": {
+				"text": "Descriere:"
+			},
+			"categoryLabel": {
+				"text": "Categorie:"
+			},
+			"keywordsLabel": {
+				"text": "Cuvinte cheie:"
+			},
+			"createdLabel": {
+				"text": "Creat:"
+			},
+			"modifiedLabel": {
+				"text": "Modificat:"
+			},
+			"printedLabel": {
+				"text": "Tipărit:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Ultima modificare de către:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Culoare de selecție a textului:"
+			},
+			"backgroundColorLabel": {
+				"text": "Culoare de fundal:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Unități implicite:"
+			},
+			"Centimeters": {
+				"text": "centimetri"
+			},
+			"Millimeters": {
+				"text": "Milimetri"
+			},
+			"Inches": {
+				"text": "inci"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Afișați chenarele invizibile ale tabelului"
+			},
+			"asyncModeLabel": {
+				"text": "Modul asincron"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Începutul secțiunii:"
+			},
+			"NextPage": {
+				"text": "Pagina următoare"
+			},
+			"NextColumn": {
+				"text": "Coloana următoare"
+			},
+			"Continuous": {
+				"text": "Continuă"
+			},
+			"EvenPage": {
+				"text": "Chiar și Pagina"
+			},
+			"OddPage": {
+				"text": "Pagină ciudată"
+			},
+			"pageSizeLabel": {
+				"text": "Dimensiunea paginii:"
+			},
+			"pageOrientationLabel": {
+				"text": "Orientarea paginii:"
+			},
+			"Portrait": {
+				"text": "Portret"
+			},
+			"Landscape": {
+				"text": "Peisaj"
+			},
+			"pageMarginsLabel": {
+				"text": "Marginile paginii (cm):"
+			},
+			"leftLabel": {
+				"text": "Stânga:"
+			},
+			"rightLabel": {
+				"text": "dreapta:"
+			},
+			"topLabel": {
+				"text": "Sus:"
+			},
+			"bottomLabel": {
+				"text": "De jos:"
+			},
+			"headerLabel": {
+				"text": "Antet:"
+			},
+			"footerLabel": {
+				"text": "Subsol:"
+			},
+			"gutterLabel": {
+				"text": "Jgheab:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Utilizați titlu diferit pentru prima pagină"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Utilizați titlu diferit pentru paginile pare și impare"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Număr de coloane:"
+			},
+			"lineBetweenLabel": {
+				"text": "Linie între"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Lățime și distanță"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Lățimea coloanei este egală"
+			},
+			"columnNumberLabel": {
+				"text": "Numărul coloanei:"
+			},
+			"widthLabel": {
+				"text": "Latime:"
+			},
+			"spacingLabel": {
+				"text": "Spațiere:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Închidere"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Eroare"
+		},
+		"closeButton": {
+			"text": "Închidere"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Documentul se deschide...",
+		"vssde-numberFormat-custom": "Personalizat",
+		"vssde-findTextPanel-textIsNotFound": "Textul '{0}' nu a fost găsit.",
+		"vssde-selectFunctionPanel-all": "Toate",
+		"vssde-createXlsxDocument": "Creați un document XLSX nou",
+		"vssde-uploadXlsxFile": "Încărcați fișierul XLSX",
+		"vssde-downloadXlsxFile": "Încărcați fișierul XLSX",
+		"vssde-exportXlsxToPdf": "Exportați XLSX în PDF",
+		"vssde-fileSizeExceedsLimit": "Dimensiunea fișierului încărcat depășește dimensiunea maximă ({0} octeți).",
+		"vssde-error-noError": "Nicio eroare.",
+		"vssde-error-divisionByZero": "Orice număr (inclusiv zero) sau orice cod de eroare este împărțit la zero.",
+		"vssde-error-cellRefCannotBeEvaluated": "O referință de celulă nu poate fi evaluată deoarece valoarea pentru celulă nu a fost preluată sau calculată.",
+		"vssde-error-valueIsNotAvailable": "O valoare desemnată nu este disponibilă.",
+		"vssde-error-wrongName": "Se pare că este folosit un nume, dar nu a fost definit un astfel de nume.",
+		"vssde-error-twoAreasNotIntersecting": "Două zone sunt necesare pentru a se intersecta, dar nu.",
+		"vssde-error-notCorrectValue": "Un argument pentru o funcție are un tip compatibil, dar are o valoare care se află în afara domeniului pe care acea funcție este definită.",
+		"vssde-error-cannotEvaluateCellRef": "O referință de celulă nu poate fi evaluată.",
+		"vssde-error-incompatibleType": "Un argument de tip incompatibil este transmis unei funcții sau un operand de tip incompatibil este utilizat cu un operator.",
+		"vssde-error-unknownError": "Eroare necunoscută.",
+		"vssde-error-externalError": "Eroare externă.",
+		"vssde-uriOpen-question": "Deschideți adresa URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Adresa acestui site nu este validă: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Doriți să creați un registru de lucru nou?",
+		"vsde-documentIsOpening": "Documentul se deschide...",
+		"vsde-createDocxDocument": "Creați un document DOCX nou",
+		"vsde-uploadDocumentFile": "Descărcați și deschideți fișierul",
+		"vsde-exportDocxDocumentToPdf": "Exportați documentul DOCX în PDF",
+		"vsde-downloadFile": "Descărcare fișier",
+		"vsde-cacheIsNotCleared": "Cache-ul nu este șters deoarece serviciul web implicit pentru fișiere (Vintasoft.Shared.WebServiceJS.defaultFileService) nu este definit.",
+		"vsde-uriOpen-question": "Deschideți adresa URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Adresa acestui site nu este validă: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Descărcați și deschideți fișierul",
+		"vsdv-uploadAndAddFileButton-addFileString": "Încărcați și adăugați fișier",
+		"vsui-textSearchPanel-pageLabel": "Pagină",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Ardeți adnotări",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Salvați adnotările",
+		"vsui-annotationListPanel-pageLabel": "Pagină",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Proprietăți de adnotare",
+		"vsdv-openFile-addFileString": "Adauga fisier",
+		"vsdv-openFile-authenticateFileString": "Autentificați fișierul",
+		"vsdv-downloadFile-actionMessage": "Descărcare fișier",
+		"vsdv-saveChanges-saveChangesInImages": "Salvați modificările în imagini",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Salvați modificările în adnotări",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Ardeți adnotări pe imagini",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Descărcați și deschideți fișierul",
+		"vsui-uploadAndAddFileButton-addFileString": "Încărcați și adăugați fișier",
+		"vsui-openFile-addFileString": "Adauga fisier",
+		"vsui-openFile-authenticateFileString": "Autentificați fișierul",
+		"vsui-downloadFile-actionMessage": "Descărcare fișier",
+		"vsui-saveChanges-saveChangesInImages": "Salvați modificările în imagini",
+		"vsui-saveChanges-saveChangesInAnnotations": "Salvați modificările în adnotări",
+		"vsui-saveChanges-burnAnnotationsInImages": "Ardeți adnotări pe imagini",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Salvați modificările în documentul PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Ardeți adnotări",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Salvați adnotările",
+		"vsui-documentPasswordDialog-title": "Parola documentului",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Anulează",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentificați fișierul",
+		"vsui-imageSelectionDialog-title": "Selectați imagini",
+		"vsui-imageSelectionDialog-currentImageString": "Imaginea curentă",
+		"vsui-imageSelectionDialog-allImagesString": "Toate imaginile",
+		"vsui-imageSelectionDialog-customImagesString": "Personalizat",
+		"vsui-documentLayoutSettingsDialog-title": "Setări de aspect al documentului",
+		"vsui-printImagesDialog-title": "Tipărește imagini",
+		"vsui-printImagesPanel-imagePrintingString": "Imaginea se imprimă",
+		"vsui-printImagesPanel-withAnnotationsLabel": "cu adnotări",
+		"vsui-imageViewerSettingsDialog-title": "Setări pentru vizualizarea imaginilor",
+		"vsui-thumbnailViewerSettingDialog-title": "Setări pentru vizualizatorul de miniaturi",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Afișează adnotări pe miniaturi:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Rotire imaginea adnotată",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Unghiul de rotație nu trebuie să fie 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Imaginea adnotată este rotită",
+		"vsui-uploadImageFromUrlDialog-title": "Încărcați imaginea de la URL",
+		"vsui-exportFileSettingsDialog-title": "Setările pentru exportul fișierului",
+		"vsdv-documentLayoutSettingsDialog-title": "Setări de aspect al documentului",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Anulează",
+		"vsdv-uploadImageFromUrlDialog-title": "Încărcați imaginea de la URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Activați istoricul modificărilor",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Dezactivează anularea/refacerea",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Activați modul 'Goma de șters pentru adnotări'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Dezactivați 'Ștergerea adnotărilor'",
+		"vsui-documentNavigationTool-getActions": "Obțineți acțiuni",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Setări pentru indentarea paragrafelor",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Închidere",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Setări de spațiere între rânduri",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Setări de paginare a paragrafelor",
+		"vsde-documentTextPropertiesDialog-title": "Proprietățile textului",
+		"vsde-documentParagraphPropertiesDialog-title": "Proprietățile paragrafului",
+		"vsde-documentInfoDialog-title": "Informații documentare",
+		"vsde-documentEditorSettingsDialog-title": "Setările editorului de documente",
+		"vsde-documentEditorViewSettingsDialog-title": "Setări de vizualizare a editorului de documente",
+		"vsde-documentPageSettingsDialog-title": "Setări pentru pagina documentului",
+		"vsde-documentPageColumnsSettingsDialog-title": "Setări pentru coloanele paginii"
+	}
+}

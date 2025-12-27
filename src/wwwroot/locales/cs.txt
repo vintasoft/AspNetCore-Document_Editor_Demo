@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Soubor"
+		},
+		"homeLabel": {
+			"text": "Hlavní"
+		},
+		"insertLabel": {
+			"text": "Vložit"
+		},
+		"layoutLabel": {
+			"text": "Rozvržení"
+		},
+		"createDocxDocumentButton": {
+			"title": "Vytvořit nový dokument DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Nahrát a otevřít dokument"
+		},
+		"documentInfoButton": {
+			"title": "Informace o dokumentu..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Uložit změny do zdrojového souboru"
+		},
+		"downloadFileButton": {
+			"title": "Stáhnout soubor"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Exportovat dokument DOCX do PDF a stáhnout soubor PDF..."
+		},
+		"printDocumentButton": {
+			"title": "Tisknout dokument..."
+		},
+		"closeDocumentButton": {
+			"title": "Zavřít dokument"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Vymazat mezipaměť relace"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Nastavení editoru dokumentů..."
+		},
+		"copyContentButton": {
+			"title": "Kopírovat obsah"
+		},
+		"cutContentButton": {
+			"title": "Oříznutý obsah"
+		},
+		"pasteContentButton": {
+			"title": "Obsah vložit"
+		},
+		"pasteTextContentButton": {
+			"title": "Vložit textový obsah"
+		},
+		"increaseFontSizeButton": {
+			"title": "Zvětšit velikost písma"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Zmenšit velikost písma"
+		},
+		"boldTextButton": {
+			"title": "Tučné"
+		},
+		"italicTextButton": {
+			"title": "kurzíva"
+		},
+		"underlineTextButton": {
+			"title": "Podtrženo"
+		},
+		"strikethroughTextButton": {
+			"title": "Zkřížené"
+		},
+		"superscriptTextButton": {
+			"title": "Horní text"
+		},
+		"subscriptTextButton": {
+			"title": "Dolní text"
+		},
+		"setTextColorButton": {
+			"title": "Nastavení barvy textu"
+		},
+		"selectTextColorButton": {
+			"title": "Vybrat barvu textu"
+		},
+		"setTextFillColorButton": {
+			"title": "Nastavení barvy výplně textu"
+		},
+		"selectTextFillColorButton": {
+			"title": "Vybrat barvu výplně textu"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Vymazat veškeré formátování"
+		},
+		"textPropertiesButton": {
+			"title": "Vlastnosti textu..."
+		},
+		"decreaseIndentButton": {
+			"title": "Zmenšit odsazení"
+		},
+		"increaseIndentButton": {
+			"title": "Zvětšit odsazení"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Zmenšit odsazení prvního řádku"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Zvětšit odsazení prvního řádku"
+		},
+		"bulletedListButton": {
+			"title": "Seznam s odrážkami"
+		},
+		"bulletedListStylesButton": {
+			"title": "Styly pro seznamy s odrážkami"
+		},
+		"numberedListButton": {
+			"title": "Číslovaný seznam"
+		},
+		"numberedListStylesButton": {
+			"title": "Styly pro číslované seznamy"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Zobrazit netisknutelné znaky"
+		},
+		"alignLeftButton": {
+			"title": "Zarovnat doleva"
+		},
+		"alignCenterButton": {
+			"title": "Zarovnat na střed"
+		},
+		"alignRightButton": {
+			"title": "Zarovnat doprava"
+		},
+		"alignBothButton": {
+			"title": "Zarovnat oba"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Nastavení barvy výplně odstavce"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Vybrat barvu výplně odstavce"
+		},
+		"stylePainterButton": {
+			"title": "Stylový malíř"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Vlastnosti odstavce..."
+		},
+		"insertPageBreakButton": {
+			"title": "Vložit zalomení stránky"
+		},
+		"createHeaderButton": {
+			"title": "Vytvořit/upravit záhlaví"
+		},
+		"deleteHeaderButton": {
+			"title": "Smazat záhlaví"
+		},
+		"createFooterButton": {
+			"title": "Vytvořit/upravit zápatí"
+		},
+		"deleteFooterButton": {
+			"title": "Smazat zápatí"
+		},
+		"changePageOrientationButton": {
+			"title": "Změnit orientaci stránky"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Přidat zalomení oddílu (Další stránka)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Přidat zalomení oddílu (Souvislé)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Přidat zalomení oddílu (Sudá stránka)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Přidat zalomení oddílu (Lichá stránka)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Přidat zalomení sloupce"
+		},
+		"removeSectionBreakButton": {
+			"title": "Odebrat zalomení oddílu"
+		},
+		"pageSettingsButton": {
+			"title": "Nastavení stránky dokumentu..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Nastavení sloupců stránky..."
+		},
+		"goToFirstPageButton": {
+			"title": "Přejít na první stránku"
+		},
+		"goToPreviousPageButton": {
+			"title": "Přejít na předchozí stránku"
+		},
+		"gotoPageInput": {
+			"title": "Stránka"
+		},
+		"goToNextPageButton": {
+			"title": "Přejít na další stránku"
+		},
+		"goToLastPageButton": {
+			"title": "Přejít na poslední stránku"
+		},
+		"viewPropertiesButton": {
+			"title": "Nastavení zobrazení..."
+		},
+		"view_fitToPageButton": {
+			"title": "Přizpůsobit stránce"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Přizpůsobit šířce stránky"
+		},
+		"view_multiPagesButton": {
+			"title": "Více stránek"
+		},
+		"view_onePageButton": {
+			"title": "Jedna stránka"
+		},
+		"zoomOutButton": {
+			"title": "Oddálit"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Přiblížit"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Vlevo:"
+			},
+			"rightIndentationLabel": {
+				"text": "Vpravo:"
+			},
+			"specialIndentationLabel": {
+				"text": "Speciální:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Ne"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "První řádek"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Předseznam"
+			},
+			"byLabel": {
+				"text": "O:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			},
+			"viewModeListLabel": {
+				"text": "Režim zobrazení:"
+			},
+			"Vertical": {
+				"text": "Vertikální"
+			},
+			"Horizontal": {
+				"text": "Horizontální"
+			},
+			"pagesInLineLabel": {
+				"text": "Stránky v řádku/sloupci:"
+			},
+			"pagePaddingLabel": {
+				"text": "Odsazení stránky (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Před:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automaticky"
+			},
+			"spacingAfterLabel": {
+				"text": "Po:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automaticky"
+			},
+			"lineSpacingLabel": {
+				"text": "Řádkování:"
+			},
+			"Scale": {
+				"text": "Měřítko"
+			},
+			"Exact": {
+				"text": "Přesně"
+			},
+			"AtLeast": {
+				"text": "Nejméně"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Nepřidávat mezery mezi odstavce stejného stylu"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Ovládání vdovy"
+			},
+			"keepNextLabel": {
+				"text": "Ponechat další"
+			},
+			"keepLinesLabel": {
+				"text": "Ponechat řádky"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Zalomení stránky před"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Písmo:"
+			},
+			"fontStyleLabel": {
+				"text": "Styl písma:"
+			},
+			"Regular": {
+				"text": "Normální"
+			},
+			"Italic": {
+				"text": "Kurzíva"
+			},
+			"Bold": {
+				"text": "Tučné"
+			},
+			"BoldItalic": {
+				"text": "Tučné Kurzíva"
+			},
+			"fontSizeLabel": {
+				"text": "Velikost písma:"
+			},
+			"fontColorLabel": {
+				"text": "Barva písma:"
+			},
+			"underlineStyleLabel": {
+				"text": "Podtržený text:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Přeškrtnutý text:"
+			},
+			"verticalPositionLabel": {
+				"text": "Svislá pozice:"
+			},
+			"Baseline": {
+				"text": "Účara"
+			},
+			"Superscript": {
+				"text": "Horní index"
+			},
+			"Subscript": {
+				"text": "Dolní index"
+			},
+			"smallCapsLabel": {
+				"text": "Malá písmena"
+			},
+			"allCapsLabel": {
+				"text": "Všechna velká písmena"
+			},
+			"scaleLabel": {
+				"text": "Měřítko miniatur:"
+			},
+			"spacingLabel": {
+				"text": "Mezery:"
+			},
+			"positionLabel": {
+				"text": "Pozice:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Víceúrovňový seznam:"
+			},
+			"alignmentLabel": {
+				"text": "Zarovnání:"
+			},
+			"Left": {
+				"text": "Vlevo"
+			},
+			"Right": {
+				"text": "Správně"
+			},
+			"Center": {
+				"text": "Zarovnat na střed"
+			},
+			"Both": {
+				"text": "Obě"
+			},
+			"lineSpacingLabel": {
+				"text": "Řádkování:"
+			},
+			"Single": {
+				"text": "Jednoduché"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dvojité"
+			},
+			"Triple": {
+				"text": "Trojité"
+			},
+			"Custom...": {
+				"text": "Vlastní..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Nastavení řádkování odstavce..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Nastavení odsazení odstavce..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Nastavení stránkování odstavce..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Název:"
+			},
+			"subjectLabel": {
+				"text": "Předmět:"
+			},
+			"creatorLabel": {
+				"text": "Tvůrce:"
+			},
+			"descriptionLabel": {
+				"text": "Popis:"
+			},
+			"categoryLabel": {
+				"text": "Kategorie:"
+			},
+			"keywordsLabel": {
+				"text": "Klíčová slova:"
+			},
+			"createdLabel": {
+				"text": "Vytvořeno:"
+			},
+			"modifiedLabel": {
+				"text": "Upraveno:"
+			},
+			"printedLabel": {
+				"text": "Tištěno:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Naposledy upravil(a):"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Barva výběru textu:"
+			},
+			"backgroundColorLabel": {
+				"text": "Barva pozadí:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Výchozí jednotky:"
+			},
+			"Centimeters": {
+				"text": "Centimetry"
+			},
+			"Millimeters": {
+				"text": "milimetry"
+			},
+			"Inches": {
+				"text": "palce"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Zobrazit neviditelné okraje tabulky"
+			},
+			"asyncModeLabel": {
+				"text": "Asynchronní režim"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Začátek sekce:"
+			},
+			"NextPage": {
+				"text": "Další Stránka"
+			},
+			"NextColumn": {
+				"text": "DalšíSloupec"
+			},
+			"Continuous": {
+				"text": "Kontinuální"
+			},
+			"EvenPage": {
+				"text": "Sudá stránka"
+			},
+			"OddPage": {
+				"text": "Lichá stránka"
+			},
+			"pageSizeLabel": {
+				"text": "Velikost stránky:"
+			},
+			"pageOrientationLabel": {
+				"text": "Orientace stránky:"
+			},
+			"Portrait": {
+				"text": "Portrét"
+			},
+			"Landscape": {
+				"text": "Krajina"
+			},
+			"pageMarginsLabel": {
+				"text": "Okraje stránky (cm):"
+			},
+			"leftLabel": {
+				"text": "Vlevo:"
+			},
+			"rightLabel": {
+				"text": "Vpravo:"
+			},
+			"topLabel": {
+				"text": "Nahoře:"
+			},
+			"bottomLabel": {
+				"text": "Dole:"
+			},
+			"headerLabel": {
+				"text": "záhlaví:"
+			},
+			"footerLabel": {
+				"text": "Zápatí:"
+			},
+			"gutterLabel": {
+				"text": "Žlab:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Pro první stránku použijte jiný nadpis"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Pro liché a sudé stránky použijte jiný nadpis"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Počet sloupců:"
+			},
+			"lineBetweenLabel": {
+				"text": "Linka mezi"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Šířka a rozestup"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Stejná šířka sloupce"
+			},
+			"columnNumberLabel": {
+				"text": "Číslo sloupce:"
+			},
+			"widthLabel": {
+				"text": "Šířka:"
+			},
+			"spacingLabel": {
+				"text": "Mezery:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zavřít"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Chyba"
+		},
+		"closeButton": {
+			"text": "Zavřít"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokument se otevírá...",
+		"vssde-numberFormat-custom": "Vlastní",
+		"vssde-findTextPanel-textIsNotFound": "Text '{0}' nebyl nalezen.",
+		"vssde-selectFunctionPanel-all": "Vše",
+		"vssde-createXlsxDocument": "Vytvořte nový dokument XLSX",
+		"vssde-uploadXlsxFile": "Nahrajte soubor XLSX",
+		"vssde-downloadXlsxFile": "Nahrajte soubor XLSX",
+		"vssde-exportXlsxToPdf": "Export XLSX do PDF",
+		"vssde-fileSizeExceedsLimit": "Velikost nahraného souboru překračuje maximální velikost ({0} bajtů).",
+		"vssde-error-noError": "Žádná chyba.",
+		"vssde-error-divisionByZero": "Jakékoli číslo (včetně nuly) nebo jakýkoli chybový kód se vydělí nulou.",
+		"vssde-error-cellRefCannotBeEvaluated": "Odkaz na buňku nelze vyhodnotit, protože nebyla načtena nebo vypočtena hodnota buňky.",
+		"vssde-error-valueIsNotAvailable": "Určená hodnota není k dispozici.",
+		"vssde-error-wrongName": "Zdá se, že je použit název, ale žádný takový název nebyl definován.",
+		"vssde-error-twoAreasNotIntersecting": "Dvě oblasti se musí protínat, ale neprotínají se.",
+		"vssde-error-notCorrectValue": "Argument funkce má kompatibilní typ, ale má hodnotu, která je mimo doménu, ve které je funkce definována.",
+		"vssde-error-cannotEvaluateCellRef": "Odkaz na buňku nelze vyhodnotit.",
+		"vssde-error-incompatibleType": "Funkce je předán argument nekompatibilního typu nebo je použit operand nekompatibilního typu s operátorem.",
+		"vssde-error-unknownError": "Neznámá chyba.",
+		"vssde-error-externalError": "Externí chyba.",
+		"vssde-uriOpen-question": "Otevřít adresu URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Adresa tohoto webu není platná: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Chcete vytvořit nový sešit?",
+		"vsde-documentIsOpening": "Dokument se otevírá...",
+		"vsde-createDocxDocument": "Vytvořit nový dokument DOCX",
+		"vsde-uploadDocumentFile": "Stáhněte a otevřete soubor",
+		"vsde-exportDocxDocumentToPdf": "Export dokumentu DOCX do PDF",
+		"vsde-downloadFile": "Stáhnout soubor",
+		"vsde-cacheIsNotCleared": "Mezipaměť není vymazána, protože není definována výchozí souborová webová služba (Vintasoft.Shared.WebServiceJS.defaultFileService).",
+		"vsde-uriOpen-question": "Otevřít adresu URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Adresa tohoto webu není platná: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Stáhněte a otevřete soubor",
+		"vsdv-uploadAndAddFileButton-addFileString": "Nahrajte a přidejte soubor",
+		"vsui-textSearchPanel-pageLabel": "Stránka",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Vypálit anotace",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Uložit anotace",
+		"vsui-annotationListPanel-pageLabel": "Stránka",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Vlastnosti anotace",
+		"vsdv-openFile-addFileString": "Přidat soubor",
+		"vsdv-openFile-authenticateFileString": "Ověření souboru",
+		"vsdv-downloadFile-actionMessage": "Stáhnout soubor",
+		"vsdv-saveChanges-saveChangesInImages": "Uložte změny v obrázcích",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Uložte změny v anotacích",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Vypálit poznámky na obrázky",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Stáhněte a otevřete soubor",
+		"vsui-uploadAndAddFileButton-addFileString": "Nahrajte a přidejte soubor",
+		"vsui-openFile-addFileString": "Přidat soubor",
+		"vsui-openFile-authenticateFileString": "Ověření souboru",
+		"vsui-downloadFile-actionMessage": "Stáhnout soubor",
+		"vsui-saveChanges-saveChangesInImages": "Uložte změny v obrázcích",
+		"vsui-saveChanges-saveChangesInAnnotations": "Uložte změny v anotacích",
+		"vsui-saveChanges-burnAnnotationsInImages": "Vypálit poznámky na obrázky",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Uložte změny do dokumentu PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Vypálit anotace",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Uložit anotace",
+		"vsui-documentPasswordDialog-title": "Heslo dokumentu",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Zrušit",
+		"vsui-documentPasswordPanel-authenticateFileString": "Ověření souboru",
+		"vsui-imageSelectionDialog-title": "Vyberte obrázky",
+		"vsui-imageSelectionDialog-currentImageString": "Aktuální obrázek",
+		"vsui-imageSelectionDialog-allImagesString": "Všechny obrázky",
+		"vsui-imageSelectionDialog-customImagesString": "Vlastní",
+		"vsui-documentLayoutSettingsDialog-title": "Nastavení rozvržení dokumentu",
+		"vsui-printImagesDialog-title": "Tisk obrázků",
+		"vsui-printImagesPanel-imagePrintingString": "Obrázek se tiskne",
+		"vsui-printImagesPanel-withAnnotationsLabel": "s poznámkami",
+		"vsui-imageViewerSettingsDialog-title": "Nastavení prohlížeče obrázků",
+		"vsui-thumbnailViewerSettingDialog-title": "Nastavení prohlížeče miniatur",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Zobrazení poznámek na miniaturách:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Otočit anotovaný obrázek",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Úhel otočení nesmí být 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Anotovaný obrázek se otáčí",
+		"vsui-uploadImageFromUrlDialog-title": "Nahrajte obrázek z adresy URL",
+		"vsui-exportFileSettingsDialog-title": "Nastavení pro export souboru",
+		"vsdv-documentLayoutSettingsDialog-title": "Nastavení rozvržení dokumentu",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Zrušit",
+		"vsdv-uploadImageFromUrlDialog-title": "Nahrajte obrázek z adresy URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Povolit historii změn",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Zakázat vrácení/znovu",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Povolit 'Guma pro anotace'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Zakázat 'gumu anotací'",
+		"vsui-documentNavigationTool-getActions": "Získejte akce",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Nastavení odsazení odstavců",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Zavřít",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Nastavení řádkování odstavců",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Nastavení stránkování odstavce",
+		"vsde-documentTextPropertiesDialog-title": "Vlastnosti textu",
+		"vsde-documentParagraphPropertiesDialog-title": "Vlastnosti odstavce",
+		"vsde-documentInfoDialog-title": "Informace o dokumentu",
+		"vsde-documentEditorSettingsDialog-title": "Nastavení editoru dokumentů",
+		"vsde-documentEditorViewSettingsDialog-title": "Nastavení zobrazení editoru dokumentů",
+		"vsde-documentPageSettingsDialog-title": "Nastavení stránky dokumentu",
+		"vsde-documentPageColumnsSettingsDialog-title": "Nastavení sloupců stránky"
+	}
+}

@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fails"
+		},
+		"homeLabel": {
+			"text": "Mājas"
+		},
+		"insertLabel": {
+			"text": "Ievietot"
+		},
+		"layoutLabel": {
+			"text": "Izkārtojums"
+		},
+		"createDocxDocumentButton": {
+			"title": "Izveidot jaunu DOCX dokumentu"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Augšupielādēt un atvērt dokumentu"
+		},
+		"documentInfoButton": {
+			"title": "Dokumenta informācija..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Saglabāt izmaiņas avota failā"
+		},
+		"downloadFileButton": {
+			"title": "Lejupielādēt failu"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Eksportēt DOCX dokumentu PDF formātā un lejupielādēt PDF failu..."
+		},
+		"printDocumentButton": {
+			"title": "Drukāt dokumentu..."
+		},
+		"closeDocumentButton": {
+			"title": "Aizvērt dokumentu"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Notīrīt sesijas kešatmiņu"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Dokumentu redaktora iestatījumi..."
+		},
+		"copyContentButton": {
+			"title": "Kopēt saturu"
+		},
+		"cutContentButton": {
+			"title": "Izgriezt saturu"
+		},
+		"pasteContentButton": {
+			"title": "Ielīmējiet saturu"
+		},
+		"pasteTextContentButton": {
+			"title": "Ielīmēt teksta saturu"
+		},
+		"increaseFontSizeButton": {
+			"title": "Palielināt fonta lielumu"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Samazināt fonta lielumu"
+		},
+		"boldTextButton": {
+			"title": "Treknrakstā teksts"
+		},
+		"italicTextButton": {
+			"title": "Teksts slīprakstā"
+		},
+		"underlineTextButton": {
+			"title": "Pasvītrot tekstu"
+		},
+		"strikethroughTextButton": {
+			"title": "Pārsvītrots teksts"
+		},
+		"superscriptTextButton": {
+			"title": "Augšraksta teksts"
+		},
+		"subscriptTextButton": {
+			"title": "Apakšraksta teksts"
+		},
+		"setTextColorButton": {
+			"title": "Iestatīt teksta krāsu"
+		},
+		"selectTextColorButton": {
+			"title": "Atlasīt teksta krāsu"
+		},
+		"setTextFillColorButton": {
+			"title": "Iestatīt teksta aizpildījuma krāsu"
+		},
+		"selectTextFillColorButton": {
+			"title": "Atlasīt teksta aizpildījuma krāsu"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Notīrīt visus formatējumus"
+		},
+		"textPropertiesButton": {
+			"title": "Teksta īpašības..."
+		},
+		"decreaseIndentButton": {
+			"title": "Samazināt atkāpi"
+		},
+		"increaseIndentButton": {
+			"title": "Palielināt atkāpi"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Samazināt pirmās rindas atkāpi"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Palielināt pirmās rindas atkāpi"
+		},
+		"bulletedListButton": {
+			"title": "Saraksts ar aizzīmēm"
+		},
+		"bulletedListStylesButton": {
+			"title": "Stili aizzīmēm"
+		},
+		"numberedListButton": {
+			"title": "Numurēts saraksts"
+		},
+		"numberedListStylesButton": {
+			"title": "Stili numurētiem sarakstiem"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Rādīt nedrukājamās rakstzīmes"
+		},
+		"alignLeftButton": {
+			"title": "Izlīdzināt pa kreisi"
+		},
+		"alignCenterButton": {
+			"title": "Centrs"
+		},
+		"alignRightButton": {
+			"title": "Izlīdziniet pa labi"
+		},
+		"alignBothButton": {
+			"title": "Izlīdzināt abas"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Iestatīt rindkopas aizpildījuma krāsu"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Atlasīt rindkopas aizpildījuma krāsu"
+		},
+		"stylePainterButton": {
+			"title": "Stila gleznotājs"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Rindkopas īpašības..."
+		},
+		"insertPageBreakButton": {
+			"title": "Ievietot lappuses pārtraukumu"
+		},
+		"createHeaderButton": {
+			"title": "Izveidot/rediģēt galveni"
+		},
+		"deleteHeaderButton": {
+			"title": "Dzēst galveni"
+		},
+		"createFooterButton": {
+			"title": "Izveidot/rediģēt kājeni"
+		},
+		"deleteFooterButton": {
+			"title": "Dzēst kājeni"
+		},
+		"changePageOrientationButton": {
+			"title": "Mainīt lappuses orientāciju"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Pievienot sadaļas pārtraukumu (Nākamā lapa)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Pievienot sadaļas pārtraukumu (Nepārtraukts)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Pievienot sadaļas pārtraukumu (Pāra lapa)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Pievienot sadaļas pārtraukumu (Nepāra lapa)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Pievienot kolonnas pārtraukumu"
+		},
+		"removeSectionBreakButton": {
+			"title": "Noņemt sadaļas pārtraukumu"
+		},
+		"pageSettingsButton": {
+			"title": "Dokumenta lappuses iestatījumi..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Lapas kolonnu iestatījumi..."
+		},
+		"goToFirstPageButton": {
+			"title": "Doties uz pirmo lappusi"
+		},
+		"goToPreviousPageButton": {
+			"title": "Doties uz iepriekšējo lappusi"
+		},
+		"gotoPageInput": {
+			"title": "Lappuse"
+		},
+		"goToNextPageButton": {
+			"title": "Doties uz nākamo lappusi"
+		},
+		"goToLastPageButton": {
+			"title": "Doties uz pēdējo lappusi"
+		},
+		"viewPropertiesButton": {
+			"title": "Skatīt iestatījumus..."
+		},
+		"view_fitToPageButton": {
+			"title": "Pielāgot lappusei"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Pielāgot lappuses platumam"
+		},
+		"view_multiPagesButton": {
+			"title": "Vairākas lappuses"
+		},
+		"view_onePageButton": {
+			"title": "Viena lapa"
+		},
+		"zoomOutButton": {
+			"title": "Attālināt"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Pietuvināt"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Pa kreisi:"
+			},
+			"rightIndentationLabel": {
+				"text": "Pa labi:"
+			},
+			"specialIndentationLabel": {
+				"text": "Īpaši:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Nav"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Pirmā rinda"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Atkāpšanās"
+			},
+			"byLabel": {
+				"text": "Pēc:"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			},
+			"viewModeListLabel": {
+				"text": "Skata režīms:"
+			},
+			"Vertical": {
+				"text": "Vertikāli"
+			},
+			"Horizontal": {
+				"text": "Horizontāli"
+			},
+			"pagesInLineLabel": {
+				"text": "Lapas rindā/kolonnā:"
+			},
+			"pagePaddingLabel": {
+				"text": "Lapas atstarpe (pikseļi):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Pirms:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automātiski"
+			},
+			"spacingAfterLabel": {
+				"text": "Pēc:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automātiski"
+			},
+			"lineSpacingLabel": {
+				"text": "Rindu atstarpe:"
+			},
+			"Scale": {
+				"text": "Mērogot"
+			},
+			"Exact": {
+				"text": "Precīzi"
+			},
+			"AtLeast": {
+				"text": "Vismaz"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Nepievienot atstarpi starp viena stila rindkopām"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Loga vadība"
+			},
+			"keepNextLabel": {
+				"text": "Paturēt nākamo"
+			},
+			"keepLinesLabel": {
+				"text": "Paturēt rindas"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Lapas pārtraukums pirms"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Fonts:"
+			},
+			"fontStyleLabel": {
+				"text": "Fonta stils:"
+			},
+			"Regular": {
+				"text": "Parasts"
+			},
+			"Italic": {
+				"text": "Kursīvs"
+			},
+			"Bold": {
+				"text": "Treknrakstā"
+			},
+			"BoldItalic": {
+				"text": "Treknraksts slīpraksts"
+			},
+			"fontSizeLabel": {
+				"text": "Fonta lielums:"
+			},
+			"fontColorLabel": {
+				"text": "Fonta krāsa:"
+			},
+			"underlineStyleLabel": {
+				"text": "Pasvītrotais teksts:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Pārsvītrotais teksts:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vertikālā pozīcija:"
+			},
+			"Baseline": {
+				"text": "Bāzes līnija"
+			},
+			"Superscript": {
+				"text": "Augšraksts"
+			},
+			"Subscript": {
+				"text": "Apakšraksts"
+			},
+			"smallCapsLabel": {
+				"text": "Mazie lielie burti"
+			},
+			"allCapsLabel": {
+				"text": "Visi lielie burti"
+			},
+			"scaleLabel": {
+				"text": "Mērogs:"
+			},
+			"spacingLabel": {
+				"text": "Atstarpe:"
+			},
+			"positionLabel": {
+				"text": "Pozīcija:"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Daudzlīmeņu saraksts:"
+			},
+			"alignmentLabel": {
+				"text": "Līdzinājums:"
+			},
+			"Left": {
+				"text": "Pa kreisi"
+			},
+			"Right": {
+				"text": "Pa labi"
+			},
+			"Center": {
+				"text": "Centrs"
+			},
+			"Both": {
+				"text": "Abi"
+			},
+			"lineSpacingLabel": {
+				"text": "Rindu atstarpe:"
+			},
+			"Single": {
+				"text": "Viens"
+			},
+			"1.15": {
+				"text": "1,15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dubults"
+			},
+			"Triple": {
+				"text": "Trīskāršs"
+			},
+			"Custom...": {
+				"text": "Pielāgots..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Rindkopas rindstarpas iestatījumi..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Rindkopas atkāpes iestatījumi..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Rindkopas lappušu numerācijas iestatījumi..."
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Nosaukums:"
+			},
+			"subjectLabel": {
+				"text": "Tēma:"
+			},
+			"creatorLabel": {
+				"text": "Izveidotājs:"
+			},
+			"descriptionLabel": {
+				"text": "Apraksts:"
+			},
+			"categoryLabel": {
+				"text": "Kategorija:"
+			},
+			"keywordsLabel": {
+				"text": "Atslēgvārdi:"
+			},
+			"createdLabel": {
+				"text": "Izveidots:"
+			},
+			"modifiedLabel": {
+				"text": "Modificēts:"
+			},
+			"printedLabel": {
+				"text": "Drukāts:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Pēdējo reizi modificēja:"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Teksta atlases krāsa:"
+			},
+			"backgroundColorLabel": {
+				"text": "Fona krāsa:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Noklusējuma vienības:"
+			},
+			"Centimeters": {
+				"text": "Centimetri"
+			},
+			"Millimeters": {
+				"text": "Milimetri"
+			},
+			"Inches": {
+				"text": "Collas"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Rādīt neredzamās tabulas apmales"
+			},
+			"asyncModeLabel": {
+				"text": "Asinhronais režīms"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Sadaļas sākums:"
+			},
+			"NextPage": {
+				"text": "Nākamā lapa"
+			},
+			"NextColumn": {
+				"text": "Nākamā kolonna"
+			},
+			"Continuous": {
+				"text": "Nepārtraukta"
+			},
+			"EvenPage": {
+				"text": "Pat Page"
+			},
+			"OddPage": {
+				"text": "Nepāra lapa"
+			},
+			"pageSizeLabel": {
+				"text": "Lapas izmērs:"
+			},
+			"pageOrientationLabel": {
+				"text": "Lapas orientācija:"
+			},
+			"Portrait": {
+				"text": "Portrets"
+			},
+			"Landscape": {
+				"text": "Ainava"
+			},
+			"pageMarginsLabel": {
+				"text": "Lapas piemales (cm):"
+			},
+			"leftLabel": {
+				"text": "Pa kreisi:"
+			},
+			"rightLabel": {
+				"text": "Pa labi:"
+			},
+			"topLabel": {
+				"text": "Augšā:"
+			},
+			"bottomLabel": {
+				"text": "Apakšā:"
+			},
+			"headerLabel": {
+				"text": "Virsraksts:"
+			},
+			"footerLabel": {
+				"text": "Kājene:"
+			},
+			"gutterLabel": {
+				"text": "Notekcaurule:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Pirmajā lapā izmantojiet citu virsrakstu"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Izmantojiet atšķirīgu virsrakstu nepāra un pāra lapām"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Kolonnu skaits:"
+			},
+			"lineBetweenLabel": {
+				"text": "Līnija starp"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Platums un atstatums"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Vienāds kolonnas platums"
+			},
+			"columnNumberLabel": {
+				"text": "Kolonnas numurs:"
+			},
+			"widthLabel": {
+				"text": "Platums:"
+			},
+			"spacingLabel": {
+				"text": "Atstarpe:"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"closeButton": {
+				"value": "Aizvērt"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Kļūda"
+		},
+		"closeButton": {
+			"text": "Aizvērt"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokuments tiek atvērts...",
+		"vssde-numberFormat-custom": "Pielāgots",
+		"vssde-findTextPanel-textIsNotFound": "Teksts '{0}' nav atrasts.",
+		"vssde-selectFunctionPanel-all": "Visi",
+		"vssde-createXlsxDocument": "Izveidojiet jaunu XLSX dokumentu",
+		"vssde-uploadXlsxFile": "Augšupielādējiet XLSX failu",
+		"vssde-downloadXlsxFile": "Lejupielādēt XLSX failu",
+		"vssde-exportXlsxToPdf": "Eksportējiet XLSX uz PDF",
+		"vssde-fileSizeExceedsLimit": "Augšupielādētā faila lielums pārsniedz maksimālo izmēru ({0} baiti).",
+		"vssde-error-noError": "Nav kļūdu.",
+		"vssde-error-divisionByZero": "Jebkurš skaitlis (ieskaitot nulli) vai kļūdas kods tiek dalīts ar nulli.",
+		"vssde-error-cellRefCannotBeEvaluated": "Šūnas atsauci nevar novērtēt, jo šūnas vērtība nav izgūta vai aprēķināta.",
+		"vssde-error-valueIsNotAvailable": "Norādītā vērtība nav pieejama.",
+		"vssde-error-wrongName": "Šķiet, ka tiek lietots nosaukums, taču šāds nosaukums nav definēts.",
+		"vssde-error-twoAreasNotIntersecting": "Divas zonas ir nepieciešamas, lai krustotos, bet nē.",
+		"vssde-error-notCorrectValue": "Funkcijas argumentam ir saderīgs tips, taču tā vērtība atrodas ārpus domēna, kurā šī funkcija ir definēta.",
+		"vssde-error-cannotEvaluateCellRef": "Šūnas atsauci nevar novērtēt.",
+		"vssde-error-incompatibleType": "Funkcijai tiek nodots nesaderīgs tipa arguments vai ar operatoru tiek izmantots nesaderīgs tipa operands.",
+		"vssde-error-unknownError": "Nezināma kļūda.",
+		"vssde-error-externalError": "Ārēja kļūda.",
+		"vssde-uriOpen-question": "Atvērt URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Šīs vietnes adrese nav derīga: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Vai vēlaties izveidot jaunu darbgrāmatu?",
+		"vsde-documentIsOpening": "Dokuments tiek atvērts...",
+		"vsde-createDocxDocument": "Izveidot jaunu DOCX dokumentu",
+		"vsde-uploadDocumentFile": "Augšupielādējiet un atveriet failu",
+		"vsde-exportDocxDocumentToPdf": "Eksportējiet DOCX dokumentu PDF formātā",
+		"vsde-downloadFile": "Lejupielādēt failu",
+		"vsde-cacheIsNotCleared": "Kešatmiņa nav notīrīta, jo nav definēts noklusējuma faila tīmekļa pakalpojums (Vintasoft.Shared.WebServiceJS.defaultFileService).",
+		"vsde-uriOpen-question": "Atvērt URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Šīs vietnes adrese nav derīga: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Augšupielādējiet un atveriet failu",
+		"vsdv-uploadAndAddFileButton-addFileString": "Augšupielādējiet un pievienojiet failu",
+		"vsui-textSearchPanel-pageLabel": "Lappuse",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Ierakstīt anotācijas",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Saglabājiet anotācijas",
+		"vsui-annotationListPanel-pageLabel": "Lappuse",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Anotācijas īpašības",
+		"vsdv-openFile-addFileString": "Pievienot failu",
+		"vsdv-openFile-authenticateFileString": "Autentificēt failu",
+		"vsdv-downloadFile-actionMessage": "Lejupielādēt failu",
+		"vsdv-saveChanges-saveChangesInImages": "Saglabājiet izmaiņas attēlos",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Saglabājiet izmaiņas anotācijās",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Ierakstiet anotācijas uz attēliem",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Augšupielādējiet un atveriet failu",
+		"vsui-uploadAndAddFileButton-addFileString": "Augšupielādējiet un pievienojiet failu",
+		"vsui-openFile-addFileString": "Pievienot failu",
+		"vsui-openFile-authenticateFileString": "Autentificēt failu",
+		"vsui-downloadFile-actionMessage": "Lejupielādēt failu",
+		"vsui-saveChanges-saveChangesInImages": "Saglabājiet izmaiņas attēlos",
+		"vsui-saveChanges-saveChangesInAnnotations": "Saglabājiet izmaiņas anotācijās",
+		"vsui-saveChanges-burnAnnotationsInImages": "Ierakstiet anotācijas uz attēliem",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Saglabājiet izmaiņas PDF dokumentā",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Ierakstīt anotācijas",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Saglabājiet anotācijas",
+		"vsui-documentPasswordDialog-title": "Dokumenta parole",
+		"vsui-dialog-okButton": "labi",
+		"vsui-dialog-cancelButton": "Atcelt",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentificēt failu",
+		"vsui-imageSelectionDialog-title": "Izvēlieties attēlus",
+		"vsui-imageSelectionDialog-currentImageString": "Pašreizējais attēls",
+		"vsui-imageSelectionDialog-allImagesString": "Visi attēli",
+		"vsui-imageSelectionDialog-customImagesString": "Pielāgots",
+		"vsui-documentLayoutSettingsDialog-title": "Dokumenta izkārtojuma iestatījumi",
+		"vsui-printImagesDialog-title": "Drukāt attēlus",
+		"vsui-printImagesPanel-imagePrintingString": "Attēls tiek drukāts",
+		"vsui-printImagesPanel-withAnnotationsLabel": "ar anotācijām",
+		"vsui-imageViewerSettingsDialog-title": "Attēlu skatītāja iestatījumi",
+		"vsui-thumbnailViewerSettingDialog-title": "Sīktēlu skatītāja iestatījumi",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Rādīt anotācijas:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Pagriezt attēlu ar anotācijām",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Rotācijas leņķim jābūt lielākam par nulli.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Rotējams attēls ar anotācijām",
+		"vsui-uploadImageFromUrlDialog-title": "Augšupielādējiet attēlu no URL",
+		"vsui-exportFileSettingsDialog-title": "Faila eksportēšanas iestatījumi",
+		"vsdv-documentLayoutSettingsDialog-title": "Dokumenta izkārtojuma iestatījumi",
+		"vsdv-dialog-okButton": "labi",
+		"vsdv-dialog-cancelButton": "Atcelt",
+		"vsdv-uploadImageFromUrlDialog-title": "Augšupielādējiet attēlu no URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Iespējot atsaukšanu/atcelšanu",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Atspējot atsaukšanu/atcelšanu",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Iespējot režīmu 'Dzēšgumija anotācijām'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Atspējot anotācijas dzēšgumiju",
+		"vsui-documentNavigationTool-getActions": "Iegūstiet darbības",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Rindkopas atkāpes iestatījumi",
+		"vsde-dialog-okButton": "labi",
+		"vsde-dialog-closeButton": "Aizvērt",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Rindkopu rindstarpu iestatījumi",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Rindkopu lappušu iestatījumi",
+		"vsde-documentTextPropertiesDialog-title": "Teksta īpašības",
+		"vsde-documentParagraphPropertiesDialog-title": "Rindkopas īpašības",
+		"vsde-documentInfoDialog-title": "Dokumentu informācija",
+		"vsde-documentEditorSettingsDialog-title": "Dokumentu redaktora iestatījumi",
+		"vsde-documentEditorViewSettingsDialog-title": "Dokumentu redaktora skata iestatījumi",
+		"vsde-documentPageSettingsDialog-title": "Dokumenta lapas iestatījumi",
+		"vsde-documentPageColumnsSettingsDialog-title": "Lapas kolonnu iestatījumi"
+	}
+}

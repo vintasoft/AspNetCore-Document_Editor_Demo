@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Ifayela"
+		},
+		"homeLabel": {
+			"text": "Ikhaya"
+		},
+		"insertLabel": {
+			"text": "Faka"
+		},
+		"layoutLabel": {
+			"text": "Isakhiwo"
+		},
+		"createDocxDocumentButton": {
+			"title": "Dala idokhumenti entsha ye-DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Layisha futhi uvule idokhumenti"
+		},
+		"documentInfoButton": {
+			"title": "Ulwazi lwedokhumenti..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Londoloza izinguquko kufayela lokuqala"
+		},
+		"downloadFileButton": {
+			"title": "Landa ifayela"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Thumela idokhumenti ye-DOCX ku-PDF bese ulanda ifayela le-PDF..."
+		},
+		"printDocumentButton": {
+			"title": "Phrinta idokhumenti..."
+		},
+		"closeDocumentButton": {
+			"title": "Vala idokhumenti"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Sula inqolobane yeseshini"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Izilungiselelo zomhleli wedokhumenti..."
+		},
+		"copyContentButton": {
+			"title": "Kopisha okuqukethwe"
+		},
+		"cutContentButton": {
+			"title": "Sika okuqukethwe"
+		},
+		"pasteContentButton": {
+			"title": "Namathisela okuqukethwe"
+		},
+		"pasteTextContentButton": {
+			"title": "Namathisela okuqukethwe kombhalo"
+		},
+		"increaseFontSizeButton": {
+			"title": "Khulisa usayizi wefonti"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Nciphisa usayizi wefonti"
+		},
+		"boldTextButton": {
+			"title": "Umbhalo ogqamile"
+		},
+		"italicTextButton": {
+			"title": "Umbhalo we-ithalikhi"
+		},
+		"underlineTextButton": {
+			"title": "Dwebela umbhalo"
+		},
+		"strikethroughTextButton": {
+			"title": "Umbhalo we-Strikethrough"
+		},
+		"superscriptTextButton": {
+			"title": "Umbhalo we-Superscript"
+		},
+		"subscriptTextButton": {
+			"title": "Umbhalo we-Subscript"
+		},
+		"setTextColorButton": {
+			"title": "Setha umbala wombhalo"
+		},
+		"selectTextColorButton": {
+			"title": "Khetha umbala wombhalo"
+		},
+		"setTextFillColorButton": {
+			"title": "Setha umbala wokugcwalisa umbhalo"
+		},
+		"selectTextFillColorButton": {
+			"title": "Khetha umbala wokugcwalisa umbhalo"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Susa konke ukufometha"
+		},
+		"textPropertiesButton": {
+			"title": "Izakhiwo zombhalo..."
+		},
+		"decreaseIndentButton": {
+			"title": "Nciphisa i-indent"
+		},
+		"increaseIndentButton": {
+			"title": "Khulisa i-indent"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Nciphisa i-indent yomugqa wokuqala"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Khulisa i-indent yomugqa wokuqala"
+		},
+		"bulletedListButton": {
+			"title": "Uhlu olunezinhlamvu"
+		},
+		"bulletedListStylesButton": {
+			"title": "Izitayela zohlu olunezinhlamvu"
+		},
+		"numberedListButton": {
+			"title": "Uhlu olunezinombolo"
+		},
+		"numberedListStylesButton": {
+			"title": "Izitayela zohlu olunezinombolo"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Bonisa izinhlamvu ezingaphrinteki"
+		},
+		"alignLeftButton": {
+			"title": "Qondanisa kwesokunxele"
+		},
+		"alignCenterButton": {
+			"title": "Isikhungo"
+		},
+		"alignRightButton": {
+			"title": "Qondanisa kwesokudla"
+		},
+		"alignBothButton": {
+			"title": "Hlelanisa kokubili"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Setha umbala wokugcwalisa isigaba"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Khetha umbala wokugcwalisa isigaba"
+		},
+		"stylePainterButton": {
+			"title": "Umdwebi Wesitayela"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Izakhiwo zezigaba..."
+		},
+		"insertPageBreakButton": {
+			"title": "Faka ukuhlukana kwekhasi"
+		},
+		"createHeaderButton": {
+			"title": "Dala/hlela isihloko"
+		},
+		"deleteHeaderButton": {
+			"title": "Susa isihloko"
+		},
+		"createFooterButton": {
+			"title": "Dala/hlela unyaweni"
+		},
+		"deleteFooterButton": {
+			"title": "Susa unyaweni"
+		},
+		"changePageOrientationButton": {
+			"title": "Shintsha ukuqondiswa kwekhasi"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Engeza ukuhlukana kwesigaba (Ikhasi elilandelayo)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Engeza ukuhlukana kwesigaba (Okuqhubekayo)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Engeza ukuhlukana kwesigaba (Ikhasi elilinganayo)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Engeza ukuhlukana kwesigaba (Ikhasi elingalingani)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Engeza ukuhlukana kwekholomu"
+		},
+		"removeSectionBreakButton": {
+			"title": "Susa ukuhlukana kwesigaba"
+		},
+		"pageSettingsButton": {
+			"title": "Izilungiselelo zekhasi ledokhumenti..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Izilungiselelo zamakholomu ekhasi..."
+		},
+		"goToFirstPageButton": {
+			"title": "Iya ekhasini lokuqala"
+		},
+		"goToPreviousPageButton": {
+			"title": "Iya ekhasini elidlule"
+		},
+		"gotoPageInput": {
+			"title": "Ikhasi"
+		},
+		"goToNextPageButton": {
+			"title": "Iya ekhasini elilandelayo"
+		},
+		"goToLastPageButton": {
+			"title": "Iya ekhasini lokugcina"
+		},
+		"viewPropertiesButton": {
+			"title": "Buka izilungiselelo..."
+		},
+		"view_fitToPageButton": {
+			"title": "Linganisa ikhasi"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Linganisa ububanzi bekhasi"
+		},
+		"view_multiPagesButton": {
+			"title": "Amakhasi amaningi"
+		},
+		"view_onePageButton": {
+			"title": "Ikhasi elilodwa"
+		},
+		"zoomOutButton": {
+			"title": "Hlehlisa isithombe"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Sondeza isithombe"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Kwesobunxele:"
+			},
+			"rightIndentationLabel": {
+				"text": "Kwesokudla:"
+			},
+			"specialIndentationLabel": {
+				"text": "Okukhethekile:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Lutho"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Umugqa Wokuqala"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Kulenga"
+			},
+			"byLabel": {
+				"text": "Ngu:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			},
+			"viewModeListLabel": {
+				"text": "Imodi yokubuka:"
+			},
+			"Vertical": {
+				"text": "Iqondile"
+			},
+			"Horizontal": {
+				"text": "Evundlile"
+			},
+			"pagesInLineLabel": {
+				"text": "Amakhasi emgqeni/kukholamu:"
+			},
+			"pagePaddingLabel": {
+				"text": "Ukugoqa ikhasi (i-px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Ngaphambi:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Okuzenzakalelayo"
+			},
+			"spacingAfterLabel": {
+				"text": "Ngemva:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Okuzenzakalelayo"
+			},
+			"lineSpacingLabel": {
+				"text": "Isikhala somugqa:"
+			},
+			"Scale": {
+				"text": "Isikali"
+			},
+			"Exact": {
+				"text": "Okuqondile"
+			},
+			"AtLeast": {
+				"text": "Okungenani"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Ungangezi isikhala phakathi kwezigaba zesitayela esifanayo"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Ukulawula komfelokazi"
+			},
+			"keepNextLabel": {
+				"text": "Gcina okulandelayo"
+			},
+			"keepLinesLabel": {
+				"text": "Gcina imigqa"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Ukuhlukana kwekhasi ngaphambi"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Ifonti:"
+			},
+			"fontStyleLabel": {
+				"text": "Isitayela sefonti:"
+			},
+			"Regular": {
+				"text": "Okuvamile"
+			},
+			"Italic": {
+				"text": "I-ithalikhi"
+			},
+			"Bold": {
+				"text": "Okugqamile"
+			},
+			"BoldItalic": {
+				"text": "Okugqamile Oku-italic"
+			},
+			"fontSizeLabel": {
+				"text": "Usayizi wefonti:"
+			},
+			"fontColorLabel": {
+				"text": "Umbala wefonti:"
+			},
+			"underlineStyleLabel": {
+				"text": "Dwebela Umbhalo Ngaphansi:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Umbhalo Ongenasikwele:"
+			},
+			"verticalPositionLabel": {
+				"text": "Isikhundla Esiqondile:"
+			},
+			"Baseline": {
+				"text": "Isisekelo"
+			},
+			"Superscript": {
+				"text": "Umbhalo Ongaphezulu"
+			},
+			"Subscript": {
+				"text": "Umbhalo Ongaphansi"
+			},
+			"smallCapsLabel": {
+				"text": "Izingcezu ezincane"
+			},
+			"allCapsLabel": {
+				"text": "Zonke izingcezu"
+			},
+			"scaleLabel": {
+				"text": "Isikali:"
+			},
+			"spacingLabel": {
+				"text": "Isikhala:"
+			},
+			"positionLabel": {
+				"text": "Isikhundla:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Uhlu lwezinga eziningi:"
+			},
+			"alignmentLabel": {
+				"text": "Ukuqondanisa:"
+			},
+			"Left": {
+				"text": "Kwesokunxele"
+			},
+			"Right": {
+				"text": "Kulungile"
+			},
+			"Center": {
+				"text": "Isikhungo"
+			},
+			"Both": {
+				"text": "Kokubili"
+			},
+			"lineSpacingLabel": {
+				"text": "Isikhala somugqa:"
+			},
+			"Single": {
+				"text": "Oyedwa"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Kabili"
+			},
+			"Triple": {
+				"text": "Kathathu"
+			},
+			"Custom...": {
+				"text": "Okwenziwe Ngokwezifiso..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Izilungiselelo zesikhala semigqa yezigaba..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Izilungiselelo zokungena kwezigaba..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Izilungiselelo zekhasi zezigaba..."
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Isihloko:"
+			},
+			"subjectLabel": {
+				"text": "Isihloko:"
+			},
+			"creatorLabel": {
+				"text": "Umdali:"
+			},
+			"descriptionLabel": {
+				"text": "Incazelo:"
+			},
+			"categoryLabel": {
+				"text": "Isigaba:"
+			},
+			"keywordsLabel": {
+				"text": "Amagama angukhiye:"
+			},
+			"createdLabel": {
+				"text": "Kudalwe:"
+			},
+			"modifiedLabel": {
+				"text": "Kushintshiwe:"
+			},
+			"printedLabel": {
+				"text": "Kuphrintiwe:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Kuguqulwe okokugcina ngu:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Umbala wokukhetha umbhalo:"
+			},
+			"backgroundColorLabel": {
+				"text": "Umbala wangemuva:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Amayunithi azenzakalelayo:"
+			},
+			"Centimeters": {
+				"text": "Amasentimitha"
+			},
+			"Millimeters": {
+				"text": "Amamilimitha"
+			},
+			"Inches": {
+				"text": "Amayintshi"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Bonisa imingcele yethebula engabonakali"
+			},
+			"asyncModeLabel": {
+				"text": "Imodi ye-Async"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Ukuqala kwesigaba:"
+			},
+			"NextPage": {
+				"text": "Ikhasi Elilandelayo"
+			},
+			"NextColumn": {
+				"text": "Ikholomu Elilandelayo"
+			},
+			"Continuous": {
+				"text": "Okuqhubekayo"
+			},
+			"EvenPage": {
+				"text": "Ikhasi Elilinganayo"
+			},
+			"OddPage": {
+				"text": "Ikhasi Elingalingani"
+			},
+			"pageSizeLabel": {
+				"text": "Usayizi wekhasi:"
+			},
+			"pageOrientationLabel": {
+				"text": "Ukuqondiswa kwekhasi:"
+			},
+			"Portrait": {
+				"text": "Isithombe"
+			},
+			"Landscape": {
+				"text": "Indawo Yomhlaba"
+			},
+			"pageMarginsLabel": {
+				"text": "Amamaki ekhasi (cm):"
+			},
+			"leftLabel": {
+				"text": "Kwesobunxele:"
+			},
+			"rightLabel": {
+				"text": "Kwesokudla:"
+			},
+			"topLabel": {
+				"text": "Phezulu:"
+			},
+			"bottomLabel": {
+				"text": "Ngezansi:"
+			},
+			"headerLabel": {
+				"text": "Isihloko:"
+			},
+			"footerLabel": {
+				"text": "Unyawo:"
+			},
+			"gutterLabel": {
+				"text": "Umsele:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Sebenzisa isihloko esihlukile ekhasini lokuqala"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Sebenzisa isihloko esihlukile kumakhasi angalingani nalinganayo"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Inani lekholomu:"
+			},
+			"lineBetweenLabel": {
+				"text": "Umugqa ophakathi"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Ububanzi nesikhala"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Ububanzi bekholomu obulinganayo"
+			},
+			"columnNumberLabel": {
+				"text": "Inombolo yekholomu:"
+			},
+			"widthLabel": {
+				"text": "Ububanzi:"
+			},
+			"spacingLabel": {
+				"text": "Isikhala:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"closeButton": {
+				"value": "Vala"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Iphutha"
+		},
+		"closeButton": {
+			"text": "Vala"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Idokhumenti iyavula...",
+		"vssde-numberFormat-custom": "Ngokwezifiso",
+		"vssde-findTextPanel-textIsNotFound": "Umbhalo othi '{0}' awutholakali.",
+		"vssde-selectFunctionPanel-all": "Konke",
+		"vssde-createXlsxDocument": "Dala idokhumenti entsha ye-XLSX",
+		"vssde-uploadXlsxFile": "Layisha ifayela le-XLSX",
+		"vssde-downloadXlsxFile": "Landa ifayela le-XLSX",
+		"vssde-exportXlsxToPdf": "Thumela i-XLSX ku-PDF",
+		"vssde-fileSizeExceedsLimit": "Usayizi wefayela elilayishiwe weqa usayizi omkhulu ({0} amabhayithi).",
+		"vssde-error-noError": "Alikho iphutha.",
+		"vssde-error-divisionByZero": "Noma iyiphi inombolo (okuhlanganisa uziro) nanoma iyiphi ikhodi yephutha ihlukaniswa ngoziro.",
+		"vssde-error-cellRefCannotBeEvaluated": "Ireferensi yeseli ayikwazi ukulinganisa ngenxa yokuthi inani leseli alikabuyiswa noma alikabalwa.",
+		"vssde-error-valueIsNotAvailable": "Inani eliqokiwe alitholakali.",
+		"vssde-error-wrongName": "Kubukeka sengathi igama liyasetshenziswa kodwa alikho igama elinjalo elichaziwe.",
+		"vssde-error-twoAreasNotIntersecting": "Kudingeka izindawo ezimbili ukuze unqamulane kodwa ungaphambanisi.",
+		"vssde-error-notCorrectValue": "I-agumenti yomsebenzi inohlobo oluhambisanayo, kodwa inenani elingaphandle kwesizinda lapho lowo msebenzi uchazwa khona.",
+		"vssde-error-cannotEvaluateCellRef": "Ireferensi yeseli ayikwazi ukuhlolwa.",
+		"vssde-error-incompatibleType": "I-agumenti yohlobo engahambelani idluliselwa kumsebenzi, noma uhlobo lwe-operand olungahambelani lusetshenziswa nomsebenzisi.",
+		"vssde-error-unknownError": "Iphutha elingaziwa.",
+		"vssde-error-externalError": "Iphutha langaphandle.",
+		"vssde-uriOpen-question": "Vula i-URL '{0}' ?",
+		"vssde-uriOpen-wrongUri": "Ikheli laleli sayithi alivumelekile: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Uyafuna ukwenza ibhuku lokusebenza elisha?",
+		"vsde-documentIsOpening": "Idokhumenti iyavula...",
+		"vsde-createDocxDocument": "Dala idokhumenti entsha ye-DOCX",
+		"vsde-uploadDocumentFile": "Layisha futhi uvule ifayela",
+		"vsde-exportDocxDocumentToPdf": "Thumela idokhumenti ye-DOCX ku-PDF",
+		"vsde-downloadFile": "Landa ifayela",
+		"vsde-cacheIsNotCleared": "I-Cache ayisulwanga ngoba isevisi yewebhu yefayela elizenzakalelayo (i-Vintasoft.Shared.WebServiceJS.defaultFileService) ayichazwanga.",
+		"vsde-uriOpen-question": "Vula i-URL '{0}' ?",
+		"vsde-uriOpen-wrongUri": "Ikheli laleli sayithi alivumelekile: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Layisha futhi uvule ifayela",
+		"vsdv-uploadAndAddFileButton-addFileString": "Layisha futhi wengeze ifayela",
+		"vsui-textSearchPanel-pageLabel": "Ikhasi",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Shisa izichasiselo",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Londoloza izichasiselo",
+		"vsui-annotationListPanel-pageLabel": "Ikhasi",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Izici zesichasiselo",
+		"vsdv-openFile-addFileString": "Engeza ifayela",
+		"vsdv-openFile-authenticateFileString": "Qinisekisa ifayela",
+		"vsdv-downloadFile-actionMessage": "Landa ifayela",
+		"vsdv-saveChanges-saveChangesInImages": "Londoloza izinguquko ezithombeni",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Londoloza izinguquko ezichasiselweni",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Shisa izichasiselo ezithombeni",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Layisha futhi uvule ifayela",
+		"vsui-uploadAndAddFileButton-addFileString": "Layisha futhi wengeze ifayela",
+		"vsui-openFile-addFileString": "Engeza ifayela",
+		"vsui-openFile-authenticateFileString": "Qinisekisa ifayela",
+		"vsui-downloadFile-actionMessage": "Landa ifayela",
+		"vsui-saveChanges-saveChangesInImages": "Londoloza izinguquko ezithombeni",
+		"vsui-saveChanges-saveChangesInAnnotations": "Londoloza izinguquko ezichasiselweni",
+		"vsui-saveChanges-burnAnnotationsInImages": "Shisa izichasiselo ezithombeni",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Londoloza izinguquko kudokhumenti ye-PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Shisa izichasiselo",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Londoloza izichasiselo",
+		"vsui-documentPasswordDialog-title": "Iphasiwedi yedokhumenti",
+		"vsui-dialog-okButton": "KULUNGILE",
+		"vsui-dialog-cancelButton": "Khansela",
+		"vsui-documentPasswordPanel-authenticateFileString": "Qinisekisa ifayela",
+		"vsui-imageSelectionDialog-title": "Khetha izithombe",
+		"vsui-imageSelectionDialog-currentImageString": "Isithombe samanje",
+		"vsui-imageSelectionDialog-allImagesString": "Zonke izithombe",
+		"vsui-imageSelectionDialog-customImagesString": "Ngokwezifiso",
+		"vsui-documentLayoutSettingsDialog-title": "Izilungiselelo zesakhiwo sedokhumenti",
+		"vsui-printImagesDialog-title": "Phrinta izithombe",
+		"vsui-printImagesPanel-imagePrintingString": "Isithombe siyaphrinta",
+		"vsui-printImagesPanel-withAnnotationsLabel": "ngezichasiselo",
+		"vsui-imageViewerSettingsDialog-title": "Izilungiselelo zesibukeli sesithombe",
+		"vsui-thumbnailViewerSettingDialog-title": "Izilungiselelo zesibukeli sesithonjana",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Bonisa Izichasiselo:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Zungezisa isithombe ngezichasiselo",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "I-engeli yokuzungezisa kufanele ibe ngaphezu kukaziro.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Izungezisa isithombe ngezichasiselo",
+		"vsui-uploadImageFromUrlDialog-title": "Layisha isithombe kusuka ku-URL",
+		"vsui-exportFileSettingsDialog-title": "Izilungiselelo zokuthekelisa ifayela",
+		"vsdv-documentLayoutSettingsDialog-title": "Izilungiselelo zesakhiwo sedokhumenti",
+		"vsdv-dialog-okButton": "KULUNGILE",
+		"vsdv-dialog-cancelButton": "Khansela",
+		"vsdv-uploadImageFromUrlDialog-title": "Layisha isithombe kusuka ku-URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Nika amandla ukuhlehlisa/ukwenza futhi",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Khubaza ukuhlehlisa/ukwenza futhi",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Nika amandla imodi 'Isisuli sezichasiselo'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Khubaza 'isisuli sesichasiselo'",
+		"vsui-documentNavigationTool-getActions": "Thola izenzo",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Izilungiselelo zokufakwa kwezigaba",
+		"vsde-dialog-okButton": "KULUNGILE",
+		"vsde-dialog-closeButton": "Vala",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Izilungiselelo zesikhala semigqa yezigaba",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Izilungiselelo zekhasi lezigaba",
+		"vsde-documentTextPropertiesDialog-title": "Izakhiwo zombhalo",
+		"vsde-documentParagraphPropertiesDialog-title": "Izakhiwo zesigaba",
+		"vsde-documentInfoDialog-title": "Ulwazi lwedokhumenti",
+		"vsde-documentEditorSettingsDialog-title": "Izilungiselelo zomhleli wedokhumenti",
+		"vsde-documentEditorViewSettingsDialog-title": "Izilungiselelo zokubuka umhleli wedokhumenti",
+		"vsde-documentPageSettingsDialog-title": "Izilungiselelo zekhasi ledokhumenti",
+		"vsde-documentPageColumnsSettingsDialog-title": "Izilungiselelo zekholomu yekhasi"
+	}
+}

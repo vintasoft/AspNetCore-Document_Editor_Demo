@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "ファイル"
+		},
+		"homeLabel": {
+			"text": "メイン"
+		},
+		"insertLabel": {
+			"text": "挿入"
+		},
+		"layoutLabel": {
+			"text": "レイアウト"
+		},
+		"createDocxDocumentButton": {
+			"title": "新しいDOCX文書を作成"
+		},
+		"uploadDocumentFileButton": {
+			"title": "文書をアップロードして開く"
+		},
+		"documentInfoButton": {
+			"title": "文書情報..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "ソースファイルへの変更を保存する"
+		},
+		"downloadFileButton": {
+			"title": "ダウンロードファイル"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX文書をPDFにエクスポートしてPDFファイルをダウンロード..."
+		},
+		"printDocumentButton": {
+			"title": "文書を印刷..."
+		},
+		"closeDocumentButton": {
+			"title": "文書を閉じる"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "セッションキャッシュをクリアする"
+		},
+		"documentEditorSettingsButton": {
+			"title": "文書エディタの設定..."
+		},
+		"copyContentButton": {
+			"title": "コンテンツをコピー"
+		},
+		"cutContentButton": {
+			"title": "コンテンツのカット"
+		},
+		"pasteContentButton": {
+			"title": "コンテンツを貼り付け"
+		},
+		"pasteTextContentButton": {
+			"title": "テキスト内容を貼り付け"
+		},
+		"increaseFontSizeButton": {
+			"title": "フォントサイズを大きくする"
+		},
+		"decreaseFontSizeButton": {
+			"title": "フォントサイズを小さくする"
+		},
+		"boldTextButton": {
+			"title": "太字"
+		},
+		"italicTextButton": {
+			"title": "斜体"
+		},
+		"underlineTextButton": {
+			"title": "下線付き"
+		},
+		"strikethroughTextButton": {
+			"title": "交差しました"
+		},
+		"superscriptTextButton": {
+			"title": "上付き文字"
+		},
+		"subscriptTextButton": {
+			"title": "下付き文字"
+		},
+		"setTextColorButton": {
+			"title": "テキストの色を設定"
+		},
+		"selectTextColorButton": {
+			"title": "テキストの色を選択"
+		},
+		"setTextFillColorButton": {
+			"title": "テキストの塗りつぶしの色を設定"
+		},
+		"selectTextFillColorButton": {
+			"title": "テキストの塗りつぶしの色を選択"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "すべての書式をクリア"
+		},
+		"textPropertiesButton": {
+			"title": "テキストのプロパティ..."
+		},
+		"decreaseIndentButton": {
+			"title": "インデントを小さくする"
+		},
+		"increaseIndentButton": {
+			"title": "インデントを大きくする"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "1行目のインデントを小さくする"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "1行目のインデントを大きくする"
+		},
+		"bulletedListButton": {
+			"title": "箇条書き"
+		},
+		"bulletedListStylesButton": {
+			"title": "箇条書きのスタイル"
+		},
+		"numberedListButton": {
+			"title": "番号付きリスト"
+		},
+		"numberedListStylesButton": {
+			"title": "番号付きリストのスタイル"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "印刷できない文字を表示"
+		},
+		"alignLeftButton": {
+			"title": "左揃え"
+		},
+		"alignCenterButton": {
+			"title": "中央揃え"
+		},
+		"alignRightButton": {
+			"title": "右揃え"
+		},
+		"alignBothButton": {
+			"title": "両端揃え"
+		},
+		"setParagraphFillColorButton": {
+			"title": "段落の塗りつぶしの色を設定"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "段落の塗りつぶしの色を選択"
+		},
+		"stylePainterButton": {
+			"title": "スタイルペインター"
+		},
+		"paragraphPropertiesButton": {
+			"title": "段落のプロパティ..."
+		},
+		"insertPageBreakButton": {
+			"title": "改ページを挿入"
+		},
+		"createHeaderButton": {
+			"title": "ヘッダーを作成/編集"
+		},
+		"deleteHeaderButton": {
+			"title": "ヘッダーを削除"
+		},
+		"createFooterButton": {
+			"title": "フッターを作成/編集"
+		},
+		"deleteFooterButton": {
+			"title": "フッターを削除"
+		},
+		"changePageOrientationButton": {
+			"title": "ページの向きを変更"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "セクション区切りを追加（次のページ）"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "セクション区切りを追加（連続）"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "セクション区切りを追加（偶数ページ）"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "セクション区切りを追加（奇数ページ）"
+		},
+		"addColumnBreak_Button": {
+			"title": "段区切りを追加"
+		},
+		"removeSectionBreakButton": {
+			"title": "セクション区切りを削除"
+		},
+		"pageSettingsButton": {
+			"title": "ドキュメントのページ設定..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "ページ段設定..."
+		},
+		"goToFirstPageButton": {
+			"title": "最初のページへ移動"
+		},
+		"goToPreviousPageButton": {
+			"title": "前のページへ移動"
+		},
+		"gotoPageInput": {
+			"title": "ページ"
+		},
+		"goToNextPageButton": {
+			"title": "次のページへ移動"
+		},
+		"goToLastPageButton": {
+			"title": "最後のページへ移動"
+		},
+		"viewPropertiesButton": {
+			"title": "表示設定..."
+		},
+		"view_fitToPageButton": {
+			"title": "ページに合わせて表示"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "ページ幅に合わせて表示"
+		},
+		"view_multiPagesButton": {
+			"title": "複数ページ"
+		},
+		"view_onePageButton": {
+			"title": "1ページ"
+		},
+		"zoomOutButton": {
+			"title": "ズームアウト"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "ズームイン"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "左:"
+			},
+			"rightIndentationLabel": {
+				"text": "右:"
+			},
+			"specialIndentationLabel": {
+				"text": "特殊:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "いいえ"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "最初の行"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "ぶら下げ"
+			},
+			"byLabel": {
+				"text": "単位:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			},
+			"viewModeListLabel": {
+				"text": "表示モード:"
+			},
+			"Vertical": {
+				"text": "垂直"
+			},
+			"Horizontal": {
+				"text": "水平"
+			},
+			"pagesInLineLabel": {
+				"text": "行/列内のページ数:"
+			},
+			"pagePaddingLabel": {
+				"text": "ページパディング (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "前:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "自動"
+			},
+			"spacingAfterLabel": {
+				"text": "後:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "自動"
+			},
+			"lineSpacingLabel": {
+				"text": "行間隔:"
+			},
+			"Scale": {
+				"text": "拡大縮小"
+			},
+			"Exact": {
+				"text": "正確"
+			},
+			"AtLeast": {
+				"text": "最小"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "同じスタイルの段落間にスペースを追加しない"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "段落区切り"
+			},
+			"keepNextLabel": {
+				"text": "次を維持"
+			},
+			"keepLinesLabel": {
+				"text": "行を維持"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "段落前で改ページ"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "フォント:"
+			},
+			"fontStyleLabel": {
+				"text": "フォントスタイル:"
+			},
+			"Regular": {
+				"text": "標準"
+			},
+			"Italic": {
+				"text": "斜体"
+			},
+			"Bold": {
+				"text": "太字"
+			},
+			"BoldItalic": {
+				"text": "太字 斜体"
+			},
+			"fontSizeLabel": {
+				"text": "フォントサイズ:"
+			},
+			"fontColorLabel": {
+				"text": "フォント色:"
+			},
+			"underlineStyleLabel": {
+				"text": "下線："
+			},
+			"strikeoutTypeLabel": {
+				"text": "取り消し線："
+			},
+			"verticalPositionLabel": {
+				"text": "垂直位置："
+			},
+			"Baseline": {
+				"text": "ベースライン"
+			},
+			"Superscript": {
+				"text": "上付き文字"
+			},
+			"Subscript": {
+				"text": "下付き文字"
+			},
+			"smallCapsLabel": {
+				"text": "スモールキャップス"
+			},
+			"allCapsLabel": {
+				"text": "オールキャップス"
+			},
+			"scaleLabel": {
+				"text": "サムネイルのスケール:"
+			},
+			"spacingLabel": {
+				"text": "間隔："
+			},
+			"positionLabel": {
+				"text": "位置："
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "多階層リスト："
+			},
+			"alignmentLabel": {
+				"text": "配置："
+			},
+			"Left": {
+				"text": "左"
+			},
+			"Right": {
+				"text": "右"
+			},
+			"Center": {
+				"text": "中央揃え"
+			},
+			"Both": {
+				"text": "両方"
+			},
+			"lineSpacingLabel": {
+				"text": "行間隔:"
+			},
+			"Single": {
+				"text": "シングル"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "ダブル"
+			},
+			"Triple": {
+				"text": "トリプル"
+			},
+			"Custom...": {
+				"text": "カスタム..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "段落の行間隔設定..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "段落のインデント設定..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "段落のページネーション設定..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "タイトル："
+			},
+			"subjectLabel": {
+				"text": "件名："
+			},
+			"creatorLabel": {
+				"text": "作成者："
+			},
+			"descriptionLabel": {
+				"text": "説明："
+			},
+			"categoryLabel": {
+				"text": "カテゴリ："
+			},
+			"keywordsLabel": {
+				"text": "キーワード："
+			},
+			"createdLabel": {
+				"text": "作成日時："
+			},
+			"modifiedLabel": {
+				"text": "更新日時："
+			},
+			"printedLabel": {
+				"text": "印刷物:"
+			},
+			"lastModifiedByLabel": {
+				"text": "最終更新者:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "テキスト選択の色:"
+			},
+			"backgroundColorLabel": {
+				"text": "背景色:"
+			},
+			"defaultUnitsLabel": {
+				"text": "デフォルトの単位:"
+			},
+			"Centimeters": {
+				"text": "センチメートル"
+			},
+			"Millimeters": {
+				"text": "ミリメートル"
+			},
+			"Inches": {
+				"text": "インチ"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "非表示のテーブルの境界線を表示する"
+			},
+			"asyncModeLabel": {
+				"text": "非同期モード"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "セクションの開始:"
+			},
+			"NextPage": {
+				"text": "次のページ"
+			},
+			"NextColumn": {
+				"text": "次の列"
+			},
+			"Continuous": {
+				"text": "継続的"
+			},
+			"EvenPage": {
+				"text": "偶数ページ"
+			},
+			"OddPage": {
+				"text": "奇数ページ"
+			},
+			"pageSizeLabel": {
+				"text": "ページサイズ:"
+			},
+			"pageOrientationLabel": {
+				"text": "ページの向き:"
+			},
+			"Portrait": {
+				"text": "肖像画"
+			},
+			"Landscape": {
+				"text": "風景"
+			},
+			"pageMarginsLabel": {
+				"text": "ページ余白 (cm):"
+			},
+			"leftLabel": {
+				"text": "左:"
+			},
+			"rightLabel": {
+				"text": "右："
+			},
+			"topLabel": {
+				"text": "上:"
+			},
+			"bottomLabel": {
+				"text": "下:"
+			},
+			"headerLabel": {
+				"text": "ヘッダー:"
+			},
+			"footerLabel": {
+				"text": "フッター:"
+			},
+			"gutterLabel": {
+				"text": "ガター:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "最初のページに別の見出しを使用する"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "奇数ページと偶数ページで異なる見出しを使用する"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "列数:"
+			},
+			"lineBetweenLabel": {
+				"text": "間の線"
+			},
+			"widthAndSpacingLabel": {
+				"text": "幅と間隔"
+			},
+			"equalColumnWidthLabel": {
+				"text": "列幅が等しい"
+			},
+			"columnNumberLabel": {
+				"text": "列番号:"
+			},
+			"widthLabel": {
+				"text": "幅:"
+			},
+			"spacingLabel": {
+				"text": "間隔："
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "閉じる"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "エラー"
+		},
+		"closeButton": {
+			"text": "閉じる"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "ドキュメントを開いています...",
+		"vssde-numberFormat-custom": "カスタム",
+		"vssde-findTextPanel-textIsNotFound": "テキスト「{0}」が見つかりません。",
+		"vssde-selectFunctionPanel-all": "すべて",
+		"vssde-createXlsxDocument": "新しいXLSXドキュメントを作成する",
+		"vssde-uploadXlsxFile": "XLSXファイルをアップロードする",
+		"vssde-downloadXlsxFile": "XLSX ファイルをアップロードします",
+		"vssde-exportXlsxToPdf": "XLSX を PDF にエクスポート",
+		"vssde-fileSizeExceedsLimit": "アップロードされたファイルのサイズが最大サイズ ({0} バイト) を超えています。",
+		"vssde-error-noError": "エラーはありません。",
+		"vssde-error-divisionByZero": "任意の数値 (ゼロを含む) またはエラー コードはゼロで除算されます。",
+		"vssde-error-cellRefCannotBeEvaluated": "セルの値が取得または計算されていないため、セル参照を評価できません。",
+		"vssde-error-valueIsNotAvailable": "指定値はありません。",
+		"vssde-error-wrongName": "名前が使用されているようですが、そのような名前は定義されていません。",
+		"vssde-error-twoAreasNotIntersecting": "2 つの領域が交差する必要がありますが、交差していません。",
+		"vssde-error-notCorrectValue": "関数の引数には互換性のある型がありますが、その値はその関数が定義されているドメインの外にあります。",
+		"vssde-error-cannotEvaluateCellRef": "セル参照は評価できません。",
+		"vssde-error-incompatibleType": "互換性のない型の引数が関数に渡されているか、互換性のない型のオペランドが演算子で使用されています。",
+		"vssde-error-unknownError": "不明なエラー。",
+		"vssde-error-externalError": "外部エラー。",
+		"vssde-uriOpen-question": "URL '{0}' を開きますか?",
+		"vssde-uriOpen-wrongUri": "このサイトのアドレスは無効です: {0}",
+		"vssde-createXlsxDocumentConfirmation": "新しいワークブックを作成しますか?",
+		"vsde-documentIsOpening": "ドキュメントを開いています...",
+		"vsde-createDocxDocument": "新しいDOCX文書を作成",
+		"vsde-uploadDocumentFile": "ファイルをダウンロードして開きます",
+		"vsde-exportDocxDocumentToPdf": "DOCX ドキュメントを PDF にエクスポート",
+		"vsde-downloadFile": "ダウンロードファイル",
+		"vsde-cacheIsNotCleared": "デフォルトのファイル Web サービス (Vintasoft.Shared.WebServiceJS.defaultFileService) が定義されていないため、キャッシュはクリアされません。",
+		"vsde-uriOpen-question": "URL '{0}' を開きますか?",
+		"vsde-uriOpen-wrongUri": "このサイトのアドレスは無効です: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "ファイルをダウンロードして開きます",
+		"vsdv-uploadAndAddFileButton-addFileString": "ファイルをアップロードして追加する",
+		"vsui-textSearchPanel-pageLabel": "ページ",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "注釈を書き込む",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "注釈の保存",
+		"vsui-annotationListPanel-pageLabel": "ページ",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "注釈のプロパティ",
+		"vsdv-openFile-addFileString": "ファイルを追加",
+		"vsdv-openFile-authenticateFileString": "ファイルを認証する",
+		"vsdv-downloadFile-actionMessage": "ダウンロードファイル",
+		"vsdv-saveChanges-saveChangesInImages": "画像の変更を保存する",
+		"vsdv-saveChanges-saveChangesInAnnotations": "注釈の変更を保存する",
+		"vsdv-saveChanges-burnAnnotationsInImages": "画像に注釈を書き込む",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "ファイルをダウンロードして開きます",
+		"vsui-uploadAndAddFileButton-addFileString": "ファイルをアップロードして追加する",
+		"vsui-openFile-addFileString": "ファイルを追加",
+		"vsui-openFile-authenticateFileString": "ファイルを認証する",
+		"vsui-downloadFile-actionMessage": "ダウンロードファイル",
+		"vsui-saveChanges-saveChangesInImages": "画像の変更を保存する",
+		"vsui-saveChanges-saveChangesInAnnotations": "注釈の変更を保存する",
+		"vsui-saveChanges-burnAnnotationsInImages": "画像に注釈を書き込む",
+		"vsui-saveChanges-saveChangesInPdfDocument": "PDF ドキュメントに変更を保存する",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "注釈を書き込む",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "注釈の保存",
+		"vsui-documentPasswordDialog-title": "文書のパスワード",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "キャンセル",
+		"vsui-documentPasswordPanel-authenticateFileString": "ファイルを認証する",
+		"vsui-imageSelectionDialog-title": "画像を選択",
+		"vsui-imageSelectionDialog-currentImageString": "現在の画像",
+		"vsui-imageSelectionDialog-allImagesString": "すべての画像",
+		"vsui-imageSelectionDialog-customImagesString": "カスタム",
+		"vsui-documentLayoutSettingsDialog-title": "ドキュメントのレイアウト設定",
+		"vsui-printImagesDialog-title": "画像を印刷",
+		"vsui-printImagesPanel-imagePrintingString": "画像を印刷中です",
+		"vsui-printImagesPanel-withAnnotationsLabel": "注釈あり",
+		"vsui-imageViewerSettingsDialog-title": "画像ビューアの設定",
+		"vsui-thumbnailViewerSettingDialog-title": "サムネイル ビューアの設定",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "サムネイルに注釈を表示:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "注釈付き画像を回転",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "回転角度は 0 であってはなりません。",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "注釈付き画像は回転中です",
+		"vsui-uploadImageFromUrlDialog-title": "URLから画像をアップロード",
+		"vsui-exportFileSettingsDialog-title": "ファイルをエクスポートするための設定",
+		"vsdv-documentLayoutSettingsDialog-title": "ドキュメントのレイアウト設定",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "キャンセル",
+		"vsdv-uploadImageFromUrlDialog-title": "URLから画像をアップロード",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "変更履歴を有効にする",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "元に戻す/やり直しを無効にする",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "「注釈用消しゴム」モードを有効にする",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "「注釈消しゴム」を無効にする",
+		"vsui-documentNavigationTool-getActions": "アクションを取得",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "段落のインデント設定",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "閉じる",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "段落の行間隔の設定",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "段落のページネーション設定",
+		"vsde-documentTextPropertiesDialog-title": "テキストのプロパティ",
+		"vsde-documentParagraphPropertiesDialog-title": "段落のプロパティ",
+		"vsde-documentInfoDialog-title": "文書情報",
+		"vsde-documentEditorSettingsDialog-title": "ドキュメントエディタの設定",
+		"vsde-documentEditorViewSettingsDialog-title": "ドキュメントエディターのビュー設定",
+		"vsde-documentPageSettingsDialog-title": "ドキュメントページの設定",
+		"vsde-documentPageColumnsSettingsDialog-title": "ページ列の設定"
+	}
+}

@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Lêer"
+		},
+		"homeLabel": {
+			"text": "Hoof"
+		},
+		"insertLabel": {
+			"text": "Voeg in"
+		},
+		"layoutLabel": {
+			"text": "Uitleg"
+		},
+		"createDocxDocumentButton": {
+			"title": "Skep nuwe DOCX-dokument"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Laai dokument op en maak dit oop"
+		},
+		"documentInfoButton": {
+			"title": "Dokumentinligting..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Stoor veranderinge aan die bronlêer"
+		},
+		"downloadFileButton": {
+			"title": "Aflaai leêr"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Voer DOCX-dokument na PDF uit en laai PDF-lêer af..."
+		},
+		"printDocumentButton": {
+			"title": "Druk dokument..."
+		},
+		"closeDocumentButton": {
+			"title": "Maak dokument toe"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Vee sessiekas uit"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Dokumentredigeerderinstellings..."
+		},
+		"copyContentButton": {
+			"title": "Kopieer inhoud"
+		},
+		"cutContentButton": {
+			"title": "Sny inhoud"
+		},
+		"pasteContentButton": {
+			"title": "Plak inhoud"
+		},
+		"pasteTextContentButton": {
+			"title": "Plak teksinhoud"
+		},
+		"increaseFontSizeButton": {
+			"title": "Vergroot lettergrootte"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Verminder lettergrootte"
+		},
+		"boldTextButton": {
+			"title": "vetgedruk"
+		},
+		"italicTextButton": {
+			"title": "kursief"
+		},
+		"underlineTextButton": {
+			"title": "Onderstreep"
+		},
+		"strikethroughTextButton": {
+			"title": "Gekruis"
+		},
+		"superscriptTextButton": {
+			"title": "Boskrifteks"
+		},
+		"subscriptTextButton": {
+			"title": "Onderskrifteks"
+		},
+		"setTextColorButton": {
+			"title": "Stel die tekskleur"
+		},
+		"selectTextColorButton": {
+			"title": "Kies die tekskleur"
+		},
+		"setTextFillColorButton": {
+			"title": "Stel die teksvulkleur"
+		},
+		"selectTextFillColorButton": {
+			"title": "Kies die teksvulkleur"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Vee alle formaterings uit"
+		},
+		"textPropertiesButton": {
+			"title": "Tekseienskappe..."
+		},
+		"decreaseIndentButton": {
+			"title": "Verminder inkeping"
+		},
+		"increaseIndentButton": {
+			"title": "Vergroot inkeping"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Verminder eerste reël inkeping"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Vergroot eerste reël inkeping"
+		},
+		"bulletedListButton": {
+			"title": "Opsommingslys"
+		},
+		"bulletedListStylesButton": {
+			"title": "Style vir opsommingslyste"
+		},
+		"numberedListButton": {
+			"title": "Genommerde lys"
+		},
+		"numberedListStylesButton": {
+			"title": "Style vir genommerde lyste"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Wys nie-drukbare karakters"
+		},
+		"alignLeftButton": {
+			"title": "Belyn links"
+		},
+		"alignCenterButton": {
+			"title": "Belyn sentrum"
+		},
+		"alignRightButton": {
+			"title": "Belyn regs"
+		},
+		"alignBothButton": {
+			"title": "Belyn beide"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Stel die paragraafvulkleur"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Kies die paragraafvulkleur"
+		},
+		"stylePainterButton": {
+			"title": "Styl skilder"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Paragraaf-eienskappe..."
+		},
+		"insertPageBreakButton": {
+			"title": "Voeg bladsybreuk in"
+		},
+		"createHeaderButton": {
+			"title": "Skep/wysig koptekst"
+		},
+		"deleteHeaderButton": {
+			"title": "Verwyder koptekst"
+		},
+		"createFooterButton": {
+			"title": "Skep/wysig voetskrif"
+		},
+		"deleteFooterButton": {
+			"title": "Verwyder voetskrif"
+		},
+		"changePageOrientationButton": {
+			"title": "Verander bladsyoriëntasie"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Voeg afdelingbreuk by (Volgende bladsy)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Voeg afdelingbreuk by (Deurlopend)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Voeg afdelingbreuk by (Ewe bladsy)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Voeg afdelingbreuk by (Onewe bladsy)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Voeg kolombreuk by"
+		},
+		"removeSectionBreakButton": {
+			"title": "Verwyder afdelingbreuk"
+		},
+		"pageSettingsButton": {
+			"title": "Dokumentbladsyinstellings..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Bladsykolominstellings..."
+		},
+		"goToFirstPageButton": {
+			"title": "Gaan na die eerste bladsy"
+		},
+		"goToPreviousPageButton": {
+			"title": "Gaan na die vorige bladsy"
+		},
+		"gotoPageInput": {
+			"title": "Bladsy"
+		},
+		"goToNextPageButton": {
+			"title": "Gaan na die volgende bladsy"
+		},
+		"goToLastPageButton": {
+			"title": "Gaan na die laaste bladsy"
+		},
+		"viewPropertiesButton": {
+			"title": "Bekyk instellings..."
+		},
+		"view_fitToPageButton": {
+			"title": "Pas by die bladsy"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Pas by die bladsywydte"
+		},
+		"view_multiPagesButton": {
+			"title": "Verskeie bladsye"
+		},
+		"view_onePageButton": {
+			"title": "Een bladsy"
+		},
+		"zoomOutButton": {
+			"title": "Zoom uit"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Zoom in"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Links:"
+			},
+			"rightIndentationLabel": {
+				"text": "Regs:"
+			},
+			"specialIndentationLabel": {
+				"text": "Spesiaal:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Nee"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Eerste Lyn"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Hangend"
+			},
+			"byLabel": {
+				"text": "Deur:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			},
+			"viewModeListLabel": {
+				"text": "Aansigmodus:"
+			},
+			"Vertical": {
+				"text": "Vertikaal"
+			},
+			"Horizontal": {
+				"text": "Horizontaal"
+			},
+			"pagesInLineLabel": {
+				"text": "Bladsye in lyn/kolom:"
+			},
+			"pagePaddingLabel": {
+				"text": "Bladsyopvulling (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Voor:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Outomaties"
+			},
+			"spacingAfterLabel": {
+				"text": "Na:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Outomaties"
+			},
+			"lineSpacingLabel": {
+				"text": "Lynafstand:"
+			},
+			"Scale": {
+				"text": "Skaal"
+			},
+			"Exact": {
+				"text": "Presies"
+			},
+			"AtLeast": {
+				"text": "Ten minste"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Moenie spasie tussen paragrawe van dieselfde styl byvoeg nie"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Weduweebeheer"
+			},
+			"keepNextLabel": {
+				"text": "Hou volgende"
+			},
+			"keepLinesLabel": {
+				"text": "Hou lyne"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Bladsybreuk voor"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Lettertype:"
+			},
+			"fontStyleLabel": {
+				"text": "Letterstyl:"
+			},
+			"Regular": {
+				"text": "Gewoonlik"
+			},
+			"Italic": {
+				"text": "Kursief"
+			},
+			"Bold": {
+				"text": "Vet"
+			},
+			"BoldItalic": {
+				"text": "Vetgedruk Skuinsdruk"
+			},
+			"fontSizeLabel": {
+				"text": "Lettergrootte:"
+			},
+			"fontColorLabel": {
+				"text": "Letterkleur:"
+			},
+			"underlineStyleLabel": {
+				"text": "Onderstreep teks:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Deurhaal teks:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vertikale posisie:"
+			},
+			"Baseline": {
+				"text": "Basislyn"
+			},
+			"Superscript": {
+				"text": "Boskrif"
+			},
+			"Subscript": {
+				"text": "Onderskrif"
+			},
+			"smallCapsLabel": {
+				"text": "Klein hoofletters"
+			},
+			"allCapsLabel": {
+				"text": "Alles hoofletters"
+			},
+			"scaleLabel": {
+				"text": "Duimnaelskaal:"
+			},
+			"spacingLabel": {
+				"text": "Spasie:"
+			},
+			"positionLabel": {
+				"text": "Posisie:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Multi-vlak lys:"
+			},
+			"alignmentLabel": {
+				"text": "Belyning:"
+			},
+			"Left": {
+				"text": "Links"
+			},
+			"Right": {
+				"text": "Reg"
+			},
+			"Center": {
+				"text": "Belyn sentrum"
+			},
+			"Both": {
+				"text": "Beide"
+			},
+			"lineSpacingLabel": {
+				"text": "Lynafstand:"
+			},
+			"Single": {
+				"text": "Enkel"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dubbel"
+			},
+			"Triple": {
+				"text": "Drievoudig"
+			},
+			"Custom...": {
+				"text": "Aangepas..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Paragraaf reëlafstand instellings..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Paragraaf inkeping instellings..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Paragraaf paginering instellings..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Titel:"
+			},
+			"subjectLabel": {
+				"text": "Onderwerp:"
+			},
+			"creatorLabel": {
+				"text": "Skepper:"
+			},
+			"descriptionLabel": {
+				"text": "Beskrywing:"
+			},
+			"categoryLabel": {
+				"text": "Kategorie:"
+			},
+			"keywordsLabel": {
+				"text": "Sleutelwoorde:"
+			},
+			"createdLabel": {
+				"text": "Geskep:"
+			},
+			"modifiedLabel": {
+				"text": "Gewysig:"
+			},
+			"printedLabel": {
+				"text": "Gedruk:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Laas gewysig deur:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Tekskeuse kleur:"
+			},
+			"backgroundColorLabel": {
+				"text": "Agtergrond kleur:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Verstek eenhede:"
+			},
+			"Centimeters": {
+				"text": "Sentimeters"
+			},
+			"Millimeters": {
+				"text": "Millimeter"
+			},
+			"Inches": {
+				"text": "Duim"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Wys onsigbare tabelgrense"
+			},
+			"asyncModeLabel": {
+				"text": "Asinkroniseer modus"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Afdeling begin:"
+			},
+			"NextPage": {
+				"text": "Volgende Bladsy"
+			},
+			"NextColumn": {
+				"text": "Volgende Kolom"
+			},
+			"Continuous": {
+				"text": "Deurlopend"
+			},
+			"EvenPage": {
+				"text": "Selfs Bladsy"
+			},
+			"OddPage": {
+				"text": "Vreemde bladsy"
+			},
+			"pageSizeLabel": {
+				"text": "Bladsygrootte:"
+			},
+			"pageOrientationLabel": {
+				"text": "Bladsy-oriëntasie:"
+			},
+			"Portrait": {
+				"text": "Portret"
+			},
+			"Landscape": {
+				"text": "Landskap"
+			},
+			"pageMarginsLabel": {
+				"text": "Bladsykantlyne (cm):"
+			},
+			"leftLabel": {
+				"text": "Links:"
+			},
+			"rightLabel": {
+				"text": "Regs:"
+			},
+			"topLabel": {
+				"text": "Top:"
+			},
+			"bottomLabel": {
+				"text": "Onder:"
+			},
+			"headerLabel": {
+				"text": "Opskrif:"
+			},
+			"footerLabel": {
+				"text": "Voetskrif:"
+			},
+			"gutterLabel": {
+				"text": "Geut:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Gebruik 'n ander opskrif vir die eerste bladsy"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Gebruik 'n ander opskrif vir onewe en ewe bladsye"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Kolomtelling:"
+			},
+			"lineBetweenLabel": {
+				"text": "Reël tussen"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Breedte en spasiëring"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Gelyke kolomwydte"
+			},
+			"columnNumberLabel": {
+				"text": "Kolomnommer:"
+			},
+			"widthLabel": {
+				"text": "Breedte:"
+			},
+			"spacingLabel": {
+				"text": "Spasie:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Maak toe"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Fout"
+		},
+		"closeButton": {
+			"text": "Maak toe"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokument word oopgemaak...",
+		"vssde-numberFormat-custom": "Gepasmaak",
+		"vssde-findTextPanel-textIsNotFound": "Teks '{0}' is nie gevind nie.",
+		"vssde-selectFunctionPanel-all": "Almal",
+		"vssde-createXlsxDocument": "Skep nuwe XLSX-dokument",
+		"vssde-uploadXlsxFile": "Laai XLSX-lêer op",
+		"vssde-downloadXlsxFile": "Laai XLSX-lêer op",
+		"vssde-exportXlsxToPdf": "Voer XLSX uit na PDF",
+		"vssde-fileSizeExceedsLimit": "Die grootte van opgelaaide lêer oorskry die maksimum grootte ({0} grepe).",
+		"vssde-error-noError": "Geen fout nie.",
+		"vssde-error-divisionByZero": "Enige getal (insluitend nul) of enige foutkode word deur nul gedeel.",
+		"vssde-error-cellRefCannotBeEvaluated": "'n Selverwysing kan nie geëvalueer word nie omdat die waarde vir die sel nie herwin of bereken is nie.",
+		"vssde-error-valueIsNotAvailable": "'n Aangewese waarde is nie beskikbaar nie.",
+		"vssde-error-wrongName": "Dit lyk of 'n naam gebruik word, maar geen so 'n naam is gedefinieer nie.",
+		"vssde-error-twoAreasNotIntersecting": "Twee gebiede word vereis om te kruis, maar moenie.",
+		"vssde-error-notCorrectValue": "'n Argument vir 'n funksie het 'n versoenbare tipe, maar het 'n waarde wat buite die domein is waaroor daardie funksie gedefinieer is.",
+		"vssde-error-cannotEvaluateCellRef": "'n Selverwysing kan nie geëvalueer word nie.",
+		"vssde-error-incompatibleType": "'n Onversoenbare tipe argument word na 'n funksie oorgedra, of 'n onversoenbare tipe operand word saam met 'n operateur gebruik.",
+		"vssde-error-unknownError": "Onbekende fout.",
+		"vssde-error-externalError": "Eksterne fout.",
+		"vssde-uriOpen-question": "Maak URL '{0}' oop?",
+		"vssde-uriOpen-wrongUri": "Die adres van hierdie werf is nie geldig nie: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Wil jy 'n nuwe werkboek skep?",
+		"vsde-documentIsOpening": "Dokument word oopgemaak...",
+		"vsde-createDocxDocument": "Skep nuwe DOCX-dokument",
+		"vsde-uploadDocumentFile": "Laai lêer af en maak oop",
+		"vsde-exportDocxDocumentToPdf": "Voer DOCX-dokument na PDF uit",
+		"vsde-downloadFile": "Aflaai leêr",
+		"vsde-cacheIsNotCleared": "Kasgeheue is nie skoongemaak nie, want die standaardlêerwebdiens (Vintasoft.Shared.WebServiceJS.defaultFileService) is nie gedefinieer nie.",
+		"vsde-uriOpen-question": "Maak URL '{0}' oop?",
+		"vsde-uriOpen-wrongUri": "Die adres van hierdie werf is nie geldig nie: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Laai lêer af en maak oop",
+		"vsdv-uploadAndAddFileButton-addFileString": "Laai op en voeg lêer by",
+		"vsui-textSearchPanel-pageLabel": "Bladsy",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Brand aantekeninge",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Stoor aantekeninge",
+		"vsui-annotationListPanel-pageLabel": "Bladsy",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Annotasie-eienskappe",
+		"vsdv-openFile-addFileString": "Voeg lêer by",
+		"vsdv-openFile-authenticateFileString": "Bevestig lêer",
+		"vsdv-downloadFile-actionMessage": "Aflaai leêr",
+		"vsdv-saveChanges-saveChangesInImages": "Stoor veranderinge in beelde",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Stoor veranderinge in aantekeninge",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Brand aantekeninge op beelde",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Laai lêer af en maak oop",
+		"vsui-uploadAndAddFileButton-addFileString": "Laai op en voeg lêer by",
+		"vsui-openFile-addFileString": "Voeg lêer by",
+		"vsui-openFile-authenticateFileString": "Bevestig lêer",
+		"vsui-downloadFile-actionMessage": "Aflaai leêr",
+		"vsui-saveChanges-saveChangesInImages": "Stoor veranderinge in beelde",
+		"vsui-saveChanges-saveChangesInAnnotations": "Stoor veranderinge in aantekeninge",
+		"vsui-saveChanges-burnAnnotationsInImages": "Brand aantekeninge op beelde",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Stoor veranderinge in PDF-dokument",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Brand aantekeninge",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Stoor aantekeninge",
+		"vsui-documentPasswordDialog-title": "Dokumentwagwoord",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Kanselleer",
+		"vsui-documentPasswordPanel-authenticateFileString": "Bevestig lêer",
+		"vsui-imageSelectionDialog-title": "Kies prente",
+		"vsui-imageSelectionDialog-currentImageString": "Huidige prent",
+		"vsui-imageSelectionDialog-allImagesString": "Alle beelde",
+		"vsui-imageSelectionDialog-customImagesString": "Gepasmaak",
+		"vsui-documentLayoutSettingsDialog-title": "Dokumentuitleginstellings",
+		"vsui-printImagesDialog-title": "Druk prente",
+		"vsui-printImagesPanel-imagePrintingString": "Prent word druk",
+		"vsui-printImagesPanel-withAnnotationsLabel": "met aantekeninge",
+		"vsui-imageViewerSettingsDialog-title": "Beeldkyker-instellings",
+		"vsui-thumbnailViewerSettingDialog-title": "Kleinkiekie-kyker-instellings",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Vertoon aantekeninge op duimnaels:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Draai geannoteerde prent",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Rotasiehoek moet nie 0 wees nie.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Geannoteerde prent word gedraai",
+		"vsui-uploadImageFromUrlDialog-title": "Laai prent op vanaf URL",
+		"vsui-exportFileSettingsDialog-title": "Die instellings om lêer uit te voer",
+		"vsdv-documentLayoutSettingsDialog-title": "Dokumentuitleginstellings",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Kanselleer",
+		"vsdv-uploadImageFromUrlDialog-title": "Laai prent op vanaf URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Aktiveer veranderingsgeskiedenis",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Deaktiveer ontdoen/herdoen",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Aktiveer 'Annotasie-uitveër'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Deaktiveer 'Annotasie-uitveër'",
+		"vsui-documentNavigationTool-getActions": "Kry aksies",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Paragraafinkepinginstellings",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Maak toe",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Paragraafreëlafstandinstellings",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Paragraafpagina-instellings",
+		"vsde-documentTextPropertiesDialog-title": "Teks-eienskappe",
+		"vsde-documentParagraphPropertiesDialog-title": "Paragraaf-eienskappe",
+		"vsde-documentInfoDialog-title": "Dokumentinligting",
+		"vsde-documentEditorSettingsDialog-title": "Dokumentredigeerderinstellings",
+		"vsde-documentEditorViewSettingsDialog-title": "Dokumentredigeerder-aansiginstellings",
+		"vsde-documentPageSettingsDialog-title": "Dokumentbladsyinstellings",
+		"vsde-documentPageColumnsSettingsDialog-title": "Bladsykolominstellings"
+	}
+}

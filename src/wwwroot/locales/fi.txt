@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Tiedosto"
+		},
+		"homeLabel": {
+			"text": "Pää"
+		},
+		"insertLabel": {
+			"text": "Lisää"
+		},
+		"layoutLabel": {
+			"text": "Asettelu"
+		},
+		"createDocxDocumentButton": {
+			"title": "Luo uusi DOCX-dokumentti"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Lataa ja avaa dokumentti"
+		},
+		"documentInfoButton": {
+			"title": "Dokumentin tiedot..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Tallenna muutokset lähdetiedostoon"
+		},
+		"downloadFileButton": {
+			"title": "Lataa tiedosto"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Vie DOCX-dokumentti PDF-muotoon ja lataa PDF-tiedosto..."
+		},
+		"printDocumentButton": {
+			"title": "Tulosta dokumentti..."
+		},
+		"closeDocumentButton": {
+			"title": "Sulje dokumentti"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Tyhjennä istunnon välimuisti"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Dokumenttieditorin asetukset..."
+		},
+		"copyContentButton": {
+			"title": "Kopioi sisältö"
+		},
+		"cutContentButton": {
+			"title": "Leikattu sisältö"
+		},
+		"pasteContentButton": {
+			"title": "Tahnan sisältö"
+		},
+		"pasteTextContentButton": {
+			"title": "Liitä tekstisisältö"
+		},
+		"increaseFontSizeButton": {
+			"title": "Suurenna fonttikokoa"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Pienennä fonttikokoa"
+		},
+		"boldTextButton": {
+			"title": "Lihavoitu"
+		},
+		"italicTextButton": {
+			"title": "Kursivoitu"
+		},
+		"underlineTextButton": {
+			"title": "Alleviivattu"
+		},
+		"strikethroughTextButton": {
+			"title": "Ristetty"
+		},
+		"superscriptTextButton": {
+			"title": "Yläindeksiteksti"
+		},
+		"subscriptTextButton": {
+			"title": "Alaindeksiteksti"
+		},
+		"setTextColorButton": {
+			"title": "Aseta tekstin väri"
+		},
+		"selectTextColorButton": {
+			"title": "Valitse tekstin väri"
+		},
+		"setTextFillColorButton": {
+			"title": "Aseta tekstin täyttöväri"
+		},
+		"selectTextFillColorButton": {
+			"title": "Valitse tekstin täyttöväri"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Tyhjennä kaikki muotoilut"
+		},
+		"textPropertiesButton": {
+			"title": "Tekstin ominaisuudet..."
+		},
+		"decreaseIndentButton": {
+			"title": "Pienennä sisennystä"
+		},
+		"increaseIndentButton": {
+			"title": "Suurenna sisennystä"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Pienennä ensimmäisen rivin sisennystä"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Suurenna ensimmäisen rivin sisennystä"
+		},
+		"bulletedListButton": {
+			"title": "Luettelomerkitty luettelo"
+		},
+		"bulletedListStylesButton": {
+			"title": "Luettelomerkittyjen luetteloiden tyylit"
+		},
+		"numberedListButton": {
+			"title": "Numeroitu luettelo"
+		},
+		"numberedListStylesButton": {
+			"title": "Numeroitujen luetteloiden tyylit"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Näytä tulostumattomat merkit"
+		},
+		"alignLeftButton": {
+			"title": "Tasaa vasemmalle"
+		},
+		"alignCenterButton": {
+			"title": "Tasaa keskelle"
+		},
+		"alignRightButton": {
+			"title": "Tasaa oikealle"
+		},
+		"alignBothButton": {
+			"title": "Tasaa molemmat"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Aseta kappaleen täyttöväri"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Valitse kappaleen täyttöväri"
+		},
+		"stylePainterButton": {
+			"title": "Tyylimaalari"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Kappaleen ominaisuudet..."
+		},
+		"insertPageBreakButton": {
+			"title": "Lisää sivunvaihto"
+		},
+		"createHeaderButton": {
+			"title": "Luo/muokkaa ylätunnistetta"
+		},
+		"deleteHeaderButton": {
+			"title": "Poista ylätunniste"
+		},
+		"createFooterButton": {
+			"title": "Luo/muokkaa alatunnistetta"
+		},
+		"deleteFooterButton": {
+			"title": "Poista alatunniste"
+		},
+		"changePageOrientationButton": {
+			"title": "Muuta sivun suuntaa"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Lisää osanvaihto (Seuraava sivu)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Lisää osanvaihto (Jatkuva)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Lisää osanvaihto (Parillinen sivu)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Lisää osanvaihto (Pariton sivu)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Lisää sarakkeenvaihto"
+		},
+		"removeSectionBreakButton": {
+			"title": "Poista osanvaihto"
+		},
+		"pageSettingsButton": {
+			"title": "Asiakirjan sivun asetukset..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Sivun sarakkeiden asetukset..."
+		},
+		"goToFirstPageButton": {
+			"title": "Siirry ensimmäiselle sivulle"
+		},
+		"goToPreviousPageButton": {
+			"title": "Siirry edelliselle sivulle"
+		},
+		"gotoPageInput": {
+			"title": "Sivu"
+		},
+		"goToNextPageButton": {
+			"title": "Siirry seuraavalle sivulle"
+		},
+		"goToLastPageButton": {
+			"title": "Siirry viimeiselle sivulle"
+		},
+		"viewPropertiesButton": {
+			"title": "Näytä asetukset..."
+		},
+		"view_fitToPageButton": {
+			"title": "Sovita sivulle"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Sovita sivun leveyteen"
+		},
+		"view_multiPagesButton": {
+			"title": "Useita sivuja"
+		},
+		"view_onePageButton": {
+			"title": "Yksi sivu"
+		},
+		"zoomOutButton": {
+			"title": "Loitonna"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Lähennä"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Vasen:"
+			},
+			"rightIndentationLabel": {
+				"text": "Oikea:"
+			},
+			"specialIndentationLabel": {
+				"text": "Erikois:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Ei"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Ensimmäinen rivi"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Riippuva"
+			},
+			"byLabel": {
+				"text": "Kirjoittaja:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			},
+			"viewModeListLabel": {
+				"text": "Näkymätila:"
+			},
+			"Vertical": {
+				"text": "Pysty"
+			},
+			"Horizontal": {
+				"text": "Vaaka"
+			},
+			"pagesInLineLabel": {
+				"text": "Sivuja rivillä/palstalla:"
+			},
+			"pagePaddingLabel": {
+				"text": "Sivun täyttö (pikseleinä):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Ennen:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automaattinen"
+			},
+			"spacingAfterLabel": {
+				"text": "Jälkeen:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automaattinen"
+			},
+			"lineSpacingLabel": {
+				"text": "Riviväli:"
+			},
+			"Scale": {
+				"text": "Skaalaa"
+			},
+			"Exact": {
+				"text": "Tarkka"
+			},
+			"AtLeast": {
+				"text": "Ainakin"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Älä lisää välilyöntiä saman tyylisten kappaleiden väliin"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Levyn hallinta"
+			},
+			"keepNextLabel": {
+				"text": "Säilytä seuraava"
+			},
+			"keepLinesLabel": {
+				"text": "Säilytä rivit"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Sivunvaihto ennen"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Fontti:"
+			},
+			"fontStyleLabel": {
+				"text": "Fonttityyli:"
+			},
+			"Regular": {
+				"text": "Normaali"
+			},
+			"Italic": {
+				"text": "Kursiivi"
+			},
+			"Bold": {
+				"text": "Lihavoitu"
+			},
+			"BoldItalic": {
+				"text": "Lihavoitu kursiivi"
+			},
+			"fontSizeLabel": {
+				"text": "Fonttikoko:"
+			},
+			"fontColorLabel": {
+				"text": "Fonttiväri:"
+			},
+			"underlineStyleLabel": {
+				"text": "Alleviivattu teksti:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Yliviivattu teksti:"
+			},
+			"verticalPositionLabel": {
+				"text": "Pystysuuntainen sijainti:"
+			},
+			"Baseline": {
+				"text": "Perusviiva"
+			},
+			"Superscript": {
+				"text": "Yläindeksi"
+			},
+			"Subscript": {
+				"text": "Alaindeksi"
+			},
+			"smallCapsLabel": {
+				"text": "Pienet kirjaimet"
+			},
+			"allCapsLabel": {
+				"text": "Pelkät isot kirjaimet"
+			},
+			"scaleLabel": {
+				"text": "Pikkukuvan asteikko:"
+			},
+			"spacingLabel": {
+				"text": "Välisväli:"
+			},
+			"positionLabel": {
+				"text": "Sijainti:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Monitasoinen luettelo:"
+			},
+			"alignmentLabel": {
+				"text": "Tasaus:"
+			},
+			"Left": {
+				"text": "Vasen"
+			},
+			"Right": {
+				"text": "Oikein"
+			},
+			"Center": {
+				"text": "Tasaa keskelle"
+			},
+			"Both": {
+				"text": "Molemmat"
+			},
+			"lineSpacingLabel": {
+				"text": "Riviväli:"
+			},
+			"Single": {
+				"text": "Yksittäinen"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Kaksi kertaa"
+			},
+			"Triple": {
+				"text": "Kolme kertaa"
+			},
+			"Custom...": {
+				"text": "Muokattu..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Kappaleen rivivälin asetukset..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Kappaleen sisennyksen asetukset..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Kappaleen sivutusasetukset..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Otsikko:"
+			},
+			"subjectLabel": {
+				"text": "Aihe:"
+			},
+			"creatorLabel": {
+				"text": "Luoja:"
+			},
+			"descriptionLabel": {
+				"text": "Kuvaus:"
+			},
+			"categoryLabel": {
+				"text": "Kategoria:"
+			},
+			"keywordsLabel": {
+				"text": "Avainsanat:"
+			},
+			"createdLabel": {
+				"text": "Luotu:"
+			},
+			"modifiedLabel": {
+				"text": "Muokattu:"
+			},
+			"printedLabel": {
+				"text": "Painettu:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Viimeksi muokannut:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Tekstin valinnan väri:"
+			},
+			"backgroundColorLabel": {
+				"text": "Taustaväri:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Oletusyksiköt:"
+			},
+			"Centimeters": {
+				"text": "senttimetriä"
+			},
+			"Millimeters": {
+				"text": "millimetriä"
+			},
+			"Inches": {
+				"text": "Tuumaa"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Näytä näkymätön taulukon reunat"
+			},
+			"asyncModeLabel": {
+				"text": "Asynkroninen tila"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Jakson alku:"
+			},
+			"NextPage": {
+				"text": "Seuraava sivu"
+			},
+			"NextColumn": {
+				"text": "Seuraava sarake"
+			},
+			"Continuous": {
+				"text": "Jatkuva"
+			},
+			"EvenPage": {
+				"text": "Parillinen sivu"
+			},
+			"OddPage": {
+				"text": "Pariton sivu"
+			},
+			"pageSizeLabel": {
+				"text": "Sivun koko:"
+			},
+			"pageOrientationLabel": {
+				"text": "Sivun suunta:"
+			},
+			"Portrait": {
+				"text": "Muotokuva"
+			},
+			"Landscape": {
+				"text": "Maisema"
+			},
+			"pageMarginsLabel": {
+				"text": "Sivun marginaalit (cm):"
+			},
+			"leftLabel": {
+				"text": "Vasen:"
+			},
+			"rightLabel": {
+				"text": "Oikea:"
+			},
+			"topLabel": {
+				"text": "Yläosa:"
+			},
+			"bottomLabel": {
+				"text": "Pohja:"
+			},
+			"headerLabel": {
+				"text": "Otsikko:"
+			},
+			"footerLabel": {
+				"text": "Alatunniste:"
+			},
+			"gutterLabel": {
+				"text": "Kouru:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Käytä eri otsikkoa ensimmäisellä sivulla"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Käytä eri otsikkoa parittomille ja parillisille sivuille"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Sarakkeiden määrä:"
+			},
+			"lineBetweenLabel": {
+				"text": "Linja välissä"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Leveys ja väli"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Sama sarakkeen leveys"
+			},
+			"columnNumberLabel": {
+				"text": "Sarakkeen numero:"
+			},
+			"widthLabel": {
+				"text": "Leveys:"
+			},
+			"spacingLabel": {
+				"text": "Välisväli:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Sulje"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Virhe"
+		},
+		"closeButton": {
+			"text": "Sulje"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Asiakirja avataan...",
+		"vssde-numberFormat-custom": "Mukautettu",
+		"vssde-findTextPanel-textIsNotFound": "Tekstiä '{0}' ei löydy.",
+		"vssde-selectFunctionPanel-all": "Kaikki",
+		"vssde-createXlsxDocument": "Luo uusi XLSX-dokumentti",
+		"vssde-uploadXlsxFile": "Lataa XLSX-tiedosto",
+		"vssde-downloadXlsxFile": "Lataa XLSX-tiedosto",
+		"vssde-exportXlsxToPdf": "Vie XLSX PDF-muotoon",
+		"vssde-fileSizeExceedsLimit": "Ladatun tiedoston koko ylittää enimmäiskoon ({0} tavua).",
+		"vssde-error-noError": "Ei virhettä.",
+		"vssde-error-divisionByZero": "Mikä tahansa luku (mukaan lukien nolla) tai mikä tahansa virhekoodi jaetaan nollalla.",
+		"vssde-error-cellRefCannotBeEvaluated": "Soluviittausta ei voida arvioida, koska solun arvoa ei ole haettu tai laskettu.",
+		"vssde-error-valueIsNotAvailable": "Määritettyä arvoa ei ole saatavilla.",
+		"vssde-error-wrongName": "Näyttää siltä, että nimi on käytössä, mutta sellaista nimeä ei ole määritetty.",
+		"vssde-error-twoAreasNotIntersecting": "Kaksi aluetta vaaditaan leikkaamaan, mutta eivät.",
+		"vssde-error-notCorrectValue": "Funktion argumentilla on yhteensopiva tyyppi, mutta sen arvo on sen toimialueen ulkopuolella, jolle funktio on määritetty.",
+		"vssde-error-cannotEvaluateCellRef": "Soluviittausta ei voida arvioida.",
+		"vssde-error-incompatibleType": "Yhteensopimaton tyyppiargumentti välitetään funktiolle tai operaattorin kanssa käytetään yhteensopimatonta tyyppistä operandia.",
+		"vssde-error-unknownError": "Tuntematon virhe.",
+		"vssde-error-externalError": "Ulkoinen virhe.",
+		"vssde-uriOpen-question": "Avaa URL-osoite '{0}'?",
+		"vssde-uriOpen-wrongUri": "Tämän sivuston osoite ei ole kelvollinen: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Haluatko luoda uuden työkirjan?",
+		"vsde-documentIsOpening": "Asiakirja avataan...",
+		"vsde-createDocxDocument": "Luo uusi DOCX-dokumentti",
+		"vsde-uploadDocumentFile": "Lataa ja avaa tiedosto",
+		"vsde-exportDocxDocumentToPdf": "Vie DOCX-dokumentti PDF-muotoon",
+		"vsde-downloadFile": "Lataa tiedosto",
+		"vsde-cacheIsNotCleared": "Välimuistia ei tyhjennetä, koska oletustiedostoverkkopalvelua (Vintasoft.Shared.WebServiceJS.defaultFileService) ei ole määritetty.",
+		"vsde-uriOpen-question": "Avaa URL-osoite '{0}'?",
+		"vsde-uriOpen-wrongUri": "Tämän sivuston osoite ei ole kelvollinen: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Lataa ja avaa tiedosto",
+		"vsdv-uploadAndAddFileButton-addFileString": "Lataa ja lisää tiedosto",
+		"vsui-textSearchPanel-pageLabel": "Sivu",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Polta huomautuksia",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Tallenna merkinnät",
+		"vsui-annotationListPanel-pageLabel": "Sivu",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Merkintäominaisuudet",
+		"vsdv-openFile-addFileString": "Lisää tiedosto",
+		"vsdv-openFile-authenticateFileString": "Todenna tiedosto",
+		"vsdv-downloadFile-actionMessage": "Lataa tiedosto",
+		"vsdv-saveChanges-saveChangesInImages": "Tallenna muutokset kuviin",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Tallenna muutokset huomautuksiin",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Polta kommentteja kuviin",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Lataa ja avaa tiedosto",
+		"vsui-uploadAndAddFileButton-addFileString": "Lataa ja lisää tiedosto",
+		"vsui-openFile-addFileString": "Lisää tiedosto",
+		"vsui-openFile-authenticateFileString": "Todenna tiedosto",
+		"vsui-downloadFile-actionMessage": "Lataa tiedosto",
+		"vsui-saveChanges-saveChangesInImages": "Tallenna muutokset kuviin",
+		"vsui-saveChanges-saveChangesInAnnotations": "Tallenna muutokset huomautuksiin",
+		"vsui-saveChanges-burnAnnotationsInImages": "Polta kommentteja kuviin",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Tallenna muutokset PDF-dokumenttiin",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Polta huomautuksia",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Tallenna merkinnät",
+		"vsui-documentPasswordDialog-title": "Asiakirjan salasana",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Peruuta",
+		"vsui-documentPasswordPanel-authenticateFileString": "Todenna tiedosto",
+		"vsui-imageSelectionDialog-title": "Valitse kuvat",
+		"vsui-imageSelectionDialog-currentImageString": "Nykyinen kuva",
+		"vsui-imageSelectionDialog-allImagesString": "Kaikki kuvat",
+		"vsui-imageSelectionDialog-customImagesString": "Mukautettu",
+		"vsui-documentLayoutSettingsDialog-title": "Asiakirjan asetteluasetukset",
+		"vsui-printImagesDialog-title": "Tulosta kuvat",
+		"vsui-printImagesPanel-imagePrintingString": "Kuva tulostuu",
+		"vsui-printImagesPanel-withAnnotationsLabel": "huomautuksilla",
+		"vsui-imageViewerSettingsDialog-title": "Kuvankatseluohjelman asetukset",
+		"vsui-thumbnailViewerSettingDialog-title": "Pikkukuvien katseluohjelman asetukset",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Näytä merkinnät pikkukuvissa:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Kierrä huomautettua kuvaa",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Kiertokulma ei saa olla 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Annotoitua kuvaa käännetään",
+		"vsui-uploadImageFromUrlDialog-title": "Lataa kuva URL-osoitteesta",
+		"vsui-exportFileSettingsDialog-title": "Tiedoston vientiasetukset",
+		"vsdv-documentLayoutSettingsDialog-title": "Asiakirjan asetteluasetukset",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Peruuta",
+		"vsdv-uploadImageFromUrlDialog-title": "Lataa kuva URL-osoitteesta",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Ota muutoshistoria käyttöön",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Poista kumoa/toista käytöstä",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Ota käyttöön tila 'Pyyheen merkintöjä varten'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Poista merkintöjen pyyhekumi käytöstä",
+		"vsui-documentNavigationTool-getActions": "Hanki toimia",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Kappaleen sisennysasetukset",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Sulje",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Kappaleiden riviväliasetukset",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Kappaleen sivutusasetukset",
+		"vsde-documentTextPropertiesDialog-title": "Tekstin ominaisuudet",
+		"vsde-documentParagraphPropertiesDialog-title": "Kappaleen ominaisuudet",
+		"vsde-documentInfoDialog-title": "Asiakirjan tiedot",
+		"vsde-documentEditorSettingsDialog-title": "Asiakirjan muokkausasetukset",
+		"vsde-documentEditorViewSettingsDialog-title": "Asiakirjan muokkausnäkymän asetukset",
+		"vsde-documentPageSettingsDialog-title": "Asiakirjan sivun asetukset",
+		"vsde-documentPageColumnsSettingsDialog-title": "Sivun sarakkeiden asetukset"
+	}
+}

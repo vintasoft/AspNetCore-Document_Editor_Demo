@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"homeLabel": {
+			"text": "Өй"
+		},
+		"insertLabel": {
+			"text": "Керү"
+		},
+		"layoutLabel": {
+			"text": "Макет"
+		},
+		"createDocxDocumentButton": {
+			"title": "Яңа DOCX документын булдыру"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Документны йөкләү һәм ачу"
+		},
+		"documentInfoButton": {
+			"title": "Документ турында мәгълүмат..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Башлангыч файлдагы үзгәрешләрне саклагыз"
+		},
+		"downloadFileButton": {
+			"title": "Файлны йөкләү"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX документын PDF форматына экспортлау һәм PDF файлын йөкләү..."
+		},
+		"printDocumentButton": {
+			"title": "Документны бастыру..."
+		},
+		"closeDocumentButton": {
+			"title": "Документны ябу"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Сессия кэшын чистарту"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Документ редакторы көйләүләре..."
+		},
+		"copyContentButton": {
+			"title": "Эчтәлекне күчерү"
+		},
+		"cutContentButton": {
+			"title": "Эчтәлекне кисегез"
+		},
+		"pasteContentButton": {
+			"title": "Эчтәлекне куегыз"
+		},
+		"pasteTextContentButton": {
+			"title": "Текст эчтәлеген урнаштыру"
+		},
+		"increaseFontSizeButton": {
+			"title": "Шрифт зурлыгын арттыру"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Шрифт зурлыгын киметү"
+		},
+		"boldTextButton": {
+			"title": "Калын текст"
+		},
+		"italicTextButton": {
+			"title": "Италия тексты"
+		},
+		"underlineTextButton": {
+			"title": "Текст астына сызыгыз"
+		},
+		"strikethroughTextButton": {
+			"title": "Тәртип"
+		},
+		"superscriptTextButton": {
+			"title": "Өске индекс тексты"
+		},
+		"subscriptTextButton": {
+			"title": "Аскы индекс тексты"
+		},
+		"setTextColorButton": {
+			"title": "Текст төсен билгеләгез"
+		},
+		"selectTextColorButton": {
+			"title": "Текст төсен сайлагыз"
+		},
+		"setTextFillColorButton": {
+			"title": "Текст тутыру төсен билгеләгез"
+		},
+		"selectTextFillColorButton": {
+			"title": "Текст тутыру төсен сайлагыз"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Барлык форматлауларны бетерү"
+		},
+		"textPropertiesButton": {
+			"title": "Текст үзенчәлекләре..."
+		},
+		"decreaseIndentButton": {
+			"title": "Чегемне киметү"
+		},
+		"increaseIndentButton": {
+			"title": "Чегемне арттыру"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Беренче юл чигемне киметү"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Беренче юл чигемне арттыру"
+		},
+		"bulletedListButton": {
+			"title": "Билгеләнгән исемлек"
+		},
+		"bulletedListStylesButton": {
+			"title": "Билгеләнгән исемлекләр өчен стильләр"
+		},
+		"numberedListButton": {
+			"title": "Номерланган исемлек"
+		},
+		"numberedListStylesButton": {
+			"title": "Номерланган исемлекләр өчен стильләр"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Бастырып булмый торган символларны күрсәтү"
+		},
+		"alignLeftButton": {
+			"title": "Сулга тигезләнегез"
+		},
+		"alignCenterButton": {
+			"title": "Centerзәк"
+		},
+		"alignRightButton": {
+			"title": "Уңга тигезләнегез"
+		},
+		"alignBothButton": {
+			"title": "Икесен дә тигезләү"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Абзац тутыру төсен билгеләгез"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Абзац тутыру төсен сайлагыз"
+		},
+		"stylePainterButton": {
+			"title": "Стиль рәссамы"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Абзац үзлекләре..."
+		},
+		"insertPageBreakButton": {
+			"title": "Бит өзеген кертү"
+		},
+		"createHeaderButton": {
+			"title": "Башлыкны булдыру/үзгәртү"
+		},
+		"deleteHeaderButton": {
+			"title": "Башлыкны бетерү"
+		},
+		"createFooterButton": {
+			"title": "Аскы колонтитулны булдыру/үзгәртү"
+		},
+		"deleteFooterButton": {
+			"title": "Аскы колонтитулны бетерү"
+		},
+		"changePageOrientationButton": {
+			"title": "Бит юнәлешен үзгәртү"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Бүлек өзеген өстәү (Киләсе бит)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Бүлек өзеген өстәү (Дәвамлы)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Бүлек өзеген өстәү (Җип бит)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Бүлек өзеген өстәү (Так бит)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Багана өзеген өстәү"
+		},
+		"removeSectionBreakButton": {
+			"title": "Бүлек өзеген бетерү"
+		},
+		"pageSettingsButton": {
+			"title": "Документ бите көйләүләре..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Бит баганалары көйләүләре..."
+		},
+		"goToFirstPageButton": {
+			"title": "Беренче биткә күчү"
+		},
+		"goToPreviousPageButton": {
+			"title": "Алдагы биткә күчү"
+		},
+		"gotoPageInput": {
+			"title": "Бит"
+		},
+		"goToNextPageButton": {
+			"title": "Киләсе биткә күчү"
+		},
+		"goToLastPageButton": {
+			"title": "Соңгы биткә күчү"
+		},
+		"viewPropertiesButton": {
+			"title": "Көйләүләрне карау..."
+		},
+		"view_fitToPageButton": {
+			"title": "Биткә туры китерү"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Бит киңлегенә туры китерү"
+		},
+		"view_multiPagesButton": {
+			"title": "Берничә бит"
+		},
+		"view_onePageButton": {
+			"title": "Бер бит"
+		},
+		"zoomOutButton": {
+			"title": "Зурайту"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Зурайтырга"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Сул:"
+			},
+			"rightIndentationLabel": {
+				"text": "Уң:"
+			},
+			"specialIndentationLabel": {
+				"text": "Махсус:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Беркем дә юк"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Беренче юл"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Асылып тору"
+			},
+			"byLabel": {
+				"text": "Боенча:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			},
+			"viewModeListLabel": {
+				"text": "Карау режимы:"
+			},
+			"Vertical": {
+				"text": "Вертикаль"
+			},
+			"Horizontal": {
+				"text": "Горизонталь"
+			},
+			"pagesInLineLabel": {
+				"text": "Юл/баганада битләр:"
+			},
+			"pagePaddingLabel": {
+				"text": "Бит тулылыгы (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Алдан:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Автоматик"
+			},
+			"spacingAfterLabel": {
+				"text": "Соң:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Автоматик"
+			},
+			"lineSpacingLabel": {
+				"text": "Юл аралыгы:"
+			},
+			"Scale": {
+				"text": "Масштаб"
+			},
+			"Exact": {
+				"text": "Төгәл"
+			},
+			"AtLeast": {
+				"text": "Иң кимендә"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Бер үк стильдәге абзацлар арасына бушлык өстәмәгез"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Тол контроле"
+			},
+			"keepNextLabel": {
+				"text": "Киләсесен калдыру"
+			},
+			"keepLinesLabel": {
+				"text": "Юлларны калдыру"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Алдан бит өзелүе"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Шрифт:"
+			},
+			"fontStyleLabel": {
+				"text": "Шрифт стиле:"
+			},
+			"Regular": {
+				"text": "Гадәти"
+			},
+			"Italic": {
+				"text": "Италик"
+			},
+			"Bold": {
+				"text": "Калын"
+			},
+			"BoldItalic": {
+				"text": "Калын курсив"
+			},
+			"fontSizeLabel": {
+				"text": "Шрифт зурлыгы:"
+			},
+			"fontColorLabel": {
+				"text": "Шрифт төсе:"
+			},
+			"underlineStyleLabel": {
+				"text": "Астына сызылган текст:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Сызыкланган текст:"
+			},
+			"verticalPositionLabel": {
+				"text": "Вертикаль позиция:"
+			},
+			"Baseline": {
+				"text": "Баш сызык"
+			},
+			"Superscript": {
+				"text": "Өске индекс"
+			},
+			"Subscript": {
+				"text": "Астыңкы индекс"
+			},
+			"smallCapsLabel": {
+				"text": "Кечкенә баш хәрефләр белән"
+			},
+			"allCapsLabel": {
+				"text": "Барлык баш хәрефләр белән"
+			},
+			"scaleLabel": {
+				"text": "Масштаб:"
+			},
+			"spacingLabel": {
+				"text": "Интервал:"
+			},
+			"positionLabel": {
+				"text": "Позиция:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Күп дәрәҗәле исемлек:"
+			},
+			"alignmentLabel": {
+				"text": "Тигезләү:"
+			},
+			"Left": {
+				"text": "Сулда"
+			},
+			"Right": {
+				"text": "Дөрес"
+			},
+			"Center": {
+				"text": "Centerзәк"
+			},
+			"Both": {
+				"text": "Икесе дә"
+			},
+			"lineSpacingLabel": {
+				"text": "Юл аралыгы:"
+			},
+			"Single": {
+				"text": "Бер"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Икеләтә"
+			},
+			"Triple": {
+				"text": "Өчләтә"
+			},
+			"Custom...": {
+				"text": "Махсус..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Абзац юл аралыгы көйләүләре..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Абзацның эчкә кертелүе көйләүләре..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Абзац битләү көйләүләре..."
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Исем:"
+			},
+			"subjectLabel": {
+				"text": "Тема:"
+			},
+			"creatorLabel": {
+				"text": "Ясаучы:"
+			},
+			"descriptionLabel": {
+				"text": "Тасвирлама:"
+			},
+			"categoryLabel": {
+				"text": "Категория:"
+			},
+			"keywordsLabel": {
+				"text": "Ачкыч сүзләр:"
+			},
+			"createdLabel": {
+				"text": "Ясалган:"
+			},
+			"modifiedLabel": {
+				"text": "Үзгәртелгән:"
+			},
+			"printedLabel": {
+				"text": "Бастырылган:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Соңгы үзгәртүче:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Текст сайлау төсе:"
+			},
+			"backgroundColorLabel": {
+				"text": "Фон төсе:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Гадәти берәмлекләр:"
+			},
+			"Centimeters": {
+				"text": "Сантиметр"
+			},
+			"Millimeters": {
+				"text": "Миллиметр"
+			},
+			"Inches": {
+				"text": "Инч"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Күренми торган таблица чикләрен күрсәтү"
+			},
+			"asyncModeLabel": {
+				"text": "Асинхрон режим"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Бүлек башы:"
+			},
+			"NextPage": {
+				"text": "Киләсе бит"
+			},
+			"NextColumn": {
+				"text": "Киләсе багана"
+			},
+			"Continuous": {
+				"text": "Дәвамлы"
+			},
+			"EvenPage": {
+				"text": "Тигез бит"
+			},
+			"OddPage": {
+				"text": "Так бит"
+			},
+			"pageSizeLabel": {
+				"text": "Бит зурлыгы:"
+			},
+			"pageOrientationLabel": {
+				"text": "Бит ориентациясе:"
+			},
+			"Portrait": {
+				"text": "Портрет"
+			},
+			"Landscape": {
+				"text": "Пейзаж"
+			},
+			"pageMarginsLabel": {
+				"text": "Бит кырлары (см):"
+			},
+			"leftLabel": {
+				"text": "Сул:"
+			},
+			"rightLabel": {
+				"text": "Уң:"
+			},
+			"topLabel": {
+				"text": "Өске:"
+			},
+			"bottomLabel": {
+				"text": "Аскы:"
+			},
+			"headerLabel": {
+				"text": "Башлык:"
+			},
+			"footerLabel": {
+				"text": "Аскы колонтитул:"
+			},
+			"gutterLabel": {
+				"text": "Нутка:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Беренче бит өчен төрле башлык кулланыгыз"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Так һәм җөп битләр өчен төрле башлык кулланыгыз"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Багана саны:"
+			},
+			"lineBetweenLabel": {
+				"text": "Арасындагы юл"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Киңлек һәм ара"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Багана киңлеге тигез"
+			},
+			"columnNumberLabel": {
+				"text": "Багана номеры:"
+			},
+			"widthLabel": {
+				"text": "Киңлеге:"
+			},
+			"spacingLabel": {
+				"text": "Интервал:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"closeButton": {
+				"value": "Ябу"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Хата"
+		},
+		"closeButton": {
+			"text": "Ябу"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Документ ачыла ...",
+		"vssde-numberFormat-custom": "Гадәт",
+		"vssde-findTextPanel-textIsNotFound": "'{0}' тексты табылмады.",
+		"vssde-selectFunctionPanel-all": "Барысы да",
+		"vssde-createXlsxDocument": "Яңа XLSX документ ясагыз",
+		"vssde-uploadXlsxFile": "XLSX файлын йөкләү",
+		"vssde-downloadXlsxFile": "XLSX файлын йөкләү",
+		"vssde-exportXlsxToPdf": "XLSX-ны PDF-ка экспортлагыз",
+		"vssde-fileSizeExceedsLimit": "Йөкләнгән файлның зурлыгы максималь зурлыктан ({0} байт) артып китә.",
+		"vssde-error-noError": "Хата юк.",
+		"vssde-error-divisionByZero": "Теләсә нинди сан (нульне дә кертеп) яки теләсә нинди хата коды нульгә бүленә.",
+		"vssde-error-cellRefCannotBeEvaluated": "Күзәнәк өчен сылтама бәяләнә алмый, чөнки күзәнәкнең бәясе алынмаган яки исәпләнмәгән.",
+		"vssde-error-valueIsNotAvailable": "Билгеләнгән кыйммәт юк.",
+		"vssde-error-wrongName": "Исем кулланылган кебек, ләкин андый исем билгеләнмәгән.",
+		"vssde-error-twoAreasNotIntersecting": "Ике өлкә кисешергә тиеш, ләкин юк.",
+		"vssde-error-notCorrectValue": "Функциягә аргументның туры килүче төре бар, ләкин бу функция билгеләнгән доменнан читтә булган кыйммәт бар.",
+		"vssde-error-cannotEvaluateCellRef": "Күзәнәк сылтамасын бәяләп булмый.",
+		"vssde-error-incompatibleType": "Бер-берсенә туры килми торган аргумент функциягә бирелә, яки оператор белән туры килмәгән типтагы операнд кулланыла.",
+		"vssde-error-unknownError": "Билгесез хата.",
+		"vssde-error-externalError": "Тышкы хата.",
+		"vssde-uriOpen-question": "'{0}' URL ачыгыз?",
+		"vssde-uriOpen-wrongUri": "Бу сайтның адресы дөрес түгел: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Яңа эш дәфтәре ясарга телисезме?",
+		"vsde-documentIsOpening": "Документ ачыла ...",
+		"vsde-createDocxDocument": "Яңа DOCX документын булдыру",
+		"vsde-uploadDocumentFile": "Файлны йөкләү һәм ачу",
+		"vsde-exportDocxDocumentToPdf": "DOCX документын PDF форматына экспортлау",
+		"vsde-downloadFile": "Файлны йөкләү",
+		"vsde-cacheIsNotCleared": "Кэш чистартылмый, чөнки гадәти файл веб-хезмәте (Vintasoft.Shared.WebServiceJS.defaultFileService) билгеләнмәгән.",
+		"vsde-uriOpen-question": "'{0}' URL ачыгыз?",
+		"vsde-uriOpen-wrongUri": "Бу сайтның адресы дөрес түгел: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Файлны йөкләү һәм ачу",
+		"vsdv-uploadAndAddFileButton-addFileString": "Файлны йөкләү һәм өстәү",
+		"vsui-textSearchPanel-pageLabel": "Бит",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Аннотацияләрне яндырыгыз",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Аннотацияләрне саклагыз",
+		"vsui-annotationListPanel-pageLabel": "Бит",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Аннотация үзенчәлекләре",
+		"vsdv-openFile-addFileString": "Файл өстәү",
+		"vsdv-openFile-authenticateFileString": "Файлны раслау",
+		"vsdv-downloadFile-actionMessage": "Файлны йөкләү",
+		"vsdv-saveChanges-saveChangesInImages": "Рәсемнәрдәге үзгәрешләрне саклагыз",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Аннотацияләрдәге үзгәрешләрне саклагыз",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Рәсемнәргә аннотацияләр яндырыгыз",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Файлны йөкләү һәм ачу",
+		"vsui-uploadAndAddFileButton-addFileString": "Файлны йөкләү һәм өстәү",
+		"vsui-openFile-addFileString": "Файл өстәү",
+		"vsui-openFile-authenticateFileString": "Файлны раслау",
+		"vsui-downloadFile-actionMessage": "Файлны йөкләү",
+		"vsui-saveChanges-saveChangesInImages": "Рәсемнәрдәге үзгәрешләрне саклагыз",
+		"vsui-saveChanges-saveChangesInAnnotations": "Аннотацияләрдәге үзгәрешләрне саклагыз",
+		"vsui-saveChanges-burnAnnotationsInImages": "Рәсемнәргә аннотацияләр яндырыгыз",
+		"vsui-saveChanges-saveChangesInPdfDocument": "PDF документындагы үзгәрешләрне саклагыз",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Аннотацияләрне яндырыгыз",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Аннотацияләрне саклагыз",
+		"vsui-documentPasswordDialog-title": "Документ серсүзе",
+		"vsui-dialog-okButton": "ЯРАРМЫ",
+		"vsui-dialog-cancelButton": "Баш тарту",
+		"vsui-documentPasswordPanel-authenticateFileString": "Файлны раслау",
+		"vsui-imageSelectionDialog-title": "Рәсемнәрне сайлагыз",
+		"vsui-imageSelectionDialog-currentImageString": "Хәзерге рәсем",
+		"vsui-imageSelectionDialog-allImagesString": "Барлык рәсемнәр",
+		"vsui-imageSelectionDialog-customImagesString": "Гадәт",
+		"vsui-documentLayoutSettingsDialog-title": "Документация көйләүләре",
+		"vsui-printImagesDialog-title": "Рәсемнәрне бастыру",
+		"vsui-printImagesPanel-imagePrintingString": "Рәсем бастырыла",
+		"vsui-printImagesPanel-withAnnotationsLabel": "аннотацияләр белән",
+		"vsui-imageViewerSettingsDialog-title": "Рәсем тамашачысы көйләүләре",
+		"vsui-thumbnailViewerSettingDialog-title": "Эскиз тамашачы көйләүләре",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Аннотацияләр күрсәт:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Рәсемне аннотацияләр белән әйләндерегез",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Әйләнү почмагы нульдән артык булырга тиеш.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Аннотацияләр белән рәсемне әйләндерү",
+		"vsui-uploadImageFromUrlDialog-title": "URL-тан рәсемне йөкләү",
+		"vsui-exportFileSettingsDialog-title": "Файлны экспортлау өчен көйләүләр",
+		"vsdv-documentLayoutSettingsDialog-title": "Документация көйләүләре",
+		"vsdv-dialog-okButton": "ЯРАРМЫ",
+		"vsdv-dialog-cancelButton": "Баш тарту",
+		"vsdv-uploadImageFromUrlDialog-title": "URL-тан рәсемне йөкләү",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Кире кайтару / кире кайтару",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Кире кайтару / кире кайтару",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Interзара бәйләнеш режимын кушу 'Аннотация бетерүче'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'Аннотация бетергеч' сүндерегез",
+		"vsui-documentNavigationTool-getActions": "Эшләр",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Абзац эченкелеге көйләүләре",
+		"vsde-dialog-okButton": "ЯРАРМЫ",
+		"vsde-dialog-closeButton": "Ябу",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Абзац юл аралыгы көйләүләре",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Абзац битләү көйләүләре",
+		"vsde-documentTextPropertiesDialog-title": "Текст үзлекләре",
+		"vsde-documentParagraphPropertiesDialog-title": "Абзац үзлекләре",
+		"vsde-documentInfoDialog-title": "Документ турында мәгълүмат",
+		"vsde-documentEditorSettingsDialog-title": "Документ редакторы көйләүләре",
+		"vsde-documentEditorViewSettingsDialog-title": "Документ редакторы күренеше көйләүләре",
+		"vsde-documentPageSettingsDialog-title": "Документ бите көйләүләре",
+		"vsde-documentPageColumnsSettingsDialog-title": "Бит баганалары көйләүләре"
+	}
+}

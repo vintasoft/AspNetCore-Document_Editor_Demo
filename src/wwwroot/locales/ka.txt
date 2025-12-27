@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "ფაილი"
+		},
+		"homeLabel": {
+			"text": "მთავარი"
+		},
+		"insertLabel": {
+			"text": "ჩასმა"
+		},
+		"layoutLabel": {
+			"text": "განლაგება"
+		},
+		"createDocxDocumentButton": {
+			"title": "ახალი DOCX დოკუმენტის შექმნა"
+		},
+		"uploadDocumentFileButton": {
+			"title": "დოკუმენტის ატვირთვა და გახსნა"
+		},
+		"documentInfoButton": {
+			"title": "დოკუმენტის ინფორმაცია..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "შეინახეთ ცვლილებები წყაროს ფაილში"
+		},
+		"downloadFileButton": {
+			"title": "Გადმოწერეთ ფაილი"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX დოკუმენტის PDF ფორმატში ექსპორტი და PDF ფაილის ჩამოტვირთვა..."
+		},
+		"printDocumentButton": {
+			"title": "დოკუმენტის ბეჭდვა..."
+		},
+		"closeDocumentButton": {
+			"title": "დოკუმენტის დახურვა"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "სესიის ქეშის გასუფთავება"
+		},
+		"documentEditorSettingsButton": {
+			"title": "დოკუმენტის რედაქტორის პარამეტრები..."
+		},
+		"copyContentButton": {
+			"title": "დააკოპირეთ შინაარსი"
+		},
+		"cutContentButton": {
+			"title": "შინაარსის ამოჭრა"
+		},
+		"pasteContentButton": {
+			"title": "ჩასვით შინაარსი"
+		},
+		"pasteTextContentButton": {
+			"title": "ტექსტის ჩასმა"
+		},
+		"increaseFontSizeButton": {
+			"title": "შრიფტის ზომის გაზრდა"
+		},
+		"decreaseFontSizeButton": {
+			"title": "შრიფტის ზომის შემცირება"
+		},
+		"boldTextButton": {
+			"title": "თამამი ტექსტი"
+		},
+		"italicTextButton": {
+			"title": "დახრილი ტექსტი"
+		},
+		"underlineTextButton": {
+			"title": "ხაზი გაუსვით ტექსტს"
+		},
+		"strikethroughTextButton": {
+			"title": "გადახაზული ტექსტი"
+		},
+		"superscriptTextButton": {
+			"title": "ზედა ინდექსის ტექსტი"
+		},
+		"subscriptTextButton": {
+			"title": "ქვედა ინდექსის ტექსტი"
+		},
+		"setTextColorButton": {
+			"title": "ტექსტის ფერის დაყენება"
+		},
+		"selectTextColorButton": {
+			"title": "ტექსტის ფერის არჩევა"
+		},
+		"setTextFillColorButton": {
+			"title": "ტექსტის შევსების ფერის დაყენება"
+		},
+		"selectTextFillColorButton": {
+			"title": "ტექსტის შევსების ფერის არჩევა"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "ყველა ფორმატირების გასუფთავება"
+		},
+		"textPropertiesButton": {
+			"title": "ტექსტის თვისებები..."
+		},
+		"decreaseIndentButton": {
+			"title": "ჩაღრმავება"
+		},
+		"increaseIndentButton": {
+			"title": "ჩაღრმავება"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "პირველი ხაზის ჩაღრმავება"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "პირველი ხაზის ჩაღრმავება"
+		},
+		"bulletedListButton": {
+			"title": "ბურთულებიანი სია"
+		},
+		"bulletedListStylesButton": {
+			"title": "ბურთულებიანი სიების სტილები"
+		},
+		"numberedListButton": {
+			"title": "დანომრილი სია"
+		},
+		"numberedListStylesButton": {
+			"title": "დანომრილი სიების სტილები"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "არასაბეჭდი სიმბოლოების ჩვენება"
+		},
+		"alignLeftButton": {
+			"title": "გასწორება მარცხნივ"
+		},
+		"alignCenterButton": {
+			"title": "ცენტრი"
+		},
+		"alignRightButton": {
+			"title": "გასწორება მარჯვნივ"
+		},
+		"alignBothButton": {
+			"title": "ორივეს გასწორება"
+		},
+		"setParagraphFillColorButton": {
+			"title": "აბზაცის შევსების ფერის დაყენება"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "აბზაცის შევსების ფერის არჩევა"
+		},
+		"stylePainterButton": {
+			"title": "სტილის მხატვარი"
+		},
+		"paragraphPropertiesButton": {
+			"title": "აბზაცის თვისებები..."
+		},
+		"insertPageBreakButton": {
+			"title": "გვერდის წყვეტის ჩასმა"
+		},
+		"createHeaderButton": {
+			"title": "სათაურის შექმნა/რედაქტირება"
+		},
+		"deleteHeaderButton": {
+			"title": "სათაურის წაშლა"
+		},
+		"createFooterButton": {
+			"title": "ქვედა კოლონტიტულის შექმნა/რედაქტირება"
+		},
+		"deleteFooterButton": {
+			"title": "ქვედა კოლონტიტულის წაშლა"
+		},
+		"changePageOrientationButton": {
+			"title": "გვერდის ორიენტაციის შეცვლა"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "სექციური წყვეტის დამატება (შემდეგი გვერდი)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "სექციური წყვეტის დამატება (უწყვეტი)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "სექციური წყვეტის დამატება (ლუწი გვერდი)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "სექციური წყვეტის დამატება (კენტი გვერდი)"
+		},
+		"addColumnBreak_Button": {
+			"title": "სვეტის წყვეტის დამატება"
+		},
+		"removeSectionBreakButton": {
+			"title": "სექციური წყვეტის წაშლა"
+		},
+		"pageSettingsButton": {
+			"title": "დოკუმენტის გვერდის პარამეტრები..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "გვერდის სვეტების პარამეტრები..."
+		},
+		"goToFirstPageButton": {
+			"title": "გადასვლა პირველ გვერდზე"
+		},
+		"goToPreviousPageButton": {
+			"title": "გადასვლა წინა გვერდზე"
+		},
+		"gotoPageInput": {
+			"title": "გვერდი"
+		},
+		"goToNextPageButton": {
+			"title": "გადასვლა შემდეგ გვერდზე"
+		},
+		"goToLastPageButton": {
+			"title": "გადასვლა ბოლო გვერდზე"
+		},
+		"viewPropertiesButton": {
+			"title": "პარამეტრების ნახვა..."
+		},
+		"view_fitToPageButton": {
+			"title": "გვერდზე მორგება"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "გვერდის სიგანეზე მორგება"
+		},
+		"view_multiPagesButton": {
+			"title": "მრავალი გვერდი"
+		},
+		"view_onePageButton": {
+			"title": "ერთი გვერდი"
+		},
+		"zoomOutButton": {
+			"title": "მასშტაბირება"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Მიახლოება"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "მარცხნივ:"
+			},
+			"rightIndentationLabel": {
+				"text": "მარჯვნივ:"
+			},
+			"specialIndentationLabel": {
+				"text": "სპეციალური:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "არცერთი"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "პირველი ხაზი"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "ჩამოკიდებული"
+			},
+			"byLabel": {
+				"text": "მიერ:"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			},
+			"viewModeListLabel": {
+				"text": "ხედვის რეჟიმი:"
+			},
+			"Vertical": {
+				"text": "ვერტიკალური"
+			},
+			"Horizontal": {
+				"text": "Ჰორიზონტალური"
+			},
+			"pagesInLineLabel": {
+				"text": "გვერდები ხაზში/სვეტში:"
+			},
+			"pagePaddingLabel": {
+				"text": "გვერდის შევსება (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "ადრე:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "ავტომატური"
+			},
+			"spacingAfterLabel": {
+				"text": "შემდეგ:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "ავტომატური"
+			},
+			"lineSpacingLabel": {
+				"text": "სტრიქონებს შორის დაშორება:"
+			},
+			"Scale": {
+				"text": "მასშტაბი"
+			},
+			"Exact": {
+				"text": "ზუსტი"
+			},
+			"AtLeast": {
+				"text": "სულ მცირე"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "არ დაამატოთ დაშორება ერთი და იგივე სტილის აბზაცებს შორის"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "ქვრივის კონტროლი"
+			},
+			"keepNextLabel": {
+				"text": "შემდეგი აბზაცების შენარჩუნება"
+			},
+			"keepLinesLabel": {
+				"text": "ხაზების შენარჩუნება"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "გვერდის წყვეტა წინ"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "შრიფტი:"
+			},
+			"fontStyleLabel": {
+				"text": "შრიფტის სტილი:"
+			},
+			"Regular": {
+				"text": "ჩვეულებრივი"
+			},
+			"Italic": {
+				"text": "დახრილი"
+			},
+			"Bold": {
+				"text": "თამამი"
+			},
+			"BoldItalic": {
+				"text": "მუქ-დახრილი"
+			},
+			"fontSizeLabel": {
+				"text": "შრიფტის ზომა:"
+			},
+			"fontColorLabel": {
+				"text": "შრიფტის ფერი:"
+			},
+			"underlineStyleLabel": {
+				"text": "ხაზგასმული ტექსტი:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "გადახაზული ტექსტი:"
+			},
+			"verticalPositionLabel": {
+				"text": "ვერტიკალური პოზიცია:"
+			},
+			"Baseline": {
+				"text": "საბაზისო ხაზი"
+			},
+			"Superscript": {
+				"text": "ზედა ინდექსი"
+			},
+			"Subscript": {
+				"text": "ქვედა ინდექსი"
+			},
+			"smallCapsLabel": {
+				"text": "პატარა დიდი ასოები"
+			},
+			"allCapsLabel": {
+				"text": "ყველა დიდი ასო"
+			},
+			"scaleLabel": {
+				"text": "მასშტაბი:"
+			},
+			"spacingLabel": {
+				"text": "დაშორება:"
+			},
+			"positionLabel": {
+				"text": "პოზიცია:"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "მრავალდონიანი სია:"
+			},
+			"alignmentLabel": {
+				"text": "გასწორება:"
+			},
+			"Left": {
+				"text": "მარცხენა"
+			},
+			"Right": {
+				"text": "უფლება"
+			},
+			"Center": {
+				"text": "ცენტრი"
+			},
+			"Both": {
+				"text": "ორივე"
+			},
+			"lineSpacingLabel": {
+				"text": "სტრიქონებს შორის დაშორება:"
+			},
+			"Single": {
+				"text": "ერთჯერადი"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "ორმაგი"
+			},
+			"Triple": {
+				"text": "სამმაგი"
+			},
+			"Custom...": {
+				"text": "მორგებული..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "აბზაცის ხაზის დაშორების პარამეტრები..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "აბზაცის ჩაღრმავების პარამეტრები..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "აბზაცის გვერდების დალაგების პარამეტრები..."
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "სათაური:"
+			},
+			"subjectLabel": {
+				"text": "თემა:"
+			},
+			"creatorLabel": {
+				"text": "შემქმნელი:"
+			},
+			"descriptionLabel": {
+				"text": "აღწერა:"
+			},
+			"categoryLabel": {
+				"text": "კატეგორია:"
+			},
+			"keywordsLabel": {
+				"text": "საკვანძო სიტყვები:"
+			},
+			"createdLabel": {
+				"text": "შექმნილია:"
+			},
+			"modifiedLabel": {
+				"text": "შეცვლილია:"
+			},
+			"printedLabel": {
+				"text": "დაბეჭდილი:"
+			},
+			"lastModifiedByLabel": {
+				"text": "ბოლოს შეცვლილია:"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "ტექსტის შერჩევის ფერი:"
+			},
+			"backgroundColorLabel": {
+				"text": "ფონის ფერი:"
+			},
+			"defaultUnitsLabel": {
+				"text": "ნაგულისხმევი ერთეულები:"
+			},
+			"Centimeters": {
+				"text": "სანტიმეტრი"
+			},
+			"Millimeters": {
+				"text": "მილიმეტრები"
+			},
+			"Inches": {
+				"text": "ინჩი"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "ცხრილის უხილავი საზღვრების ჩვენება"
+			},
+			"asyncModeLabel": {
+				"text": "ასინქრონული რეჟიმი"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "განყოფილების დასაწყისი:"
+			},
+			"NextPage": {
+				"text": "შემდეგი გვერდი"
+			},
+			"NextColumn": {
+				"text": "შემდეგი სვეტი"
+			},
+			"Continuous": {
+				"text": "უწყვეტი"
+			},
+			"EvenPage": {
+				"text": "თუნდაც გვერდი"
+			},
+			"OddPage": {
+				"text": "კენტი გვერდი"
+			},
+			"pageSizeLabel": {
+				"text": "გვერდის ზომა:"
+			},
+			"pageOrientationLabel": {
+				"text": "გვერდის ორიენტაცია:"
+			},
+			"Portrait": {
+				"text": "პორტრეტი"
+			},
+			"Landscape": {
+				"text": "პეიზაჟი"
+			},
+			"pageMarginsLabel": {
+				"text": "გვერდის მინდვრები (სმ):"
+			},
+			"leftLabel": {
+				"text": "მარცხენა:"
+			},
+			"rightLabel": {
+				"text": "მარჯვენა:"
+			},
+			"topLabel": {
+				"text": "ზედა:"
+			},
+			"bottomLabel": {
+				"text": "ქვედა:"
+			},
+			"headerLabel": {
+				"text": "სათაური:"
+			},
+			"footerLabel": {
+				"text": "ქვედა კოლონტიტული:"
+			},
+			"gutterLabel": {
+				"text": "გუტერი:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "გამოიყენეთ სხვადასხვა სათაური პირველი გვერდისთვის"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "გამოიყენეთ განსხვავებული სათაური კენტი და ლუწი გვერდებისთვის"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "სვეტების რაოდენობა:"
+			},
+			"lineBetweenLabel": {
+				"text": "ხაზი შორის"
+			},
+			"widthAndSpacingLabel": {
+				"text": "სიგანე და მანძილი"
+			},
+			"equalColumnWidthLabel": {
+				"text": "სვეტის თანაბარი სიგანე"
+			},
+			"columnNumberLabel": {
+				"text": "სვეტის ნომერი:"
+			},
+			"widthLabel": {
+				"text": "სიგანე:"
+			},
+			"spacingLabel": {
+				"text": "დაშორება:"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"closeButton": {
+				"value": "დახურვა"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "შეცდომა"
+		},
+		"closeButton": {
+			"text": "დახურვა"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "დოკუმენტი იხსნება...",
+		"vssde-numberFormat-custom": "საბაჟო",
+		"vssde-findTextPanel-textIsNotFound": "ტექსტი '{0}' ვერ მოიძებნა.",
+		"vssde-selectFunctionPanel-all": "ყველა",
+		"vssde-createXlsxDocument": "შექმენით ახალი XLSX დოკუმენტი",
+		"vssde-uploadXlsxFile": "ატვირთეთ XLSX ფაილი",
+		"vssde-downloadXlsxFile": "ჩამოტვირთეთ XLSX ფაილი",
+		"vssde-exportXlsxToPdf": "XLSX-ის ექსპორტი PDF-ში",
+		"vssde-fileSizeExceedsLimit": "ატვირთული ფაილის ზომა აღემატება მაქსიმალურ ზომას ({0} ბაიტი).",
+		"vssde-error-noError": "არანაირი შეცდომა.",
+		"vssde-error-divisionByZero": "ნებისმიერი რიცხვი (მათ შორის ნულის) ან შეცდომის კოდი იყოფა ნულზე.",
+		"vssde-error-cellRefCannotBeEvaluated": "უჯრედის მითითების შეფასება შეუძლებელია, რადგან უჯრედის მნიშვნელობა არ არის მოძიებული ან გამოთვლილი.",
+		"vssde-error-valueIsNotAvailable": "მითითებული მნიშვნელობა მიუწვდომელია.",
+		"vssde-error-wrongName": "როგორც ჩანს, სახელი გამოიყენება, მაგრამ ასეთი სახელი არ არის განსაზღვრული.",
+		"vssde-error-twoAreasNotIntersecting": "ორი უბანი საჭიროა გადაკვეთისთვის, მაგრამ არა.",
+		"vssde-error-notCorrectValue": "ფუნქციის არგუმენტს აქვს თავსებადი ტიპი, მაგრამ აქვს მნიშვნელობა, რომელიც იმ დომენის მიღმაა, რომელზეც ეს ფუნქცია განისაზღვრება.",
+		"vssde-error-cannotEvaluateCellRef": "უჯრედის მითითების შეფასება შეუძლებელია.",
+		"vssde-error-incompatibleType": "შეუთავსებელი ტიპის არგუმენტი გადაეცემა ფუნქციას, ან შეუთავსებელი ტიპის ოპერანდი გამოიყენება ოპერატორთან.",
+		"vssde-error-unknownError": "Უცნობი შეცდომა.",
+		"vssde-error-externalError": "გარე შეცდომა.",
+		"vssde-uriOpen-question": "გახსენით URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "ამ საიტის მისამართი არასწორია: {0}",
+		"vssde-createXlsxDocumentConfirmation": "გსურთ შექმნათ ახალი სამუშაო წიგნი?",
+		"vsde-documentIsOpening": "დოკუმენტი იხსნება...",
+		"vsde-createDocxDocument": "ახალი DOCX დოკუმენტის შექმნა",
+		"vsde-uploadDocumentFile": "ატვირთეთ და გახსენით ფაილი",
+		"vsde-exportDocxDocumentToPdf": "DOCX დოკუმენტის ექსპორტი PDF-ში",
+		"vsde-downloadFile": "Გადმოწერეთ ფაილი",
+		"vsde-cacheIsNotCleared": "ქეში არ არის გასუფთავებული, რადგან ფაილის ნაგულისხმევი ვებ სერვისი (Vintasoft.Shared.WebServiceJS.defaultFileService) არ არის განსაზღვრული.",
+		"vsde-uriOpen-question": "გახსენით URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "ამ საიტის მისამართი არასწორია: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "ატვირთეთ და გახსენით ფაილი",
+		"vsdv-uploadAndAddFileButton-addFileString": "ატვირთეთ და დაამატეთ ფაილი",
+		"vsui-textSearchPanel-pageLabel": "გვერდი",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "ანოტაციების დაწვა",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "შეინახეთ ანოტაციები",
+		"vsui-annotationListPanel-pageLabel": "გვერდი",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "ანოტაციის თვისებები",
+		"vsdv-openFile-addFileString": "Ფაილის დამატება",
+		"vsdv-openFile-authenticateFileString": "ფაილის ავთენტიფიკაცია",
+		"vsdv-downloadFile-actionMessage": "Გადმოწერეთ ფაილი",
+		"vsdv-saveChanges-saveChangesInImages": "შეინახეთ ცვლილებები სურათებში",
+		"vsdv-saveChanges-saveChangesInAnnotations": "შეინახეთ ცვლილებები ანოტაციებში",
+		"vsdv-saveChanges-burnAnnotationsInImages": "ჩაწერეთ ანოტაციები სურათებზე",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "ატვირთეთ და გახსენით ფაილი",
+		"vsui-uploadAndAddFileButton-addFileString": "ატვირთეთ და დაამატეთ ფაილი",
+		"vsui-openFile-addFileString": "Ფაილის დამატება",
+		"vsui-openFile-authenticateFileString": "ფაილის ავთენტიფიკაცია",
+		"vsui-downloadFile-actionMessage": "Გადმოწერეთ ფაილი",
+		"vsui-saveChanges-saveChangesInImages": "შეინახეთ ცვლილებები სურათებში",
+		"vsui-saveChanges-saveChangesInAnnotations": "შეინახეთ ცვლილებები ანოტაციებში",
+		"vsui-saveChanges-burnAnnotationsInImages": "ჩაწერეთ ანოტაციები სურათებზე",
+		"vsui-saveChanges-saveChangesInPdfDocument": "შეინახეთ ცვლილებები PDF დოკუმენტში",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "ანოტაციების დაწვა",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "შეინახეთ ანოტაციები",
+		"vsui-documentPasswordDialog-title": "დოკუმენტის პაროლი",
+		"vsui-dialog-okButton": "კარგი",
+		"vsui-dialog-cancelButton": "გაუქმება",
+		"vsui-documentPasswordPanel-authenticateFileString": "ფაილის ავთენტიფიკაცია",
+		"vsui-imageSelectionDialog-title": "აირჩიეთ სურათები",
+		"vsui-imageSelectionDialog-currentImageString": "მიმდინარე სურათი",
+		"vsui-imageSelectionDialog-allImagesString": "ყველა სურათი",
+		"vsui-imageSelectionDialog-customImagesString": "საბაჟო",
+		"vsui-documentLayoutSettingsDialog-title": "დოკუმენტის განლაგების პარამეტრები",
+		"vsui-printImagesDialog-title": "სურათების დაბეჭდვა",
+		"vsui-printImagesPanel-imagePrintingString": "სურათი იბეჭდება",
+		"vsui-printImagesPanel-withAnnotationsLabel": "ანოტაციებით",
+		"vsui-imageViewerSettingsDialog-title": "სურათების მაყურებლის პარამეტრები",
+		"vsui-thumbnailViewerSettingDialog-title": "მინიატურების მაყურებლის პარამეტრები",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "ანოტაციების ჩვენება:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "სურათის როტაცია ანოტაციებით",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "ბრუნვის კუთხე უნდა იყოს ნულზე მეტი.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "მბრუნავი სურათი ანოტაციებით",
+		"vsui-uploadImageFromUrlDialog-title": "ატვირთეთ სურათი URL-დან",
+		"vsui-exportFileSettingsDialog-title": "პარამეტრები ფაილის ექსპორტისთვის",
+		"vsdv-documentLayoutSettingsDialog-title": "დოკუმენტის განლაგების პარამეტრები",
+		"vsdv-dialog-okButton": "კარგი",
+		"vsdv-dialog-cancelButton": "გაუქმება",
+		"vsdv-uploadImageFromUrlDialog-title": "ატვირთეთ სურათი URL-დან",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "ჩართეთ გაუქმება/გამეორება",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "გამორთეთ გაუქმება/გამეორება",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "ჩართეთ რეჟიმი 'საშლელი ანოტაციებისთვის'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "გამორთეთ 'ანოტაციის საშლელი'",
+		"vsui-documentNavigationTool-getActions": "მიიღეთ მოქმედებები",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "აბზაცის შეწევის პარამეტრები",
+		"vsde-dialog-okButton": "კარგი",
+		"vsde-dialog-closeButton": "დახურვა",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "აბზაცის ხაზების დაშორების პარამეტრები",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "აბზაცების პაგინაციის პარამეტრები",
+		"vsde-documentTextPropertiesDialog-title": "ტექსტის თვისებები",
+		"vsde-documentParagraphPropertiesDialog-title": "აბზაცის თვისებები",
+		"vsde-documentInfoDialog-title": "დოკუმენტის ინფორმაცია",
+		"vsde-documentEditorSettingsDialog-title": "დოკუმენტის რედაქტორის პარამეტრები",
+		"vsde-documentEditorViewSettingsDialog-title": "დოკუმენტის რედაქტორის ნახვის პარამეტრები",
+		"vsde-documentPageSettingsDialog-title": "დოკუმენტის გვერდის პარამეტრები",
+		"vsde-documentPageColumnsSettingsDialog-title": "გვერდის სვეტების პარამეტრები"
+	}
+}

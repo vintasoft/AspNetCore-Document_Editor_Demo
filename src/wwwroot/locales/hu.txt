@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fájl"
+		},
+		"homeLabel": {
+			"text": "Fő"
+		},
+		"insertLabel": {
+			"text": "Beszúrás"
+		},
+		"layoutLabel": {
+			"text": "Elrendezés"
+		},
+		"createDocxDocumentButton": {
+			"title": "Új DOCX dokumentum létrehozása"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Dokumentum feltöltése és megnyitása"
+		},
+		"documentInfoButton": {
+			"title": "Dokumentuminformációk..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "A forrásfájl módosításainak mentése"
+		},
+		"downloadFileButton": {
+			"title": "Fájl letöltése"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX dokumentum exportálása PDF formátumba és PDF fájl letöltése..."
+		},
+		"printDocumentButton": {
+			"title": "Dokumentum nyomtatása..."
+		},
+		"closeDocumentButton": {
+			"title": "Dokumentum bezárása"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "A munkamenet gyorsítótárának törlése"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Dokumentumszerkesztő beállításai..."
+		},
+		"copyContentButton": {
+			"title": "Tartalom másolása"
+		},
+		"cutContentButton": {
+			"title": "Vágott tartalom"
+		},
+		"pasteContentButton": {
+			"title": "Pasztatartalom"
+		},
+		"pasteTextContentButton": {
+			"title": "Szövegtartalom beillesztése"
+		},
+		"increaseFontSizeButton": {
+			"title": "Betűméret növelése"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Betűméret csökkentése"
+		},
+		"boldTextButton": {
+			"title": "félkövér"
+		},
+		"italicTextButton": {
+			"title": "Dőlt"
+		},
+		"underlineTextButton": {
+			"title": "Aláhúzott"
+		},
+		"strikethroughTextButton": {
+			"title": "Keresztve"
+		},
+		"superscriptTextButton": {
+			"title": "Felső index szöveg"
+		},
+		"subscriptTextButton": {
+			"title": "Alsó index szöveg"
+		},
+		"setTextColorButton": {
+			"title": "Szövegszín beállítása"
+		},
+		"selectTextColorButton": {
+			"title": "Szövegszín kiválasztása"
+		},
+		"setTextFillColorButton": {
+			"title": "Szövegkitöltő szín beállítása"
+		},
+		"selectTextFillColorButton": {
+			"title": "Szövegkitöltő szín kiválasztása"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Összes formázás törlése"
+		},
+		"textPropertiesButton": {
+			"title": "Szövegtulajdonságok..."
+		},
+		"decreaseIndentButton": {
+			"title": "Behúzás csökkentése"
+		},
+		"increaseIndentButton": {
+			"title": "Behúzás növelése"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Első sor behúzásának csökkentése"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Első sor behúzásának növelése"
+		},
+		"bulletedListButton": {
+			"title": "Listajeles lista"
+		},
+		"bulletedListStylesButton": {
+			"title": "Stílusok felsoroláshoz"
+		},
+		"numberedListButton": {
+			"title": "Számozott lista"
+		},
+		"numberedListStylesButton": {
+			"title": "Stílusok számozott listákhoz"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Nem nyomtatható karakterek megjelenítése"
+		},
+		"alignLeftButton": {
+			"title": "Balra igazítás"
+		},
+		"alignCenterButton": {
+			"title": "Igazítás középre"
+		},
+		"alignRightButton": {
+			"title": "Jobbra igazítás"
+		},
+		"alignBothButton": {
+			"title": "Mindkettő igazítása"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Bekezdéskitöltő szín beállítása"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Bekezdéskitöltő szín kiválasztása"
+		},
+		"stylePainterButton": {
+			"title": "Stílusfestő"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Bekezdés tulajdonságai..."
+		},
+		"insertPageBreakButton": {
+			"title": "Oldaltörés beszúrása"
+		},
+		"createHeaderButton": {
+			"title": "Fejléc létrehozása/szerkesztése"
+		},
+		"deleteHeaderButton": {
+			"title": "Fejléc törlése"
+		},
+		"createFooterButton": {
+			"title": "Lábléc létrehozása/szerkesztése"
+		},
+		"deleteFooterButton": {
+			"title": "Lábléc törlése"
+		},
+		"changePageOrientationButton": {
+			"title": "Oldaltájolás módosítása"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Szakasztörés hozzáadása (Következő oldal)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Szakasztörés hozzáadása (Folyamatos)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Szakasztörés hozzáadása (Páros oldal)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Szakasztörés hozzáadása (Páratlan oldal)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Oszloptörés hozzáadása"
+		},
+		"removeSectionBreakButton": {
+			"title": "Szakasztörés eltávolítása"
+		},
+		"pageSettingsButton": {
+			"title": "Dokumentumoldal beállításai..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Oldaloszlopok beállításai..."
+		},
+		"goToFirstPageButton": {
+			"title": "Ugrás az első oldalra"
+		},
+		"goToPreviousPageButton": {
+			"title": "Ugrás az előző oldalra"
+		},
+		"gotoPageInput": {
+			"title": "Oldal"
+		},
+		"goToNextPageButton": {
+			"title": "Ugrás a következő oldalra"
+		},
+		"goToLastPageButton": {
+			"title": "Ugrás az utolsó oldalra"
+		},
+		"viewPropertiesButton": {
+			"title": "Beállítások megtekintése..."
+		},
+		"view_fitToPageButton": {
+			"title": "Oldalhoz igazítás"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Oldalszélességhez igazítás"
+		},
+		"view_multiPagesButton": {
+			"title": "Több oldal"
+		},
+		"view_onePageButton": {
+			"title": "Egy oldal"
+		},
+		"zoomOutButton": {
+			"title": "Kicsinyítés"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Nagyítás"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Balra:"
+			},
+			"rightIndentationLabel": {
+				"text": "Jobbra:"
+			},
+			"specialIndentationLabel": {
+				"text": "Speciális:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Nem"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Első sor"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Függő"
+			},
+			"byLabel": {
+				"text": "A következő szerint:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			},
+			"viewModeListLabel": {
+				"text": "Megtekintési mód:"
+			},
+			"Vertical": {
+				"text": "Függőleges"
+			},
+			"Horizontal": {
+				"text": "Vízszintes"
+			},
+			"pagesInLineLabel": {
+				"text": "Oldalak sorban/hasábban:"
+			},
+			"pagePaddingLabel": {
+				"text": "Oldalkitöltés (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Előtte:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automatikus"
+			},
+			"spacingAfterLabel": {
+				"text": "Utána:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automatikus"
+			},
+			"lineSpacingLabel": {
+				"text": "Sorköz:"
+			},
+			"Scale": {
+				"text": "Méretezés"
+			},
+			"Exact": {
+				"text": "Pontos"
+			},
+			"AtLeast": {
+				"text": "Legalább"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Ne adjon hozzá térközt az azonos stílusú bekezdések közé"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Ablak vezérlése"
+			},
+			"keepNextLabel": {
+				"text": "Következő megtartása"
+			},
+			"keepLinesLabel": {
+				"text": "Sorok megtartása"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Oldaltörés előtte"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Betűtípus:"
+			},
+			"fontStyleLabel": {
+				"text": "Betűstílus:"
+			},
+			"Regular": {
+				"text": "Normál"
+			},
+			"Italic": {
+				"text": "Dőlt"
+			},
+			"Bold": {
+				"text": "Bátor"
+			},
+			"BoldItalic": {
+				"text": "Félkövér Dőlt"
+			},
+			"fontSizeLabel": {
+				"text": "Betűméret:"
+			},
+			"fontColorLabel": {
+				"text": "Betűszín:"
+			},
+			"underlineStyleLabel": {
+				"text": "Aláhúzott szöveg:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Áthúzott szöveg:"
+			},
+			"verticalPositionLabel": {
+				"text": "Függőleges pozíció:"
+			},
+			"Baseline": {
+				"text": "Alapvonal"
+			},
+			"Superscript": {
+				"text": "Felső index"
+			},
+			"Subscript": {
+				"text": "Alsó index"
+			},
+			"smallCapsLabel": {
+				"text": "Kis nagybetűs"
+			},
+			"allCapsLabel": {
+				"text": "Csupa nagybetűs"
+			},
+			"scaleLabel": {
+				"text": "Indexkép léptéke:"
+			},
+			"spacingLabel": {
+				"text": "Térköz:"
+			},
+			"positionLabel": {
+				"text": "Pozíció:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Többszintű lista:"
+			},
+			"alignmentLabel": {
+				"text": "Igazítás:"
+			},
+			"Left": {
+				"text": "Bal"
+			},
+			"Right": {
+				"text": "Jobb"
+			},
+			"Center": {
+				"text": "Igazítás középre"
+			},
+			"Both": {
+				"text": "Mindkettő"
+			},
+			"lineSpacingLabel": {
+				"text": "Sorköz:"
+			},
+			"Single": {
+				"text": "Egyes"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dupla"
+			},
+			"Triple": {
+				"text": "Hármas"
+			},
+			"Custom...": {
+				"text": "Egyéni..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Bekezdés sorközének beállításai..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Bekezdés behúzásának beállításai..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Bekezdés oldaltördelésének beállításai..."
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Cím:"
+			},
+			"subjectLabel": {
+				"text": "Tárgy:"
+			},
+			"creatorLabel": {
+				"text": "Létrehozó:"
+			},
+			"descriptionLabel": {
+				"text": "Leírás:"
+			},
+			"categoryLabel": {
+				"text": "Kategória:"
+			},
+			"keywordsLabel": {
+				"text": "Kulcsszavak:"
+			},
+			"createdLabel": {
+				"text": "Létrehozva:"
+			},
+			"modifiedLabel": {
+				"text": "Módosítva:"
+			},
+			"printedLabel": {
+				"text": "Nyomtatott:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Utoljára módosította:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Szövegkiválasztás színe:"
+			},
+			"backgroundColorLabel": {
+				"text": "Háttér színe:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Alapértelmezett mértékegységek:"
+			},
+			"Centimeters": {
+				"text": "centiméter"
+			},
+			"Millimeters": {
+				"text": "Milliméter"
+			},
+			"Inches": {
+				"text": "Hüvelyk"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Láthatatlan táblázatszegélyek megjelenítése"
+			},
+			"asyncModeLabel": {
+				"text": "Aszinkron mód"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "szakasz kezdete:"
+			},
+			"NextPage": {
+				"text": "Következő Oldal"
+			},
+			"NextColumn": {
+				"text": "KövetkezőOszlop"
+			},
+			"Continuous": {
+				"text": "Folyamatos"
+			},
+			"EvenPage": {
+				"text": "Páros oldal"
+			},
+			"OddPage": {
+				"text": "Páratlan oldal"
+			},
+			"pageSizeLabel": {
+				"text": "Oldal mérete:"
+			},
+			"pageOrientationLabel": {
+				"text": "Oldal tájolása:"
+			},
+			"Portrait": {
+				"text": "Portré"
+			},
+			"Landscape": {
+				"text": "Táj"
+			},
+			"pageMarginsLabel": {
+				"text": "Oldalmargók (cm):"
+			},
+			"leftLabel": {
+				"text": "Balra:"
+			},
+			"rightLabel": {
+				"text": "Jobbra:"
+			},
+			"topLabel": {
+				"text": "Felső:"
+			},
+			"bottomLabel": {
+				"text": "Alul:"
+			},
+			"headerLabel": {
+				"text": "Fejléc:"
+			},
+			"footerLabel": {
+				"text": "Lábléc:"
+			},
+			"gutterLabel": {
+				"text": "Ereszcsatorna:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Használjon más címsort az első oldalon"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Használjon különböző címsort a páratlan és páros oldalakhoz"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Oszlopok száma:"
+			},
+			"lineBetweenLabel": {
+				"text": "Közötti vonal"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Szélesség és távolság"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Egyenlő oszlopszélesség"
+			},
+			"columnNumberLabel": {
+				"text": "Oszlop száma:"
+			},
+			"widthLabel": {
+				"text": "Szélesség:"
+			},
+			"spacingLabel": {
+				"text": "Térköz:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"closeButton": {
+				"value": "Bezárás"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Hiba"
+		},
+		"closeButton": {
+			"text": "Bezárás"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "A dokumentum megnyitása...",
+		"vssde-numberFormat-custom": "Egyedi",
+		"vssde-findTextPanel-textIsNotFound": "A(z) '{0}' szöveg nem található.",
+		"vssde-selectFunctionPanel-all": "Mind",
+		"vssde-createXlsxDocument": "Hozzon létre új XLSX dokumentumot",
+		"vssde-uploadXlsxFile": "XLSX fájl feltöltése",
+		"vssde-downloadXlsxFile": "XLSX fájl feltöltése",
+		"vssde-exportXlsxToPdf": "XLSX exportálása PDF-be",
+		"vssde-fileSizeExceedsLimit": "A feltöltött fájl mérete meghaladja a maximális méretet ({0} bájt).",
+		"vssde-error-noError": "Nincs hiba.",
+		"vssde-error-divisionByZero": "Bármely szám (beleértve a nullát is) vagy hibakód el van osztva nullával.",
+		"vssde-error-cellRefCannotBeEvaluated": "A cellahivatkozást nem lehet kiértékelni, mert a cella értékét nem kérték le vagy nem számították ki.",
+		"vssde-error-valueIsNotAvailable": "Meghatározott érték nem áll rendelkezésre.",
+		"vssde-error-wrongName": "Úgy tűnik, hogy egy név használatos, de ilyen név nincs meghatározva.",
+		"vssde-error-twoAreasNotIntersecting": "Két terület metszéspontja szükséges, de nem.",
+		"vssde-error-notCorrectValue": "Egy függvény argumentumának típusa kompatibilis, de értéke kívül esik azon a tartományon, amelyen a függvény definiálva van.",
+		"vssde-error-cannotEvaluateCellRef": "A cellahivatkozás nem értékelhető.",
+		"vssde-error-incompatibleType": "Inkompatibilis típusú argumentumot adnak át egy függvénynek, vagy inkompatibilis típusú operandust használnak egy operátorral.",
+		"vssde-error-unknownError": "Ismeretlen hiba.",
+		"vssde-error-externalError": "Külső hiba.",
+		"vssde-uriOpen-question": "Megnyitja a(z) '{0}' URL-t?",
+		"vssde-uriOpen-wrongUri": "A webhely címe nem érvényes: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Új munkafüzetet szeretne létrehozni?",
+		"vsde-documentIsOpening": "A dokumentum megnyitása...",
+		"vsde-createDocxDocument": "Új DOCX dokumentum létrehozása",
+		"vsde-uploadDocumentFile": "Fájl letöltése és megnyitása",
+		"vsde-exportDocxDocumentToPdf": "DOCX dokumentum exportálása PDF-be",
+		"vsde-downloadFile": "Fájl letöltése",
+		"vsde-cacheIsNotCleared": "A gyorsítótár nem törlődik, mert az alapértelmezett fájl webszolgáltatás (Vintasoft.Shared.WebServiceJS.defaultFileService) nincs megadva.",
+		"vsde-uriOpen-question": "Megnyitja a(z) '{0}' URL-t?",
+		"vsde-uriOpen-wrongUri": "A webhely címe nem érvényes: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Fájl letöltése és megnyitása",
+		"vsdv-uploadAndAddFileButton-addFileString": "Fájl feltöltése és hozzáadása",
+		"vsui-textSearchPanel-pageLabel": "Oldal",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Annotációk írása",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Megjegyzések mentése",
+		"vsui-annotationListPanel-pageLabel": "Oldal",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Annotáció tulajdonságai",
+		"vsdv-openFile-addFileString": "Fájl hozzáadása",
+		"vsdv-openFile-authenticateFileString": "Fájl hitelesítése",
+		"vsdv-downloadFile-actionMessage": "Fájl letöltése",
+		"vsdv-saveChanges-saveChangesInImages": "Mentse el a változásokat a képeken",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Mentse el a megjegyzések módosításait",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Írjon megjegyzéseket a képekre",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Fájl letöltése és megnyitása",
+		"vsui-uploadAndAddFileButton-addFileString": "Fájl feltöltése és hozzáadása",
+		"vsui-openFile-addFileString": "Fájl hozzáadása",
+		"vsui-openFile-authenticateFileString": "Fájl hitelesítése",
+		"vsui-downloadFile-actionMessage": "Fájl letöltése",
+		"vsui-saveChanges-saveChangesInImages": "Mentse el a változásokat a képeken",
+		"vsui-saveChanges-saveChangesInAnnotations": "Mentse el a megjegyzések módosításait",
+		"vsui-saveChanges-burnAnnotationsInImages": "Írjon megjegyzéseket a képekre",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Mentse el a változtatásokat PDF dokumentumban",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Annotációk írása",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Megjegyzések mentése",
+		"vsui-documentPasswordDialog-title": "Dokumentum jelszava",
+		"vsui-dialog-okButton": "Rendben",
+		"vsui-dialog-cancelButton": "Mégse",
+		"vsui-documentPasswordPanel-authenticateFileString": "Fájl hitelesítése",
+		"vsui-imageSelectionDialog-title": "Képek kiválasztása",
+		"vsui-imageSelectionDialog-currentImageString": "Aktuális kép",
+		"vsui-imageSelectionDialog-allImagesString": "Minden kép",
+		"vsui-imageSelectionDialog-customImagesString": "Egyedi",
+		"vsui-documentLayoutSettingsDialog-title": "Dokumentum elrendezési beállítások",
+		"vsui-printImagesDialog-title": "Képek nyomtatása",
+		"vsui-printImagesPanel-imagePrintingString": "A kép nyomtatása folyamatban van",
+		"vsui-printImagesPanel-withAnnotationsLabel": "jegyzetekkel",
+		"vsui-imageViewerSettingsDialog-title": "A képnézegető beállításai",
+		"vsui-thumbnailViewerSettingDialog-title": "Miniatűr-nézegető beállításai",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Megjegyzések megjelenítése a bélyegképeken:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "A megjegyzésekkel ellátott kép elforgatása",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Az elforgatási szög nem lehet 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "A megjegyzésekkel ellátott kép elforgatása folyamatban van",
+		"vsui-uploadImageFromUrlDialog-title": "Kép feltöltése az URL-ről",
+		"vsui-exportFileSettingsDialog-title": "A fájl exportálásának beállításai",
+		"vsdv-documentLayoutSettingsDialog-title": "Dokumentum elrendezési beállítások",
+		"vsdv-dialog-okButton": "Rendben",
+		"vsdv-dialog-cancelButton": "Mégse",
+		"vsdv-uploadImageFromUrlDialog-title": "Kép feltöltése az URL-ről",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Változástörténet engedélyezése",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "A visszavonás/újrakészítés letiltása",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Engedélyezze a 'Jegyzetek radírja' módot",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "A 'Jegyzetradír' letiltása",
+		"vsui-documentNavigationTool-getActions": "Szerezzen akciókat",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Bekezdés behúzásának beállításai",
+		"vsde-dialog-okButton": "Rendben",
+		"vsde-dialog-closeButton": "Bezárás",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Bekezdés sorköz beállításai",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Bekezdés lapozási beállításai",
+		"vsde-documentTextPropertiesDialog-title": "Szöveg tulajdonságai",
+		"vsde-documentParagraphPropertiesDialog-title": "Bekezdés tulajdonságai",
+		"vsde-documentInfoDialog-title": "Dokumentum információk",
+		"vsde-documentEditorSettingsDialog-title": "A dokumentumszerkesztő beállításai",
+		"vsde-documentEditorViewSettingsDialog-title": "A dokumentumszerkesztő nézet beállításai",
+		"vsde-documentPageSettingsDialog-title": "Dokumentumoldal beállításai",
+		"vsde-documentPageColumnsSettingsDialog-title": "Az oldaloszlopok beállításai"
+	}
+}

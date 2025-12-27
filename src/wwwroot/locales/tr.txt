@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Dosya"
+		},
+		"homeLabel": {
+			"text": "Ana"
+		},
+		"insertLabel": {
+			"text": "Ekle"
+		},
+		"layoutLabel": {
+			"text": "Düzen"
+		},
+		"createDocxDocumentButton": {
+			"title": "Yeni DOCX belgesi oluştur"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Belgeyi yükle ve aç"
+		},
+		"documentInfoButton": {
+			"title": "Belge bilgileri..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Değişiklikleri orijinal dosyaya kaydedin"
+		},
+		"downloadFileButton": {
+			"title": "Dosyayı indir"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX belgesini PDF'ye aktar ve PDF dosyasını indir..."
+		},
+		"printDocumentButton": {
+			"title": "Belgeyi yazdır..."
+		},
+		"closeDocumentButton": {
+			"title": "Belgeyi kapat"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Oturum önbelleğini temizle"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Belge düzenleyici ayarları..."
+		},
+		"copyContentButton": {
+			"title": "İçeriği kopyala"
+		},
+		"cutContentButton": {
+			"title": "İçeriği kes"
+		},
+		"pasteContentButton": {
+			"title": "İçeriği yapıştır"
+		},
+		"pasteTextContentButton": {
+			"title": "Metin içeriğini yapıştır"
+		},
+		"increaseFontSizeButton": {
+			"title": "Yazı tipi boyutunu artır"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Yazı tipi boyutunu azalt"
+		},
+		"boldTextButton": {
+			"title": "Kalın"
+		},
+		"italicTextButton": {
+			"title": "İtalik"
+		},
+		"underlineTextButton": {
+			"title": "Altı Çizili"
+		},
+		"strikethroughTextButton": {
+			"title": "Çapraz"
+		},
+		"superscriptTextButton": {
+			"title": "Üst simge metin"
+		},
+		"subscriptTextButton": {
+			"title": "Alt simge metin"
+		},
+		"setTextColorButton": {
+			"title": "Metin rengini ayarlayın"
+		},
+		"selectTextColorButton": {
+			"title": "Metin rengini seçin"
+		},
+		"setTextFillColorButton": {
+			"title": "Metin dolgu rengini ayarlayın"
+		},
+		"selectTextFillColorButton": {
+			"title": "Metin dolgu rengini seçin"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Tüm biçimlendirmeleri temizle"
+		},
+		"textPropertiesButton": {
+			"title": "Metin özellikleri..."
+		},
+		"decreaseIndentButton": {
+			"title": "Girintiyi azalt"
+		},
+		"increaseIndentButton": {
+			"title": "Girintiyi artır"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "İlk satır girintisini azalt"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "İlk satır girintisini artır"
+		},
+		"bulletedListButton": {
+			"title": "Madde işaretli liste"
+		},
+		"bulletedListStylesButton": {
+			"title": "Madde işaretli listeler için stiller"
+		},
+		"numberedListButton": {
+			"title": "Numaralı liste"
+		},
+		"numberedListStylesButton": {
+			"title": "Numaralı listeler için stiller"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Yazdırılamayan karakterleri göster"
+		},
+		"alignLeftButton": {
+			"title": "Sola Hizala"
+		},
+		"alignCenterButton": {
+			"title": "Ortaya Hizala"
+		},
+		"alignRightButton": {
+			"title": "Sağa Hizala"
+		},
+		"alignBothButton": {
+			"title": "Her ikisini de hizala"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Paragraf dolgu rengini ayarlayın"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Paragraf dolgu rengini seçin"
+		},
+		"stylePainterButton": {
+			"title": "stil ressamı"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Paragraf özellikleri..."
+		},
+		"insertPageBreakButton": {
+			"title": "Sayfa sonu ekle"
+		},
+		"createHeaderButton": {
+			"title": "Üstbilgi oluştur/düzenle"
+		},
+		"deleteHeaderButton": {
+			"title": "Üstbilgiyi sil"
+		},
+		"createFooterButton": {
+			"title": "Altbilgi oluştur/düzenle"
+		},
+		"deleteFooterButton": {
+			"title": "Altbilgiyi sil"
+		},
+		"changePageOrientationButton": {
+			"title": "Sayfa yönünü değiştir"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Bölüm sonu ekle (Sonraki sayfa)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Bölüm sonu ekle (Sürekli)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Bölüm sonu ekle (Çift sayfa)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Bölüm sonu ekle (Tek sayfa)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Sütun sonu ekle"
+		},
+		"removeSectionBreakButton": {
+			"title": "Bölüm sonunu kaldır"
+		},
+		"pageSettingsButton": {
+			"title": "Belge sayfa ayarları..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Sayfa sütun ayarları..."
+		},
+		"goToFirstPageButton": {
+			"title": "İlk sayfaya git"
+		},
+		"goToPreviousPageButton": {
+			"title": "Önceki sayfaya git"
+		},
+		"gotoPageInput": {
+			"title": "Sayfa"
+		},
+		"goToNextPageButton": {
+			"title": "Sonraki sayfaya git"
+		},
+		"goToLastPageButton": {
+			"title": "Son sayfaya git"
+		},
+		"viewPropertiesButton": {
+			"title": "Ayarları görüntüle..."
+		},
+		"view_fitToPageButton": {
+			"title": "Sayfaya sığdır"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Sayfa genişliğine sığdır"
+		},
+		"view_multiPagesButton": {
+			"title": "Birden fazla sayfa"
+		},
+		"view_onePageButton": {
+			"title": "Bir sayfa"
+		},
+		"zoomOutButton": {
+			"title": "Uzaklaştır"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Yakınlaştır"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Sol:"
+			},
+			"rightIndentationLabel": {
+				"text": "Sağ:"
+			},
+			"specialIndentationLabel": {
+				"text": "Özel:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Hayır"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "İlk Satır"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Askıda"
+			},
+			"byLabel": {
+				"text": "Yanıtla:"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			},
+			"viewModeListLabel": {
+				"text": "Görüntüleme modu:"
+			},
+			"Vertical": {
+				"text": "Dikey"
+			},
+			"Horizontal": {
+				"text": "Yatay"
+			},
+			"pagesInLineLabel": {
+				"text": "Satır/sütun içindeki sayfa sayısı:"
+			},
+			"pagePaddingLabel": {
+				"text": "Sayfa dolgusu (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Önce:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Otomatik"
+			},
+			"spacingAfterLabel": {
+				"text": "Sonra:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Otomatik"
+			},
+			"lineSpacingLabel": {
+				"text": "Satır aralığı:"
+			},
+			"Scale": {
+				"text": "Ölçek"
+			},
+			"Exact": {
+				"text": "Tam"
+			},
+			"AtLeast": {
+				"text": "En Az"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Aynı stildeki paragraflar arasına boşluk ekleme"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Dil kontrolü"
+			},
+			"keepNextLabel": {
+				"text": "Sonrakini tut"
+			},
+			"keepLinesLabel": {
+				"text": "Satırları tut"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Önceki sayfa sonu"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Yazı Tipi:"
+			},
+			"fontStyleLabel": {
+				"text": "Yazı Tipi:"
+			},
+			"Regular": {
+				"text": "Normal"
+			},
+			"Italic": {
+				"text": "İtalik"
+			},
+			"Bold": {
+				"text": "Kalın"
+			},
+			"BoldItalic": {
+				"text": "Kalın İtalik"
+			},
+			"fontSizeLabel": {
+				"text": "Yazı Tipi Boyutu:"
+			},
+			"fontColorLabel": {
+				"text": "Yazı Tipi Rengi:"
+			},
+			"underlineStyleLabel": {
+				"text": "Altı Çizili Metin:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Üstü Çizili Metin:"
+			},
+			"verticalPositionLabel": {
+				"text": "Dikey Konum:"
+			},
+			"Baseline": {
+				"text": "Taban Çizgisi"
+			},
+			"Superscript": {
+				"text": "Üst Simge"
+			},
+			"Subscript": {
+				"text": "Alt Simge"
+			},
+			"smallCapsLabel": {
+				"text": "Küçük Harfler"
+			},
+			"allCapsLabel": {
+				"text": "Tümü Büyük Harfler"
+			},
+			"scaleLabel": {
+				"text": "Küçük Resim Ölçeği:"
+			},
+			"spacingLabel": {
+				"text": "Boşluk:"
+			},
+			"positionLabel": {
+				"text": "Konum:"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Çok Düzeyli Liste:"
+			},
+			"alignmentLabel": {
+				"text": "Hizalama:"
+			},
+			"Left": {
+				"text": "Sol"
+			},
+			"Right": {
+				"text": "Sağ"
+			},
+			"Center": {
+				"text": "Ortaya Hizala"
+			},
+			"Both": {
+				"text": "Her İkisi"
+			},
+			"lineSpacingLabel": {
+				"text": "Satır aralığı:"
+			},
+			"Single": {
+				"text": "Tek"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Çift"
+			},
+			"Triple": {
+				"text": "Üçlü"
+			},
+			"Custom...": {
+				"text": "Özel..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Paragraf Satır Aralığı Ayarları..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Paragraf Girinti Ayarları..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Paragraf Sayfalama Ayarları..."
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Başlık:"
+			},
+			"subjectLabel": {
+				"text": "Konu:"
+			},
+			"creatorLabel": {
+				"text": "Oluşturan:"
+			},
+			"descriptionLabel": {
+				"text": "Açıklama:"
+			},
+			"categoryLabel": {
+				"text": "Kategori:"
+			},
+			"keywordsLabel": {
+				"text": "Anahtar Kelimeler:"
+			},
+			"createdLabel": {
+				"text": "Oluşturulma Tarihi:"
+			},
+			"modifiedLabel": {
+				"text": "Değiştirilme Tarihi:"
+			},
+			"printedLabel": {
+				"text": "Yazdırıldı:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Son değiştiren:"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Metin seçim rengi:"
+			},
+			"backgroundColorLabel": {
+				"text": "Arka plan rengi:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Varsayılan birimler:"
+			},
+			"Centimeters": {
+				"text": "Santimetre"
+			},
+			"Millimeters": {
+				"text": "Milimetre"
+			},
+			"Inches": {
+				"text": "İnç"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Görünmez tablo kenarlıklarını göster"
+			},
+			"asyncModeLabel": {
+				"text": "Eşzamansız mod"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Bölüm başlangıcı:"
+			},
+			"NextPage": {
+				"text": "Sonraki Sayfa"
+			},
+			"NextColumn": {
+				"text": "Sonraki Sütun"
+			},
+			"Continuous": {
+				"text": "Sürekli"
+			},
+			"EvenPage": {
+				"text": "Çift Sayfa"
+			},
+			"OddPage": {
+				"text": "Tek Sayfa"
+			},
+			"pageSizeLabel": {
+				"text": "Sayfa boyutu:"
+			},
+			"pageOrientationLabel": {
+				"text": "Sayfa yönü:"
+			},
+			"Portrait": {
+				"text": "Dikey"
+			},
+			"Landscape": {
+				"text": "Yatay"
+			},
+			"pageMarginsLabel": {
+				"text": "Sayfa kenar boşlukları (cm):"
+			},
+			"leftLabel": {
+				"text": "Sol:"
+			},
+			"rightLabel": {
+				"text": "Sağ:"
+			},
+			"topLabel": {
+				"text": "Üst:"
+			},
+			"bottomLabel": {
+				"text": "Alt:"
+			},
+			"headerLabel": {
+				"text": "Üstbilgi:"
+			},
+			"footerLabel": {
+				"text": "Altbilgi:"
+			},
+			"gutterLabel": {
+				"text": "Oluk:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "İlk sayfa için farklı başlık kullan"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Tek ve çift sayfalar için farklı başlık kullan"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Sütun sayısı:"
+			},
+			"lineBetweenLabel": {
+				"text": "Aradaki çizgi"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Genişlik ve aralık"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Eşit sütun genişliği"
+			},
+			"columnNumberLabel": {
+				"text": "Sütun numarası:"
+			},
+			"widthLabel": {
+				"text": "Genişlik:"
+			},
+			"spacingLabel": {
+				"text": "Boşluk:"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"closeButton": {
+				"value": "Kapat"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Hata"
+		},
+		"closeButton": {
+			"text": "Kapat"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Belge açılıyor...",
+		"vssde-numberFormat-custom": "Özel",
+		"vssde-findTextPanel-textIsNotFound": "'{0}' metni bulunamadı.",
+		"vssde-selectFunctionPanel-all": "Tümü",
+		"vssde-createXlsxDocument": "Yeni XLSX belgesi oluştur",
+		"vssde-uploadXlsxFile": "XLSX dosyasını yükle",
+		"vssde-downloadXlsxFile": "XLSX dosyasını yükle",
+		"vssde-exportXlsxToPdf": "XLSX'i PDF'ye Aktar",
+		"vssde-fileSizeExceedsLimit": "Yüklenen dosyanın boyutu maksimum boyutu ({0} bayt) aşıyor.",
+		"vssde-error-noError": "Hata yok.",
+		"vssde-error-divisionByZero": "Herhangi bir sayı (sıfır dahil) veya herhangi bir hata kodu sıfıra bölünür.",
+		"vssde-error-cellRefCannotBeEvaluated": "Hücrenin değeri alınmadığı veya hesaplanmadığı için hücre başvurusu değerlendirilemiyor.",
+		"vssde-error-valueIsNotAvailable": "Belirlenmiş bir değer mevcut değil.",
+		"vssde-error-wrongName": "Görünüşe göre bir isim kullanılmış ancak böyle bir isim tanımlanmamış.",
+		"vssde-error-twoAreasNotIntersecting": "İki alanın kesişmesi gerekir ancak kesişmez.",
+		"vssde-error-notCorrectValue": "Bir işleve ilişkin bağımsız değişkenin uyumlu bir türü vardır ancak bu işlevin tanımlandığı etki alanının dışında bir değere sahiptir.",
+		"vssde-error-cannotEvaluateCellRef": "Hücre başvurusu değerlendirilemez.",
+		"vssde-error-incompatibleType": "Uyumsuz bir tür bağımsız değişkeni bir işleve iletilir veya uyumsuz bir tür işleneni bir operatörle birlikte kullanılır.",
+		"vssde-error-unknownError": "Bilinmeyen hata.",
+		"vssde-error-externalError": "Harici hata.",
+		"vssde-uriOpen-question": "'{0}' URL'si açılsın mı?",
+		"vssde-uriOpen-wrongUri": "Bu sitenin adresi geçerli değil: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Yeni bir çalışma kitabı mı oluşturmak istiyorsunuz?",
+		"vsde-documentIsOpening": "Belge açılıyor...",
+		"vsde-createDocxDocument": "Yeni DOCX belgesi oluştur",
+		"vsde-uploadDocumentFile": "Dosyayı indir ve aç",
+		"vsde-exportDocxDocumentToPdf": "DOCX belgesini PDF'e aktar",
+		"vsde-downloadFile": "Dosyayı indir",
+		"vsde-cacheIsNotCleared": "Varsayılan dosya web hizmeti (Vintasoft.Shared.WebServiceJS.defaultFileService) tanımlanmadığı için önbellek temizlenmedi.",
+		"vsde-uriOpen-question": "'{0}' URL'si açılsın mı?",
+		"vsde-uriOpen-wrongUri": "Bu sitenin adresi geçerli değil: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Dosyayı indir ve aç",
+		"vsdv-uploadAndAddFileButton-addFileString": "Dosya yükleyin ve ekleyin",
+		"vsui-textSearchPanel-pageLabel": "Sayfa",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Ek açıklamaları yaz",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Ek açıklamaları kaydet",
+		"vsui-annotationListPanel-pageLabel": "Sayfa",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Açıklama özellikleri",
+		"vsdv-openFile-addFileString": "Dosya Ekle",
+		"vsdv-openFile-authenticateFileString": "Dosyanın kimliğini doğrula",
+		"vsdv-downloadFile-actionMessage": "Dosyayı indir",
+		"vsdv-saveChanges-saveChangesInImages": "Resimlerdeki değişiklikleri kaydet",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Ek açıklamalardaki değişiklikleri kaydet",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Görüntülere ek açıklamalar yazın",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Dosyayı indir ve aç",
+		"vsui-uploadAndAddFileButton-addFileString": "Dosya yükleyin ve ekleyin",
+		"vsui-openFile-addFileString": "Dosya Ekle",
+		"vsui-openFile-authenticateFileString": "Dosyanın kimliğini doğrula",
+		"vsui-downloadFile-actionMessage": "Dosyayı indir",
+		"vsui-saveChanges-saveChangesInImages": "Resimlerdeki değişiklikleri kaydet",
+		"vsui-saveChanges-saveChangesInAnnotations": "Ek açıklamalardaki değişiklikleri kaydet",
+		"vsui-saveChanges-burnAnnotationsInImages": "Görüntülere ek açıklamalar yazın",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Değişiklikleri PDF belgesine kaydet",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Ek açıklamaları yaz",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Ek açıklamaları kaydet",
+		"vsui-documentPasswordDialog-title": "Belge parolası",
+		"vsui-dialog-okButton": "Tamam",
+		"vsui-dialog-cancelButton": "İptal",
+		"vsui-documentPasswordPanel-authenticateFileString": "Dosyanın kimliğini doğrula",
+		"vsui-imageSelectionDialog-title": "Görüntüleri Seçin",
+		"vsui-imageSelectionDialog-currentImageString": "Geçerli Resim",
+		"vsui-imageSelectionDialog-allImagesString": "Tüm resimler",
+		"vsui-imageSelectionDialog-customImagesString": "Özel",
+		"vsui-documentLayoutSettingsDialog-title": "Belge düzeni ayarları",
+		"vsui-printImagesDialog-title": "Görüntüleri Yazdır",
+		"vsui-printImagesPanel-imagePrintingString": "Resim yazdırılıyor",
+		"vsui-printImagesPanel-withAnnotationsLabel": "açıklamalarla",
+		"vsui-imageViewerSettingsDialog-title": "Görüntü görüntüleyici ayarları",
+		"vsui-thumbnailViewerSettingDialog-title": "Küçük Resim Görüntüleyici Ayarları",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Açıklamaları küçük resimlerde göster:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Açıklamalı Görüntüyü Döndür",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Dönme açısı 0 olmamalıdır.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Açıklamalı resim döndürülüyor",
+		"vsui-uploadImageFromUrlDialog-title": "URL'den resim yükle",
+		"vsui-exportFileSettingsDialog-title": "Dosyayı dışa aktarma ayarları",
+		"vsdv-documentLayoutSettingsDialog-title": "Belge düzeni ayarları",
+		"vsdv-dialog-okButton": "Tamam",
+		"vsdv-dialog-cancelButton": "İptal",
+		"vsdv-uploadImageFromUrlDialog-title": "URL'den resim yükle",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Değişiklik geçmişini etkinleştir",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Geri al/yeniden yap'ı devre dışı bırak",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "'Açıklamalar için silgi' modunu etkinleştir",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'Açıklama silgisi'ni devre dışı bırak",
+		"vsui-documentNavigationTool-getActions": "Eylemleri al",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Paragraf girinti ayarları",
+		"vsde-dialog-okButton": "Tamam",
+		"vsde-dialog-closeButton": "Kapat",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Paragraf satır aralığı ayarları",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Paragraf sayfalandırma ayarları",
+		"vsde-documentTextPropertiesDialog-title": "Metin özellikleri",
+		"vsde-documentParagraphPropertiesDialog-title": "Paragraf özellikleri",
+		"vsde-documentInfoDialog-title": "Belge bilgileri",
+		"vsde-documentEditorSettingsDialog-title": "Belge düzenleyici ayarları",
+		"vsde-documentEditorViewSettingsDialog-title": "Belge düzenleyici görünüm ayarları",
+		"vsde-documentPageSettingsDialog-title": "Belge sayfa ayarları",
+		"vsde-documentPageColumnsSettingsDialog-title": "Sayfa sütun ayarları"
+	}
+}

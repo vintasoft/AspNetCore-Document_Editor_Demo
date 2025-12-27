@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "קובץ"
+		},
+		"homeLabel": {
+			"text": "ראשי"
+		},
+		"insertLabel": {
+			"text": "הוסף"
+		},
+		"layoutLabel": {
+			"text": "פריסה"
+		},
+		"createDocxDocumentButton": {
+			"title": "יצירת מסמך DOCX חדש"
+		},
+		"uploadDocumentFileButton": {
+			"title": "העלאה ופתיחה של מסמך"
+		},
+		"documentInfoButton": {
+			"title": "מידע על המסמך..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "שמירת שינויים בקובץ המקור"
+		},
+		"downloadFileButton": {
+			"title": "הורד קובץ"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "ייצוא מסמך DOCX ל-PDF והורדת קובץ PDF..."
+		},
+		"printDocumentButton": {
+			"title": "הדפסת מסמך..."
+		},
+		"closeDocumentButton": {
+			"title": "סגירת מסמך"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "נקה את מטמון ההפעלה"
+		},
+		"documentEditorSettingsButton": {
+			"title": "הגדרות עורך מסמכים..."
+		},
+		"copyContentButton": {
+			"title": "העתק תוכן"
+		},
+		"cutContentButton": {
+			"title": "חתוך תוכן"
+		},
+		"pasteContentButton": {
+			"title": "הדבק תוכן"
+		},
+		"pasteTextContentButton": {
+			"title": "הדבקת תוכן טקסט"
+		},
+		"increaseFontSizeButton": {
+			"title": "הגדלת גודל גופן"
+		},
+		"decreaseFontSizeButton": {
+			"title": "הקטנת גודל גופן"
+		},
+		"boldTextButton": {
+			"title": "מודגש"
+		},
+		"italicTextButton": {
+			"title": "נטוי"
+		},
+		"underlineTextButton": {
+			"title": "מסומן בקו תחתון"
+		},
+		"strikethroughTextButton": {
+			"title": "הצלבה"
+		},
+		"superscriptTextButton": {
+			"title": "טקסט עילי"
+		},
+		"subscriptTextButton": {
+			"title": "טקסט תחתי"
+		},
+		"setTextColorButton": {
+			"title": "הגדר את צבע הטקסט"
+		},
+		"selectTextColorButton": {
+			"title": "בחר את צבע הטקסט"
+		},
+		"setTextFillColorButton": {
+			"title": "הגדר את צבע מילוי הטקסט"
+		},
+		"selectTextFillColorButton": {
+			"title": "בחר את צבע מילוי הטקסט"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "ניקוי כל העיצובים"
+		},
+		"textPropertiesButton": {
+			"title": "מאפייני טקסט..."
+		},
+		"decreaseIndentButton": {
+			"title": "הקטנת כניסה"
+		},
+		"increaseIndentButton": {
+			"title": "הגדלת כניסה"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "הקטנת כניסה בשורה הראשונה"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "הגדלת כניסה בשורה הראשונה"
+		},
+		"bulletedListButton": {
+			"title": "רשימה עם תבליטים"
+		},
+		"bulletedListStylesButton": {
+			"title": "סגנונות לרשימות עם תבליטים"
+		},
+		"numberedListButton": {
+			"title": "רשימה ממוספרת"
+		},
+		"numberedListStylesButton": {
+			"title": "סגנונות לרשימות ממוספרות"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "הצג תווים שאינם ניתנים להדפסה"
+		},
+		"alignLeftButton": {
+			"title": "יישר שמאלה"
+		},
+		"alignCenterButton": {
+			"title": "יישור מרכז"
+		},
+		"alignRightButton": {
+			"title": "יישר ימינה"
+		},
+		"alignBothButton": {
+			"title": "יישור שניהם"
+		},
+		"setParagraphFillColorButton": {
+			"title": "הגדר את צבע מילוי הפסקה"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "בחר את צבע מילוי הפסקה"
+		},
+		"stylePainterButton": {
+			"title": "צייר בסגנון"
+		},
+		"paragraphPropertiesButton": {
+			"title": "מאפייני פסקה..."
+		},
+		"insertPageBreakButton": {
+			"title": "הוסף מעבר עמוד"
+		},
+		"createHeaderButton": {
+			"title": "יצירה/עריכה של כותרת עליונה"
+		},
+		"deleteHeaderButton": {
+			"title": "מחק כותרת עליונה"
+		},
+		"createFooterButton": {
+			"title": "יצירה/עריכה של כותרת תחתונה"
+		},
+		"deleteFooterButton": {
+			"title": "מחיקת כותרת תחתונה"
+		},
+		"changePageOrientationButton": {
+			"title": "שינוי כיוון עמוד"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "הוסף מעבר מקטע (עמוד הבא)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "הוסף מעבר מקטע (רציף)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "הוסף מעבר מקטע (עמוד זוגי)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "הוסף מעבר מקטע (עמוד אי-זוגי)"
+		},
+		"addColumnBreak_Button": {
+			"title": "הוסף מעבר עמודה"
+		},
+		"removeSectionBreakButton": {
+			"title": "הסר מעבר מקטע"
+		},
+		"pageSettingsButton": {
+			"title": "הגדרות עמוד מסמך..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "הגדרות עמודות עמוד..."
+		},
+		"goToFirstPageButton": {
+			"title": "עבור לעמוד הראשון"
+		},
+		"goToPreviousPageButton": {
+			"title": "עבור לעמוד הקודם"
+		},
+		"gotoPageInput": {
+			"title": "דף"
+		},
+		"goToNextPageButton": {
+			"title": "עבור לעמוד הבא"
+		},
+		"goToLastPageButton": {
+			"title": "עבור לעמוד האחרון"
+		},
+		"viewPropertiesButton": {
+			"title": "הגדרות תצוגה..."
+		},
+		"view_fitToPageButton": {
+			"title": "התאמה לעמוד"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "התאמה לרוחב העמוד"
+		},
+		"view_multiPagesButton": {
+			"title": "מספר עמודים"
+		},
+		"view_onePageButton": {
+			"title": "עמוד אחד"
+		},
+		"zoomOutButton": {
+			"title": "התקרבות"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "התקרב"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "שמאל:"
+			},
+			"rightIndentationLabel": {
+				"text": "ימין:"
+			},
+			"specialIndentationLabel": {
+				"text": "מיוחד:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "לא"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "שורה ראשונה"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "תלוי"
+			},
+			"byLabel": {
+				"text": "לפי:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			},
+			"viewModeListLabel": {
+				"text": "מצב תצוגה:"
+			},
+			"Vertical": {
+				"text": "אנכי"
+			},
+			"Horizontal": {
+				"text": "אופקי"
+			},
+			"pagesInLineLabel": {
+				"text": "עמודים בשורה/עמודה:"
+			},
+			"pagePaddingLabel": {
+				"text": "ריפוד עמוד (פיקסלים):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "לפני:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "אוטומטי"
+			},
+			"spacingAfterLabel": {
+				"text": "אחרי:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "אוטומטי"
+			},
+			"lineSpacingLabel": {
+				"text": "ריווח בין שורות:"
+			},
+			"Scale": {
+				"text": "קנה מידה"
+			},
+			"Exact": {
+				"text": "מדויק"
+			},
+			"AtLeast": {
+				"text": "לפחות"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "אין להוסיף רווח בין פסקאות מאותו סגנון"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "בקרת אלמנה"
+			},
+			"keepNextLabel": {
+				"text": "שמור הבא"
+			},
+			"keepLinesLabel": {
+				"text": "שמור שורות"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "מעבר עמוד לפני"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "גופן:"
+			},
+			"fontStyleLabel": {
+				"text": "סגנון גופן:"
+			},
+			"Regular": {
+				"text": "רגיל"
+			},
+			"Italic": {
+				"text": "נטוי"
+			},
+			"Bold": {
+				"text": "נוֹעָז"
+			},
+			"BoldItalic": {
+				"text": "מודגש נטוי"
+			},
+			"fontSizeLabel": {
+				"text": "גודל גופן:"
+			},
+			"fontColorLabel": {
+				"text": "צבע גופן:"
+			},
+			"underlineStyleLabel": {
+				"text": "טקסט תחתון:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "טקסט מחיק:"
+			},
+			"verticalPositionLabel": {
+				"text": "מיקום אנכי:"
+			},
+			"Baseline": {
+				"text": "קו בסיס"
+			},
+			"Superscript": {
+				"text": "כתב עילי"
+			},
+			"Subscript": {
+				"text": "כתב תחתי"
+			},
+			"smallCapsLabel": {
+				"text": "אותיות גדולות קטנות"
+			},
+			"allCapsLabel": {
+				"text": "אותיות גדולות בלבד"
+			},
+			"scaleLabel": {
+				"text": "קנה מידה של תמונות ממוזערות:"
+			},
+			"spacingLabel": {
+				"text": "ריווח:"
+			},
+			"positionLabel": {
+				"text": "מיקום:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "רשימה מרובת רמות:"
+			},
+			"alignmentLabel": {
+				"text": "יישור:"
+			},
+			"Left": {
+				"text": "שמאל"
+			},
+			"Right": {
+				"text": "נכון"
+			},
+			"Center": {
+				"text": "יישור מרכז"
+			},
+			"Both": {
+				"text": "שניהם"
+			},
+			"lineSpacingLabel": {
+				"text": "ריווח בין שורות:"
+			},
+			"Single": {
+				"text": "יחיד"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "כפול"
+			},
+			"Triple": {
+				"text": "משולש"
+			},
+			"Custom...": {
+				"text": "מותאם אישית..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "הגדרות ריווח שורות בפסקה..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "הגדרות הזחת פסקה..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "הגדרות דפדוף פסקה..."
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "כותרת:"
+			},
+			"subjectLabel": {
+				"text": "נושא:"
+			},
+			"creatorLabel": {
+				"text": "יוצר:"
+			},
+			"descriptionLabel": {
+				"text": "תיאור:"
+			},
+			"categoryLabel": {
+				"text": "קטגוריה:"
+			},
+			"keywordsLabel": {
+				"text": "מילות מפתח:"
+			},
+			"createdLabel": {
+				"text": "נוצר:"
+			},
+			"modifiedLabel": {
+				"text": "שונה:"
+			},
+			"printedLabel": {
+				"text": "מודפס:"
+			},
+			"lastModifiedByLabel": {
+				"text": "שונה לאחרונה על ידי:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "צבע בחירת טקסט:"
+			},
+			"backgroundColorLabel": {
+				"text": "צבע רקע:"
+			},
+			"defaultUnitsLabel": {
+				"text": "יחידות ברירת מחדל:"
+			},
+			"Centimeters": {
+				"text": "סנטימטרים"
+			},
+			"Millimeters": {
+				"text": "מילימטרים"
+			},
+			"Inches": {
+				"text": "אינץ"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "הצג גבולות טבלה בלתי נראים"
+			},
+			"asyncModeLabel": {
+				"text": "מצב אסינכרון"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "תחילת הקטע:"
+			},
+			"NextPage": {
+				"text": "NextPage"
+			},
+			"NextColumn": {
+				"text": "העמודה הבאה"
+			},
+			"Continuous": {
+				"text": "מתמשך"
+			},
+			"EvenPage": {
+				"text": "אפילו פייג'"
+			},
+			"OddPage": {
+				"text": "עמוד מוזר"
+			},
+			"pageSizeLabel": {
+				"text": "גודל עמוד:"
+			},
+			"pageOrientationLabel": {
+				"text": "כיוון הדף:"
+			},
+			"Portrait": {
+				"text": "דיוקן"
+			},
+			"Landscape": {
+				"text": "נוף"
+			},
+			"pageMarginsLabel": {
+				"text": "שולי עמוד (ס"מ):"
+			},
+			"leftLabel": {
+				"text": "שמאל:"
+			},
+			"rightLabel": {
+				"text": "מימין:"
+			},
+			"topLabel": {
+				"text": "למעלה:"
+			},
+			"bottomLabel": {
+				"text": "תחתון:"
+			},
+			"headerLabel": {
+				"text": "כותרת:"
+			},
+			"footerLabel": {
+				"text": "כותרת תחתונה:"
+			},
+			"gutterLabel": {
+				"text": "מרזב:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "השתמש בכותרת אחרת עבור העמוד הראשון"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "השתמש בכותרת שונה עבור עמודים אי-זוגיים וזוגיים"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "ספירת עמודות:"
+			},
+			"lineBetweenLabel": {
+				"text": "קו בין"
+			},
+			"widthAndSpacingLabel": {
+				"text": "רוחב ומרווח"
+			},
+			"equalColumnWidthLabel": {
+				"text": "רוחב עמודה שווה"
+			},
+			"columnNumberLabel": {
+				"text": "מספר עמודה:"
+			},
+			"widthLabel": {
+				"text": "רוחב:"
+			},
+			"spacingLabel": {
+				"text": "ריווח:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"closeButton": {
+				"value": "סגור"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "שגיאה"
+		},
+		"closeButton": {
+			"text": "סגור"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "המסמך נפתח...",
+		"vssde-numberFormat-custom": "מותאם אישית",
+		"vssde-findTextPanel-textIsNotFound": "הטקסט '{0}' לא נמצא.",
+		"vssde-selectFunctionPanel-all": "הכל",
+		"vssde-createXlsxDocument": "צור מסמך XLSX חדש",
+		"vssde-uploadXlsxFile": "העלה קובץ XLSX",
+		"vssde-downloadXlsxFile": "העלה קובץ XLSX",
+		"vssde-exportXlsxToPdf": "ייצוא XLSX ל-PDF",
+		"vssde-fileSizeExceedsLimit": "גודל הקובץ שהועלה חורג מהגודל המרבי ({0} בייטים).",
+		"vssde-error-noError": "אין שגיאה.",
+		"vssde-error-divisionByZero": "כל מספר (כולל אפס) או כל קוד שגיאה מחולק באפס.",
+		"vssde-error-cellRefCannotBeEvaluated": "לא ניתן להעריך הפניה לתא מכיוון שהערך עבור התא לא אוחזר או חושב.",
+		"vssde-error-valueIsNotAvailable": "ערך ייעודי אינו זמין.",
+		"vssde-error-wrongName": "נראה כאילו נעשה שימוש בשם אבל לא הוגדר שם כזה.",
+		"vssde-error-twoAreasNotIntersecting": "שני אזורים נדרשים להצטלב אך לא.",
+		"vssde-error-notCorrectValue": "לארגומנט לפונקציה יש סוג תואם, אבל יש לו ערך שהוא מחוץ לתחום שמעליו מוגדרת פונקציה זו.",
+		"vssde-error-cannotEvaluateCellRef": "לא ניתן להעריך הפניה לתא.",
+		"vssde-error-incompatibleType": "ארגומנט מסוג לא תואם מועבר לפונקציה, או אופרנד מסוג לא תואם משמש עם אופרטור.",
+		"vssde-error-unknownError": "שגיאה לא ידועה.",
+		"vssde-error-externalError": "שגיאה חיצונית.",
+		"vssde-uriOpen-question": "לפתוח את כתובת האתר '{0}'?",
+		"vssde-uriOpen-wrongUri": "הכתובת של אתר זה אינה חוקית: {0}",
+		"vssde-createXlsxDocumentConfirmation": "האם ברצונך ליצור חוברת עבודה חדשה?",
+		"vsde-documentIsOpening": "המסמך נפתח...",
+		"vsde-createDocxDocument": "יצירת מסמך DOCX חדש",
+		"vsde-uploadDocumentFile": "הורד ופתח את הקובץ",
+		"vsde-exportDocxDocumentToPdf": "ייצוא מסמך DOCX ל-PDF",
+		"vsde-downloadFile": "הורד קובץ",
+		"vsde-cacheIsNotCleared": "המטמון אינו ניקה מכיוון ששירות האינטרנט של ברירת המחדל של קבצים (Vintasoft.Shared.WebServiceJS.defaultFileService) אינו מוגדר.",
+		"vsde-uriOpen-question": "לפתוח את כתובת האתר '{0}'?",
+		"vsde-uriOpen-wrongUri": "הכתובת של אתר זה אינה חוקית: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "הורד ופתח את הקובץ",
+		"vsdv-uploadAndAddFileButton-addFileString": "העלה והוסף קובץ",
+		"vsui-textSearchPanel-pageLabel": "דף",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "צריבת הערות",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "שמור הערות",
+		"vsui-annotationListPanel-pageLabel": "דף",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "מאפייני הערה",
+		"vsdv-openFile-addFileString": "הוסף קובץ",
+		"vsdv-openFile-authenticateFileString": "אימות קובץ",
+		"vsdv-downloadFile-actionMessage": "הורד קובץ",
+		"vsdv-saveChanges-saveChangesInImages": "שמור שינויים בתמונות",
+		"vsdv-saveChanges-saveChangesInAnnotations": "שמור שינויים בהערות",
+		"vsdv-saveChanges-burnAnnotationsInImages": "צריבת הערות על תמונות",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "הורד ופתח את הקובץ",
+		"vsui-uploadAndAddFileButton-addFileString": "העלה והוסף קובץ",
+		"vsui-openFile-addFileString": "הוסף קובץ",
+		"vsui-openFile-authenticateFileString": "אימות קובץ",
+		"vsui-downloadFile-actionMessage": "הורד קובץ",
+		"vsui-saveChanges-saveChangesInImages": "שמור שינויים בתמונות",
+		"vsui-saveChanges-saveChangesInAnnotations": "שמור שינויים בהערות",
+		"vsui-saveChanges-burnAnnotationsInImages": "צריבת הערות על תמונות",
+		"vsui-saveChanges-saveChangesInPdfDocument": "שמור שינויים במסמך PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "צריבת הערות",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "שמור הערות",
+		"vsui-documentPasswordDialog-title": "סיסמת מסמך",
+		"vsui-dialog-okButton": "בסדר",
+		"vsui-dialog-cancelButton": "בטל",
+		"vsui-documentPasswordPanel-authenticateFileString": "אימות קובץ",
+		"vsui-imageSelectionDialog-title": "בחר תמונות",
+		"vsui-imageSelectionDialog-currentImageString": "תמונה נוכחית",
+		"vsui-imageSelectionDialog-allImagesString": "כל התמונות",
+		"vsui-imageSelectionDialog-customImagesString": "מותאם אישית",
+		"vsui-documentLayoutSettingsDialog-title": "הגדרות פריסת מסמך",
+		"vsui-printImagesDialog-title": "הדפס תמונות",
+		"vsui-printImagesPanel-imagePrintingString": "התמונה מודפסת",
+		"vsui-printImagesPanel-withAnnotationsLabel": "עם הערות",
+		"vsui-imageViewerSettingsDialog-title": "הגדרות מציג תמונות",
+		"vsui-thumbnailViewerSettingDialog-title": "הגדרות מציג תמונות ממוזערות",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "הצג הערות בתמונות ממוזערות:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "סובב תמונה מוערת",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "זווית הסיבוב לא יכולה להיות 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "מסובב תמונה עם הערות",
+		"vsui-uploadImageFromUrlDialog-title": "העלה תמונה מ-URL",
+		"vsui-exportFileSettingsDialog-title": "ההגדרות לייצוא הקובץ",
+		"vsdv-documentLayoutSettingsDialog-title": "הגדרות פריסת מסמך",
+		"vsdv-dialog-okButton": "בסדר",
+		"vsdv-dialog-cancelButton": "בטל",
+		"vsdv-uploadImageFromUrlDialog-title": "העלה תמונה מ-URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "אפשר היסטוריית שינויים",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "השבת את ביטול/בצע מחדש",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "הפעל מצב 'מחק להערות'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "השבת את 'מחק הערות'",
+		"vsui-documentNavigationTool-getActions": "קבל פעולות",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "הגדרות הזחה של פסקה",
+		"vsde-dialog-okButton": "בסדר",
+		"vsde-dialog-closeButton": "סגור",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "הגדרות מרווח בין שורות בפסקה",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "הגדרות עימוד של פסקה",
+		"vsde-documentTextPropertiesDialog-title": "מאפייני טקסט",
+		"vsde-documentParagraphPropertiesDialog-title": "מאפייני פסקה",
+		"vsde-documentInfoDialog-title": "מידע על מסמך",
+		"vsde-documentEditorSettingsDialog-title": "הגדרות עורך מסמכים",
+		"vsde-documentEditorViewSettingsDialog-title": "הגדרות תצוגת עורך מסמכים",
+		"vsde-documentPageSettingsDialog-title": "הגדרות עמוד המסמך",
+		"vsde-documentPageColumnsSettingsDialog-title": "הגדרות עמודות עמוד"
+	}
+}

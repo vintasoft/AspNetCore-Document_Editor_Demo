@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"homeLabel": {
+			"text": "Үй"
+		},
+		"insertLabel": {
+			"text": "Кірістіру"
+		},
+		"layoutLabel": {
+			"text": "Орналасу"
+		},
+		"createDocxDocumentButton": {
+			"title": "Жаңа DOCX құжатын жасау"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Құжатты жүктеп, ашу"
+		},
+		"documentInfoButton": {
+			"title": "Құжат туралы ақпарат..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Бастапқы файлдағы өзгерістерді сақтау"
+		},
+		"downloadFileButton": {
+			"title": "Файлды жүктеп алу"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX құжатын PDF форматына экспорттау және PDF файлын жүктеу..."
+		},
+		"printDocumentButton": {
+			"title": "Құжатты басып шығару..."
+		},
+		"closeDocumentButton": {
+			"title": "Құжатты жабу"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Сеанс кэшін тазалау"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Құжат редакторының параметрлері..."
+		},
+		"copyContentButton": {
+			"title": "Мазмұнды көшіру"
+		},
+		"cutContentButton": {
+			"title": "Мазмұнды кесіңіз"
+		},
+		"pasteContentButton": {
+			"title": "Мазмұнды қою"
+		},
+		"pasteTextContentButton": {
+			"title": "Мәтін мазмұнын қою"
+		},
+		"increaseFontSizeButton": {
+			"title": "Қаріп өлшемін үлкейту"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Қаріп өлшемін кішірейту"
+		},
+		"boldTextButton": {
+			"title": "Қалың мәтін"
+		},
+		"italicTextButton": {
+			"title": "Көлбеу мәтін"
+		},
+		"underlineTextButton": {
+			"title": "Мәтіннің астын сызу"
+		},
+		"strikethroughTextButton": {
+			"title": "Сызық сызылған мәтін"
+		},
+		"superscriptTextButton": {
+			"title": "Жоғарғы индекс мәтіні"
+		},
+		"subscriptTextButton": {
+			"title": "Жол асты мәтіні"
+		},
+		"setTextColorButton": {
+			"title": "Мәтін түсін орнату"
+		},
+		"selectTextColorButton": {
+			"title": "Мәтін түсін таңдау"
+		},
+		"setTextFillColorButton": {
+			"title": "Мәтін толтыру түсін орнату"
+		},
+		"selectTextFillColorButton": {
+			"title": "Мәтін толтыру түсін таңдау"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Барлық пішімдеулерді жою"
+		},
+		"textPropertiesButton": {
+			"title": "Мәтін қасиеттері..."
+		},
+		"decreaseIndentButton": {
+			"title": "Шегіністі азайту"
+		},
+		"increaseIndentButton": {
+			"title": "Шегіністі ұлғайту"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Бірінші жол шегінісін азайту"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Бірінші жол шегінісін ұлғайту"
+		},
+		"bulletedListButton": {
+			"title": "Маркерленген тізім"
+		},
+		"bulletedListStylesButton": {
+			"title": "Маркерленген тізімдерге арналған стильдер"
+		},
+		"numberedListButton": {
+			"title": "Нөмірленген тізім"
+		},
+		"numberedListStylesButton": {
+			"title": "Нөмірленген тізімдерге арналған стильдер"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Басып шығарылмайтын таңбаларды көрсету"
+		},
+		"alignLeftButton": {
+			"title": "Солға туралаңыз"
+		},
+		"alignCenterButton": {
+			"title": "Орталық"
+		},
+		"alignRightButton": {
+			"title": "Оңға туралаңыз"
+		},
+		"alignBothButton": {
+			"title": "Екеуін де туралау"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Абзац толтыру түсін орнату"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Абзац толтыру түсін таңдау"
+		},
+		"stylePainterButton": {
+			"title": "Стиль суретшісі"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Абзац қасиеттері..."
+		},
+		"insertPageBreakButton": {
+			"title": "Бет үзілімін енгізу"
+		},
+		"createHeaderButton": {
+			"title": "Тақырыпты жасау/өңдеу"
+		},
+		"deleteHeaderButton": {
+			"title": "Тақырыпты жою"
+		},
+		"createFooterButton": {
+			"title": "Төменгі колонтитулды жасау/өңдеу"
+		},
+		"deleteFooterButton": {
+			"title": "Төменгі колонтитулды жою"
+		},
+		"changePageOrientationButton": {
+			"title": "Бет бағытын өзгерту"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Бөлім үзілімін қосу (Келесі бет)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Бөлім үзілімін қосу (Жалғастырушы)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Бөлім үзілімін қосу (Жұп бет)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Бөлім үзілімін қосу (Тақ бет)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Баған үзілімін қосу"
+		},
+		"removeSectionBreakButton": {
+			"title": "Бөлім үзілімін жою"
+		},
+		"pageSettingsButton": {
+			"title": "Құжат бетінің параметрлері..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Бет бағандарының параметрлері..."
+		},
+		"goToFirstPageButton": {
+			"title": "Бірінші бетке өту"
+		},
+		"goToPreviousPageButton": {
+			"title": "Алдыңғы бетке өту"
+		},
+		"gotoPageInput": {
+			"title": "Бет"
+		},
+		"goToNextPageButton": {
+			"title": "Келесі бетке өту"
+		},
+		"goToLastPageButton": {
+			"title": "Соңғы бетке өту"
+		},
+		"viewPropertiesButton": {
+			"title": "Параметрлерді қарау..."
+		},
+		"view_fitToPageButton": {
+			"title": "Бетке сәйкестендіру"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Бет еніне сәйкестендіру"
+		},
+		"view_multiPagesButton": {
+			"title": "Бірнеше бет"
+		},
+		"view_onePageButton": {
+			"title": "Бір бет"
+		},
+		"zoomOutButton": {
+			"title": "Кішірейту"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Үлкейту"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Сол:"
+			},
+			"rightIndentationLabel": {
+				"text": "Оң:"
+			},
+			"specialIndentationLabel": {
+				"text": "Арнайы:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Жоқ"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Бірінші жол"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Ілініп тұруы"
+			},
+			"byLabel": {
+				"text": "Бойынша:"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			},
+			"viewModeListLabel": {
+				"text": "Көру режимі:"
+			},
+			"Vertical": {
+				"text": "Вертикалды"
+			},
+			"Horizontal": {
+				"text": "Көлденең"
+			},
+			"pagesInLineLabel": {
+				"text": "Жолдағы/бағандағы беттер:"
+			},
+			"pagePaddingLabel": {
+				"text": "Бет толтыруы (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Бұрын:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Автоматты"
+			},
+			"spacingAfterLabel": {
+				"text": "Кейін:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Автоматты"
+			},
+			"lineSpacingLabel": {
+				"text": "Жол аралығы:"
+			},
+			"Scale": {
+				"text": "Масштабтау"
+			},
+			"Exact": {
+				"text": "Дәл"
+			},
+			"AtLeast": {
+				"text": "Ең аз дегенде"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Бір стильдегі абзацтар арасына бос орын қоспаңыз"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Жесір басқару элементі"
+			},
+			"keepNextLabel": {
+				"text": "Келесісін қалдыру"
+			},
+			"keepLinesLabel": {
+				"text": "Жолдарды қалдыру"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Бет үзілісін бұрынғыдан бұрын"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Қаріп:"
+			},
+			"fontStyleLabel": {
+				"text": "Қаріп стилі:"
+			},
+			"Regular": {
+				"text": "Қалыпты"
+			},
+			"Italic": {
+				"text": "Қурсив"
+			},
+			"Bold": {
+				"text": "Қалың"
+			},
+			"BoldItalic": {
+				"text": "Қалың курсивпен"
+			},
+			"fontSizeLabel": {
+				"text": "Қаріп өлшемі:"
+			},
+			"fontColorLabel": {
+				"text": "Қаріп түсі:"
+			},
+			"underlineStyleLabel": {
+				"text": "Асты сызылған мәтін:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Сызылған мәтін:"
+			},
+			"verticalPositionLabel": {
+				"text": "Тік орналасу:"
+			},
+			"Baseline": {
+				"text": "Негізгі сызық"
+			},
+			"Superscript": {
+				"text": "Жоғарғы индекс"
+			},
+			"Subscript": {
+				"text": "Астыңғы индекс"
+			},
+			"smallCapsLabel": {
+				"text": "Бас әріптермен жазу"
+			},
+			"allCapsLabel": {
+				"text": "Барлық әріптермен жазу"
+			},
+			"scaleLabel": {
+				"text": "Масштаб:"
+			},
+			"spacingLabel": {
+				"text": "Аралық:"
+			},
+			"positionLabel": {
+				"text": "Орналасу:"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Көп деңгейлі тізім:"
+			},
+			"alignmentLabel": {
+				"text": "Түзету:"
+			},
+			"Left": {
+				"text": "Сол"
+			},
+			"Right": {
+				"text": "Дұрыс"
+			},
+			"Center": {
+				"text": "Орталық"
+			},
+			"Both": {
+				"text": "Екеуі де"
+			},
+			"lineSpacingLabel": {
+				"text": "Жол аралығы:"
+			},
+			"Single": {
+				"text": "Жеке"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Қос"
+			},
+			"Triple": {
+				"text": "Үш есе"
+			},
+			"Custom...": {
+				"text": "Арнайы..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Абзац жол аралығы параметрлері..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Абзац шегінісі параметрлері..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Абзац беттеу параметрлері..."
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Тақырыбы:"
+			},
+			"subjectLabel": {
+				"text": "Тақырыбы:"
+			},
+			"creatorLabel": {
+				"text": "Жасаушы:"
+			},
+			"descriptionLabel": {
+				"text": "Сипаттамасы:"
+			},
+			"categoryLabel": {
+				"text": "Санат:"
+			},
+			"keywordsLabel": {
+				"text": "Кілт сөздер:"
+			},
+			"createdLabel": {
+				"text": "Жасалған:"
+			},
+			"modifiedLabel": {
+				"text": "Өзгертілген:"
+			},
+			"printedLabel": {
+				"text": "Басып шығарылған:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Соңғы өзгертілген:"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Мәтінді таңдау түсі:"
+			},
+			"backgroundColorLabel": {
+				"text": "Фон түсі:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Әдепкі бірліктер:"
+			},
+			"Centimeters": {
+				"text": "Сантиметр"
+			},
+			"Millimeters": {
+				"text": "Миллиметрлер"
+			},
+			"Inches": {
+				"text": "Дюйм"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Көрінбейтін үстел шекараларын көрсету"
+			},
+			"asyncModeLabel": {
+				"text": "ASYNC режимі"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "БАСТАУ БАСТАУ:"
+			},
+			"NextPage": {
+				"text": "Тағы айту"
+			},
+			"NextColumn": {
+				"text": "КелесіColumn"
+			},
+			"Continuous": {
+				"text": "Үздіксіз"
+			},
+			"EvenPage": {
+				"text": "Тіпті бет"
+			},
+			"OddPage": {
+				"text": "Тақ парақ"
+			},
+			"pageSizeLabel": {
+				"text": "Беттің өлшемі:"
+			},
+			"pageOrientationLabel": {
+				"text": "Бет бағдары:"
+			},
+			"Portrait": {
+				"text": "Портрет"
+			},
+			"Landscape": {
+				"text": "Ландшафт"
+			},
+			"pageMarginsLabel": {
+				"text": "Бет шеттері (см):"
+			},
+			"leftLabel": {
+				"text": "Сол жақта:"
+			},
+			"rightLabel": {
+				"text": "Дұрыс:"
+			},
+			"topLabel": {
+				"text": "Жоғарғы:"
+			},
+			"bottomLabel": {
+				"text": "Төменгі:"
+			},
+			"headerLabel": {
+				"text": "Тақырып:"
+			},
+			"footerLabel": {
+				"text": "Төменгі деректеме:"
+			},
+			"gutterLabel": {
+				"text": "Қоқыс:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Бірінші парақ үшін әртүрлі тақырыпты қолданыңыз"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Тақ және тіпті беттер үшін әртүрлі тақырыпты қолданыңыз"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Бағанды ​​санау:"
+			},
+			"lineBetweenLabel": {
+				"text": "Арасындағы сызық"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Ені мен аралығы"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Бағанның ені бірдей"
+			},
+			"columnNumberLabel": {
+				"text": "Баған нөмірі:"
+			},
+			"widthLabel": {
+				"text": "Ені:"
+			},
+			"spacingLabel": {
+				"text": "Аралық:"
+			},
+			"okButton": {
+				"value": "ЖАРАЙДЫ МА"
+			},
+			"closeButton": {
+				"value": "Жабық"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Қате"
+		},
+		"closeButton": {
+			"text": "Жабық"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Құжат ашылып жатыр...",
+		"vssde-numberFormat-custom": "Арнаулы",
+		"vssde-findTextPanel-textIsNotFound": "'{0}' мәтіні табылмады.",
+		"vssde-selectFunctionPanel-all": "Барлық",
+		"vssde-createXlsxDocument": "Жаңа XLSX құжатын жасаңыз",
+		"vssde-uploadXlsxFile": "XLSX файлын жүктеп салыңыз",
+		"vssde-downloadXlsxFile": "XLSX файлын жүктеп алыңыз",
+		"vssde-exportXlsxToPdf": "XLSX файлын PDF файлына экспорттаңыз",
+		"vssde-fileSizeExceedsLimit": "Жүктеп салынған файлдың өлшемі максималды өлшемнен ({0} байт) асады.",
+		"vssde-error-noError": "Қате жоқ.",
+		"vssde-error-divisionByZero": "Кез келген сан (соның ішінде нөл) немесе қате коды нөлге бөлінеді.",
+		"vssde-error-cellRefCannotBeEvaluated": "Ұяшықтың мәні шығарылмаған немесе есептелмегендіктен, ұяшық сілтемесін бағалау мүмкін емес.",
+		"vssde-error-valueIsNotAvailable": "Белгіленген мән қолжетімді емес.",
+		"vssde-error-wrongName": "Атау қолданылған сияқты, бірақ мұндай атау анықталмаған.",
+		"vssde-error-twoAreasNotIntersecting": "Екі аймақтың қиылысуы қажет, бірақ қиылыспайды.",
+		"vssde-error-notCorrectValue": "Функцияға аргументтің үйлесімді түрі бар, бірақ ол функция анықталған доменнен тыс мәнге ие.",
+		"vssde-error-cannotEvaluateCellRef": "Ұяшық сілтемесін бағалау мүмкін емес.",
+		"vssde-error-incompatibleType": "Үйлесімсіз типтегі аргумент функцияға беріледі немесе үйлесімсіз типтегі операнд оператормен бірге пайдаланылады.",
+		"vssde-error-unknownError": "Белгісіз қате.",
+		"vssde-error-externalError": "Сыртқы қате.",
+		"vssde-uriOpen-question": "'{0}' URL мекенжайын ашу керек пе?",
+		"vssde-uriOpen-wrongUri": "Бұл сайттың мекенжайы жарамсыз: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Жаңа жұмыс кітабын жасағыңыз келе ме?",
+		"vsde-documentIsOpening": "Құжат ашылып жатыр...",
+		"vsde-createDocxDocument": "Жаңа DOCX құжатын жасау",
+		"vsde-uploadDocumentFile": "Файлды жүктеп алыңыз және ашыңыз",
+		"vsde-exportDocxDocumentToPdf": "PDF-ке DOCX құжатын экспорттау",
+		"vsde-downloadFile": "Файлды жүктеп алу",
+		"vsde-cacheIsNotCleared": "Кэш тазаланбайды, себебі әдепкі файлдық веб-қызмет (vintasoft.shared.webservs.DefaultFileService) анықталмаған.",
+		"vsde-uriOpen-question": "'{0}' URL мекенжайын ашу керек пе?",
+		"vsde-uriOpen-wrongUri": "Бұл сайттың мекенжайы жарамсыз: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Файлды жүктеп алыңыз және ашыңыз",
+		"vsdv-uploadAndAddFileButton-addFileString": "Файлды жүктеп салыңыз және қосыңыз",
+		"vsui-textSearchPanel-pageLabel": "Бет",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Аннотацияларды жазу",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Аннотацияларды сақтаңыз",
+		"vsui-annotationListPanel-pageLabel": "Бет",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Аннотация сипаттары",
+		"vsdv-openFile-addFileString": "Файл қосу",
+		"vsdv-openFile-authenticateFileString": "Файлдың аутентификациясы",
+		"vsdv-downloadFile-actionMessage": "Файлды жүктеп алу",
+		"vsdv-saveChanges-saveChangesInImages": "Суреттердегі өзгерістерді сақтаңыз",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Аннотациялардағы өзгерістерді сақтаңыз",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Суреттерге аннотацияларды жазу",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Файлды жүктеп алыңыз және ашыңыз",
+		"vsui-uploadAndAddFileButton-addFileString": "Файлды жүктеп салыңыз және қосыңыз",
+		"vsui-openFile-addFileString": "Файл қосу",
+		"vsui-openFile-authenticateFileString": "Файлдың аутентификациясы",
+		"vsui-downloadFile-actionMessage": "Файлды жүктеп алу",
+		"vsui-saveChanges-saveChangesInImages": "Суреттердегі өзгерістерді сақтаңыз",
+		"vsui-saveChanges-saveChangesInAnnotations": "Аннотациялардағы өзгерістерді сақтаңыз",
+		"vsui-saveChanges-burnAnnotationsInImages": "Суреттерге аннотацияларды жазу",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Өзгерістерді PDF құжатында сақтаңыз",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Аннотацияларды жазу",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Аннотацияларды сақтаңыз",
+		"vsui-documentPasswordDialog-title": "Құжат құпия сөзі",
+		"vsui-dialog-okButton": "ЖАРАЙДЫ МА",
+		"vsui-dialog-cancelButton": "Болдырмау",
+		"vsui-documentPasswordPanel-authenticateFileString": "Файлдың аутентификациясы",
+		"vsui-imageSelectionDialog-title": "Суреттерді таңдаңыз",
+		"vsui-imageSelectionDialog-currentImageString": "Ағымдағы сурет",
+		"vsui-imageSelectionDialog-allImagesString": "Барлық суреттер",
+		"vsui-imageSelectionDialog-customImagesString": "Арнаулы",
+		"vsui-documentLayoutSettingsDialog-title": "Құжат орналасу параметрлері",
+		"vsui-printImagesDialog-title": "Суреттерді басып шығару",
+		"vsui-printImagesPanel-imagePrintingString": "Кескін басып шығаруда",
+		"vsui-printImagesPanel-withAnnotationsLabel": "аннотациялармен",
+		"vsui-imageViewerSettingsDialog-title": "Кескінді қарау құралының параметрлері",
+		"vsui-thumbnailViewerSettingDialog-title": "Нобайды қарау құралының параметрлері",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Аннотацияларды көрсету:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Аннотациялары бар кескінді бұрыңыз",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Айналу бұрышы нөлден жоғары болуы керек.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Аннотациялары бар бұрылатын кескін",
+		"vsui-uploadImageFromUrlDialog-title": "URL мекенжайынан суретті жүктеп салыңыз",
+		"vsui-exportFileSettingsDialog-title": "Файлды экспорттауға арналған параметрлер",
+		"vsdv-documentLayoutSettingsDialog-title": "Құжат орналасу параметрлері",
+		"vsdv-dialog-okButton": "ЖАРАЙДЫ МА",
+		"vsdv-dialog-cancelButton": "Болдырмау",
+		"vsdv-uploadImageFromUrlDialog-title": "URL мекенжайынан суретті жүктеп салыңыз",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Болдырмау/қайталау мүмкіндігін қосыңыз",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Болдырмауды/қайталауды өшіріңіз",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "'Аннотациялар үшін өшіргіш' режимін қосу",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'Аннотация өшіргішін' өшіру",
+		"vsui-documentNavigationTool-getActions": "Әрекеттерді алыңыз",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Параграфтың шегіну параметрлері",
+		"vsde-dialog-okButton": "ЖАРАЙДЫ МА",
+		"vsde-dialog-closeButton": "Жабық",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Параграф жолының аралық параметрлері",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Параграфтың пагинациясы параметрлері",
+		"vsde-documentTextPropertiesDialog-title": "Мәтіндік қасиеттері",
+		"vsde-documentParagraphPropertiesDialog-title": "Параграф қасиеттері",
+		"vsde-documentInfoDialog-title": "Құжат туралы ақпарат",
+		"vsde-documentEditorSettingsDialog-title": "Құжат өңдегіші параметрлері",
+		"vsde-documentEditorViewSettingsDialog-title": "Құжат өңдегіші Көрініс параметрлері",
+		"vsde-documentPageSettingsDialog-title": "Құжат бетінің параметрлері",
+		"vsde-documentPageColumnsSettingsDialog-title": "Бет бағандары параметрлері"
+	}
+}

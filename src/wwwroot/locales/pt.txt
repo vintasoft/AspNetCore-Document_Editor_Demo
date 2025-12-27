@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Arquivo"
+		},
+		"homeLabel": {
+			"text": "Principal"
+		},
+		"insertLabel": {
+			"text": "Inserir"
+		},
+		"layoutLabel": {
+			"text": "Layout"
+		},
+		"createDocxDocumentButton": {
+			"title": "Criar novo documento DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Carregar e abrir documento"
+		},
+		"documentInfoButton": {
+			"title": "Informações do documento..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Salvar alterações no arquivo de origem"
+		},
+		"downloadFileButton": {
+			"title": "Baixar arquivo"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Exportar documento DOCX para PDF e baixar arquivo PDF..."
+		},
+		"printDocumentButton": {
+			"title": "Imprimir documento..."
+		},
+		"closeDocumentButton": {
+			"title": "Fechar documento"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Limpar cache da sessão"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Configurações do editor de documentos..."
+		},
+		"copyContentButton": {
+			"title": "Copiar conteúdo"
+		},
+		"cutContentButton": {
+			"title": "Cortar conteúdo"
+		},
+		"pasteContentButton": {
+			"title": "Colar conteúdo"
+		},
+		"pasteTextContentButton": {
+			"title": "Colar conteúdo de texto"
+		},
+		"increaseFontSizeButton": {
+			"title": "Aumentar tamanho da fonte"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Diminuir tamanho da fonte"
+		},
+		"boldTextButton": {
+			"title": "Negrito"
+		},
+		"italicTextButton": {
+			"title": "Itálico"
+		},
+		"underlineTextButton": {
+			"title": "Sublinhado"
+		},
+		"strikethroughTextButton": {
+			"title": "Cruzado"
+		},
+		"superscriptTextButton": {
+			"title": "Texto sobrescrito"
+		},
+		"subscriptTextButton": {
+			"title": "Texto subscrito"
+		},
+		"setTextColorButton": {
+			"title": "Defina a cor do texto"
+		},
+		"selectTextColorButton": {
+			"title": "Selecione a cor do texto"
+		},
+		"setTextFillColorButton": {
+			"title": "Defina a cor de preenchimento do texto"
+		},
+		"selectTextFillColorButton": {
+			"title": "Selecione a cor de preenchimento do texto"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Limpar toda a formatação"
+		},
+		"textPropertiesButton": {
+			"title": "Propriedades do texto..."
+		},
+		"decreaseIndentButton": {
+			"title": "Diminuir recuo"
+		},
+		"increaseIndentButton": {
+			"title": "Aumentar recuo"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Diminuir recuo da primeira linha"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Aumentar recuo da primeira linha"
+		},
+		"bulletedListButton": {
+			"title": "Lista com marcadores"
+		},
+		"bulletedListStylesButton": {
+			"title": "Estilos para listas com marcadores"
+		},
+		"numberedListButton": {
+			"title": "Lista numerada"
+		},
+		"numberedListStylesButton": {
+			"title": "Estilos para listas numeradas"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Exibir caracteres não imprimíveis"
+		},
+		"alignLeftButton": {
+			"title": "Alinhar à Esquerda"
+		},
+		"alignCenterButton": {
+			"title": "Alinhar Centro"
+		},
+		"alignRightButton": {
+			"title": "Alinhar à Direita"
+		},
+		"alignBothButton": {
+			"title": "Alinhar ambos"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Defina a cor de preenchimento do parágrafo"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Selecione a cor de preenchimento do parágrafo"
+		},
+		"stylePainterButton": {
+			"title": "Pintor de estilo"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Propriedades do parágrafo..."
+		},
+		"insertPageBreakButton": {
+			"title": "Inserir quebra de página"
+		},
+		"createHeaderButton": {
+			"title": "Criar/editar cabeçalho"
+		},
+		"deleteHeaderButton": {
+			"title": "Excluir cabeçalho"
+		},
+		"createFooterButton": {
+			"title": "Criar/editar rodapé"
+		},
+		"deleteFooterButton": {
+			"title": "Excluir rodapé"
+		},
+		"changePageOrientationButton": {
+			"title": "Alterar orientação da página"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Adicionar quebra de seção (Próxima página)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Adicionar quebra de seção (Contínua)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Adicionar quebra de seção (Página par)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Adicionar quebra de seção (Página ímpar)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Adicionar quebra de coluna"
+		},
+		"removeSectionBreakButton": {
+			"title": "Remover quebra de seção"
+		},
+		"pageSettingsButton": {
+			"title": "Configurações da página do documento..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Configurações das colunas da página..."
+		},
+		"goToFirstPageButton": {
+			"title": "Ir para a primeira página"
+		},
+		"goToPreviousPageButton": {
+			"title": "Ir para a página anterior"
+		},
+		"gotoPageInput": {
+			"title": "Página"
+		},
+		"goToNextPageButton": {
+			"title": "Ir para a próxima página"
+		},
+		"goToLastPageButton": {
+			"title": "Ir para a última página"
+		},
+		"viewPropertiesButton": {
+			"title": "Configurações de visualização..."
+		},
+		"view_fitToPageButton": {
+			"title": "Ajustar à página"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Ajustar à largura da página"
+		},
+		"view_multiPagesButton": {
+			"title": "Várias páginas"
+		},
+		"view_onePageButton": {
+			"title": "Uma página"
+		},
+		"zoomOutButton": {
+			"title": "Zoom Out"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Aumentar o zoom"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Esquerda:"
+			},
+			"rightIndentationLabel": {
+				"text": "Direita:"
+			},
+			"specialIndentationLabel": {
+				"text": "Especial:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Não"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Primeira linha"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Suspenso"
+			},
+			"byLabel": {
+				"text": "Por:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			},
+			"viewModeListLabel": {
+				"text": "Modo de visualização:"
+			},
+			"Vertical": {
+				"text": "Vertical"
+			},
+			"Horizontal": {
+				"text": "Horizontal"
+			},
+			"pagesInLineLabel": {
+				"text": "Páginas por linha/coluna:"
+			},
+			"pagePaddingLabel": {
+				"text": "Espaçamento da página (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Antes:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Automático"
+			},
+			"spacingAfterLabel": {
+				"text": "Depois:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Automático"
+			},
+			"lineSpacingLabel": {
+				"text": "Espaçamento entre linhas:"
+			},
+			"Scale": {
+				"text": "Escala"
+			},
+			"Exact": {
+				"text": "Exato"
+			},
+			"AtLeast": {
+				"text": "Pelo menos"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Não adicionar espaço entre parágrafos do mesmo estilo"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Controle de janela"
+			},
+			"keepNextLabel": {
+				"text": "Manter próximo"
+			},
+			"keepLinesLabel": {
+				"text": "Manter linhas"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Quebra de página antes"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Fonte:"
+			},
+			"fontStyleLabel": {
+				"text": "Estilo da fonte:"
+			},
+			"Regular": {
+				"text": "Normal"
+			},
+			"Italic": {
+				"text": "Itálico"
+			},
+			"Bold": {
+				"text": "Negrito"
+			},
+			"BoldItalic": {
+				"text": "Negrito Itálico"
+			},
+			"fontSizeLabel": {
+				"text": "Tamanho da fonte:"
+			},
+			"fontColorLabel": {
+				"text": "Cor da fonte:"
+			},
+			"underlineStyleLabel": {
+				"text": "Texto sublinhado:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Texto riscado:"
+			},
+			"verticalPositionLabel": {
+				"text": "Posição vertical:"
+			},
+			"Baseline": {
+				"text": "Linha de base"
+			},
+			"Superscript": {
+				"text": "Sobrescrito"
+			},
+			"Subscript": {
+				"text": "Subscrito"
+			},
+			"smallCapsLabel": {
+				"text": "Versalete"
+			},
+			"allCapsLabel": {
+				"text": "Todas as letras maiúsculas"
+			},
+			"scaleLabel": {
+				"text": "Escala de miniaturas:"
+			},
+			"spacingLabel": {
+				"text": "Espaçamento:"
+			},
+			"positionLabel": {
+				"text": "Posição:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Lista multinível:"
+			},
+			"alignmentLabel": {
+				"text": "Alinhamento:"
+			},
+			"Left": {
+				"text": "Esquerda"
+			},
+			"Right": {
+				"text": "Certo"
+			},
+			"Center": {
+				"text": "Alinhar Centro"
+			},
+			"Both": {
+				"text": "Ambos"
+			},
+			"lineSpacingLabel": {
+				"text": "Espaçamento entre linhas:"
+			},
+			"Single": {
+				"text": "Simples"
+			},
+			"1.15": {
+				"text": "1,15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Duplo"
+			},
+			"Triple": {
+				"text": "Triplo"
+			},
+			"Custom...": {
+				"text": "Personalizado..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Configurações de espaçamento entre linhas do parágrafo..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Configurações de recuo do parágrafo..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Configurações de paginação do parágrafo..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Título:"
+			},
+			"subjectLabel": {
+				"text": "Assunto:"
+			},
+			"creatorLabel": {
+				"text": "Criador:"
+			},
+			"descriptionLabel": {
+				"text": "Descrição:"
+			},
+			"categoryLabel": {
+				"text": "Categoria:"
+			},
+			"keywordsLabel": {
+				"text": "Palavras-chave:"
+			},
+			"createdLabel": {
+				"text": "Criado em:"
+			},
+			"modifiedLabel": {
+				"text": "Modificado em:"
+			},
+			"printedLabel": {
+				"text": "Impresso:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Última modificação por:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Cor de seleção de texto:"
+			},
+			"backgroundColorLabel": {
+				"text": "Cor de fundo:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Unidades padrão:"
+			},
+			"Centimeters": {
+				"text": "Centímetros"
+			},
+			"Millimeters": {
+				"text": "Milímetros"
+			},
+			"Inches": {
+				"text": "Polegadas"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Mostrar bordas invisíveis da tabela"
+			},
+			"asyncModeLabel": {
+				"text": "Modo assíncrono"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Início da seção:"
+			},
+			"NextPage": {
+				"text": "Próxima página"
+			},
+			"NextColumn": {
+				"text": "Próxima Coluna"
+			},
+			"Continuous": {
+				"text": "Contínuo"
+			},
+			"EvenPage": {
+				"text": "Página Par"
+			},
+			"OddPage": {
+				"text": "Página ímpar"
+			},
+			"pageSizeLabel": {
+				"text": "Tamanho da página:"
+			},
+			"pageOrientationLabel": {
+				"text": "Orientação da página:"
+			},
+			"Portrait": {
+				"text": "Retrato"
+			},
+			"Landscape": {
+				"text": "Paisagem"
+			},
+			"pageMarginsLabel": {
+				"text": "Margens da página (cm):"
+			},
+			"leftLabel": {
+				"text": "Esquerda:"
+			},
+			"rightLabel": {
+				"text": "Certo:"
+			},
+			"topLabel": {
+				"text": "Superior:"
+			},
+			"bottomLabel": {
+				"text": "Parte inferior:"
+			},
+			"headerLabel": {
+				"text": "Cabeçalho:"
+			},
+			"footerLabel": {
+				"text": "Rodapé:"
+			},
+			"gutterLabel": {
+				"text": "Calha:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Use um título diferente para a primeira página"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Use títulos diferentes para páginas pares e ímpares"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Contagem de colunas:"
+			},
+			"lineBetweenLabel": {
+				"text": "Linha entre"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Largura e espaçamento"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Largura de coluna igual"
+			},
+			"columnNumberLabel": {
+				"text": "Número da coluna:"
+			},
+			"widthLabel": {
+				"text": "Largura:"
+			},
+			"spacingLabel": {
+				"text": "Espaçamento:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Fechar"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Erro"
+		},
+		"closeButton": {
+			"text": "Fechar"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "O documento está abrindo...",
+		"vssde-numberFormat-custom": "Personalizado",
+		"vssde-findTextPanel-textIsNotFound": "O texto '{0}' não foi encontrado.",
+		"vssde-selectFunctionPanel-all": "Todos",
+		"vssde-createXlsxDocument": "Crie um novo documento XLSX",
+		"vssde-uploadXlsxFile": "Carregar arquivo XLSX",
+		"vssde-downloadXlsxFile": "Carregar arquivo XLSX",
+		"vssde-exportXlsxToPdf": "Exportar XLSX para PDF",
+		"vssde-fileSizeExceedsLimit": "O tamanho do arquivo carregado excede o tamanho máximo ({0} bytes).",
+		"vssde-error-noError": "Nenhum erro.",
+		"vssde-error-divisionByZero": "Qualquer número (incluindo zero) ou qualquer código de erro é dividido por zero.",
+		"vssde-error-cellRefCannotBeEvaluated": "Uma referência de célula não pode ser avaliada porque o valor da célula não foi recuperado ou calculado.",
+		"vssde-error-valueIsNotAvailable": "Um valor designado não está disponível.",
+		"vssde-error-wrongName": "Parece que um nome foi usado, mas nenhum nome foi definido.",
+		"vssde-error-twoAreasNotIntersecting": "Duas áreas são obrigadas a se cruzar, mas não o fazem.",
+		"vssde-error-notCorrectValue": "Um argumento para uma função tem um tipo compatível, mas tem um valor que está fora do domínio sobre o qual essa função está definida.",
+		"vssde-error-cannotEvaluateCellRef": "Uma referência de célula não pode ser avaliada.",
+		"vssde-error-incompatibleType": "Um argumento de tipo incompatível é passado para uma função ou um operando de tipo incompatível é usado com um operador.",
+		"vssde-error-unknownError": "Erro desconhecido.",
+		"vssde-error-externalError": "Erro externo.",
+		"vssde-uriOpen-question": "Abrir URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "O endereço deste site não é válido: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Deseja criar uma nova pasta de trabalho?",
+		"vsde-documentIsOpening": "O documento está abrindo...",
+		"vsde-createDocxDocument": "Criar novo documento DOCX",
+		"vsde-uploadDocumentFile": "Baixe e abra o arquivo",
+		"vsde-exportDocxDocumentToPdf": "Exportar documento DOCX para PDF",
+		"vsde-downloadFile": "Baixar arquivo",
+		"vsde-cacheIsNotCleared": "O cache não foi limpo porque o serviço da web de arquivo padrão (Vintasoft.Shared.WebServiceJS.defaultFileService) não está definido.",
+		"vsde-uriOpen-question": "Abrir URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "O endereço deste site não é válido: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Baixe e abra o arquivo",
+		"vsdv-uploadAndAddFileButton-addFileString": "Carregar e adicionar arquivo",
+		"vsui-textSearchPanel-pageLabel": "Página",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Gravar anotações",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Salvar anotações",
+		"vsui-annotationListPanel-pageLabel": "Página",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Propriedades de anotação",
+		"vsdv-openFile-addFileString": "Adicionar ficheiro",
+		"vsdv-openFile-authenticateFileString": "Autenticar arquivo",
+		"vsdv-downloadFile-actionMessage": "Baixar arquivo",
+		"vsdv-saveChanges-saveChangesInImages": "Salvar alterações nas imagens",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Salvar alterações nas anotações",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Gravar anotações em imagens",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Baixe e abra o arquivo",
+		"vsui-uploadAndAddFileButton-addFileString": "Carregar e adicionar arquivo",
+		"vsui-openFile-addFileString": "Adicionar ficheiro",
+		"vsui-openFile-authenticateFileString": "Autenticar arquivo",
+		"vsui-downloadFile-actionMessage": "Baixar arquivo",
+		"vsui-saveChanges-saveChangesInImages": "Salvar alterações nas imagens",
+		"vsui-saveChanges-saveChangesInAnnotations": "Salvar alterações nas anotações",
+		"vsui-saveChanges-burnAnnotationsInImages": "Gravar anotações em imagens",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Salvar alterações no documento PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Gravar anotações",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Salvar anotações",
+		"vsui-documentPasswordDialog-title": "Senha do documento",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Cancelar",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autenticar arquivo",
+		"vsui-imageSelectionDialog-title": "Selecionar imagens",
+		"vsui-imageSelectionDialog-currentImageString": "Imagem Atual",
+		"vsui-imageSelectionDialog-allImagesString": "Todas as imagens",
+		"vsui-imageSelectionDialog-customImagesString": "Personalizado",
+		"vsui-documentLayoutSettingsDialog-title": "Configurações de layout do documento",
+		"vsui-printImagesDialog-title": "imprimir imagens",
+		"vsui-printImagesPanel-imagePrintingString": "A imagem está sendo impressa",
+		"vsui-printImagesPanel-withAnnotationsLabel": "com anotações",
+		"vsui-imageViewerSettingsDialog-title": "Configurações do visualizador de imagens",
+		"vsui-thumbnailViewerSettingDialog-title": "Configurações do visualizador de miniaturas",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Exibir anotações nas miniaturas:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Girar imagem anotada",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "O ângulo de rotação não deve ser 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "A imagem anotada está sendo girada",
+		"vsui-uploadImageFromUrlDialog-title": "Carregar imagem do URL",
+		"vsui-exportFileSettingsDialog-title": "As configurações para exportar arquivo",
+		"vsdv-documentLayoutSettingsDialog-title": "Configurações de layout do documento",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Cancelar",
+		"vsdv-uploadImageFromUrlDialog-title": "Carregar imagem do URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Ativar histórico de alterações",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Desativar desfazer/refazer",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Habilitar modo 'Borracha para anotações'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Desativar 'Apagador de anotações'",
+		"vsui-documentNavigationTool-getActions": "Obter ações",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Configurações de recuo de parágrafo",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Fechar",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Configurações de espaçamento entre linhas de parágrafo",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Configurações de paginação de parágrafo",
+		"vsde-documentTextPropertiesDialog-title": "Propriedades de texto",
+		"vsde-documentParagraphPropertiesDialog-title": "Propriedades do parágrafo",
+		"vsde-documentInfoDialog-title": "Informações do documento",
+		"vsde-documentEditorSettingsDialog-title": "Configurações do editor de documentos",
+		"vsde-documentEditorViewSettingsDialog-title": "Configurações de visualização do editor de documentos",
+		"vsde-documentPageSettingsDialog-title": "Configurações da página do documento",
+		"vsde-documentPageColumnsSettingsDialog-title": "Configurações de colunas de página"
+	}
+}

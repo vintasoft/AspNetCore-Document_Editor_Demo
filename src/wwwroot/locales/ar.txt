@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "ملف"
+		},
+		"homeLabel": {
+			"text": "رئيسي"
+		},
+		"insertLabel": {
+			"text": "إدراج"
+		},
+		"layoutLabel": {
+			"text": "التخطيط"
+		},
+		"createDocxDocumentButton": {
+			"title": "إنشاء مستند DOCX جديد"
+		},
+		"uploadDocumentFileButton": {
+			"title": "تحميل المستند وفتحه"
+		},
+		"documentInfoButton": {
+			"title": "معلومات المستند..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "احفظ التغييرات في الملف المصدر"
+		},
+		"downloadFileButton": {
+			"title": "تحميل الملف"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "تصدير مستند DOCX إلى PDF وتنزيل ملف PDF..."
+		},
+		"printDocumentButton": {
+			"title": "طباعة المستند..."
+		},
+		"closeDocumentButton": {
+			"title": "إغلاق المستند"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "مسح ذاكرة التخزين المؤقت للجلسة"
+		},
+		"documentEditorSettingsButton": {
+			"title": "إعدادات محرر المستندات..."
+		},
+		"copyContentButton": {
+			"title": "نسخ المحتوى"
+		},
+		"cutContentButton": {
+			"title": "قص المحتوى"
+		},
+		"pasteContentButton": {
+			"title": "لصق المحتوى"
+		},
+		"pasteTextContentButton": {
+			"title": "لصق محتوى النص"
+		},
+		"increaseFontSizeButton": {
+			"title": "زيادة حجم الخط"
+		},
+		"decreaseFontSizeButton": {
+			"title": "تصغير حجم الخط"
+		},
+		"boldTextButton": {
+			"title": "غامق"
+		},
+		"italicTextButton": {
+			"title": "مائل"
+		},
+		"underlineTextButton": {
+			"title": "تحته خط"
+		},
+		"strikethroughTextButton": {
+			"title": "عبرت"
+		},
+		"superscriptTextButton": {
+			"title": "نص مرتفع"
+		},
+		"subscriptTextButton": {
+			"title": "نص منخفض"
+		},
+		"setTextColorButton": {
+			"title": "تعيين لون النص"
+		},
+		"selectTextColorButton": {
+			"title": "اختيار لون النص"
+		},
+		"setTextFillColorButton": {
+			"title": "تعيين لون تعبئة النص"
+		},
+		"selectTextFillColorButton": {
+			"title": "اختيار لون تعبئة النص"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "مسح جميع التنسيقات"
+		},
+		"textPropertiesButton": {
+			"title": "خصائص النص..."
+		},
+		"decreaseIndentButton": {
+			"title": "تقليل المسافة البادئة"
+		},
+		"increaseIndentButton": {
+			"title": "زيادة المسافة البادئة"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "تقليل المسافة البادئة للسطر الأول"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "زيادة المسافة البادئة للسطر الأول"
+		},
+		"bulletedListButton": {
+			"title": "قائمة نقطية"
+		},
+		"bulletedListStylesButton": {
+			"title": "أنماط القوائم النقطية"
+		},
+		"numberedListButton": {
+			"title": "قائمة مرقمة"
+		},
+		"numberedListStylesButton": {
+			"title": "أنماط القوائم المرقمة"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "إظهار الأحرف غير القابلة للطباعة"
+		},
+		"alignLeftButton": {
+			"title": "محاذاة لليسار"
+		},
+		"alignCenterButton": {
+			"title": "محاذاة للوسط"
+		},
+		"alignRightButton": {
+			"title": "محاذاة لليمين"
+		},
+		"alignBothButton": {
+			"title": "محاذاة كليهما"
+		},
+		"setParagraphFillColorButton": {
+			"title": "تعيين لون تعبئة الفقرة"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "اختيار لون تعبئة الفقرة"
+		},
+		"stylePainterButton": {
+			"title": "رسام النمط"
+		},
+		"paragraphPropertiesButton": {
+			"title": "خصائص الفقرة..."
+		},
+		"insertPageBreakButton": {
+			"title": "إدراج فاصل صفحة"
+		},
+		"createHeaderButton": {
+			"title": "إنشاء/تحرير رأس"
+		},
+		"deleteHeaderButton": {
+			"title": "حذف رأس"
+		},
+		"createFooterButton": {
+			"title": "إنشاء/تحرير تذييل"
+		},
+		"deleteFooterButton": {
+			"title": "حذف تذييل"
+		},
+		"changePageOrientationButton": {
+			"title": "تغيير اتجاه الصفحة"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "إضافة فاصل أقسام (الصفحة التالية)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "إضافة فاصل أقسام (مستمر)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "إضافة فاصل أقسام (صفحة زوجية)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "إضافة فاصل أقسام (صفحة فردية)"
+		},
+		"addColumnBreak_Button": {
+			"title": "إضافة فاصل أعمدة"
+		},
+		"removeSectionBreakButton": {
+			"title": "إزالة فاصل أقسام"
+		},
+		"pageSettingsButton": {
+			"title": "إعدادات صفحة المستند..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "إعدادات أعمدة الصفحة..."
+		},
+		"goToFirstPageButton": {
+			"title": "الانتقال إلى الصفحة الأولى"
+		},
+		"goToPreviousPageButton": {
+			"title": "الانتقال إلى الصفحة السابقة"
+		},
+		"gotoPageInput": {
+			"title": "الصفحة"
+		},
+		"goToNextPageButton": {
+			"title": "الانتقال إلى الصفحة التالية"
+		},
+		"goToLastPageButton": {
+			"title": "الانتقال إلى الصفحة الأخيرة"
+		},
+		"viewPropertiesButton": {
+			"title": "عرض الإعدادات..."
+		},
+		"view_fitToPageButton": {
+			"title": "ملاءمة الصفحة"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "ملاءمة عرض الصفحة"
+		},
+		"view_multiPagesButton": {
+			"title": "صفحات متعددة"
+		},
+		"view_onePageButton": {
+			"title": "صفحة واحدة"
+		},
+		"zoomOutButton": {
+			"title": "تصغير"
+		},
+		"zoomValueLabel": {
+			"text": "100٪"
+		},
+		"zoomInButton": {
+			"title": "تكبير"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "يسار:"
+			},
+			"rightIndentationLabel": {
+				"text": "يمين:"
+			},
+			"specialIndentationLabel": {
+				"text": "خاص:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "لا"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "السطر الأول"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "معلق"
+			},
+			"byLabel": {
+				"text": "بواسطة:"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			},
+			"viewModeListLabel": {
+				"text": "وضع العرض:"
+			},
+			"Vertical": {
+				"text": "عمودي"
+			},
+			"Horizontal": {
+				"text": "أفقي"
+			},
+			"pagesInLineLabel": {
+				"text": "الصفحات في السطر/العمود:"
+			},
+			"pagePaddingLabel": {
+				"text": "حشو الصفحة (بكسل):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "قبل:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "تلقائي"
+			},
+			"spacingAfterLabel": {
+				"text": "بعد:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "تلقائي"
+			},
+			"lineSpacingLabel": {
+				"text": "تباعد الأسطر:"
+			},
+			"Scale": {
+				"text": "المقياس"
+			},
+			"Exact": {
+				"text": "دقيق"
+			},
+			"AtLeast": {
+				"text": "على الأقل"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "لا تُضِف مسافة بين الفقرات التي لها نفس النمط"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "التحكم في النص المنفصل"
+			},
+			"keepNextLabel": {
+				"text": "الاحتفاظ بالفقرة التالية"
+			},
+			"keepLinesLabel": {
+				"text": "الاحتفاظ بالأسطر"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "فاصل الصفحة قبل"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "الخط:"
+			},
+			"fontStyleLabel": {
+				"text": "نمط الخط:"
+			},
+			"Regular": {
+				"text": "عادي"
+			},
+			"Italic": {
+				"text": "مائل"
+			},
+			"Bold": {
+				"text": "غامق"
+			},
+			"BoldItalic": {
+				"text": "غامق مائل"
+			},
+			"fontSizeLabel": {
+				"text": "حجم الخط:"
+			},
+			"fontColorLabel": {
+				"text": "لون الخط:"
+			},
+			"underlineStyleLabel": {
+				"text": "نص مسطر:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "نص مشطوب:"
+			},
+			"verticalPositionLabel": {
+				"text": "الموضع الرأسي:"
+			},
+			"Baseline": {
+				"text": "خط الأساس"
+			},
+			"Superscript": {
+				"text": "نص علوي"
+			},
+			"Subscript": {
+				"text": "نص سفلي"
+			},
+			"smallCapsLabel": {
+				"text": "أحرف كبيرة صغيرة"
+			},
+			"allCapsLabel": {
+				"text": "أحرف كبيرة"
+			},
+			"scaleLabel": {
+				"text": "مقياس الصورة المصغرة:"
+			},
+			"spacingLabel": {
+				"text": "التباعد:"
+			},
+			"positionLabel": {
+				"text": "الموضع:"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "قائمة متعددة المستويات:"
+			},
+			"alignmentLabel": {
+				"text": "المحاذاة:"
+			},
+			"Left": {
+				"text": "يسار"
+			},
+			"Right": {
+				"text": "صحيح"
+			},
+			"Center": {
+				"text": "محاذاة للوسط"
+			},
+			"Both": {
+				"text": "كلاهما"
+			},
+			"lineSpacingLabel": {
+				"text": "تباعد الأسطر:"
+			},
+			"Single": {
+				"text": "مفرد"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "مزدوج"
+			},
+			"Triple": {
+				"text": "ثلاثي"
+			},
+			"Custom...": {
+				"text": "مخصص..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "إعدادات تباعد أسطر الفقرات..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "إعدادات المسافة البادئة للفقرات..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "إعدادات ترقيم صفحات الفقرات..."
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "العنوان:"
+			},
+			"subjectLabel": {
+				"text": "الموضوع:"
+			},
+			"creatorLabel": {
+				"text": "المنشئ:"
+			},
+			"descriptionLabel": {
+				"text": "الوصف:"
+			},
+			"categoryLabel": {
+				"text": "الفئة:"
+			},
+			"keywordsLabel": {
+				"text": "الكلمات المفتاحية:"
+			},
+			"createdLabel": {
+				"text": "تاريخ الإنشاء:"
+			},
+			"modifiedLabel": {
+				"text": "تاريخ التعديل:"
+			},
+			"printedLabel": {
+				"text": "مطبوعة:"
+			},
+			"lastModifiedByLabel": {
+				"text": "آخر تعديل بواسطة:"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "لون اختيار النص:"
+			},
+			"backgroundColorLabel": {
+				"text": "لون الخلفية:"
+			},
+			"defaultUnitsLabel": {
+				"text": "الوحدات الافتراضية:"
+			},
+			"Centimeters": {
+				"text": "سنتيمترات"
+			},
+			"Millimeters": {
+				"text": "ملليمتر"
+			},
+			"Inches": {
+				"text": "بوصة"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "إظهار حدود الجدول غير المرئية"
+			},
+			"asyncModeLabel": {
+				"text": "وضع غير متزامن"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "بداية القسم:"
+			},
+			"NextPage": {
+				"text": "الصفحة التالية"
+			},
+			"NextColumn": {
+				"text": "العمود التالي"
+			},
+			"Continuous": {
+				"text": "مستمر"
+			},
+			"EvenPage": {
+				"text": "حتى الصفحة"
+			},
+			"OddPage": {
+				"text": "الصفحة الفردية"
+			},
+			"pageSizeLabel": {
+				"text": "حجم الصفحة:"
+			},
+			"pageOrientationLabel": {
+				"text": "اتجاه الصفحة:"
+			},
+			"Portrait": {
+				"text": "صورة"
+			},
+			"Landscape": {
+				"text": "المناظر الطبيعية"
+			},
+			"pageMarginsLabel": {
+				"text": "هوامش الصفحة (سم):"
+			},
+			"leftLabel": {
+				"text": "اليسار:"
+			},
+			"rightLabel": {
+				"text": "حق:"
+			},
+			"topLabel": {
+				"text": "أعلى:"
+			},
+			"bottomLabel": {
+				"text": "أسفل:"
+			},
+			"headerLabel": {
+				"text": "رأس:"
+			},
+			"footerLabel": {
+				"text": "التذييل:"
+			},
+			"gutterLabel": {
+				"text": "مزراب"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "استخدم عنوانًا مختلفًا للصفحة الأولى"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "استخدم عنوانًا مختلفًا للصفحات الفردية والزوجية"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "عدد الأعمدة:"
+			},
+			"lineBetweenLabel": {
+				"text": "الخط الفاصل"
+			},
+			"widthAndSpacingLabel": {
+				"text": "العرض والتباعد"
+			},
+			"equalColumnWidthLabel": {
+				"text": "عرض عمود متساوٍ"
+			},
+			"columnNumberLabel": {
+				"text": "رقم العمود:"
+			},
+			"widthLabel": {
+				"text": "العرض:"
+			},
+			"spacingLabel": {
+				"text": "التباعد:"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"closeButton": {
+				"value": "إغلاق"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "خطأ"
+		},
+		"closeButton": {
+			"text": "إغلاق"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "المستند مفتوح ...",
+		"vssde-numberFormat-custom": "مخصص",
+		"vssde-findTextPanel-textIsNotFound": "النص '{0}' غير موجود.",
+		"vssde-selectFunctionPanel-all": "الكل",
+		"vssde-createXlsxDocument": "قم بإنشاء مستند XLSX جديد",
+		"vssde-uploadXlsxFile": "قم بتحميل ملف XLSX",
+		"vssde-downloadXlsxFile": "تحميل ملف XLSX",
+		"vssde-exportXlsxToPdf": "قم بتصدير XLSX إلى PDF",
+		"vssde-fileSizeExceedsLimit": "حجم الملف الذي تم تحميله يتجاوز الحد الأقصى للحجم ({0} بايت).",
+		"vssde-error-noError": "لا خطأ.",
+		"vssde-error-divisionByZero": "أي رقم (بما في ذلك الصفر) أو أي رمز خطأ يتم قسمته على صفر.",
+		"vssde-error-cellRefCannotBeEvaluated": "لا يمكن تقييم مرجع الخلية لأنه لم يتم استرداد قيمة الخلية أو حسابها.",
+		"vssde-error-valueIsNotAvailable": "القيمة المحددة غير متوفرة.",
+		"vssde-error-wrongName": "يبدو أنه تم استخدام اسم ولكن لم يتم تحديد مثل هذا الاسم.",
+		"vssde-error-twoAreasNotIntersecting": "هناك حاجة إلى منطقتين لتتقاطع ولكن لا.",
+		"vssde-error-notCorrectValue": "وسيطة الدالة لها نوع متوافق، ولكن لها قيمة خارج المجال الذي يتم تعريف تلك الدالة عليه.",
+		"vssde-error-cannotEvaluateCellRef": "لا يمكن تقييم مرجع الخلية.",
+		"vssde-error-incompatibleType": "يتم تمرير وسيطة نوع غير متوافقة إلى دالة، أو يتم استخدام معامل نوع غير متوافق مع عامل التشغيل.",
+		"vssde-error-unknownError": "خطأ غير معروف.",
+		"vssde-error-externalError": "خطأ خارجي.",
+		"vssde-uriOpen-question": "هل تريد فتح عنوان URL '{0}'؟",
+		"vssde-uriOpen-wrongUri": "عنوان هذا الموقع غير صالح: {0}",
+		"vssde-createXlsxDocumentConfirmation": "هل تريد إنشاء مصنف جديد؟",
+		"vsde-documentIsOpening": "المستند مفتوح ...",
+		"vsde-createDocxDocument": "إنشاء مستند DOCX جديد",
+		"vsde-uploadDocumentFile": "تحميل وفتح الملف",
+		"vsde-exportDocxDocumentToPdf": "تصدير مستند DOCX إلى PDF",
+		"vsde-downloadFile": "تحميل الملف",
+		"vsde-cacheIsNotCleared": "لم يتم مسح ذاكرة التخزين المؤقت نظرًا لعدم تعريف خدمة ويب الملفات الافتراضية (Vintasoft.Shared.WebServiceJS.defaultFileService).",
+		"vsde-uriOpen-question": "هل تريد فتح عنوان URL '{0}'؟",
+		"vsde-uriOpen-wrongUri": "عنوان هذا الموقع غير صالح: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "تحميل وفتح الملف",
+		"vsdv-uploadAndAddFileButton-addFileString": "تحميل وإضافة الملف",
+		"vsui-textSearchPanel-pageLabel": "الصفحة",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "حرق التعليقات التوضيحية",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "حفظ التعليقات التوضيحية",
+		"vsui-annotationListPanel-pageLabel": "الصفحة",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "خصائص التعليق التوضيحي",
+		"vsdv-openFile-addFileString": "اضف ملف",
+		"vsdv-openFile-authenticateFileString": "مصادقة الملف",
+		"vsdv-downloadFile-actionMessage": "تحميل الملف",
+		"vsdv-saveChanges-saveChangesInImages": "حفظ التغييرات في الصور",
+		"vsdv-saveChanges-saveChangesInAnnotations": "حفظ التغييرات في التعليقات التوضيحية",
+		"vsdv-saveChanges-burnAnnotationsInImages": "حرق التعليقات التوضيحية على الصور",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "تحميل وفتح الملف",
+		"vsui-uploadAndAddFileButton-addFileString": "تحميل وإضافة الملف",
+		"vsui-openFile-addFileString": "اضف ملف",
+		"vsui-openFile-authenticateFileString": "مصادقة الملف",
+		"vsui-downloadFile-actionMessage": "تحميل الملف",
+		"vsui-saveChanges-saveChangesInImages": "حفظ التغييرات في الصور",
+		"vsui-saveChanges-saveChangesInAnnotations": "حفظ التغييرات في التعليقات التوضيحية",
+		"vsui-saveChanges-burnAnnotationsInImages": "حرق التعليقات التوضيحية على الصور",
+		"vsui-saveChanges-saveChangesInPdfDocument": "حفظ التغييرات في وثيقة PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "حرق التعليقات التوضيحية",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "حفظ التعليقات التوضيحية",
+		"vsui-documentPasswordDialog-title": "كلمة مرور المستند",
+		"vsui-dialog-okButton": "موافق",
+		"vsui-dialog-cancelButton": "إلغاء",
+		"vsui-documentPasswordPanel-authenticateFileString": "مصادقة الملف",
+		"vsui-imageSelectionDialog-title": "اختر الصور",
+		"vsui-imageSelectionDialog-currentImageString": "الصورة الحالية",
+		"vsui-imageSelectionDialog-allImagesString": "كل الصور",
+		"vsui-imageSelectionDialog-customImagesString": "مخصص",
+		"vsui-documentLayoutSettingsDialog-title": "إعدادات تخطيط المستند",
+		"vsui-printImagesDialog-title": "طباعة الصور",
+		"vsui-printImagesPanel-imagePrintingString": "الصورة قيد الطباعة",
+		"vsui-printImagesPanel-withAnnotationsLabel": "مع التعليقات التوضيحية",
+		"vsui-imageViewerSettingsDialog-title": "إعدادات عارض الصور",
+		"vsui-thumbnailViewerSettingDialog-title": "إعدادات عارض الصور المصغرة",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "عرض التعليقات التوضيحية على الصور المصغرة:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "تدوير الصورة المشروحة",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "زاوية الدوران يجب ألا تكون 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "يتم تدوير الصورة المشروحة",
+		"vsui-uploadImageFromUrlDialog-title": "تحميل الصورة من URL",
+		"vsui-exportFileSettingsDialog-title": "الإعدادات لتصدير الملف",
+		"vsdv-documentLayoutSettingsDialog-title": "إعدادات تخطيط المستند",
+		"vsdv-dialog-okButton": "موافق",
+		"vsdv-dialog-cancelButton": "إلغاء",
+		"vsdv-uploadImageFromUrlDialog-title": "تحميل الصورة من URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "تمكين محفوظات التغيير",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "تعطيل التراجع/الإعادة",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "تفعيل 'ممحاة التعليقات التوضيحية'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "تعطيل 'ممحاة التعليقات التوضيحية'",
+		"vsui-documentNavigationTool-getActions": "الحصول على الإجراءات",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "إعدادات المسافة البادئة للفقرات",
+		"vsde-dialog-okButton": "موافق",
+		"vsde-dialog-closeButton": "إغلاق",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "إعدادات تباعد أسطر الفقرات",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "إعدادات ترقيم صفحات الفقرات",
+		"vsde-documentTextPropertiesDialog-title": "خصائص النص",
+		"vsde-documentParagraphPropertiesDialog-title": "خصائص الفقرة",
+		"vsde-documentInfoDialog-title": "معلومات المستند",
+		"vsde-documentEditorSettingsDialog-title": "إعدادات محرر المستند",
+		"vsde-documentEditorViewSettingsDialog-title": "إعدادات عرض محرر المستند",
+		"vsde-documentPageSettingsDialog-title": "إعدادات صفحة المستند",
+		"vsde-documentPageColumnsSettingsDialog-title": "إعدادات أعمدة الصفحة"
+	}
+}

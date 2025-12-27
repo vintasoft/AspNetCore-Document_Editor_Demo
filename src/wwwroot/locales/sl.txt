@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Mapa"
+		},
+		"homeLabel": {
+			"text": "Domov"
+		},
+		"insertLabel": {
+			"text": "Vstavi"
+		},
+		"layoutLabel": {
+			"text": "Postavitev"
+		},
+		"createDocxDocumentButton": {
+			"title": "Ustvari nov dokument DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Naloži in odpri dokument"
+		},
+		"documentInfoButton": {
+			"title": "Podatki o dokumentu ..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Shrani spremembe v izvirno datoteko"
+		},
+		"downloadFileButton": {
+			"title": "Prenesi datoteko"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Izvozi dokument DOCX v PDF in prenesi datoteko PDF ..."
+		},
+		"printDocumentButton": {
+			"title": "Natisni dokument ..."
+		},
+		"closeDocumentButton": {
+			"title": "Zapri dokument"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Počisti predpomnilnik seje"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Nastavitve urejevalnika dokumentov ..."
+		},
+		"copyContentButton": {
+			"title": "Kopiraj vsebino"
+		},
+		"cutContentButton": {
+			"title": "Izrežite vsebino"
+		},
+		"pasteContentButton": {
+			"title": "Prilepi vsebino"
+		},
+		"pasteTextContentButton": {
+			"title": "Prilepi vsebino besedila"
+		},
+		"increaseFontSizeButton": {
+			"title": "Povečaj velikost pisave"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Zmanjšaj velikost pisave"
+		},
+		"boldTextButton": {
+			"title": "Krepko besedilo"
+		},
+		"italicTextButton": {
+			"title": "Ležeče besedilo"
+		},
+		"underlineTextButton": {
+			"title": "Podčrtaj besedilo"
+		},
+		"strikethroughTextButton": {
+			"title": "Prečrtano besedilo"
+		},
+		"superscriptTextButton": {
+			"title": "Nadpisano besedilo"
+		},
+		"subscriptTextButton": {
+			"title": "Podpisano besedilo"
+		},
+		"setTextColorButton": {
+			"title": "Nastavitev barve besedila"
+		},
+		"selectTextColorButton": {
+			"title": "Izberi barvo besedila"
+		},
+		"setTextFillColorButton": {
+			"title": "Nastavitev barve polnila besedila"
+		},
+		"selectTextFillColorButton": {
+			"title": "Izberi barvo polnila besedila"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Počisti vse oblikovanje"
+		},
+		"textPropertiesButton": {
+			"title": "Lastnosti besedila ..."
+		},
+		"decreaseIndentButton": {
+			"title": "Zmanjšaj zamik"
+		},
+		"increaseIndentButton": {
+			"title": "Povečaj zamik"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Zmanjšaj zamik prve vrstice"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Povečaj zamik prve vrstice"
+		},
+		"bulletedListButton": {
+			"title": "Označen seznam"
+		},
+		"bulletedListStylesButton": {
+			"title": "Slogi za označene sezname"
+		},
+		"numberedListButton": {
+			"title": "Oštevilčen seznam"
+		},
+		"numberedListStylesButton": {
+			"title": "Slogi za oštevilčene sezname"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Prikaži nenatisljive znake"
+		},
+		"alignLeftButton": {
+			"title": "Poravnajte levo"
+		},
+		"alignCenterButton": {
+			"title": "Center"
+		},
+		"alignRightButton": {
+			"title": "Poravnaj desno"
+		},
+		"alignBothButton": {
+			"title": "Poravnaj oba"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Nastavitev barve polnila odstavka"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Izberi barvo polnila odstavka"
+		},
+		"stylePainterButton": {
+			"title": "Stilski slikar"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Lastnosti odstavka..."
+		},
+		"insertPageBreakButton": {
+			"title": "Vstavi prelom strani"
+		},
+		"createHeaderButton": {
+			"title": "Ustvari/uredi glavo"
+		},
+		"deleteHeaderButton": {
+			"title": "Izbriši glavo"
+		},
+		"createFooterButton": {
+			"title": "Ustvari/uredi nogo"
+		},
+		"deleteFooterButton": {
+			"title": "Izbriši nogo"
+		},
+		"changePageOrientationButton": {
+			"title": "Spremenite usmerjenost strani"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Dodaj prelom razdelka (naslednja stran)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Dodaj prelom razdelka (neprekinjeno)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Dodaj prelom razdelka (soda stran)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Dodaj prelom razdelka (liha stran)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Dodaj prelom stolpca"
+		},
+		"removeSectionBreakButton": {
+			"title": "Odstrani prelom razdelka"
+		},
+		"pageSettingsButton": {
+			"title": "Nastavitve strani dokumenta..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Nastavitve stolpcev strani..."
+		},
+		"goToFirstPageButton": {
+			"title": "Pojdi na prvo stran"
+		},
+		"goToPreviousPageButton": {
+			"title": "Pojdi na prejšnjo stran"
+		},
+		"gotoPageInput": {
+			"title": "Stran"
+		},
+		"goToNextPageButton": {
+			"title": "Pojdi na naslednjo stran"
+		},
+		"goToLastPageButton": {
+			"title": "Pojdi na zadnjo stran"
+		},
+		"viewPropertiesButton": {
+			"title": "Nastavitve pogleda..."
+		},
+		"view_fitToPageButton": {
+			"title": "Prilagodi strani"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Prilagodi širini strani"
+		},
+		"view_multiPagesButton": {
+			"title": "Več strani"
+		},
+		"view_onePageButton": {
+			"title": "Ena stran"
+		},
+		"zoomOutButton": {
+			"title": "Pomanjšanje"
+		},
+		"zoomValueLabel": {
+			"text": "100 %"
+		},
+		"zoomInButton": {
+			"title": "Približaj"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Levo:"
+			},
+			"rightIndentationLabel": {
+				"text": "Desno:"
+			},
+			"specialIndentationLabel": {
+				"text": "Posebno:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Noben"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Prva vrstica"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Viseče"
+			},
+			"byLabel": {
+				"text": "Za:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			},
+			"viewModeListLabel": {
+				"text": "Način pogleda:"
+			},
+			"Vertical": {
+				"text": "Navpično"
+			},
+			"Horizontal": {
+				"text": "Vodoravno"
+			},
+			"pagesInLineLabel": {
+				"text": "Strani v vrstici/stolpcu:"
+			},
+			"pagePaddingLabel": {
+				"text": "Odmik strani (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Pred:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Samodejno"
+			},
+			"spacingAfterLabel": {
+				"text": "Za:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Samodejno"
+			},
+			"lineSpacingLabel": {
+				"text": "Razmik med vrsticami:"
+			},
+			"Scale": {
+				"text": "Merilo"
+			},
+			"Exact": {
+				"text": "Natančno"
+			},
+			"AtLeast": {
+				"text": "Najmanj"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Ne dodajaj presledka med odstavki istega sloga"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Kontrola vokne"
+			},
+			"keepNextLabel": {
+				"text": "Obdrži naslednje"
+			},
+			"keepLinesLabel": {
+				"text": "Obdrži vrstice"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Prelom strani pred"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Pisava:"
+			},
+			"fontStyleLabel": {
+				"text": "Slog pisave:"
+			},
+			"Regular": {
+				"text": "Navadna"
+			},
+			"Italic": {
+				"text": "Ležeče"
+			},
+			"Bold": {
+				"text": "Krepko"
+			},
+			"BoldItalic": {
+				"text": "Krepko Ležeče"
+			},
+			"fontSizeLabel": {
+				"text": "Velikost pisave:"
+			},
+			"fontColorLabel": {
+				"text": "Barva pisave:"
+			},
+			"underlineStyleLabel": {
+				"text": "Podčrtano besedilo:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Prečrtano besedilo:"
+			},
+			"verticalPositionLabel": {
+				"text": "Navpični položaj:"
+			},
+			"Baseline": {
+				"text": "Osnovna črta"
+			},
+			"Superscript": {
+				"text": "Nadpis"
+			},
+			"Subscript": {
+				"text": "Podpis"
+			},
+			"smallCapsLabel": {
+				"text": "Male velike črke"
+			},
+			"allCapsLabel": {
+				"text": "Samo velike črke"
+			},
+			"scaleLabel": {
+				"text": "Lestvica:"
+			},
+			"spacingLabel": {
+				"text": "Razmik:"
+			},
+			"positionLabel": {
+				"text": "Položaj:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Večnivojski seznam:"
+			},
+			"alignmentLabel": {
+				"text": "Poravnava:"
+			},
+			"Left": {
+				"text": "Levo"
+			},
+			"Right": {
+				"text": "Prav"
+			},
+			"Center": {
+				"text": "Center"
+			},
+			"Both": {
+				"text": "Oba"
+			},
+			"lineSpacingLabel": {
+				"text": "Razmik med vrsticami:"
+			},
+			"Single": {
+				"text": "Enojna"
+			},
+			"1.15": {
+				"text": "1,15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Dvojna"
+			},
+			"Triple": {
+				"text": "Trojna"
+			},
+			"Custom...": {
+				"text": "Po meri..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Nastavitve razmika med vrsticami odstavka..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Nastavitve zamika odstavka..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Nastavitve oštevilčenja odstavkov..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Naslov:"
+			},
+			"subjectLabel": {
+				"text": "Zadeva:"
+			},
+			"creatorLabel": {
+				"text": "Ustvarjalec:"
+			},
+			"descriptionLabel": {
+				"text": "Opis:"
+			},
+			"categoryLabel": {
+				"text": "Kategorija:"
+			},
+			"keywordsLabel": {
+				"text": "Ključne besede:"
+			},
+			"createdLabel": {
+				"text": "Ustvarjeno:"
+			},
+			"modifiedLabel": {
+				"text": "Spremenjeno:"
+			},
+			"printedLabel": {
+				"text": "Tiskano:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Nazadnje spremenil:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Barva izbire besedila:"
+			},
+			"backgroundColorLabel": {
+				"text": "Barva ozadja:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Privzete enote:"
+			},
+			"Centimeters": {
+				"text": "Centimetri"
+			},
+			"Millimeters": {
+				"text": "Milimetri"
+			},
+			"Inches": {
+				"text": "Palcev"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Pokaži nevidne robove tabele"
+			},
+			"asyncModeLabel": {
+				"text": "Asinhroni način"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Začetek odseka:"
+			},
+			"NextPage": {
+				"text": "Naslednja stran"
+			},
+			"NextColumn": {
+				"text": "Naslednji stolpec"
+			},
+			"Continuous": {
+				"text": "Neprekinjeno"
+			},
+			"EvenPage": {
+				"text": "Enakomerna stran"
+			},
+			"OddPage": {
+				"text": "Liha stran"
+			},
+			"pageSizeLabel": {
+				"text": "Velikost strani:"
+			},
+			"pageOrientationLabel": {
+				"text": "Orientacija strani:"
+			},
+			"Portrait": {
+				"text": "Portret"
+			},
+			"Landscape": {
+				"text": "Pokrajina"
+			},
+			"pageMarginsLabel": {
+				"text": "Robovi strani (cm):"
+			},
+			"leftLabel": {
+				"text": "levo:"
+			},
+			"rightLabel": {
+				"text": "desno:"
+			},
+			"topLabel": {
+				"text": "Vrh:"
+			},
+			"bottomLabel": {
+				"text": "Spodaj:"
+			},
+			"headerLabel": {
+				"text": "Glava:"
+			},
+			"footerLabel": {
+				"text": "Noga:"
+			},
+			"gutterLabel": {
+				"text": "Žleb:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Za prvo stran uporabite drugačen naslov"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Uporabite različne naslove za lihe in sode strani"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Število stolpcev:"
+			},
+			"lineBetweenLabel": {
+				"text": "Črta med"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Širina in razmik"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Enaka širina stolpca"
+			},
+			"columnNumberLabel": {
+				"text": "Številka stolpca:"
+			},
+			"widthLabel": {
+				"text": "Premer:"
+			},
+			"spacingLabel": {
+				"text": "Razmik:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Zapri"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Napaka"
+		},
+		"closeButton": {
+			"text": "Zapri"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Dokument se odpira ...",
+		"vssde-numberFormat-custom": "Po meri",
+		"vssde-findTextPanel-textIsNotFound": "Besedila '{0}' ni mogoče najti.",
+		"vssde-selectFunctionPanel-all": "Vse",
+		"vssde-createXlsxDocument": "Ustvari nov dokument XLSX",
+		"vssde-uploadXlsxFile": "Naloži datoteko XLSX",
+		"vssde-downloadXlsxFile": "Prenesite datoteko XLSX",
+		"vssde-exportXlsxToPdf": "Izvozi XLSX v PDF",
+		"vssde-fileSizeExceedsLimit": "Velikost naložene datoteke presega največjo velikost ({0} bajtov).",
+		"vssde-error-noError": "Brez napake.",
+		"vssde-error-divisionByZero": "Katera koli številka (vključno z ničlo) ali katera koli koda napake je deljena z ničlo.",
+		"vssde-error-cellRefCannotBeEvaluated": "Sklica na celico ni mogoče ovrednotiti, ker vrednost za celico ni bila pridobljena ali izračunana.",
+		"vssde-error-valueIsNotAvailable": "Določena vrednost ni na voljo.",
+		"vssde-error-wrongName": "Videti je, da je uporabljeno ime, vendar takšno ime ni bilo definirano.",
+		"vssde-error-twoAreasNotIntersecting": "Dve področji se morata križati, a se ne.",
+		"vssde-error-notCorrectValue": "Argument funkcije ima združljiv tip, vendar ima vrednost, ki je zunaj domene, v kateri je ta funkcija definirana.",
+		"vssde-error-cannotEvaluateCellRef": "Sklica na celico ni mogoče ovrednotiti.",
+		"vssde-error-incompatibleType": "Funkciji se posreduje argument nezdružljivega tipa ali pa se z operatorjem uporabi operand nezdružljivega tipa.",
+		"vssde-error-unknownError": "Neznana napaka.",
+		"vssde-error-externalError": "Zunanja napaka.",
+		"vssde-uriOpen-question": "Odpreti URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Naslov tega mesta ni veljaven: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Ali želite ustvariti nov delovni zvezek?",
+		"vsde-documentIsOpening": "Dokument se odpira ...",
+		"vsde-createDocxDocument": "Ustvari nov dokument DOCX",
+		"vsde-uploadDocumentFile": "Naloži in odpri datoteko",
+		"vsde-exportDocxDocumentToPdf": "Izvoz DOCX dokumenta v PDF",
+		"vsde-downloadFile": "Prenesi datoteko",
+		"vsde-cacheIsNotCleared": "Predpomnilnik ni počiščen, ker privzeta datotečna spletna storitev (Vintasoft.Shared.WebServiceJS.defaultFileService) ni definirana.",
+		"vsde-uriOpen-question": "Odpreti URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Naslov tega mesta ni veljaven: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Naloži in odpri datoteko",
+		"vsdv-uploadAndAddFileButton-addFileString": "Naložite in dodajte datoteko",
+		"vsui-textSearchPanel-pageLabel": "Stran",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Zapiši opombe",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Shranite opombe",
+		"vsui-annotationListPanel-pageLabel": "Stran",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Lastnosti pripisov",
+		"vsdv-openFile-addFileString": "Dodaj datoteko",
+		"vsdv-openFile-authenticateFileString": "Preveri pristnost datoteke",
+		"vsdv-downloadFile-actionMessage": "Prenesi datoteko",
+		"vsdv-saveChanges-saveChangesInImages": "Shranite spremembe v slikah",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Shranite spremembe v opombah",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Zapiši opombe na slike",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Naloži in odpri datoteko",
+		"vsui-uploadAndAddFileButton-addFileString": "Naložite in dodajte datoteko",
+		"vsui-openFile-addFileString": "Dodaj datoteko",
+		"vsui-openFile-authenticateFileString": "Preveri pristnost datoteke",
+		"vsui-downloadFile-actionMessage": "Prenesi datoteko",
+		"vsui-saveChanges-saveChangesInImages": "Shranite spremembe v slikah",
+		"vsui-saveChanges-saveChangesInAnnotations": "Shranite spremembe v opombah",
+		"vsui-saveChanges-burnAnnotationsInImages": "Zapiši opombe na slike",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Shranite spremembe v dokument PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Zapiši opombe",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Shranite opombe",
+		"vsui-documentPasswordDialog-title": "Geslo za dokument",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Prekliči",
+		"vsui-documentPasswordPanel-authenticateFileString": "Preveri pristnost datoteke",
+		"vsui-imageSelectionDialog-title": "Izberite slike",
+		"vsui-imageSelectionDialog-currentImageString": "Trenutna slika",
+		"vsui-imageSelectionDialog-allImagesString": "Vse slike",
+		"vsui-imageSelectionDialog-customImagesString": "Po meri",
+		"vsui-documentLayoutSettingsDialog-title": "Nastavitve postavitve dokumenta",
+		"vsui-printImagesDialog-title": "Natisnite slike",
+		"vsui-printImagesPanel-imagePrintingString": "Slika se tiska",
+		"vsui-printImagesPanel-withAnnotationsLabel": "z opombami",
+		"vsui-imageViewerSettingsDialog-title": "Nastavitve pregledovalnika slik",
+		"vsui-thumbnailViewerSettingDialog-title": "Nastavitve pregledovalnika sličic",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Prikaži opombe:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Zasukaj sliko z opombami",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Kot vrtenja mora biti večji od nič.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Vrteča se slika z opombami",
+		"vsui-uploadImageFromUrlDialog-title": "Naloži sliko z naslova URL",
+		"vsui-exportFileSettingsDialog-title": "Nastavitve za izvoz datoteke",
+		"vsdv-documentLayoutSettingsDialog-title": "Nastavitve postavitve dokumenta",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Prekliči",
+		"vsdv-uploadImageFromUrlDialog-title": "Naloži sliko z naslova URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Omogoči razveljavitev/ponovitev",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Onemogoči razveljavitev/ponovitev",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Omogoči način 'Radirka za opombe'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Onemogoči 'Radirko pripisov'",
+		"vsui-documentNavigationTool-getActions": "Pridobite dejanja",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Nastavitve zamika odstavka",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Zapri",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Nastavitve razmika med vrsticami odstavkov",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Nastavitve označevanja strani za odstavek",
+		"vsde-documentTextPropertiesDialog-title": "Lastnosti besedila",
+		"vsde-documentParagraphPropertiesDialog-title": "Lastnosti odstavka",
+		"vsde-documentInfoDialog-title": "Informacije o dokumentu",
+		"vsde-documentEditorSettingsDialog-title": "Nastavitve urejevalnika dokumentov",
+		"vsde-documentEditorViewSettingsDialog-title": "Nastavitve pogleda urejevalnika dokumentov",
+		"vsde-documentPageSettingsDialog-title": "Nastavitve strani dokumenta",
+		"vsde-documentPageColumnsSettingsDialog-title": "Nastavitve stolpcev strani"
+	}
+}

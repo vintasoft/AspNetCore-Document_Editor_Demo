@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Tệp"
+		},
+		"homeLabel": {
+			"text": "Chính"
+		},
+		"insertLabel": {
+			"text": "Chèn"
+		},
+		"layoutLabel": {
+			"text": "Bố cục"
+		},
+		"createDocxDocumentButton": {
+			"title": "Tạo tài liệu DOCX mới"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Tải lên và mở tài liệu"
+		},
+		"documentInfoButton": {
+			"title": "Thông tin tài liệu..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Lưu các thay đổi vào tệp gốc"
+		},
+		"downloadFileButton": {
+			"title": "Tải tập tin"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Xuất tài liệu DOCX sang PDF và tải xuống tệp PDF..."
+		},
+		"printDocumentButton": {
+			"title": "In tài liệu..."
+		},
+		"closeDocumentButton": {
+			"title": "Đóng tài liệu"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Xóa bộ nhớ đệm phiên"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Cài đặt trình soạn thảo tài liệu..."
+		},
+		"copyContentButton": {
+			"title": "Sao chép nội dung"
+		},
+		"cutContentButton": {
+			"title": "Cắt nội dung"
+		},
+		"pasteContentButton": {
+			"title": "Dán nội dung"
+		},
+		"pasteTextContentButton": {
+			"title": "Dán nội dung văn bản"
+		},
+		"increaseFontSizeButton": {
+			"title": "Tăng cỡ chữ"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Giảm cỡ chữ"
+		},
+		"boldTextButton": {
+			"title": "Đậm"
+		},
+		"italicTextButton": {
+			"title": "Chữ nghiêng"
+		},
+		"underlineTextButton": {
+			"title": "Gạch chân"
+		},
+		"strikethroughTextButton": {
+			"title": "Vượt qua"
+		},
+		"superscriptTextButton": {
+			"title": "Văn bản chữ trên"
+		},
+		"subscriptTextButton": {
+			"title": "Văn bản chữ dưới"
+		},
+		"setTextColorButton": {
+			"title": "Đặt màu chữ"
+		},
+		"selectTextColorButton": {
+			"title": "Chọn màu chữ"
+		},
+		"setTextFillColorButton": {
+			"title": "Đặt màu tô cho văn bản"
+		},
+		"selectTextFillColorButton": {
+			"title": "Chọn màu tô cho văn bản"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Xóa tất cả định dạng"
+		},
+		"textPropertiesButton": {
+			"title": "Thuộc tính văn bản..."
+		},
+		"decreaseIndentButton": {
+			"title": "Giảm thụt lề"
+		},
+		"increaseIndentButton": {
+			"title": "Tăng thụt lề"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Giảm thụt lề dòng đầu tiên"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Tăng thụt lề dòng đầu tiên"
+		},
+		"bulletedListButton": {
+			"title": "Danh sách có dấu đầu dòng"
+		},
+		"bulletedListStylesButton": {
+			"title": "Kiểu cho danh sách có dấu đầu dòng"
+		},
+		"numberedListButton": {
+			"title": "Danh sách có số"
+		},
+		"numberedListStylesButton": {
+			"title": "Kiểu cho danh sách có số"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Hiển thị các ký tự không in được"
+		},
+		"alignLeftButton": {
+			"title": "Căn trái"
+		},
+		"alignCenterButton": {
+			"title": "Căn giữa"
+		},
+		"alignRightButton": {
+			"title": "Căn phải"
+		},
+		"alignBothButton": {
+			"title": "Căn chỉnh cả hai"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Đặt màu tô cho đoạn văn"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Chọn màu tô cho đoạn văn"
+		},
+		"stylePainterButton": {
+			"title": "họa sĩ phong cách"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Thuộc tính đoạn văn..."
+		},
+		"insertPageBreakButton": {
+			"title": "Chèn ngắt trang"
+		},
+		"createHeaderButton": {
+			"title": "Tạo/chỉnh sửa tiêu đề"
+		},
+		"deleteHeaderButton": {
+			"title": "Xóa tiêu đề"
+		},
+		"createFooterButton": {
+			"title": "Tạo/chỉnh sửa chân trang"
+		},
+		"deleteFooterButton": {
+			"title": "Xóa chân trang"
+		},
+		"changePageOrientationButton": {
+			"title": "Thay đổi hướng trang"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Thêm ngắt phần (Trang tiếp theo)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Thêm ngắt phần (Liên tục)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Thêm ngắt phần (Trang chẵn)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Thêm ngắt phần (Trang lẻ)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Thêm ngắt cột"
+		},
+		"removeSectionBreakButton": {
+			"title": "Xóa ngắt phần"
+		},
+		"pageSettingsButton": {
+			"title": "Cài đặt trang tài liệu..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Cài đặt cột trang..."
+		},
+		"goToFirstPageButton": {
+			"title": "Đi đến trang đầu tiên"
+		},
+		"goToPreviousPageButton": {
+			"title": "Đi đến trang trước đó"
+		},
+		"gotoPageInput": {
+			"title": "Trang"
+		},
+		"goToNextPageButton": {
+			"title": "Đi đến trang tiếp theo"
+		},
+		"goToLastPageButton": {
+			"title": "Đi đến trang cuối cùng"
+		},
+		"viewPropertiesButton": {
+			"title": "Cài đặt chế độ xem..."
+		},
+		"view_fitToPageButton": {
+			"title": "Vừa với trang"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Vừa với chiều rộng trang"
+		},
+		"view_multiPagesButton": {
+			"title": "Nhiều trang"
+		},
+		"view_onePageButton": {
+			"title": "Một trang"
+		},
+		"zoomOutButton": {
+			"title": "Thu nhỏ"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Phóng to"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Trái:"
+			},
+			"rightIndentationLabel": {
+				"text": "Phải:"
+			},
+			"specialIndentationLabel": {
+				"text": "Đặc biệt:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Không"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Dòng đầu tiên"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Treo"
+			},
+			"byLabel": {
+				"text": "Theo:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			},
+			"viewModeListLabel": {
+				"text": "Chế độ xem:"
+			},
+			"Vertical": {
+				"text": "Dọc"
+			},
+			"Horizontal": {
+				"text": "Ngang"
+			},
+			"pagesInLineLabel": {
+				"text": "Số trang trong dòng/cột:"
+			},
+			"pagePaddingLabel": {
+				"text": "Khoảng đệm trang (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Trước:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Tự động"
+			},
+			"spacingAfterLabel": {
+				"text": "Sau:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Tự động"
+			},
+			"lineSpacingLabel": {
+				"text": "Khoảng cách dòng:"
+			},
+			"Scale": {
+				"text": "Tỷ lệ"
+			},
+			"Exact": {
+				"text": "Chính xác"
+			},
+			"AtLeast": {
+				"text": "Ít nhất"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Không thêm khoảng cách giữa các đoạn văn cùng kiểu"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Điều khiển cửa sổ phụ"
+			},
+			"keepNextLabel": {
+				"text": "Giữ tiếp theo"
+			},
+			"keepLinesLabel": {
+				"text": "Giữ dòng"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Ngắt trang trước"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Phông chữ:"
+			},
+			"fontStyleLabel": {
+				"text": "Kiểu phông chữ:"
+			},
+			"Regular": {
+				"text": "Thông thường"
+			},
+			"Italic": {
+				"text": "In nghiêng"
+			},
+			"Bold": {
+				"text": "In đậm"
+			},
+			"BoldItalic": {
+				"text": "Đậm Nghiêng"
+			},
+			"fontSizeLabel": {
+				"text": "Cỡ chữ:"
+			},
+			"fontColorLabel": {
+				"text": "Màu chữ:"
+			},
+			"underlineStyleLabel": {
+				"text": "Gạch chân văn bản:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Gạch bỏ văn bản:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vị trí dọc:"
+			},
+			"Baseline": {
+				"text": "Dòng cơ sở"
+			},
+			"Superscript": {
+				"text": "Chỉ số trên"
+			},
+			"Subscript": {
+				"text": "Chỉ số dưới"
+			},
+			"smallCapsLabel": {
+				"text": "Chữ hoa nhỏ"
+			},
+			"allCapsLabel": {
+				"text": "Toàn chữ hoa"
+			},
+			"scaleLabel": {
+				"text": "Tỷ lệ hình thu nhỏ:"
+			},
+			"spacingLabel": {
+				"text": "Khoảng cách:"
+			},
+			"positionLabel": {
+				"text": "Vị trí:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Danh sách nhiều cấp:"
+			},
+			"alignmentLabel": {
+				"text": "Căn chỉnh:"
+			},
+			"Left": {
+				"text": "Trái"
+			},
+			"Right": {
+				"text": "Đúng"
+			},
+			"Center": {
+				"text": "Căn giữa"
+			},
+			"Both": {
+				"text": "Cả hai"
+			},
+			"lineSpacingLabel": {
+				"text": "Khoảng cách dòng:"
+			},
+			"Single": {
+				"text": "Đơn"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Đôi"
+			},
+			"Triple": {
+				"text": "Ba"
+			},
+			"Custom...": {
+				"text": "Tùy chỉnh..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Cài đặt khoảng cách dòng đoạn văn..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Cài đặt thụt lề đoạn văn..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Cài đặt phân trang đoạn văn..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Tiêu đề:"
+			},
+			"subjectLabel": {
+				"text": "Chủ đề:"
+			},
+			"creatorLabel": {
+				"text": "Người tạo:"
+			},
+			"descriptionLabel": {
+				"text": "Mô tả:"
+			},
+			"categoryLabel": {
+				"text": "Danh mục:"
+			},
+			"keywordsLabel": {
+				"text": "Từ khóa:"
+			},
+			"createdLabel": {
+				"text": "Ngày tạo:"
+			},
+			"modifiedLabel": {
+				"text": "Ngày sửa đổi:"
+			},
+			"printedLabel": {
+				"text": "In:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Sửa đổi lần cuối bởi:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Màu lựa chọn văn bản:"
+			},
+			"backgroundColorLabel": {
+				"text": "Màu nền:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Đơn vị mặc định:"
+			},
+			"Centimeters": {
+				"text": "centimét"
+			},
+			"Millimeters": {
+				"text": "Milimet"
+			},
+			"Inches": {
+				"text": "Inch"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Hiển thị đường viền bảng ẩn"
+			},
+			"asyncModeLabel": {
+				"text": "Chế độ không đồng bộ"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Bắt đầu phần:"
+			},
+			"NextPage": {
+				"text": "Trang tiếp theo"
+			},
+			"NextColumn": {
+				"text": "Cột tiếp theo"
+			},
+			"Continuous": {
+				"text": "Liên tục"
+			},
+			"EvenPage": {
+				"text": "Trang chẵn"
+			},
+			"OddPage": {
+				"text": "Trang lẻ"
+			},
+			"pageSizeLabel": {
+				"text": "Kích thước trang:"
+			},
+			"pageOrientationLabel": {
+				"text": "Hướng trang:"
+			},
+			"Portrait": {
+				"text": "Dọc"
+			},
+			"Landscape": {
+				"text": "Ngang"
+			},
+			"pageMarginsLabel": {
+				"text": "Lề trang (cm):"
+			},
+			"leftLabel": {
+				"text": "Trái:"
+			},
+			"rightLabel": {
+				"text": "Phải:"
+			},
+			"topLabel": {
+				"text": "Trên:"
+			},
+			"bottomLabel": {
+				"text": "Dưới:"
+			},
+			"headerLabel": {
+				"text": "Đầu trang:"
+			},
+			"footerLabel": {
+				"text": "Chân trang:"
+			},
+			"gutterLabel": {
+				"text": "Gutter:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Sử dụng tiêu đề khác nhau cho trang đầu tiên"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Sử dụng tiêu đề khác nhau cho trang lẻ và trang chẵn"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Số lượng cột:"
+			},
+			"lineBetweenLabel": {
+				"text": "Dòng giữa"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Chiều rộng và khoảng cách"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Chiều rộng cột bằng nhau"
+			},
+			"columnNumberLabel": {
+				"text": "Số cột:"
+			},
+			"widthLabel": {
+				"text": "Chiều rộng:"
+			},
+			"spacingLabel": {
+				"text": "Khoảng cách:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Đóng"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Lỗi"
+		},
+		"closeButton": {
+			"text": "Đóng"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Tài liệu đang mở...",
+		"vssde-numberFormat-custom": "Tùy chỉnh",
+		"vssde-findTextPanel-textIsNotFound": "Không tìm thấy văn bản '{0}'.",
+		"vssde-selectFunctionPanel-all": "Tất cả",
+		"vssde-createXlsxDocument": "Tạo tài liệu XLSX mới",
+		"vssde-uploadXlsxFile": "Tải lên tệp XLSX",
+		"vssde-downloadXlsxFile": "Tải lên tệp XLSX",
+		"vssde-exportXlsxToPdf": "Xuất XLSX sang PDF",
+		"vssde-fileSizeExceedsLimit": "Kích thước của tệp đã tải lên vượt quá kích thước tối đa ({0} byte).",
+		"vssde-error-noError": "Không có lỗi.",
+		"vssde-error-divisionByZero": "Bất kỳ số nào (kể cả số 0) hoặc bất kỳ mã lỗi nào đều được chia cho số 0.",
+		"vssde-error-cellRefCannotBeEvaluated": "Không thể đánh giá tham chiếu ô vì giá trị của ô chưa được truy xuất hoặc tính toán.",
+		"vssde-error-valueIsNotAvailable": "Một giá trị được chỉ định không có sẵn.",
+		"vssde-error-wrongName": "Có vẻ như một cái tên đã được sử dụng nhưng chưa có tên nào được xác định.",
+		"vssde-error-twoAreasNotIntersecting": "Hai khu vực được yêu cầu giao nhau nhưng không.",
+		"vssde-error-notCorrectValue": "Đối số của hàm có loại tương thích nhưng có giá trị nằm ngoài miền mà hàm đó được xác định.",
+		"vssde-error-cannotEvaluateCellRef": "Không thể đánh giá tham chiếu ô.",
+		"vssde-error-incompatibleType": "Một đối số kiểu không tương thích được truyền cho một hàm hoặc một toán hạng kiểu không tương thích được sử dụng với một toán tử.",
+		"vssde-error-unknownError": "Lỗi không rõ.",
+		"vssde-error-externalError": "Lỗi bên ngoài.",
+		"vssde-uriOpen-question": "Mở URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Địa chỉ của trang web này không hợp lệ: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Bạn có muốn tạo một sổ làm việc mới không?",
+		"vsde-documentIsOpening": "Tài liệu đang mở...",
+		"vsde-createDocxDocument": "Tạo tài liệu DOCX mới",
+		"vsde-uploadDocumentFile": "Tải xuống và mở tệp",
+		"vsde-exportDocxDocumentToPdf": "Xuất tài liệu DOCX sang PDF",
+		"vsde-downloadFile": "Tải tập tin",
+		"vsde-cacheIsNotCleared": "Bộ nhớ đệm không được xóa vì dịch vụ web tệp mặc định (Vintasoft.Shared.WebServiceJS.defaultFileService) chưa được xác định.",
+		"vsde-uriOpen-question": "Mở URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Địa chỉ của trang web này không hợp lệ: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Tải xuống và mở tệp",
+		"vsdv-uploadAndAddFileButton-addFileString": "Tải lên và thêm tập tin",
+		"vsui-textSearchPanel-pageLabel": "Trang",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Ghi chú thích",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Lưu chú thích",
+		"vsui-annotationListPanel-pageLabel": "Trang",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Thuộc tính chú thích",
+		"vsdv-openFile-addFileString": "Thêm tập tin",
+		"vsdv-openFile-authenticateFileString": "Xác thực tập tin",
+		"vsdv-downloadFile-actionMessage": "Tải tập tin",
+		"vsdv-saveChanges-saveChangesInImages": "Lưu các thay đổi trong hình ảnh",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Lưu các thay đổi trong chú thích",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Ghi chú thích trên hình ảnh",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Tải xuống và mở tệp",
+		"vsui-uploadAndAddFileButton-addFileString": "Tải lên và thêm tập tin",
+		"vsui-openFile-addFileString": "Thêm tập tin",
+		"vsui-openFile-authenticateFileString": "Xác thực tập tin",
+		"vsui-downloadFile-actionMessage": "Tải tập tin",
+		"vsui-saveChanges-saveChangesInImages": "Lưu các thay đổi trong hình ảnh",
+		"vsui-saveChanges-saveChangesInAnnotations": "Lưu các thay đổi trong chú thích",
+		"vsui-saveChanges-burnAnnotationsInImages": "Ghi chú thích trên hình ảnh",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Lưu các thay đổi trong tài liệu PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Ghi chú thích",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Lưu chú thích",
+		"vsui-documentPasswordDialog-title": "Mật khẩu tài liệu",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Hủy",
+		"vsui-documentPasswordPanel-authenticateFileString": "Xác thực tập tin",
+		"vsui-imageSelectionDialog-title": "Chọn hình ảnh",
+		"vsui-imageSelectionDialog-currentImageString": "Hình ảnh hiện tại",
+		"vsui-imageSelectionDialog-allImagesString": "Tất cả hình ảnh",
+		"vsui-imageSelectionDialog-customImagesString": "Tùy chỉnh",
+		"vsui-documentLayoutSettingsDialog-title": "Cài đặt bố cục tài liệu",
+		"vsui-printImagesDialog-title": "In ảnh",
+		"vsui-printImagesPanel-imagePrintingString": "Hình ảnh đang được in",
+		"vsui-printImagesPanel-withAnnotationsLabel": "có chú thích",
+		"vsui-imageViewerSettingsDialog-title": "Cài đặt trình xem ảnh",
+		"vsui-thumbnailViewerSettingDialog-title": "Cài đặt trình xem hình thu nhỏ",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Hiển thị chú thích trên hình thu nhỏ:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Xoay hình ảnh được chú thích",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Góc xoay không được bằng 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Hình ảnh được chú thích đang được xoay",
+		"vsui-uploadImageFromUrlDialog-title": "Tải hình ảnh lên từ URL",
+		"vsui-exportFileSettingsDialog-title": "Các cài đặt để xuất tập tin",
+		"vsdv-documentLayoutSettingsDialog-title": "Cài đặt bố cục tài liệu",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Hủy",
+		"vsdv-uploadImageFromUrlDialog-title": "Tải hình ảnh lên từ URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Bật lịch sử thay đổi",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Vô hiệu hóa hoàn tác/làm lại",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Bật chế độ 'Tẩy cho chú thích'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Vô hiệu hóa 'Công cụ xóa chú thích'",
+		"vsui-documentNavigationTool-getActions": "Nhận hành động",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Thiết lập thụt lề đoạn văn",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Đóng",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Thiết lập khoảng cách dòng đoạn văn",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Thiết lập phân trang đoạn văn",
+		"vsde-documentTextPropertiesDialog-title": "Thuộc tính văn bản",
+		"vsde-documentParagraphPropertiesDialog-title": "Thuộc tính đoạn văn",
+		"vsde-documentInfoDialog-title": "Thông tin tài liệu",
+		"vsde-documentEditorSettingsDialog-title": "Thiết lập trình soạn thảo tài liệu",
+		"vsde-documentEditorViewSettingsDialog-title": "Thiết lập chế độ xem trình soạn thảo tài liệu",
+		"vsde-documentPageSettingsDialog-title": "Thiết lập trang tài liệu",
+		"vsde-documentPageColumnsSettingsDialog-title": "Thiết lập cột trang"
+	}
+}

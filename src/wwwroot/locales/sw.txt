@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Faili"
+		},
+		"homeLabel": {
+			"text": "Nyumbani"
+		},
+		"insertLabel": {
+			"text": "Ingiza"
+		},
+		"layoutLabel": {
+			"text": "Düzüm"
+		},
+		"createDocxDocumentButton": {
+			"title": "Täze DOCX resminamasyny dörediň"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Resminamany ýükläň we açyň"
+		},
+		"documentInfoButton": {
+			"title": "Resminama maglumaty..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Hifadhi mabadiliko kwenye faili asili"
+		},
+		"downloadFileButton": {
+			"title": "Pakua faili"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX resminamasyny PDF-e eksport ediň we PDF faýlyny göçürip alyň..."
+		},
+		"printDocumentButton": {
+			"title": "Resminamany çap ediň..."
+		},
+		"closeDocumentButton": {
+			"title": "Resminamany ýapyň"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Futa akiba ya kipindi"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Resminama redaktorynyň sazlamalary..."
+		},
+		"copyContentButton": {
+			"title": "Nakili maudhui"
+		},
+		"cutContentButton": {
+			"title": "Kata maudhui"
+		},
+		"pasteContentButton": {
+			"title": "Bandika yaliyomo"
+		},
+		"pasteTextContentButton": {
+			"title": "Tekst mazmunyny goýuň"
+		},
+		"increaseFontSizeButton": {
+			"title": "Şriftiň ölçegini ulaldyň"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Şriftiň ölçegini kiçeltiň"
+		},
+		"boldTextButton": {
+			"title": "Maandishi mazito"
+		},
+		"italicTextButton": {
+			"title": "Maandishi ya italiki"
+		},
+		"underlineTextButton": {
+			"title": "Pigia mstari maandishi"
+		},
+		"strikethroughTextButton": {
+			"title": "Maandishi ya kuvutia"
+		},
+		"superscriptTextButton": {
+			"title": "Ýokarky tekst"
+		},
+		"subscriptTextButton": {
+			"title": "Aşakky tekst"
+		},
+		"setTextColorButton": {
+			"title": "Weka rangi ya maandishi"
+		},
+		"selectTextColorButton": {
+			"title": "Chagua rangi ya maandishi"
+		},
+		"setTextFillColorButton": {
+			"title": "Weka rangi ya kujaza maandishi"
+		},
+		"selectTextFillColorButton": {
+			"title": "Chagua rangi ya kujaza maandishi"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Ähli formatlamalary arassalaň"
+		},
+		"textPropertiesButton": {
+			"title": "Tekstiň häsiýetleri..."
+		},
+		"decreaseIndentButton": {
+			"title": "Çekini kiçeltiň"
+		},
+		"increaseIndentButton": {
+			"title": "Çekini ulaldyň"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Birinji setiriň çetini kiçeltiň"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Birinji setiriň çetini ulaldyň"
+		},
+		"bulletedListButton": {
+			"title": "Bellikli sanaw"
+		},
+		"bulletedListStylesButton": {
+			"title": "Bellikli sanawlar üçin stiller"
+		},
+		"numberedListButton": {
+			"title": "Nömerli sanaw"
+		},
+		"numberedListStylesButton": {
+			"title": "Nömerli sanawlar üçin stiller..."
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Onyesha herufi zisizoweza kuchapishwa"
+		},
+		"alignLeftButton": {
+			"title": "Pangilia kushoto"
+		},
+		"alignCenterButton": {
+			"title": "Kituo"
+		},
+		"alignRightButton": {
+			"title": "Pangilia kulia"
+		},
+		"alignBothButton": {
+			"title": "Pangilia zote mbili"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Weka rangi ya kujaza aya"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Chagua rangi ya kujaza aya"
+		},
+		"stylePainterButton": {
+			"title": "Mchoraji wa Sinema"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Sifa za aya..."
+		},
+		"insertPageBreakButton": {
+			"title": "Ingiza mgawanyiko wa ukurasa"
+		},
+		"createHeaderButton": {
+			"title": "Unda/hariri kichwa cha habari"
+		},
+		"deleteHeaderButton": {
+			"title": "Futa kichwa cha habari"
+		},
+		"createFooterButton": {
+			"title": "Unda/hariri kijachini"
+		},
+		"deleteFooterButton": {
+			"title": "Futa kijachini"
+		},
+		"changePageOrientationButton": {
+			"title": "Badilisha mwelekeo wa ukurasa"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Ongeza mgawanyiko wa sehemu (Ukurasa unaofuata)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Ongeza mgawanyiko wa sehemu (Inaendelea)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Ongeza mgawanyiko wa sehemu (Ukurasa shufwa)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Ongeza mgawanyiko wa sehemu (Ukurasa usio sawa)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Ongeza mgawanyiko wa safu wima"
+		},
+		"removeSectionBreakButton": {
+			"title": "Ondoa mgawanyiko wa sehemu"
+		},
+		"pageSettingsButton": {
+			"title": "Mipangilio ya ukurasa wa hati..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Mipangilio ya safu wima za ukurasa..."
+		},
+		"goToFirstPageButton": {
+			"title": "Nenda kwenye ukurasa wa kwanza"
+		},
+		"goToPreviousPageButton": {
+			"title": "Nenda kwenye ukurasa uliopita"
+		},
+		"gotoPageInput": {
+			"title": "Ukurasa"
+		},
+		"goToNextPageButton": {
+			"title": "Nenda kwenye ukurasa unaofuata"
+		},
+		"goToLastPageButton": {
+			"title": "Nenda kwenye ukurasa wa mwisho"
+		},
+		"viewPropertiesButton": {
+			"title": "Tazama mipangilio..."
+		},
+		"view_fitToPageButton": {
+			"title": "Inafaa kwenye ukurasa"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Inafaa kwa upana wa ukurasa"
+		},
+		"view_multiPagesButton": {
+			"title": "Kurasa nyingi"
+		},
+		"view_onePageButton": {
+			"title": "Ukurasa mmoja"
+		},
+		"zoomOutButton": {
+			"title": "Kuza nje"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Vuta karibu"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Kushoto:"
+			},
+			"rightIndentationLabel": {
+				"text": "Kulia:"
+			},
+			"specialIndentationLabel": {
+				"text": "Maalum:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Hakuna"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Mstari wa Kwanza"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Inaning'inia"
+			},
+			"byLabel": {
+				"text": "Kwa:"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			},
+			"viewModeListLabel": {
+				"text": "Hali ya kutazama:"
+			},
+			"Vertical": {
+				"text": "Wima"
+			},
+			"Horizontal": {
+				"text": "Mlalo"
+			},
+			"pagesInLineLabel": {
+				"text": "Kurasa katika mstari/safu wima:"
+			},
+			"pagePaddingLabel": {
+				"text": "Ufungaji wa ukurasa (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Kabla:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Otomatiki"
+			},
+			"spacingAfterLabel": {
+				"text": "Baada:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Otomatiki"
+			},
+			"lineSpacingLabel": {
+				"text": "Nafasi ya mstari:"
+			},
+			"Scale": {
+				"text": "Kipimo"
+			},
+			"Exact": {
+				"text": "Hasa"
+			},
+			"AtLeast": {
+				"text": "Angalau"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Usiongeze nafasi kati ya aya za mtindo mmoja"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Udhibiti wa mjane"
+			},
+			"keepNextLabel": {
+				"text": "Weka inayofuata"
+			},
+			"keepLinesLabel": {
+				"text": "Weka mistari"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Ugawaji wa ukurasa kabla"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Fonti:"
+			},
+			"fontStyleLabel": {
+				"text": "Mtindo wa Fonti:"
+			},
+			"Regular": {
+				"text": "Kawaida"
+			},
+			"Italic": {
+				"text": "Italiki"
+			},
+			"Bold": {
+				"text": "Ujasiri"
+			},
+			"BoldItalic": {
+				"text": "Italiki nzito"
+			},
+			"fontSizeLabel": {
+				"text": "Ukubwa wa Fonti:"
+			},
+			"fontColorLabel": {
+				"text": "Rangi ya Fonti:"
+			},
+			"underlineStyleLabel": {
+				"text": "Piga mstari chini ya maandishi:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Maandishi ya Mstari:"
+			},
+			"verticalPositionLabel": {
+				"text": "Nafasi ya Wima:"
+			},
+			"Baseline": {
+				"text": "Mstari wa Msingi"
+			},
+			"Superscript": {
+				"text": "Maandishi ya Juu"
+			},
+			"Subscript": {
+				"text": "Maandishi ya Chini"
+			},
+			"smallCapsLabel": {
+				"text": "Maandishi ya Juu Ndogo"
+			},
+			"allCapsLabel": {
+				"text": "Maandishi ya Juu Yote"
+			},
+			"scaleLabel": {
+				"text": "Mizani:"
+			},
+			"spacingLabel": {
+				"text": "Nafasi:"
+			},
+			"positionLabel": {
+				"text": "Nafasi:"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Orodha ya ngazi nyingi:"
+			},
+			"alignmentLabel": {
+				"text": "Upangilio:"
+			},
+			"Left": {
+				"text": "Kushoto"
+			},
+			"Right": {
+				"text": "Haki"
+			},
+			"Center": {
+				"text": "Kituo"
+			},
+			"Both": {
+				"text": "Zote"
+			},
+			"lineSpacingLabel": {
+				"text": "Nafasi ya mstari:"
+			},
+			"Single": {
+				"text": "Moja"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Mara Mbili"
+			},
+			"Triple": {
+				"text": "Matatu"
+			},
+			"Custom...": {
+				"text": "Maalum..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Mipangilio ya nafasi ya mistari ya aya..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Mipangilio ya ujongezaji wa aya..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Mipangilio ya kurasa za aya..."
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Kichwa:"
+			},
+			"subjectLabel": {
+				"text": "Mada:"
+			},
+			"creatorLabel": {
+				"text": "Muumba:"
+			},
+			"descriptionLabel": {
+				"text": "Maelezo:"
+			},
+			"categoryLabel": {
+				"text": "Jamii:"
+			},
+			"keywordsLabel": {
+				"text": "Maneno Muhimu:"
+			},
+			"createdLabel": {
+				"text": "Imeundwa:"
+			},
+			"modifiedLabel": {
+				"text": "Imebadilishwa:"
+			},
+			"printedLabel": {
+				"text": "Iliyochapishwa:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Mwisho uliobadilishwa na:"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Rangi ya uteuzi wa maandishi:"
+			},
+			"backgroundColorLabel": {
+				"text": "Rangi ya asili:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Vitengo chaguo -msingi:"
+			},
+			"Centimeters": {
+				"text": "Sentimita"
+			},
+			"Millimeters": {
+				"text": "Milimita"
+			},
+			"Inches": {
+				"text": "Inchi"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Onyesha mipaka isiyoonekana ya meza"
+			},
+			"asyncModeLabel": {
+				"text": "Njia ya async"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Sehemu ya kuanza:"
+			},
+			"NextPage": {
+				"text": "NextPage"
+			},
+			"NextColumn": {
+				"text": "NextColumn"
+			},
+			"Continuous": {
+				"text": "Inayoendelea"
+			},
+			"EvenPage": {
+				"text": "Hata ukurasa"
+			},
+			"OddPage": {
+				"text": "Ukurasa usio wa kawaida"
+			},
+			"pageSizeLabel": {
+				"text": "Saizi ya ukurasa:"
+			},
+			"pageOrientationLabel": {
+				"text": "Mwelekeo wa Ukurasa:"
+			},
+			"Portrait": {
+				"text": "Picha"
+			},
+			"Landscape": {
+				"text": "Mazingira"
+			},
+			"pageMarginsLabel": {
+				"text": "Maandamano ya ukurasa (CM):"
+			},
+			"leftLabel": {
+				"text": "Kushoto:"
+			},
+			"rightLabel": {
+				"text": "Haki:"
+			},
+			"topLabel": {
+				"text": "Juu:"
+			},
+			"bottomLabel": {
+				"text": "Chini:"
+			},
+			"headerLabel": {
+				"text": "Kichwa:"
+			},
+			"footerLabel": {
+				"text": "Footer:"
+			},
+			"gutterLabel": {
+				"text": "Matuta:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Tumia kichwa cha habari tofauti kwa ukurasa wa kwanza"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Tumia kichwa cha habari tofauti kwa kurasa zisizo za kawaida na hata"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Hesabu ya safu:"
+			},
+			"lineBetweenLabel": {
+				"text": "Mstari kati"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Upana na nafasi"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Upana wa safu sawa"
+			},
+			"columnNumberLabel": {
+				"text": "Nambari ya safu:"
+			},
+			"widthLabel": {
+				"text": "Upana:"
+			},
+			"spacingLabel": {
+				"text": "Nafasi:"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"closeButton": {
+				"value": "Funga"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Hitilafu"
+		},
+		"closeButton": {
+			"text": "Funga"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Hati inafunguliwa...",
+		"vssde-numberFormat-custom": "Desturi",
+		"vssde-findTextPanel-textIsNotFound": "Maandishi '{0}' hayapatikani.",
+		"vssde-selectFunctionPanel-all": "Wote",
+		"vssde-createXlsxDocument": "Unda hati mpya ya XLSX",
+		"vssde-uploadXlsxFile": "Pakia faili ya XLSX",
+		"vssde-downloadXlsxFile": "Pakua faili ya XLSX",
+		"vssde-exportXlsxToPdf": "Hamisha XLSX hadi PDF",
+		"vssde-fileSizeExceedsLimit": "Saizi ya faili iliyopakiwa inazidi ukubwa wa juu zaidi (baiti {0}).",
+		"vssde-error-noError": "Hakuna hitilafu.",
+		"vssde-error-divisionByZero": "Nambari yoyote (ikiwa ni pamoja na sifuri) au msimbo wowote wa hitilafu umegawanywa na sifuri.",
+		"vssde-error-cellRefCannotBeEvaluated": "Rejeleo la kisanduku haliwezi kutathminiwa kwa sababu thamani ya kisanduku haijarejeshwa au kuhesabiwa.",
+		"vssde-error-valueIsNotAvailable": "Thamani iliyobainishwa haipatikani.",
+		"vssde-error-wrongName": "Inaonekana jina linatumika lakini hakuna jina kama hilo ambalo limefafanuliwa.",
+		"vssde-error-twoAreasNotIntersecting": "Maeneo mawili yanahitajika ili kukatiza lakini sivyo.",
+		"vssde-error-notCorrectValue": "Hoja kwa chaguo za kukokotoa ina aina inayooana, lakini ina thamani ambayo iko nje ya kikoa ambacho kipengele hicho cha kukokotoa kimefafanuliwa.",
+		"vssde-error-cannotEvaluateCellRef": "Rejeleo la seli haliwezi kutathminiwa.",
+		"vssde-error-incompatibleType": "Hoja ya aina isiyooana hupitishwa kwa chaguo za kukokotoa, au aina ya uendeshaji isiyooana inatumiwa na opereta.",
+		"vssde-error-unknownError": "Hitilafu isiyojulikana.",
+		"vssde-error-externalError": "Hitilafu ya nje.",
+		"vssde-uriOpen-question": "Ungependa kufungua URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Anwani ya tovuti hii si sahihi: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Je, ungependa kuunda kitabu kipya cha kazi?",
+		"vsde-documentIsOpening": "Hati inafunguliwa...",
+		"vsde-createDocxDocument": "Täze DOCX resminamasyny dörediň",
+		"vsde-uploadDocumentFile": "Pakia na ufungue faili",
+		"vsde-exportDocxDocumentToPdf": "Hati ya nje ya DOCX kwa PDF",
+		"vsde-downloadFile": "Pakua faili",
+		"vsde-cacheIsNotCleared": "Cache haijasafishwa kwa sababu huduma ya wavuti chaguo -msingi (vintasoft.shared.webservicejs.defaultfileService) haijaelezewa.",
+		"vsde-uriOpen-question": "Ungependa kufungua URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Anwani ya tovuti hii si sahihi: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Pakia na ufungue faili",
+		"vsdv-uploadAndAddFileButton-addFileString": "Pakia na uongeze faili",
+		"vsui-textSearchPanel-pageLabel": "Ukurasa",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Choma maelezo",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Hifadhi maelezo",
+		"vsui-annotationListPanel-pageLabel": "Ukurasa",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Sifa za Ufafanuzi",
+		"vsdv-openFile-addFileString": "Ongeza faili",
+		"vsdv-openFile-authenticateFileString": "Thibitisha faili",
+		"vsdv-downloadFile-actionMessage": "Pakua faili",
+		"vsdv-saveChanges-saveChangesInImages": "Hifadhi mabadiliko katika picha",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Hifadhi mabadiliko katika vidokezo",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Choma maelezo kwenye picha",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Pakia na ufungue faili",
+		"vsui-uploadAndAddFileButton-addFileString": "Pakia na uongeze faili",
+		"vsui-openFile-addFileString": "Ongeza faili",
+		"vsui-openFile-authenticateFileString": "Thibitisha faili",
+		"vsui-downloadFile-actionMessage": "Pakua faili",
+		"vsui-saveChanges-saveChangesInImages": "Hifadhi mabadiliko katika picha",
+		"vsui-saveChanges-saveChangesInAnnotations": "Hifadhi mabadiliko katika vidokezo",
+		"vsui-saveChanges-burnAnnotationsInImages": "Choma maelezo kwenye picha",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Hifadhi mabadiliko katika hati ya PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Choma maelezo",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Hifadhi maelezo",
+		"vsui-documentPasswordDialog-title": "Nenosiri la hati",
+		"vsui-dialog-okButton": "sawa",
+		"vsui-dialog-cancelButton": "Ghairi",
+		"vsui-documentPasswordPanel-authenticateFileString": "Thibitisha faili",
+		"vsui-imageSelectionDialog-title": "Chagua picha",
+		"vsui-imageSelectionDialog-currentImageString": "Picha ya sasa",
+		"vsui-imageSelectionDialog-allImagesString": "Picha zote",
+		"vsui-imageSelectionDialog-customImagesString": "Desturi",
+		"vsui-documentLayoutSettingsDialog-title": "Mipangilio ya mpangilio wa hati",
+		"vsui-printImagesDialog-title": "Chapisha picha",
+		"vsui-printImagesPanel-imagePrintingString": "Picha inachapishwa",
+		"vsui-printImagesPanel-withAnnotationsLabel": "yenye maelezo",
+		"vsui-imageViewerSettingsDialog-title": "Mipangilio ya kitazamaji picha",
+		"vsui-thumbnailViewerSettingDialog-title": "Mipangilio ya kitazamaji cha kijipicha",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Onyesha Maelezo:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Zungusha picha na vidokezo",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Pembe ya mzunguko inapaswa kuwa zaidi ya sifuri.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Inazungusha picha na vidokezo",
+		"vsui-uploadImageFromUrlDialog-title": "Pakia picha kutoka kwa URL",
+		"vsui-exportFileSettingsDialog-title": "Mipangilio ya kuhamisha faili",
+		"vsdv-documentLayoutSettingsDialog-title": "Mipangilio ya mpangilio wa hati",
+		"vsdv-dialog-okButton": "sawa",
+		"vsdv-dialog-cancelButton": "Ghairi",
+		"vsdv-uploadImageFromUrlDialog-title": "Pakia picha kutoka kwa URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Washa kutendua/rudia",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Lemaza kutendua/rudia",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Washa hali ya 'Eraser kwa maelezo'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Lemaza 'Kifutio cha Dokezo'",
+		"vsui-documentNavigationTool-getActions": "Pata vitendo",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Mipangilio ya indentation ya aya",
+		"vsde-dialog-okButton": "sawa",
+		"vsde-dialog-closeButton": "Funga",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Mipangilio ya nafasi ya aya",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Mipangilio ya Pagination ya aya",
+		"vsde-documentTextPropertiesDialog-title": "Mali ya maandishi",
+		"vsde-documentParagraphPropertiesDialog-title": "Mali ya aya",
+		"vsde-documentInfoDialog-title": "Habari ya hati",
+		"vsde-documentEditorSettingsDialog-title": "Mipangilio ya Mhariri wa Hati",
+		"vsde-documentEditorViewSettingsDialog-title": "Mipangilio ya Mhariri wa Hati",
+		"vsde-documentPageSettingsDialog-title": "Mipangilio ya ukurasa wa hati",
+		"vsde-documentPageColumnsSettingsDialog-title": "Mipangilio ya nguzo za ukurasa"
+	}
+}

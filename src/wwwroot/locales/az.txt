@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Fayl"
+		},
+		"homeLabel": {
+			"text": "Ev"
+		},
+		"insertLabel": {
+			"text": "Daxil et"
+		},
+		"layoutLabel": {
+			"text": "Düzən"
+		},
+		"createDocxDocumentButton": {
+			"title": "Yeni DOCX sənədi yaradın"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Sənədi yükləyin və açın"
+		},
+		"documentInfoButton": {
+			"title": "Sənəd məlumatı..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Dəyişiklikləri mənbə faylında yadda saxla"
+		},
+		"downloadFileButton": {
+			"title": "Faylı yüklə"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX sənədini PDF-ə ixrac edin və PDF faylını yükləyin..."
+		},
+		"printDocumentButton": {
+			"title": "Sənədi çap edin..."
+		},
+		"closeDocumentButton": {
+			"title": "Sənədi bağlayın"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Sessiya önbelleğini təmizləyin"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Sənəd redaktoru parametrləri..."
+		},
+		"copyContentButton": {
+			"title": "Məzmunu kopyalayın"
+		},
+		"cutContentButton": {
+			"title": "Məzmunu kəsin"
+		},
+		"pasteContentButton": {
+			"title": "Məzmunu yapışdırın"
+		},
+		"pasteTextContentButton": {
+			"title": "Mətn məzmununu yapışdırın"
+		},
+		"increaseFontSizeButton": {
+			"title": "Şrift ölçüsünü artırın"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Şrift ölçüsünü azaldın"
+		},
+		"boldTextButton": {
+			"title": "Qalın mətn"
+		},
+		"italicTextButton": {
+			"title": "Kursiv mətn"
+		},
+		"underlineTextButton": {
+			"title": "Mətnin altını çəkin"
+		},
+		"strikethroughTextButton": {
+			"title": "Üzəri xəttli mətn"
+		},
+		"superscriptTextButton": {
+			"title": "Üstki skript mətni"
+		},
+		"subscriptTextButton": {
+			"title": "Aşağı indeks mətni"
+		},
+		"setTextColorButton": {
+			"title": "Mətn rəngini təyin edin"
+		},
+		"selectTextColorButton": {
+			"title": "Mətn rəngini seçin"
+		},
+		"setTextFillColorButton": {
+			"title": "Mətn doldurma rəngini təyin edin"
+		},
+		"selectTextFillColorButton": {
+			"title": "Mətn doldurma rəngini seçin"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Bütün formatları silin"
+		},
+		"textPropertiesButton": {
+			"title": "Mətn xüsusiyyətləri..."
+		},
+		"decreaseIndentButton": {
+			"title": "Girişi azaldın"
+		},
+		"increaseIndentButton": {
+			"title": "Girişi artırın"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Birinci sətir girinini azaldın"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Birinci sətir girinini artırın"
+		},
+		"bulletedListButton": {
+			"title": "Girişli siyahı"
+		},
+		"bulletedListStylesButton": {
+			"title": "Girişli siyahılar üçün üslublar"
+		},
+		"numberedListButton": {
+			"title": "Nömrəli siyahı"
+		},
+		"numberedListStylesButton": {
+			"title": "Nömrəli siyahılar üçün üslublar"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Çap olunmayan simvolları göstər"
+		},
+		"alignLeftButton": {
+			"title": "Sola düzün"
+		},
+		"alignCenterButton": {
+			"title": "Mərkəz"
+		},
+		"alignRightButton": {
+			"title": "Sağa düzün"
+		},
+		"alignBothButton": {
+			"title": "Hər ikisini hizalayın"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Abzasın doldurma rəngini təyin edin"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Abzasın doldurma rəngini seçin"
+		},
+		"stylePainterButton": {
+			"title": "Stil rəssamı"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Abzasın xüsusiyyətləri..."
+		},
+		"insertPageBreakButton": {
+			"title": "Səhifə sonunu daxil edin"
+		},
+		"createHeaderButton": {
+			"title": "Başlıq yaradın/redaktə edin"
+		},
+		"deleteHeaderButton": {
+			"title": "Başlığı silin"
+		},
+		"createFooterButton": {
+			"title": "Altbilgi yaradın/redaktə edin"
+		},
+		"deleteFooterButton": {
+			"title": "Altbilgini silin"
+		},
+		"changePageOrientationButton": {
+			"title": "Səhifə istiqamətini dəyişdirin"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Bölmə sonu əlavə edin (Növbəti səhifə)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Bölmə sonu əlavə edin (Davamlı)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Bölmə sonu əlavə edin (Cüt səhifə)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Bölmə sonu əlavə edin (Tək səhifə)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Sütun sonu əlavə edin"
+		},
+		"removeSectionBreakButton": {
+			"title": "Bölmə sonunu silin"
+		},
+		"pageSettingsButton": {
+			"title": "Sənəd səhifə parametrləri..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Səhifə sütun parametrləri..."
+		},
+		"goToFirstPageButton": {
+			"title": "Birinci səhifəyə keçin"
+		},
+		"goToPreviousPageButton": {
+			"title": "Əvvəlki səhifəyə keçin"
+		},
+		"gotoPageInput": {
+			"title": "Səhifə"
+		},
+		"goToNextPageButton": {
+			"title": "Növbəti səhifəyə keçin"
+		},
+		"goToLastPageButton": {
+			"title": "Son səhifəyə keçin"
+		},
+		"viewPropertiesButton": {
+			"title": "Parametrlərə baxın..."
+		},
+		"view_fitToPageButton": {
+			"title": "Səhifəyə uyğunlaşdırın"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Səhifə eninə uyğunlaşdırın"
+		},
+		"view_multiPagesButton": {
+			"title": "Birdən çox səhifə"
+		},
+		"view_onePageButton": {
+			"title": "Bir səhifə"
+		},
+		"zoomOutButton": {
+			"title": "Küçült"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Yaxınlaşdırma"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Sol:"
+			},
+			"rightIndentationLabel": {
+				"text": "Sağ:"
+			},
+			"specialIndentationLabel": {
+				"text": "Xüsusi:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Heç biri"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Birinci sətir"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Asılır"
+			},
+			"byLabel": {
+				"text": "Müvafiq:"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			},
+			"viewModeListLabel": {
+				"text": "Görünüş rejimi:"
+			},
+			"Vertical": {
+				"text": "Şaquli"
+			},
+			"Horizontal": {
+				"text": "Üfüqi"
+			},
+			"pagesInLineLabel": {
+				"text": "Sətir/sütundakı səhifələr:"
+			},
+			"pagePaddingLabel": {
+				"text": "Səhifə dolğusu (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Əvvəl:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Avtomatik"
+			},
+			"spacingAfterLabel": {
+				"text": "Sonra:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Avtomatik"
+			},
+			"lineSpacingLabel": {
+				"text": "Sətir aralığı:"
+			},
+			"Scale": {
+				"text": "Miqyas"
+			},
+			"Exact": {
+				"text": "Dəqiq"
+			},
+			"AtLeast": {
+				"text": "Ən azı"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Eyni üslublu abzaslar arasında boşluq əlavə etməyin"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Dul qadın nəzarəti"
+			},
+			"keepNextLabel": {
+				"text": "Növbəti saxlayın"
+			},
+			"keepLinesLabel": {
+				"text": "Sətirləri saxlayın"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Səhifə sonu əvvəl"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Şrift:"
+			},
+			"fontStyleLabel": {
+				"text": "Şrift tərzi:"
+			},
+			"Regular": {
+				"text": "Adi"
+			},
+			"Italic": {
+				"text": "Kursiv"
+			},
+			"Bold": {
+				"text": "Qalın"
+			},
+			"BoldItalic": {
+				"text": "Qalın kursiv"
+			},
+			"fontSizeLabel": {
+				"text": "Şrift ölçüsü:"
+			},
+			"fontColorLabel": {
+				"text": "Şrift rəngi:"
+			},
+			"underlineStyleLabel": {
+				"text": "Alt xəttli mətn:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Çıxarılan mətn:"
+			},
+			"verticalPositionLabel": {
+				"text": "Şaquli mövqe:"
+			},
+			"Baseline": {
+				"text": "Əsas xətt"
+			},
+			"Superscript": {
+				"text": "Üst indeks"
+			},
+			"Subscript": {
+				"text": "Alt indeks"
+			},
+			"smallCapsLabel": {
+				"text": "Kiçik hərflər"
+			},
+			"allCapsLabel": {
+				"text": "Bütün hərflər"
+			},
+			"scaleLabel": {
+				"text": "Ölçek:"
+			},
+			"spacingLabel": {
+				"text": "Arxalıq:"
+			},
+			"positionLabel": {
+				"text": "Mövqe:"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Çoxsəviyyəli siyahı:"
+			},
+			"alignmentLabel": {
+				"text": "Hüzurlaşdırma:"
+			},
+			"Left": {
+				"text": "Sol"
+			},
+			"Right": {
+				"text": "Sağ"
+			},
+			"Center": {
+				"text": "Mərkəz"
+			},
+			"Both": {
+				"text": "Hər ikisi"
+			},
+			"lineSpacingLabel": {
+				"text": "Sətir aralığı:"
+			},
+			"Single": {
+				"text": "Tək"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "İkiqat"
+			},
+			"Triple": {
+				"text": "Üçqat"
+			},
+			"Custom...": {
+				"text": "Xüsusi..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Abzaq sətir aralığı parametrləri..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Abzaq girinti parametrləri..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Abzaq səhifələmə parametrləri..."
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Başlıq:"
+			},
+			"subjectLabel": {
+				"text": "Mövzu:"
+			},
+			"creatorLabel": {
+				"text": "Yaradıcı:"
+			},
+			"descriptionLabel": {
+				"text": "Təsvir:"
+			},
+			"categoryLabel": {
+				"text": "Kateqoriya:"
+			},
+			"keywordsLabel": {
+				"text": "Açar sözlər:"
+			},
+			"createdLabel": {
+				"text": "Yaradılıb:"
+			},
+			"modifiedLabel": {
+				"text": "Dəyişdirilib:"
+			},
+			"printedLabel": {
+				"text": "Çap olunur:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Sonuncu dəfə dəyişdirildi:"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Mətn seçimi rəngi:"
+			},
+			"backgroundColorLabel": {
+				"text": "Fon rəngi:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Defolt bölmələr:"
+			},
+			"Centimeters": {
+				"text": "Santimetr"
+			},
+			"Millimeters": {
+				"text": "Millimetr"
+			},
+			"Inches": {
+				"text": "düym"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Görünməz masa sərhədlərini göstərin"
+			},
+			"asyncModeLabel": {
+				"text": "Async rejimi"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Bölmə başlandı:"
+			},
+			"NextPage": {
+				"text": "Yannayı"
+			},
+			"NextColumn": {
+				"text": "Esveçrə"
+			},
+			"Continuous": {
+				"text": "Davamlı"
+			},
+			"EvenPage": {
+				"text": "Hətta səhifə"
+			},
+			"OddPage": {
+				"text": "Tək səhifə"
+			},
+			"pageSizeLabel": {
+				"text": "Səhifə Ölçüsü:"
+			},
+			"pageOrientationLabel": {
+				"text": "Səhifə oriyentasiyası:"
+			},
+			"Portrait": {
+				"text": "Portret"
+			},
+			"Landscape": {
+				"text": "Mənzərə"
+			},
+			"pageMarginsLabel": {
+				"text": "Səhifə marjaları (sm):"
+			},
+			"leftLabel": {
+				"text": "Sol:"
+			},
+			"rightLabel": {
+				"text": "Sağ:"
+			},
+			"topLabel": {
+				"text": "Üst:"
+			},
+			"bottomLabel": {
+				"text": "Alt:"
+			},
+			"headerLabel": {
+				"text": "Başlıq:"
+			},
+			"footerLabel": {
+				"text": "Altbilgi:"
+			},
+			"gutterLabel": {
+				"text": "Gutter:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "İlk səhifə üçün fərqli başlıq istifadə edin"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Tək və cüt səhifələr üçün fərqli başlıq istifadə edin"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Sütun sayı:"
+			},
+			"lineBetweenLabel": {
+				"text": "Sətrlər arasında"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Eni və aralıq"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Bərabər sütun eni"
+			},
+			"columnNumberLabel": {
+				"text": "Sütun nömrəsi:"
+			},
+			"widthLabel": {
+				"text": "Eni:"
+			},
+			"spacingLabel": {
+				"text": "Arxalıq:"
+			},
+			"okButton": {
+				"value": "tamam"
+			},
+			"closeButton": {
+				"value": "Yaxın"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Xəta"
+		},
+		"closeButton": {
+			"text": "Yaxın"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Sənəd açılır...",
+		"vssde-numberFormat-custom": "Xüsusi",
+		"vssde-findTextPanel-textIsNotFound": "'{0}' mətni tapılmadı.",
+		"vssde-selectFunctionPanel-all": "Hamısı",
+		"vssde-createXlsxDocument": "Yeni XLSX sənədi yaradın",
+		"vssde-uploadXlsxFile": "XLSX faylını yükləyin",
+		"vssde-downloadXlsxFile": "XLSX faylını yükləyin",
+		"vssde-exportXlsxToPdf": "XLSX-i PDF-ə ixrac edin",
+		"vssde-fileSizeExceedsLimit": "Yüklənmiş faylın ölçüsü maksimum ölçüsü ({0} bayt) keçir.",
+		"vssde-error-noError": "Səhv yoxdur.",
+		"vssde-error-divisionByZero": "İstənilən nömrə (sıfır daxil olmaqla) və ya hər hansı bir səhv kodu sıfıra bölünür.",
+		"vssde-error-cellRefCannotBeEvaluated": "Hüceyrə istinadı qiymətləndirilə bilməz, çünki xana üçün dəyər alınmayıb və ya hesablanmayıb.",
+		"vssde-error-valueIsNotAvailable": "Təyin edilmiş dəyər mövcud deyil.",
+		"vssde-error-wrongName": "Görünür, ad istifadə olunub, lakin belə bir ad təyin olunmayıb.",
+		"vssde-error-twoAreasNotIntersecting": "İki sahənin kəsişməsi tələb olunur, lakin yoxdur.",
+		"vssde-error-notCorrectValue": "Funksiya üçün arqument uyğun tipə malikdir, lakin bu funksiyanın müəyyən edildiyi domendən kənarda olan dəyərə malikdir.",
+		"vssde-error-cannotEvaluateCellRef": "Hüceyrə istinadı qiymətləndirilə bilməz.",
+		"vssde-error-incompatibleType": "Uyğun olmayan tipli arqument funksiyaya ötürülür və ya uyğun olmayan tipli operand operatorla istifadə olunur.",
+		"vssde-error-unknownError": "Naməlum xəta.",
+		"vssde-error-externalError": "Xarici xəta.",
+		"vssde-uriOpen-question": "URL '{0}' açılsın?",
+		"vssde-uriOpen-wrongUri": "Bu saytın ünvanı etibarlı deyil: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Yeni iş kitabı yaratmaq istəyirsiniz?",
+		"vsde-documentIsOpening": "Sənəd açılır...",
+		"vsde-createDocxDocument": "Yeni DOCX sənədi yaradın",
+		"vsde-uploadDocumentFile": "Faylı yükləyin və açın",
+		"vsde-exportDocxDocumentToPdf": "DOCX sənədini PDF-ə ixrac edin",
+		"vsde-downloadFile": "Faylı yüklə",
+		"vsde-cacheIsNotCleared": "Keş təmizlənmir, çünki standart fayl veb xidməti (Vintasoft.Shared.WebServiceJS.defaultFileService) müəyyən edilməyib.",
+		"vsde-uriOpen-question": "URL '{0}' açılsın?",
+		"vsde-uriOpen-wrongUri": "Bu saytın ünvanı etibarlı deyil: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Faylı yükləyin və açın",
+		"vsdv-uploadAndAddFileButton-addFileString": "Fayl yükləyin və əlavə edin",
+		"vsui-textSearchPanel-pageLabel": "Səhifə",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Annotasiyaları yandırın",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Annotasiyaları yadda saxlayın",
+		"vsui-annotationListPanel-pageLabel": "Səhifə",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Annotasiya Xüsusiyyətləri",
+		"vsdv-openFile-addFileString": "Fayl əlavə edin",
+		"vsdv-openFile-authenticateFileString": "Faylı doğrulayın",
+		"vsdv-downloadFile-actionMessage": "Faylı yüklə",
+		"vsdv-saveChanges-saveChangesInImages": "Şəkillərdə dəyişiklikləri yadda saxlayın",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Annotasiyalarda dəyişiklikləri yadda saxlayın",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Şəkillərdə annotasiyaları yandırın",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Faylı yükləyin və açın",
+		"vsui-uploadAndAddFileButton-addFileString": "Fayl yükləyin və əlavə edin",
+		"vsui-openFile-addFileString": "Fayl əlavə edin",
+		"vsui-openFile-authenticateFileString": "Faylı doğrulayın",
+		"vsui-downloadFile-actionMessage": "Faylı yüklə",
+		"vsui-saveChanges-saveChangesInImages": "Şəkillərdə dəyişiklikləri yadda saxlayın",
+		"vsui-saveChanges-saveChangesInAnnotations": "Annotasiyalarda dəyişiklikləri yadda saxlayın",
+		"vsui-saveChanges-burnAnnotationsInImages": "Şəkillərdə annotasiyaları yandırın",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Dəyişiklikləri PDF sənədində qeyd edin",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Annotasiyaları yandırın",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Annotasiyaları yadda saxlayın",
+		"vsui-documentPasswordDialog-title": "Sənəd parolu",
+		"vsui-dialog-okButton": "tamam",
+		"vsui-dialog-cancelButton": "Ləğv et",
+		"vsui-documentPasswordPanel-authenticateFileString": "Faylı doğrulayın",
+		"vsui-imageSelectionDialog-title": "Şəkilləri seçin",
+		"vsui-imageSelectionDialog-currentImageString": "Cari şəkil",
+		"vsui-imageSelectionDialog-allImagesString": "Bütün şəkillər",
+		"vsui-imageSelectionDialog-customImagesString": "Xüsusi",
+		"vsui-documentLayoutSettingsDialog-title": "Sənəd tərtibatı parametrləri",
+		"vsui-printImagesDialog-title": "Şəkilləri çap edin",
+		"vsui-printImagesPanel-imagePrintingString": "Şəkil çap olunur",
+		"vsui-printImagesPanel-withAnnotationsLabel": "annotasiyalarla",
+		"vsui-imageViewerSettingsDialog-title": "Şəkillərə baxmaq parametrləri",
+		"vsui-thumbnailViewerSettingDialog-title": "Miniatür baxıcı parametrləri",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Annotasiyaları göstərin:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Annotasiyalarla şəkli fırladın",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Fırlanma bucağı sıfırdan çox olmalıdır.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Annotasiyalarla fırlanan şəkil",
+		"vsui-uploadImageFromUrlDialog-title": "URL-dən şəkil yükləyin",
+		"vsui-exportFileSettingsDialog-title": "Faylı ixrac etmək üçün parametrlər",
+		"vsdv-documentLayoutSettingsDialog-title": "Sənəd tərtibatı parametrləri",
+		"vsdv-dialog-okButton": "tamam",
+		"vsdv-dialog-cancelButton": "Ləğv et",
+		"vsdv-uploadImageFromUrlDialog-title": "URL-dən şəkil yükləyin",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Geri al/təkrar et",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Geri al/təkrar etməyi deaktiv edin",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "'Annotasiya silgisini' aktivləşdirin",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'Annotasiya silgisini' deaktiv edin",
+		"vsui-documentNavigationTool-getActions": "Tədbirlər alın",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Parça girinti parametrləri",
+		"vsde-dialog-okButton": "tamam",
+		"vsde-dialog-closeButton": "Yaxın",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Parça sətir aralığı parametrləri",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Parça səhifələmə parametrləri",
+		"vsde-documentTextPropertiesDialog-title": "Mətn xüsusiyyətləri",
+		"vsde-documentParagraphPropertiesDialog-title": "Parça xüsusiyyətləri",
+		"vsde-documentInfoDialog-title": "Sənəd məlumatı",
+		"vsde-documentEditorSettingsDialog-title": "Sənəd redaktoru parametrləri",
+		"vsde-documentEditorViewSettingsDialog-title": "Sənəd redaktoru görünüş parametrləri",
+		"vsde-documentPageSettingsDialog-title": "Sənəd səhifə parametrləri",
+		"vsde-documentPageColumnsSettingsDialog-title": "Səhifə sütun parametrləri"
+	}
+}

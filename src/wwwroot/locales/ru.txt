@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"homeLabel": {
+			"text": "Главная"
+		},
+		"insertLabel": {
+			"text": "Вставка"
+		},
+		"layoutLabel": {
+			"text": "Макет"
+		},
+		"createDocxDocumentButton": {
+			"title": "Создать новый документ DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Загрузить и открыть документ"
+		},
+		"documentInfoButton": {
+			"title": "Информация о документе..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Сохранить изменения в исходный файл"
+		},
+		"downloadFileButton": {
+			"title": "Скачать файл"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Экспортировать документ DOCX в PDF и скачать PDF-файл..."
+		},
+		"printDocumentButton": {
+			"title": "Печать документа..."
+		},
+		"closeDocumentButton": {
+			"title": "Закрыть документ"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Очистить кэш сеанса"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Настройки редактора документов..."
+		},
+		"copyContentButton": {
+			"title": "Скопировать содержимое"
+		},
+		"cutContentButton": {
+			"title": "Вырезать содержимое"
+		},
+		"pasteContentButton": {
+			"title": "Вставить содержимое"
+		},
+		"pasteTextContentButton": {
+			"title": "Вставить текстовое содержимое"
+		},
+		"increaseFontSizeButton": {
+			"title": "Увеличить размер шрифта"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Уменьшить размер шрифта"
+		},
+		"boldTextButton": {
+			"title": "Полужирный"
+		},
+		"italicTextButton": {
+			"title": "Курсив"
+		},
+		"underlineTextButton": {
+			"title": "Подчеркнутый"
+		},
+		"strikethroughTextButton": {
+			"title": "Перечеркнутый"
+		},
+		"superscriptTextButton": {
+			"title": "Надстрочный текст"
+		},
+		"subscriptTextButton": {
+			"title": "Подстрочный текст"
+		},
+		"setTextColorButton": {
+			"title": "Установить цвет текста"
+		},
+		"selectTextColorButton": {
+			"title": "Выбрать цвет текста"
+		},
+		"setTextFillColorButton": {
+			"title": "Установить цвет заливки текста"
+		},
+		"selectTextFillColorButton": {
+			"title": "Выбрать цвет заливки текста"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Очистить всё форматирование"
+		},
+		"textPropertiesButton": {
+			"title": "Свойства текста..."
+		},
+		"decreaseIndentButton": {
+			"title": "Уменьшить отступ"
+		},
+		"increaseIndentButton": {
+			"title": "Увеличить отступ"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Уменьшить отступ первой строки"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Увеличить отступ первой строки"
+		},
+		"bulletedListButton": {
+			"title": "Маркированный список"
+		},
+		"bulletedListStylesButton": {
+			"title": "Стили для маркированных списков"
+		},
+		"numberedListButton": {
+			"title": "Нумерованный список"
+		},
+		"numberedListStylesButton": {
+			"title": "Стили для нумерованных списков"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Показать непечатаемые символы"
+		},
+		"alignLeftButton": {
+			"title": "Выровнять по левому краю"
+		},
+		"alignCenterButton": {
+			"title": "Центр"
+		},
+		"alignRightButton": {
+			"title": "Выровнять по правому краю"
+		},
+		"alignBothButton": {
+			"title": "Выровнять по обеим сторонам"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Установить цвет заливки абзаца"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Выбрать цвет заливки абзаца"
+		},
+		"stylePainterButton": {
+			"title": "Формат по образцу"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Свойства абзаца..."
+		},
+		"insertPageBreakButton": {
+			"title": "Вставить разрыв страницы"
+		},
+		"createHeaderButton": {
+			"title": "Создать/редактировать верхний колонтитул"
+		},
+		"deleteHeaderButton": {
+			"title": "Удалить верхний колонтитул"
+		},
+		"createFooterButton": {
+			"title": "Создать/редактировать нижний колонтитул"
+		},
+		"deleteFooterButton": {
+			"title": "Удалить нижний колонтитул"
+		},
+		"changePageOrientationButton": {
+			"title": "Изменить ориентацию страницы"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Добавить разрыв раздела (следующая страница)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Добавить разрыв раздела (непрерывный)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Добавить разрыв раздела (четная страница)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Добавить разрыв раздела (нечетная страница)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Добавить разрыв столбца"
+		},
+		"removeSectionBreakButton": {
+			"title": "Удалить разрыв раздела"
+		},
+		"pageSettingsButton": {
+			"title": "Параметры страницы документа..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Параметры столбцов страницы..."
+		},
+		"goToFirstPageButton": {
+			"title": "Перейти на первую страницу"
+		},
+		"goToPreviousPageButton": {
+			"title": "Перейти на предыдущую страницу"
+		},
+		"gotoPageInput": {
+			"title": "Страница"
+		},
+		"goToNextPageButton": {
+			"title": "Перейти на следующую страницу"
+		},
+		"goToLastPageButton": {
+			"title": "Перейти на последнюю страницу"
+		},
+		"viewPropertiesButton": {
+			"title": "Настройки представления..."
+		},
+		"view_fitToPageButton": {
+			"title": "По размеру страницы"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "По ширине страницы"
+		},
+		"view_multiPagesButton": {
+			"title": "Несколько страниц"
+		},
+		"view_onePageButton": {
+			"title": "Одна страница"
+		},
+		"zoomOutButton": {
+			"title": "Уменьшить масштаб"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Увеличить масштаб"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Слева:"
+			},
+			"rightIndentationLabel": {
+				"text": "Справа:"
+			},
+			"specialIndentationLabel": {
+				"text": "Специальный:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Нет"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Первая строка"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Выступ"
+			},
+			"byLabel": {
+				"text": "По:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			},
+			"viewModeListLabel": {
+				"text": "Режим просмотра:"
+			},
+			"Vertical": {
+				"text": "Вертикальное"
+			},
+			"Horizontal": {
+				"text": "Горизонтальное"
+			},
+			"pagesInLineLabel": {
+				"text": "Страниц в строке/колонке:"
+			},
+			"pagePaddingLabel": {
+				"text": "Отступ страницы (пкс):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "До:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Авто"
+			},
+			"spacingAfterLabel": {
+				"text": "После:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Авто"
+			},
+			"lineSpacingLabel": {
+				"text": "Межстрочный интервал: "
+			},
+			"Scale": {
+				"text": "Масштаб"
+			},
+			"Exact": {
+				"text": "Точный"
+			},
+			"AtLeast": {
+				"text": "По крайней мере"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Не добавлять отступ между абзацами одного стиля"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Управление вставкой"
+			},
+			"keepNextLabel": {
+				"text": "Сохранить следующий"
+			},
+			"keepLinesLabel": {
+				"text": "Сохранить строки"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Разрыв страницы перед"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Шрифт:"
+			},
+			"fontStyleLabel": {
+				"text": "Начертание шрифта:"
+			},
+			"Regular": {
+				"text": "Обычный"
+			},
+			"Italic": {
+				"text": "Курсив"
+			},
+			"Bold": {
+				"text": "Жирный"
+			},
+			"BoldItalic": {
+				"text": "Полужирный, курсив"
+			},
+			"fontSizeLabel": {
+				"text": "Размер шрифта:"
+			},
+			"fontColorLabel": {
+				"text": "Цвет шрифта:"
+			},
+			"underlineStyleLabel": {
+				"text": "Подчёркнутый текст:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Зачёркнутый текст:"
+			},
+			"verticalPositionLabel": {
+				"text": "Вертикальное положение:"
+			},
+			"Baseline": {
+				"text": "Базовая линия"
+			},
+			"Superscript": {
+				"text": "Надстрочный индекс"
+			},
+			"Subscript": {
+				"text": "Подстрочный индекс"
+			},
+			"smallCapsLabel": {
+				"text": "Капитель"
+			},
+			"allCapsLabel": {
+				"text": "Все заглавные буквы"
+			},
+			"scaleLabel": {
+				"text": "Масштаб миниатюры:"
+			},
+			"spacingLabel": {
+				"text": "Интервал:"
+			},
+			"positionLabel": {
+				"text": "Положение:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Многоуровневый список:"
+			},
+			"alignmentLabel": {
+				"text": "Выравнивание:"
+			},
+			"Left": {
+				"text": "Слева"
+			},
+			"Right": {
+				"text": "Справа"
+			},
+			"Center": {
+				"text": "Центр"
+			},
+			"Both": {
+				"text": "Оба"
+			},
+			"lineSpacingLabel": {
+				"text": "Межстрочный интервал: "
+			},
+			"Single": {
+				"text": "Одинарный"
+			},
+			"1.15": {
+				"text": "1,15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Двойной"
+			},
+			"Triple": {
+				"text": "Тройной"
+			},
+			"Custom...": {
+				"text": "Пользовательский..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Настройки межстрочного интервала абзаца..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Настройки отступа абзаца..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Настройки пагинации абзаца..."
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Заголовок:"
+			},
+			"subjectLabel": {
+				"text": "Тема:"
+			},
+			"creatorLabel": {
+				"text": "Создатель:"
+			},
+			"descriptionLabel": {
+				"text": "Описание:"
+			},
+			"categoryLabel": {
+				"text": "Категория:"
+			},
+			"keywordsLabel": {
+				"text": "Ключевые слова:"
+			},
+			"createdLabel": {
+				"text": "Создано:"
+			},
+			"modifiedLabel": {
+				"text": "Изменено:"
+			},
+			"printedLabel": {
+				"text": "Напечатано:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Последнее изменение:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Цвет выделения текста:"
+			},
+			"backgroundColorLabel": {
+				"text": "Цвет фона:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Единицы по умолчанию:"
+			},
+			"Centimeters": {
+				"text": "Сантиметры"
+			},
+			"Millimeters": {
+				"text": "Миллиметры"
+			},
+			"Inches": {
+				"text": "Дюймы"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Показать невидимые границы таблицы"
+			},
+			"asyncModeLabel": {
+				"text": "Асинхронный режим"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Начало раздела:"
+			},
+			"NextPage": {
+				"text": "Следующая страница"
+			},
+			"NextColumn": {
+				"text": "Следующая колонка"
+			},
+			"Continuous": {
+				"text": "Непрерывный"
+			},
+			"EvenPage": {
+				"text": "Четная страница"
+			},
+			"OddPage": {
+				"text": "Странная страница"
+			},
+			"pageSizeLabel": {
+				"text": "Размер страницы:"
+			},
+			"pageOrientationLabel": {
+				"text": "Ориентация страницы:"
+			},
+			"Portrait": {
+				"text": "Портрет"
+			},
+			"Landscape": {
+				"text": "Пейзаж"
+			},
+			"pageMarginsLabel": {
+				"text": "Поля страницы (см):"
+			},
+			"leftLabel": {
+				"text": "Слева:"
+			},
+			"rightLabel": {
+				"text": "Правильно:"
+			},
+			"topLabel": {
+				"text": "Верх:"
+			},
+			"bottomLabel": {
+				"text": "Внизу:"
+			},
+			"headerLabel": {
+				"text": "Заголовок:"
+			},
+			"footerLabel": {
+				"text": "Нижний колонтитул:"
+			},
+			"gutterLabel": {
+				"text": "Переплет:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Используйте другой заголовок для первой страницы"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Используйте разные заголовки для нечетных и четных страниц."
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Количество столбцов:"
+			},
+			"lineBetweenLabel": {
+				"text": "Линия между"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Ширина и расстояние"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Одинаковая ширина столбца"
+			},
+			"columnNumberLabel": {
+				"text": "Номер столбца:"
+			},
+			"widthLabel": {
+				"text": "Ширина:"
+			},
+			"spacingLabel": {
+				"text": "Интервал:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Закрыть"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Ошибка"
+		},
+		"closeButton": {
+			"text": "Закрыть"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Документ открывается...",
+		"vssde-numberFormat-custom": "Пользовательский",
+		"vssde-findTextPanel-textIsNotFound": "Текст '{0}' не найден.",
+		"vssde-selectFunctionPanel-all": "Все",
+		"vssde-createXlsxDocument": "Создать новый документ XLSX",
+		"vssde-uploadXlsxFile": "Загрузить XLSX-файл",
+		"vssde-downloadXlsxFile": "Скачать XLSX файл",
+		"vssde-exportXlsxToPdf": "Экспорт XLSX в PDF",
+		"vssde-fileSizeExceedsLimit": "Размер загруженного файла превышает максимальный размер ({0} байт).",
+		"vssde-error-noError": "Нет ошибки.",
+		"vssde-error-divisionByZero": "Любое число (включая ноль) или любой код ошибки делится на ноль.",
+		"vssde-error-cellRefCannotBeEvaluated": "Ссылку на ячейку невозможно оценить, поскольку значение ячейки не было получено или вычислено.",
+		"vssde-error-valueIsNotAvailable": "Указанное значение недоступно.",
+		"vssde-error-wrongName": "Похоже, имя используется, но оно не определено.",
+		"vssde-error-twoAreasNotIntersecting": "Две области должны пересекаться, но этого не происходит.",
+		"vssde-error-notCorrectValue": "Аргумент функции имеет совместимый тип, но значение находится за пределами домена, в котором определена эта функция.",
+		"vssde-error-cannotEvaluateCellRef": "Ссылку на ячейку невозможно оценить.",
+		"vssde-error-incompatibleType": "В функцию передается аргумент несовместимого типа или с оператором используется операнд несовместимого типа.",
+		"vssde-error-unknownError": "Неизвестная ошибка.",
+		"vssde-error-externalError": "Внешняя ошибка.",
+		"vssde-uriOpen-question": "Открыть URL-адрес '{0}'?",
+		"vssde-uriOpen-wrongUri": "Адрес этого сайта недействителен: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Вы хотите создать новую книгу?",
+		"vsde-documentIsOpening": "Документ открывается...",
+		"vsde-createDocxDocument": "Создать новый документ DOCX",
+		"vsde-uploadDocumentFile": "Загрузить и открыть файл",
+		"vsde-exportDocxDocumentToPdf": "Экспорт документа DOCX в PDF",
+		"vsde-downloadFile": "Скачать файл",
+		"vsde-cacheIsNotCleared": "Кэш не очистился, потому что веб-служба файлов по умолчанию (Vintasoft.Shared.WebServiceJS.defaultFileService) не определена.",
+		"vsde-uriOpen-question": "Открыть URL-адрес '{0}'?",
+		"vsde-uriOpen-wrongUri": "Адрес этого сайта недействителен: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Загрузить и открыть файл",
+		"vsdv-uploadAndAddFileButton-addFileString": "Загрузить и добавить файл",
+		"vsui-textSearchPanel-pageLabel": "Страница",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Прожечь аннотации",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Сохранить аннотации",
+		"vsui-annotationListPanel-pageLabel": "Страница",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Свойства аннотации",
+		"vsdv-openFile-addFileString": "Добавить файл",
+		"vsdv-openFile-authenticateFileString": "Аутентификация файла",
+		"vsdv-downloadFile-actionMessage": "Скачать файл",
+		"vsdv-saveChanges-saveChangesInImages": "Сохранить изменения в изображениях",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Сохранить изменения в аннотациях",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Прожечь аннотации на изображениях",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Загрузить и открыть файл",
+		"vsui-uploadAndAddFileButton-addFileString": "Загрузить и добавить файл",
+		"vsui-openFile-addFileString": "Добавить файл",
+		"vsui-openFile-authenticateFileString": "Аутентификация файла",
+		"vsui-downloadFile-actionMessage": "Скачать файл",
+		"vsui-saveChanges-saveChangesInImages": "Сохранить изменения в изображениях",
+		"vsui-saveChanges-saveChangesInAnnotations": "Сохранить изменения в аннотациях",
+		"vsui-saveChanges-burnAnnotationsInImages": "Прожечь аннотации на изображениях",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Сохранить изменения в PDF-документе",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Прожечь аннотации",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Сохранить аннотации",
+		"vsui-documentPasswordDialog-title": "Пароль к документу",
+		"vsui-dialog-okButton": "ОК",
+		"vsui-dialog-cancelButton": "Отмена",
+		"vsui-documentPasswordPanel-authenticateFileString": "Аутентификация файла",
+		"vsui-imageSelectionDialog-title": "Выберите изображения",
+		"vsui-imageSelectionDialog-currentImageString": "Текущее изображение",
+		"vsui-imageSelectionDialog-allImagesString": "Все изображения",
+		"vsui-imageSelectionDialog-customImagesString": "Пользовательский",
+		"vsui-documentLayoutSettingsDialog-title": "Настройки макета документа",
+		"vsui-printImagesDialog-title": "Распечатать изображения",
+		"vsui-printImagesPanel-imagePrintingString": "Изображение печатается",
+		"vsui-printImagesPanel-withAnnotationsLabel": "с аннотациями",
+		"vsui-imageViewerSettingsDialog-title": "Настройки просмотрщика изображений",
+		"vsui-thumbnailViewerSettingDialog-title": "Настройки просмотрщика миниатюр",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Отобразить аннотации на миниатюрах:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Повернуть изображение с аннотациями",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Угол поворота должен быть не равен 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Выполняется поворот изображения с аннотациями",
+		"vsui-uploadImageFromUrlDialog-title": "Загрузить изображение с URL",
+		"vsui-exportFileSettingsDialog-title": "Настройки для экспорта файла",
+		"vsdv-documentLayoutSettingsDialog-title": "Настройки макета документа",
+		"vsdv-dialog-okButton": "ОК",
+		"vsdv-dialog-cancelButton": "Отмена",
+		"vsdv-uploadImageFromUrlDialog-title": "Загрузить изображение с URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Включить ведение истории изменений",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Отключить ведение истории изменений",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Включить 'Ластик аннотаций'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Отключить 'Ластик аннотаций'",
+		"vsui-documentNavigationTool-getActions": "Получить действия",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Настройки отступа абзаца",
+		"vsde-dialog-okButton": "ОК",
+		"vsde-dialog-closeButton": "Закрыть",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Настройки межстрочного интервала в абзаце",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Настройки пагинации абзацев",
+		"vsde-documentTextPropertiesDialog-title": "Текстовые свойства",
+		"vsde-documentParagraphPropertiesDialog-title": "Свойства абзаца",
+		"vsde-documentInfoDialog-title": "Информация о документе",
+		"vsde-documentEditorSettingsDialog-title": "Настройки редактора документов",
+		"vsde-documentEditorViewSettingsDialog-title": "Настройки просмотра редактора документов",
+		"vsde-documentPageSettingsDialog-title": "Настройки страницы документа",
+		"vsde-documentPageColumnsSettingsDialog-title": "Настройки столбцов страницы"
+	}
+}

@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "File"
+		},
+		"homeLabel": {
+			"text": "Home"
+		},
+		"insertLabel": {
+			"text": "Insert"
+		},
+		"layoutLabel": {
+			"text": "Layout"
+		},
+		"createDocxDocumentButton": {
+			"title": "Create new DOCX document"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Upload and open document"
+		},
+		"documentInfoButton": {
+			"title": "Document information..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Save changes to the source file"
+		},
+		"downloadFileButton": {
+			"title": "Download file"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Export DOCX document to PDF and download PDF file..."
+		},
+		"printDocumentButton": {
+			"title": "Print document..."
+		},
+		"closeDocumentButton": {
+			"title": "Close document"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Clear session cache"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Document editor settings..."
+		},
+		"copyContentButton": {
+			"title": "Copy content"
+		},
+		"cutContentButton": {
+			"title": "Cut content"
+		},
+		"pasteContentButton": {
+			"title": "Paste content"
+		},
+		"pasteTextContentButton": {
+			"title": "Paste text content"
+		},
+		"increaseFontSizeButton": {
+			"title": "Increase font size"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Decrease font size"
+		},
+		"boldTextButton": {
+			"title": "Bold text"
+		},
+		"italicTextButton": {
+			"title": "Italic text"
+		},
+		"underlineTextButton": {
+			"title": "Underline text"
+		},
+		"strikethroughTextButton": {
+			"title": "Strikethrough text"
+		},
+		"superscriptTextButton": {
+			"title": "Superscript text"
+		},
+		"subscriptTextButton": {
+			"title": "Subscript text"
+		},
+		"setTextColorButton": {
+			"title": "Set the text color"
+		},
+		"selectTextColorButton": {
+			"title": "Select the text color"
+		},
+		"setTextFillColorButton": {
+			"title": "Set the text fill color"
+		},
+		"selectTextFillColorButton": {
+			"title": "Select the text fill color"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Clear all formattings"
+		},
+		"textPropertiesButton": {
+			"title": "Text properties..."
+		},
+		"decreaseIndentButton": {
+			"title": "Decrease indent"
+		},
+		"increaseIndentButton": {
+			"title": "Increase indent"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Decrease first line indent"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Increase first line indent"
+		},
+		"bulletedListButton": {
+			"title": "Bulleted list"
+		},
+		"bulletedListStylesButton": {
+			"title": "Styles for bulleted lists"
+		},
+		"numberedListButton": {
+			"title": "Numbered list"
+		},
+		"numberedListStylesButton": {
+			"title": "Styles for numbered lists"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Show nonprintable characters"
+		},
+		"alignLeftButton": {
+			"title": "Align left"
+		},
+		"alignCenterButton": {
+			"title": "Center"
+		},
+		"alignRightButton": {
+			"title": "Align right"
+		},
+		"alignBothButton": {
+			"title": "Align both"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Set the paragraph fill color"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Select the paragraph fill color"
+		},
+		"stylePainterButton": {
+			"title": "Style Painter"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Paragraph properties..."
+		},
+		"insertPageBreakButton": {
+			"title": "Insert page break"
+		},
+		"createHeaderButton": {
+			"title": "Create/edit header"
+		},
+		"deleteHeaderButton": {
+			"title": "Delete header"
+		},
+		"createFooterButton": {
+			"title": "Create/edit footer"
+		},
+		"deleteFooterButton": {
+			"title": "Delete footer"
+		},
+		"changePageOrientationButton": {
+			"title": "Change page orientation"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Add section break (Next page)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Add section break (Continuous)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Add section break (Even page)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Add section break (Odd page)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Add column break"
+		},
+		"removeSectionBreakButton": {
+			"title": "Remove section break"
+		},
+		"pageSettingsButton": {
+			"title": "Document page settings..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Page columns settings..."
+		},
+		"goToFirstPageButton": {
+			"title": "Go to the first page"
+		},
+		"goToPreviousPageButton": {
+			"title": "Go to the previous page"
+		},
+		"gotoPageInput": {
+			"title": "Page"
+		},
+		"goToNextPageButton": {
+			"title": "Go to the next page"
+		},
+		"goToLastPageButton": {
+			"title": "Go to the last page"
+		},
+		"viewPropertiesButton": {
+			"title": "View settings..."
+		},
+		"view_fitToPageButton": {
+			"title": "Fit to the page"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Fit to the page width"
+		},
+		"view_multiPagesButton": {
+			"title": "Multiple pages"
+		},
+		"view_onePageButton": {
+			"title": "One page"
+		},
+		"zoomOutButton": {
+			"title": "Zoom out"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Zoom in"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Left: "
+			},
+			"rightIndentationLabel": {
+				"text": "Right: "
+			},
+			"specialIndentationLabel": {
+				"text": "Special:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "None"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "First Line"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Hanging"
+			},
+			"byLabel": {
+				"text": "By: "
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			},
+			"viewModeListLabel": {
+				"text": "View mode: "
+			},
+			"Vertical": {
+				"text": "Vertical"
+			},
+			"Horizontal": {
+				"text": "Horizontal"
+			},
+			"pagesInLineLabel": {
+				"text": "Pages in line/column: "
+			},
+			"pagePaddingLabel": {
+				"text": "Page padding (px): "
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Before: "
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Auto"
+			},
+			"spacingAfterLabel": {
+				"text": "After: "
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Auto"
+			},
+			"lineSpacingLabel": {
+				"text": "Line spacing: "
+			},
+			"Scale": {
+				"text": "Scale"
+			},
+			"Exact": {
+				"text": "Exact"
+			},
+			"AtLeast": {
+				"text": "AtLeast"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Do not add space between paragraphs of the same style"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Widow control"
+			},
+			"keepNextLabel": {
+				"text": "Keep next"
+			},
+			"keepLinesLabel": {
+				"text": "Keep lines"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Page break before"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Font:"
+			},
+			"fontStyleLabel": {
+				"text": "Font Style:"
+			},
+			"Regular": {
+				"text": "Regular"
+			},
+			"Italic": {
+				"text": "Italic"
+			},
+			"Bold": {
+				"text": "Bold"
+			},
+			"BoldItalic": {
+				"text": "Bold Italic"
+			},
+			"fontSizeLabel": {
+				"text": "Font Size:"
+			},
+			"fontColorLabel": {
+				"text": "Font Color:"
+			},
+			"underlineStyleLabel": {
+				"text": "Underline Style:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Strikeout Type:"
+			},
+			"verticalPositionLabel": {
+				"text": "Vertical Position:"
+			},
+			"Baseline": {
+				"text": "Baseline"
+			},
+			"Superscript": {
+				"text": "Superscript"
+			},
+			"Subscript": {
+				"text": "Subscript"
+			},
+			"smallCapsLabel": {
+				"text": "Small caps"
+			},
+			"allCapsLabel": {
+				"text": "All caps"
+			},
+			"scaleLabel": {
+				"text": "Scale:"
+			},
+			"spacingLabel": {
+				"text": "Spacing:"
+			},
+			"positionLabel": {
+				"text": "Position:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Multi-level list: "
+			},
+			"alignmentLabel": {
+				"text": "Alignment: "
+			},
+			"Left": {
+				"text": "Left"
+			},
+			"Right": {
+				"text": "Right"
+			},
+			"Center": {
+				"text": "Center"
+			},
+			"Both": {
+				"text": "Both"
+			},
+			"lineSpacingLabel": {
+				"text": "Line spacing: "
+			},
+			"Single": {
+				"text": "Single"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Double"
+			},
+			"Triple": {
+				"text": "Triple"
+			},
+			"Custom...": {
+				"text": "Custom..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Paragraph line spacing settings..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Paragraph indentation settings..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Paragraph pagination settings..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Title: "
+			},
+			"subjectLabel": {
+				"text": "Subject: "
+			},
+			"creatorLabel": {
+				"text": "Creator: "
+			},
+			"descriptionLabel": {
+				"text": "Description: "
+			},
+			"categoryLabel": {
+				"text": "Category: "
+			},
+			"keywordsLabel": {
+				"text": "Keywords: "
+			},
+			"createdLabel": {
+				"text": "Created: "
+			},
+			"modifiedLabel": {
+				"text": "Modified: "
+			},
+			"printedLabel": {
+				"text": "Printed: "
+			},
+			"lastModifiedByLabel": {
+				"text": "Last modified by: "
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Text selection color:"
+			},
+			"backgroundColorLabel": {
+				"text": "Background color:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Default units:"
+			},
+			"Centimeters": {
+				"text": "Centimeters"
+			},
+			"Millimeters": {
+				"text": "Millimeters"
+			},
+			"Inches": {
+				"text": "Inches"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Show invisible table borders"
+			},
+			"asyncModeLabel": {
+				"text": "Async mode"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Section start:"
+			},
+			"NextPage": {
+				"text": "NextPage"
+			},
+			"NextColumn": {
+				"text": "NextColumn"
+			},
+			"Continuous": {
+				"text": "Continuous"
+			},
+			"EvenPage": {
+				"text": "EvenPage"
+			},
+			"OddPage": {
+				"text": "OddPage"
+			},
+			"pageSizeLabel": {
+				"text": "Page size:"
+			},
+			"pageOrientationLabel": {
+				"text": "Page orientation:"
+			},
+			"Portrait": {
+				"text": "Portrait"
+			},
+			"Landscape": {
+				"text": "Landscape"
+			},
+			"pageMarginsLabel": {
+				"text": "Page margins (cm):"
+			},
+			"leftLabel": {
+				"text": "Left:"
+			},
+			"rightLabel": {
+				"text": "Right:"
+			},
+			"topLabel": {
+				"text": "Top:"
+			},
+			"bottomLabel": {
+				"text": "Bottom:"
+			},
+			"headerLabel": {
+				"text": "Header:"
+			},
+			"footerLabel": {
+				"text": "Footer:"
+			},
+			"gutterLabel": {
+				"text": "Gutter:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Use different headline for first page"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Use different headline for odd and even pages"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Column count:"
+			},
+			"lineBetweenLabel": {
+				"text": "Line between"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Width and spacing"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Equal column width"
+			},
+			"columnNumberLabel": {
+				"text": "Column number:"
+			},
+			"widthLabel": {
+				"text": "Width:"
+			},
+			"spacingLabel": {
+				"text": "Spacing:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Close"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Error"
+		},
+		"closeButton": {
+			"text": "Close"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Document is opening...",
+		"vssde-numberFormat-custom": "Custom",
+		"vssde-findTextPanel-textIsNotFound": "Text '{0}' is not found.",
+		"vssde-selectFunctionPanel-all": "All",
+		"vssde-createXlsxDocument": "Create new XLSX document",
+		"vssde-uploadXlsxFile": "Upload XLSX file",
+		"vssde-downloadXlsxFile": "Download XLSX file",
+		"vssde-exportXlsxToPdf": "Export XLSX to PDF",
+		"vssde-fileSizeExceedsLimit": "The size of uploaded file exceeds the maximum size ({0} bytes).",
+		"vssde-error-noError": "No error.",
+		"vssde-error-divisionByZero": "Any number (including zero) or any error code is divided by zero.",
+		"vssde-error-cellRefCannotBeEvaluated": "A cell reference cannot be evaluated because the value for the cell has not been retrieved or calculated.",
+		"vssde-error-valueIsNotAvailable": "A designated value is not available.",
+		"vssde-error-wrongName": "Looks like a name is used but no such name has been defined.",
+		"vssde-error-twoAreasNotIntersecting": "Two areas are required to intersect but do not.",
+		"vssde-error-notCorrectValue": "An argument to a function has a compatible type, but has a value that is outside of the domain over which that function is defined.",
+		"vssde-error-cannotEvaluateCellRef": "A cell reference cannot be evaluated.",
+		"vssde-error-incompatibleType": "An incompatible type argument is passed to a function, or an incompatible type operand is used with an operator.",
+		"vssde-error-unknownError": "Unknown error.",
+		"vssde-error-externalError": "External error.",
+		"vssde-uriOpen-question": "Open URL '{0}' ?",
+		"vssde-uriOpen-wrongUri": "The address of this site is not valid: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Do you want to create a new workbook?",
+		"vsde-documentIsOpening": "Document is opening...",
+		"vsde-createDocxDocument": "Create new DOCX document",
+		"vsde-uploadDocumentFile": "Upload and open file",
+		"vsde-exportDocxDocumentToPdf": "Export DOCX document to PDF",
+		"vsde-downloadFile": "Download file",
+		"vsde-cacheIsNotCleared": "Cache is not cleared because default file service (Vintasoft.Shared.WebServiceJS.defaultFileService) is not defined.",
+		"vsde-uriOpen-question": "Open URL '{0}' ?",
+		"vsde-uriOpen-wrongUri": "The address of this site is not valid: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Upload and open file",
+		"vsdv-uploadAndAddFileButton-addFileString": "Upload and add file",
+		"vsui-textSearchPanel-pageLabel": "Page",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Burn annotations",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Save annotations",
+		"vsui-annotationListPanel-pageLabel": "Page",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Annotation Properties",
+		"vsdv-openFile-addFileString": "Add file",
+		"vsdv-openFile-authenticateFileString": "Authenticate file",
+		"vsdv-downloadFile-actionMessage": "Download file",
+		"vsdv-saveChanges-saveChangesInImages": "Save changes in images",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Save changes in annotations",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Burn annotations on images",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Upload and open file",
+		"vsui-uploadAndAddFileButton-addFileString": "Upload and add file",
+		"vsui-openFile-addFileString": "Add file",
+		"vsui-openFile-authenticateFileString": "Authenticate file",
+		"vsui-downloadFile-actionMessage": "Download file",
+		"vsui-saveChanges-saveChangesInImages": "Save changes in images",
+		"vsui-saveChanges-saveChangesInAnnotations": "Save changes in annotations",
+		"vsui-saveChanges-burnAnnotationsInImages": "Burn annotations on images",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Save changes in PDF document",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Burn annotations",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Save annotations",
+		"vsui-documentPasswordDialog-title": "Document password",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Cancel",
+		"vsui-documentPasswordPanel-authenticateFileString": "Authenticate file",
+		"vsui-imageSelectionDialog-title": "Select images",
+		"vsui-imageSelectionDialog-currentImageString": "Current image",
+		"vsui-imageSelectionDialog-allImagesString": "All images",
+		"vsui-imageSelectionDialog-customImagesString": "Custom",
+		"vsui-documentLayoutSettingsDialog-title": "Document layout settings",
+		"vsui-printImagesDialog-title": "Print images",
+		"vsui-printImagesPanel-imagePrintingString": "Image is printing",
+		"vsui-printImagesPanel-withAnnotationsLabel": "with annotations",
+		"vsui-imageViewerSettingsDialog-title": "Image viewer settings",
+		"vsui-thumbnailViewerSettingDialog-title": "Thumbnail viewer settings",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Show Annotations:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Rotate image with annotations",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Rotation angle should be more than zero.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Rotating image with annotations",
+		"vsui-uploadImageFromUrlDialog-title": "Upload image from URL",
+		"vsui-exportFileSettingsDialog-title": "Export file settings",
+		"vsdv-documentLayoutSettingsDialog-title": "Document layout settings",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Cancel",
+		"vsdv-uploadImageFromUrlDialog-title": "Upload image from URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Enable undo/redo",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Disable undo/redo",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Enable annotation eraser",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Disable annotation eraser",
+		"vsui-documentNavigationTool-getActions": "Get actions",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Paragraph indentation settings",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Close",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Paragraph line spacing settings",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Paragraph pagination settings",
+		"vsde-documentTextPropertiesDialog-title": "Text properties",
+		"vsde-documentParagraphPropertiesDialog-title": "Paragraph properties",
+		"vsde-documentInfoDialog-title": "Document information",
+		"vsde-documentEditorSettingsDialog-title": "Document editor settings",
+		"vsde-documentEditorViewSettingsDialog-title": "Document editor view settings",
+		"vsde-documentPageSettingsDialog-title": "Document page settings",
+		"vsde-documentPageColumnsSettingsDialog-title": "Page columns settings"
+	}
+}

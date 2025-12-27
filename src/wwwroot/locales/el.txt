@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Αρχείο"
+		},
+		"homeLabel": {
+			"text": "Κύρια"
+		},
+		"insertLabel": {
+			"text": "Εισαγωγή"
+		},
+		"layoutLabel": {
+			"text": "Διάταξη"
+		},
+		"createDocxDocumentButton": {
+			"title": "Δημιουργία νέου εγγράφου DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Μεταφόρτωση και άνοιγμα εγγράφου"
+		},
+		"documentInfoButton": {
+			"title": "Πληροφορίες εγγράφου..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Αποθήκευση αλλαγών στο αρχείο προέλευσης"
+		},
+		"downloadFileButton": {
+			"title": "Λήψη αρχείου"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Εξαγωγή εγγράφου DOCX σε PDF και λήψη αρχείου PDF..."
+		},
+		"printDocumentButton": {
+			"title": "Εκτύπωση εγγράφου..."
+		},
+		"closeDocumentButton": {
+			"title": "Κλείσιμο εγγράφου"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Εκκαθάριση προσωρινής μνήμης περιόδου λειτουργίας"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Ρυθμίσεις προγράμματος επεξεργασίας εγγράφων..."
+		},
+		"copyContentButton": {
+			"title": "Αντιγραφή περιεχομένου"
+		},
+		"cutContentButton": {
+			"title": "Αποκοπή περιεχομένου"
+		},
+		"pasteContentButton": {
+			"title": "Περιεχόμενο επικόλλησης"
+		},
+		"pasteTextContentButton": {
+			"title": "Επικόλληση περιεχομένου κειμένου"
+		},
+		"increaseFontSizeButton": {
+			"title": "Αύξηση μεγέθους γραμματοσειράς"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Μείωση μεγέθους γραμματοσειράς"
+		},
+		"boldTextButton": {
+			"title": "Έντονη"
+		},
+		"italicTextButton": {
+			"title": "Πλάγια"
+		},
+		"underlineTextButton": {
+			"title": "Υπογραμμισμένο"
+		},
+		"strikethroughTextButton": {
+			"title": "Διασταυρώθηκε"
+		},
+		"superscriptTextButton": {
+			"title": "Κείμενο εκθέτη"
+		},
+		"subscriptTextButton": {
+			"title": "Κείμενο υπογράμμισης"
+		},
+		"setTextColorButton": {
+			"title": "Ορισμός χρώματος κειμένου"
+		},
+		"selectTextColorButton": {
+			"title": "Επιλογή χρώματος κειμένου"
+		},
+		"setTextFillColorButton": {
+			"title": "Ορισμός χρώματος γεμίσματος κειμένου"
+		},
+		"selectTextFillColorButton": {
+			"title": "Επιλογή χρώματος γεμίσματος κειμένου"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Εκκαθάριση όλων των μορφοποιήσεων"
+		},
+		"textPropertiesButton": {
+			"title": "Ιδιότητες κειμένου..."
+		},
+		"decreaseIndentButton": {
+			"title": "Μείωση εσοχής"
+		},
+		"increaseIndentButton": {
+			"title": "Αύξηση εσοχής"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Μείωση εσοχής πρώτης γραμμής"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Αύξηση εσοχής πρώτης γραμμής"
+		},
+		"bulletedListButton": {
+			"title": "Λίστα με κουκκίδες"
+		},
+		"bulletedListStylesButton": {
+			"title": "Στυλ για λίστες με κουκκίδες"
+		},
+		"numberedListButton": {
+			"title": "Αριθμημένη λίστα"
+		},
+		"numberedListStylesButton": {
+			"title": "Στυλ για αριθμημένες λίστες"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Εμφάνιση μη εκτυπώσιμων χαρακτήρων"
+		},
+		"alignLeftButton": {
+			"title": "Στοίχιση αριστερά"
+		},
+		"alignCenterButton": {
+			"title": "Στοίχιση στο κέντρο"
+		},
+		"alignRightButton": {
+			"title": "Στοίχιση δεξιά"
+		},
+		"alignBothButton": {
+			"title": "Στοίχιση και των δύο"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Ορισμός χρώματος γεμίσματος παραγράφου"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Επιλογή χρώματος γεμίσματος παραγράφου"
+		},
+		"stylePainterButton": {
+			"title": "Ζωγράφος στυλ"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Ιδιότητες παραγράφου..."
+		},
+		"insertPageBreakButton": {
+			"title": "Εισαγωγή αλλαγής σελίδας"
+		},
+		"createHeaderButton": {
+			"title": "Δημιουργία/επεξεργασία κεφαλίδας"
+		},
+		"deleteHeaderButton": {
+			"title": "Διαγραφή κεφαλίδας"
+		},
+		"createFooterButton": {
+			"title": "Δημιουργία/επεξεργασία υποσέλιδου"
+		},
+		"deleteFooterButton": {
+			"title": "Διαγραφή υποσέλιδου"
+		},
+		"changePageOrientationButton": {
+			"title": "Αλλαγή προσανατολισμού σελίδας"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Προσθήκη αλλαγής ενότητας (Επόμενη σελίδα)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Προσθήκη αλλαγής ενότητας (Συνεχής)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Προσθήκη αλλαγής ενότητας (Ζυγή σελίδα)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Προσθήκη αλλαγής ενότητας (Μονή σελίδα)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Προσθήκη αλλαγής στήλης"
+		},
+		"removeSectionBreakButton": {
+			"title": "Κατάργηση αλλαγής ενότητας"
+		},
+		"pageSettingsButton": {
+			"title": "Ρυθμίσεις σελίδας εγγράφου..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Ρυθμίσεις στηλών σελίδας..."
+		},
+		"goToFirstPageButton": {
+			"title": "Μετάβαση στην πρώτη σελίδα"
+		},
+		"goToPreviousPageButton": {
+			"title": "Μετάβαση στην προηγούμενη σελίδα"
+		},
+		"gotoPageInput": {
+			"title": "Σελίδα"
+		},
+		"goToNextPageButton": {
+			"title": "Μετάβαση στην επόμενη σελίδα"
+		},
+		"goToLastPageButton": {
+			"title": "Μετάβαση στην τελευταία σελίδα"
+		},
+		"viewPropertiesButton": {
+			"title": "Προβολή ρυθμίσεων..."
+		},
+		"view_fitToPageButton": {
+			"title": "Προσαρμογή στη σελίδα"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Προσαρμογή στο πλάτος σελίδας"
+		},
+		"view_multiPagesButton": {
+			"title": "Πολλαπλές σελίδες"
+		},
+		"view_onePageButton": {
+			"title": "Μία σελίδα"
+		},
+		"zoomOutButton": {
+			"title": "Σμίκρυνση"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Μεγέθυνση"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Αριστερά:"
+			},
+			"rightIndentationLabel": {
+				"text": "Δεξιά:"
+			},
+			"specialIndentationLabel": {
+				"text": "Ειδική:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Όχι"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Πρώτη Γραμμή"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Κρεμαστή"
+			},
+			"byLabel": {
+				"text": "Από:"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			},
+			"viewModeListLabel": {
+				"text": "Λειτουργία προβολής:"
+			},
+			"Vertical": {
+				"text": "Κάθετη"
+			},
+			"Horizontal": {
+				"text": "Οριζόντια"
+			},
+			"pagesInLineLabel": {
+				"text": "Σελίδες σε γραμμή/στήλη:"
+			},
+			"pagePaddingLabel": {
+				"text": "Συμπλήρωση σελίδας (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Πριν:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Αυτόματη"
+			},
+			"spacingAfterLabel": {
+				"text": "Μετά:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Αυτόματη"
+			},
+			"lineSpacingLabel": {
+				"text": "Απόσταση γραμμής:"
+			},
+			"Scale": {
+				"text": "Κλίμακα"
+			},
+			"Exact": {
+				"text": "Ακριβής"
+			},
+			"AtLeast": {
+				"text": "Τουλάχιστον"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Μην προσθέτετε κενό μεταξύ παραγράφων του ίδιου στυλ"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Έλεγχος χηρών"
+			},
+			"keepNextLabel": {
+				"text": "Διατήρηση επόμενου"
+			},
+			"keepLinesLabel": {
+				"text": "Διατήρηση γραμμών"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Αλλαγή σελίδας πριν"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Γραμματοσειρά:"
+			},
+			"fontStyleLabel": {
+				"text": "Στυλ γραμματοσειράς:"
+			},
+			"Regular": {
+				"text": "Κανονική"
+			},
+			"Italic": {
+				"text": "Πλάγια γραφή"
+			},
+			"Bold": {
+				"text": "Τολμηρός"
+			},
+			"BoldItalic": {
+				"text": "Έντονη πλάγια γραφή"
+			},
+			"fontSizeLabel": {
+				"text": "Μέγεθος γραμματοσειράς:"
+			},
+			"fontColorLabel": {
+				"text": "Χρώμα γραμματοσειράς:"
+			},
+			"underlineStyleLabel": {
+				"text": "Υπογράμμιση Κειμένου:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Κείμενο με Διαγραφή:"
+			},
+			"verticalPositionLabel": {
+				"text": "Κάθετη Θέση:"
+			},
+			"Baseline": {
+				"text": "Βασική Γραμμή"
+			},
+			"Superscript": {
+				"text": "Εκθέτης"
+			},
+			"Subscript": {
+				"text": "Υπόμνημα"
+			},
+			"smallCapsLabel": {
+				"text": "Μικρά Κεφαλαία"
+			},
+			"allCapsLabel": {
+				"text": "Όλα Κεφαλαία"
+			},
+			"scaleLabel": {
+				"text": "Κλίμακα μικρογραφιών:"
+			},
+			"spacingLabel": {
+				"text": "Απόσταση:"
+			},
+			"positionLabel": {
+				"text": "Θέση:"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Λίστα πολλαπλών επιπέδων:"
+			},
+			"alignmentLabel": {
+				"text": "Στοίχιση:"
+			},
+			"Left": {
+				"text": "Αριστερά"
+			},
+			"Right": {
+				"text": "Σωστά"
+			},
+			"Center": {
+				"text": "Στοίχιση στο κέντρο"
+			},
+			"Both": {
+				"text": "Και τα δύο"
+			},
+			"lineSpacingLabel": {
+				"text": "Απόσταση γραμμής:"
+			},
+			"Single": {
+				"text": "Μονή"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Διπλή"
+			},
+			"Triple": {
+				"text": "Τριπλή"
+			},
+			"Custom...": {
+				"text": "Προσαρμοσμένη..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Ρυθμίσεις απόστασης μεταξύ γραμμών παραγράφου..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Ρυθμίσεις εσοχής παραγράφου..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Ρυθμίσεις σελιδοποίησης παραγράφου..."
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Τίτλος:"
+			},
+			"subjectLabel": {
+				"text": "Θέμα:"
+			},
+			"creatorLabel": {
+				"text": "Δημιουργός:"
+			},
+			"descriptionLabel": {
+				"text": "Περιγραφή:"
+			},
+			"categoryLabel": {
+				"text": "Κατηγορία:"
+			},
+			"keywordsLabel": {
+				"text": "Λέξεις-κλειδιά:"
+			},
+			"createdLabel": {
+				"text": "Δημιουργήθηκε:"
+			},
+			"modifiedLabel": {
+				"text": "Τροποποιήθηκε:"
+			},
+			"printedLabel": {
+				"text": "Τυπωμένο:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Τελευταία τροποποίηση από:"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Χρώμα επιλογής κειμένου:"
+			},
+			"backgroundColorLabel": {
+				"text": "Χρώμα φόντου:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Προεπιλεγμένες μονάδες:"
+			},
+			"Centimeters": {
+				"text": "εκατοστά"
+			},
+			"Millimeters": {
+				"text": "Χιλιοστά"
+			},
+			"Inches": {
+				"text": "ίντσες"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Εμφάνιση αόρατων περιγραμμάτων πίνακα"
+			},
+			"asyncModeLabel": {
+				"text": "Ασύγχρονη λειτουργία"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Έναρξη ενότητας:"
+			},
+			"NextPage": {
+				"text": "Επόμενη Σελίδα"
+			},
+			"NextColumn": {
+				"text": "ΕπόμενηΣτήλη"
+			},
+			"Continuous": {
+				"text": "Συνεχής"
+			},
+			"EvenPage": {
+				"text": "Ακόμα και η Πέιτζ"
+			},
+			"OddPage": {
+				"text": "Μονή Σελίδα"
+			},
+			"pageSizeLabel": {
+				"text": "Μέγεθος σελίδας:"
+			},
+			"pageOrientationLabel": {
+				"text": "Προσανατολισμός σελίδας:"
+			},
+			"Portrait": {
+				"text": "Πορτρέτο"
+			},
+			"Landscape": {
+				"text": "Τοπίο"
+			},
+			"pageMarginsLabel": {
+				"text": "Περιθώρια σελίδας (cm):"
+			},
+			"leftLabel": {
+				"text": "Αριστερά:"
+			},
+			"rightLabel": {
+				"text": "Δεξιά:"
+			},
+			"topLabel": {
+				"text": "Κορυφή:"
+			},
+			"bottomLabel": {
+				"text": "Κάτω:"
+			},
+			"headerLabel": {
+				"text": "Κεφαλίδα:"
+			},
+			"footerLabel": {
+				"text": "Υποσέλιδο:"
+			},
+			"gutterLabel": {
+				"text": "Υδρορροή:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Χρησιμοποιήστε διαφορετική επικεφαλίδα για την πρώτη σελίδα"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Χρησιμοποιήστε διαφορετική επικεφαλίδα για μονές και ζυγές σελίδες"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Πλήθος στηλών:"
+			},
+			"lineBetweenLabel": {
+				"text": "Γραμμή μεταξύ"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Πλάτος και απόσταση"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Ίσο πλάτος στήλης"
+			},
+			"columnNumberLabel": {
+				"text": "Αριθμός στήλης:"
+			},
+			"widthLabel": {
+				"text": "Πλάτος:"
+			},
+			"spacingLabel": {
+				"text": "Απόσταση:"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"closeButton": {
+				"value": "Κλείσιμο"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Σφάλμα"
+		},
+		"closeButton": {
+			"text": "Κλείσιμο"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Το έγγραφο ανοίγει...",
+		"vssde-numberFormat-custom": "Προσαρμοσμένο",
+		"vssde-findTextPanel-textIsNotFound": "Το κείμενο '{0}' δεν βρέθηκε.",
+		"vssde-selectFunctionPanel-all": "Όλα",
+		"vssde-createXlsxDocument": "Δημιουργία νέου εγγράφου XLSX",
+		"vssde-uploadXlsxFile": "Μεταφορτώστε το αρχείο XLSX",
+		"vssde-downloadXlsxFile": "Μεταφόρτωση αρχείου XLSX",
+		"vssde-exportXlsxToPdf": "Εξαγωγή XLSX σε PDF",
+		"vssde-fileSizeExceedsLimit": "Το μέγεθος του μεταφορτωμένου αρχείου υπερβαίνει το μέγιστο μέγεθος ({0} byte).",
+		"vssde-error-noError": "Κανένα λάθος.",
+		"vssde-error-divisionByZero": "Οποιοσδήποτε αριθμός (συμπεριλαμβανομένου του μηδέν) ή οποιοσδήποτε κωδικός σφάλματος διαιρείται με το μηδέν.",
+		"vssde-error-cellRefCannotBeEvaluated": "Δεν είναι δυνατή η αξιολόγηση μιας αναφοράς κελιού επειδή η τιμή για το κελί δεν έχει ανακτηθεί ή υπολογιστεί.",
+		"vssde-error-valueIsNotAvailable": "Δεν είναι διαθέσιμη καθορισμένη τιμή.",
+		"vssde-error-wrongName": "Φαίνεται ότι χρησιμοποιείται ένα όνομα αλλά δεν έχει οριστεί τέτοιο όνομα.",
+		"vssde-error-twoAreasNotIntersecting": "Απαιτούνται δύο περιοχές να διασταυρωθούν αλλά όχι.",
+		"vssde-error-notCorrectValue": "Ένα όρισμα σε μια συνάρτηση έχει έναν συμβατό τύπο, αλλά έχει μια τιμή που βρίσκεται εκτός του τομέα στον οποίο έχει οριστεί αυτή η συνάρτηση.",
+		"vssde-error-cannotEvaluateCellRef": "Δεν είναι δυνατή η αξιολόγηση μιας αναφοράς κελιού.",
+		"vssde-error-incompatibleType": "Ένα όρισμα μη συμβατού τύπου μεταβιβάζεται σε μια συνάρτηση ή ένας τελεστής μη συμβατού τύπου χρησιμοποιείται με έναν τελεστή.",
+		"vssde-error-unknownError": "Αγνωστο σφάλμα.",
+		"vssde-error-externalError": "Εξωτερικό σφάλμα.",
+		"vssde-uriOpen-question": "Άνοιγμα διεύθυνσης URL '{0}' ;",
+		"vssde-uriOpen-wrongUri": "Η διεύθυνση αυτού του ιστότοπου δεν είναι έγκυρη: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Θέλετε να δημιουργήσετε ένα νέο βιβλίο εργασίας;",
+		"vsde-documentIsOpening": "Το έγγραφο ανοίγει...",
+		"vsde-createDocxDocument": "Δημιουργία νέου εγγράφου DOCX",
+		"vsde-uploadDocumentFile": "Λήψη και άνοιγμα αρχείου",
+		"vsde-exportDocxDocumentToPdf": "Εξαγωγή εγγράφου DOCX σε PDF",
+		"vsde-downloadFile": "Λήψη αρχείου",
+		"vsde-cacheIsNotCleared": "Η προσωρινή μνήμη δεν εκκαθαρίζεται επειδή η προεπιλεγμένη υπηρεσία web αρχείων (Vintasoft.Shared.WebServiceJS.defaultFileService) δεν έχει οριστεί.",
+		"vsde-uriOpen-question": "Άνοιγμα διεύθυνσης URL '{0}' ;",
+		"vsde-uriOpen-wrongUri": "Η διεύθυνση αυτού του ιστότοπου δεν είναι έγκυρη: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Λήψη και άνοιγμα αρχείου",
+		"vsdv-uploadAndAddFileButton-addFileString": "Μεταφόρτωση και προσθήκη αρχείου",
+		"vsui-textSearchPanel-pageLabel": "Σελίδα",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Κάψτε σχολιασμούς",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Αποθήκευση σχολιασμών",
+		"vsui-annotationListPanel-pageLabel": "Σελίδα",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Ιδιότητες σχολιασμού",
+		"vsdv-openFile-addFileString": "Προσθήκη αρχείου",
+		"vsdv-openFile-authenticateFileString": "Έλεγχος ταυτότητας αρχείου",
+		"vsdv-downloadFile-actionMessage": "Λήψη αρχείου",
+		"vsdv-saveChanges-saveChangesInImages": "Αποθηκεύστε τις αλλαγές στις εικόνες",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Αποθηκεύστε τις αλλαγές στους σχολιασμούς",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Εγγραφή σχολιασμών σε εικόνες",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Λήψη και άνοιγμα αρχείου",
+		"vsui-uploadAndAddFileButton-addFileString": "Μεταφόρτωση και προσθήκη αρχείου",
+		"vsui-openFile-addFileString": "Προσθήκη αρχείου",
+		"vsui-openFile-authenticateFileString": "Έλεγχος ταυτότητας αρχείου",
+		"vsui-downloadFile-actionMessage": "Λήψη αρχείου",
+		"vsui-saveChanges-saveChangesInImages": "Αποθηκεύστε τις αλλαγές στις εικόνες",
+		"vsui-saveChanges-saveChangesInAnnotations": "Αποθηκεύστε τις αλλαγές στους σχολιασμούς",
+		"vsui-saveChanges-burnAnnotationsInImages": "Εγγραφή σχολιασμών σε εικόνες",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Αποθηκεύστε τις αλλαγές σε έγγραφο PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Κάψτε σχολιασμούς",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Αποθήκευση σχολιασμών",
+		"vsui-documentPasswordDialog-title": "Κωδικός πρόσβασης εγγράφου",
+		"vsui-dialog-okButton": "ΟΚ",
+		"vsui-dialog-cancelButton": "Ακύρωση",
+		"vsui-documentPasswordPanel-authenticateFileString": "Έλεγχος ταυτότητας αρχείου",
+		"vsui-imageSelectionDialog-title": "Επιλέξτε Εικόνες",
+		"vsui-imageSelectionDialog-currentImageString": "Τρέχουσα εικόνα",
+		"vsui-imageSelectionDialog-allImagesString": "Όλες οι εικόνες",
+		"vsui-imageSelectionDialog-customImagesString": "Προσαρμοσμένο",
+		"vsui-documentLayoutSettingsDialog-title": "Ρυθμίσεις διάταξης εγγράφου",
+		"vsui-printImagesDialog-title": "Εκτύπωση εικόνων",
+		"vsui-printImagesPanel-imagePrintingString": "Η εικόνα εκτυπώνεται",
+		"vsui-printImagesPanel-withAnnotationsLabel": "με σχολιασμούς",
+		"vsui-imageViewerSettingsDialog-title": "Ρυθμίσεις προβολής εικόνων",
+		"vsui-thumbnailViewerSettingDialog-title": "Ρυθμίσεις προβολής μικρογραφιών",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Εμφάνιση σχολιασμών σε μικρογραφίες:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Περιστροφή σχολιασμένης εικόνας",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Η γωνία περιστροφής δεν πρέπει να είναι 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Η σχολιασμένη εικόνα περιστρέφεται",
+		"vsui-uploadImageFromUrlDialog-title": "Μεταφόρτωση εικόνας από τη διεύθυνση URL",
+		"vsui-exportFileSettingsDialog-title": "Οι ρυθμίσεις για εξαγωγή αρχείου",
+		"vsdv-documentLayoutSettingsDialog-title": "Ρυθμίσεις διάταξης εγγράφου",
+		"vsdv-dialog-okButton": "ΟΚ",
+		"vsdv-dialog-cancelButton": "Ακύρωση",
+		"vsdv-uploadImageFromUrlDialog-title": "Μεταφόρτωση εικόνας από τη διεύθυνση URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Ενεργοποίηση ιστορικού αλλαγών",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Απενεργοποίηση αναίρεσης/εκ νέου",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Ενεργοποίηση 'Γόμα για σχολιασμούς'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Απενεργοποίηση 'Γόμα σχολίων'",
+		"vsui-documentNavigationTool-getActions": "Λάβετε ενέργειες",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Ρυθμίσεις εσοχής παραγράφου",
+		"vsde-dialog-okButton": "ΟΚ",
+		"vsde-dialog-closeButton": "Κλείσιμο",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Ρυθμίσεις διαστήματος παραγράφων",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Ρυθμίσεις σελιδοποίησης παραγράφων",
+		"vsde-documentTextPropertiesDialog-title": "Ιδιότητες κειμένου",
+		"vsde-documentParagraphPropertiesDialog-title": "Ιδιότητες παραγράφου",
+		"vsde-documentInfoDialog-title": "Πληροφορίες εγγράφου",
+		"vsde-documentEditorSettingsDialog-title": "Ρυθμίσεις επεξεργασίας εγγράφων",
+		"vsde-documentEditorViewSettingsDialog-title": "Ρυθμίσεις προβολής προγράμματος επεξεργασίας εγγράφων",
+		"vsde-documentPageSettingsDialog-title": "Ρυθμίσεις σελίδας εγγράφου",
+		"vsde-documentPageColumnsSettingsDialog-title": "Ρυθμίσεις στηλών σελίδας"
+	}
+}

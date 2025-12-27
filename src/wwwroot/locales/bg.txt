@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"homeLabel": {
+			"text": "Главен"
+		},
+		"insertLabel": {
+			"text": "Вмъкване"
+		},
+		"layoutLabel": {
+			"text": "Оформление"
+		},
+		"createDocxDocumentButton": {
+			"title": "Създаване на нов DOCX документ"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Качване и отваряне на документ"
+		},
+		"documentInfoButton": {
+			"title": "Информация за документа..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Запазване на промените в изходния файл"
+		},
+		"downloadFileButton": {
+			"title": "Свали файл"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Експортиране на DOCX документ в PDF и изтегляне на PDF файл..."
+		},
+		"printDocumentButton": {
+			"title": "Печат на документа..."
+		},
+		"closeDocumentButton": {
+			"title": "Затваряне на документа"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Изчистване на кеша на сесията"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Настройки на редактора на документи..."
+		},
+		"copyContentButton": {
+			"title": "Копиране на съдържание"
+		},
+		"cutContentButton": {
+			"title": "Изрязване на съдържание"
+		},
+		"pasteContentButton": {
+			"title": "Поставяне на съдържание"
+		},
+		"pasteTextContentButton": {
+			"title": "Поставяне на текстово съдържание"
+		},
+		"increaseFontSizeButton": {
+			"title": "Увеличаване на размера на шрифта"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Намаляване на размера на шрифта"
+		},
+		"boldTextButton": {
+			"title": "Удебелен"
+		},
+		"italicTextButton": {
+			"title": "Курсив"
+		},
+		"underlineTextButton": {
+			"title": "Подчертано"
+		},
+		"strikethroughTextButton": {
+			"title": "Зачеркнато"
+		},
+		"superscriptTextButton": {
+			"title": "Горен индексен текст"
+		},
+		"subscriptTextButton": {
+			"title": "Долен индексен текст"
+		},
+		"setTextColorButton": {
+			"title": "Задаване на цвят на текста"
+		},
+		"selectTextColorButton": {
+			"title": "Избор на цвят на текста"
+		},
+		"setTextFillColorButton": {
+			"title": "Задаване на цвят за запълване на текста"
+		},
+		"selectTextFillColorButton": {
+			"title": "Избор на цвят за запълване на текста"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Изчистване на всички форматирания"
+		},
+		"textPropertiesButton": {
+			"title": "Свойства на текста..."
+		},
+		"decreaseIndentButton": {
+			"title": "Намаляване на отстъпа"
+		},
+		"increaseIndentButton": {
+			"title": "Увеличаване на отстъпа"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Намаляване на отстъпа на първия ред"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Увеличаване на отстъпа на първия ред"
+		},
+		"bulletedListButton": {
+			"title": "Списък с маркирани символи"
+		},
+		"bulletedListStylesButton": {
+			"title": "Стилове за списъци с маркирани символи"
+		},
+		"numberedListButton": {
+			"title": "Номериран списък"
+		},
+		"numberedListStylesButton": {
+			"title": "Стилове за номерирани списъци"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Показване на непечатаеми знаци"
+		},
+		"alignLeftButton": {
+			"title": "Подравнете вляво"
+		},
+		"alignCenterButton": {
+			"title": "Подравняване в центъра"
+		},
+		"alignRightButton": {
+			"title": "Подравняване надясно"
+		},
+		"alignBothButton": {
+			"title": "Подравняване и на двете"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Задаване на цвят за запълване на абзаца"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Избор на цвят за запълване на абзаца"
+		},
+		"stylePainterButton": {
+			"title": "Стил художник"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Свойства на абзаци..."
+		},
+		"insertPageBreakButton": {
+			"title": "Вмъкване на разделител на страница"
+		},
+		"createHeaderButton": {
+			"title": "Създаване/редактиране на заглавка"
+		},
+		"deleteHeaderButton": {
+			"title": "Изтриване на заглавка"
+		},
+		"createFooterButton": {
+			"title": "Създаване/редактиране на долен колонтитул"
+		},
+		"deleteFooterButton": {
+			"title": "Изтриване на долен колонтитул"
+		},
+		"changePageOrientationButton": {
+			"title": "Промяна на ориентацията на страницата"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Добавяне на разделител на раздел (Следваща страница)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Добавяне на разделител на раздел (Непрекъснат)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Добавяне на разделител на раздел (Четна страница)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Добавяне на разделител на раздел (Нечетна страница)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Добавяне на разделител на колона"
+		},
+		"removeSectionBreakButton": {
+			"title": "Премахване на разделител на раздел"
+		},
+		"pageSettingsButton": {
+			"title": "Настройки на страницата на документа..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Настройки на колоните на страницата..."
+		},
+		"goToFirstPageButton": {
+			"title": "Към първата страница"
+		},
+		"goToPreviousPageButton": {
+			"title": "Към предишната страница"
+		},
+		"gotoPageInput": {
+			"title": "Страница"
+		},
+		"goToNextPageButton": {
+			"title": "Към следващата страница"
+		},
+		"goToLastPageButton": {
+			"title": "Към последната страница"
+		},
+		"viewPropertiesButton": {
+			"title": "Настройки на изгледа..."
+		},
+		"view_fitToPageButton": {
+			"title": "Побиране в страницата"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Побиране в ширината на страницата"
+		},
+		"view_multiPagesButton": {
+			"title": "Няколко страници"
+		},
+		"view_onePageButton": {
+			"title": "Една страница"
+		},
+		"zoomOutButton": {
+			"title": "Намаляване"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Увеличаване"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Ляво:"
+			},
+			"rightIndentationLabel": {
+				"text": "Дясно:"
+			},
+			"specialIndentationLabel": {
+				"text": "Специално:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Не"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Първи ред"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Висящо"
+			},
+			"byLabel": {
+				"text": "От:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			},
+			"viewModeListLabel": {
+				"text": "Режим на преглед:"
+			},
+			"Vertical": {
+				"text": "Вертикално"
+			},
+			"Horizontal": {
+				"text": "Хоризонтално"
+			},
+			"pagesInLineLabel": {
+				"text": "Страници в ред/колона:"
+			},
+			"pagePaddingLabel": {
+				"text": "Подпълване на страница (px):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Преди:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Автоматично"
+			},
+			"spacingAfterLabel": {
+				"text": "След:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Автоматично"
+			},
+			"lineSpacingLabel": {
+				"text": "Разстояние между редовете:"
+			},
+			"Scale": {
+				"text": "Мащаб"
+			},
+			"Exact": {
+				"text": "Точно"
+			},
+			"AtLeast": {
+				"text": "Поне"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Не добавяйте разстояние между абзаци с един и същи стил"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Контрола тип "вдовица""
+			},
+			"keepNextLabel": {
+				"text": "Запази следващото"
+			},
+			"keepLinesLabel": {
+				"text": "Запази редовете"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Разделяне на страницата преди"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Шрифт:"
+			},
+			"fontStyleLabel": {
+				"text": "Стил на шрифта:"
+			},
+			"Regular": {
+				"text": "Нормален"
+			},
+			"Italic": {
+				"text": "Курсив"
+			},
+			"Bold": {
+				"text": "Удебелен"
+			},
+			"BoldItalic": {
+				"text": "Удебелен Курсив"
+			},
+			"fontSizeLabel": {
+				"text": "Размер на шрифта:"
+			},
+			"fontColorLabel": {
+				"text": "Цвят на шрифта:"
+			},
+			"underlineStyleLabel": {
+				"text": "Подчертан текст:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Задраскан текст:"
+			},
+			"verticalPositionLabel": {
+				"text": "Вертикална позиция:"
+			},
+			"Baseline": {
+				"text": "Основна линия"
+			},
+			"Superscript": {
+				"text": "Горна индексна линия"
+			},
+			"Subscript": {
+				"text": "Долен индекс"
+			},
+			"smallCapsLabel": {
+				"text": "Малки главни букви"
+			},
+			"allCapsLabel": {
+				"text": "Само главни букви"
+			},
+			"scaleLabel": {
+				"text": "Мащаб на миниатюри:"
+			},
+			"spacingLabel": {
+				"text": "Разстояние:"
+			},
+			"positionLabel": {
+				"text": "Позиция:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Многостепенен списък:"
+			},
+			"alignmentLabel": {
+				"text": "Подравняване:"
+			},
+			"Left": {
+				"text": "Наляво"
+			},
+			"Right": {
+				"text": "Точно"
+			},
+			"Center": {
+				"text": "Подравняване в центъра"
+			},
+			"Both": {
+				"text": "И двете"
+			},
+			"lineSpacingLabel": {
+				"text": "Разстояние между редовете:"
+			},
+			"Single": {
+				"text": "Единично"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Двойно"
+			},
+			"Triple": {
+				"text": "Тройно"
+			},
+			"Custom...": {
+				"text": "Персонализирано..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Настройки за разстояние между абзаците..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Настройки за отстъп на абзаци..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Настройки за номериране на абзаци..."
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Заглавие:"
+			},
+			"subjectLabel": {
+				"text": "Тема:"
+			},
+			"creatorLabel": {
+				"text": "Създател:"
+			},
+			"descriptionLabel": {
+				"text": "Описание:"
+			},
+			"categoryLabel": {
+				"text": "Категория:"
+			},
+			"keywordsLabel": {
+				"text": "Ключови думи:"
+			},
+			"createdLabel": {
+				"text": "Създадено:"
+			},
+			"modifiedLabel": {
+				"text": "Променено:"
+			},
+			"printedLabel": {
+				"text": "Отпечатано:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Последна промяна от:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Цвят за избор на текст:"
+			},
+			"backgroundColorLabel": {
+				"text": "Цвят на фона:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Единици по подразбиране:"
+			},
+			"Centimeters": {
+				"text": "Сантиметри"
+			},
+			"Millimeters": {
+				"text": "Милиметри"
+			},
+			"Inches": {
+				"text": "Инчове"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Показване на невидимите граници на таблицата"
+			},
+			"asyncModeLabel": {
+				"text": "Асинхронен режим"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Начало на раздела:"
+			},
+			"NextPage": {
+				"text": "Следваща страница"
+			},
+			"NextColumn": {
+				"text": "Следваща колона"
+			},
+			"Continuous": {
+				"text": "Непрекъснато"
+			},
+			"EvenPage": {
+				"text": "Четна страница"
+			},
+			"OddPage": {
+				"text": "Нечетна страница"
+			},
+			"pageSizeLabel": {
+				"text": "Размер на страницата:"
+			},
+			"pageOrientationLabel": {
+				"text": "Ориентация на страницата:"
+			},
+			"Portrait": {
+				"text": "Портрет"
+			},
+			"Landscape": {
+				"text": "Пейзаж"
+			},
+			"pageMarginsLabel": {
+				"text": "Полета на страницата (см):"
+			},
+			"leftLabel": {
+				"text": "Ляво:"
+			},
+			"rightLabel": {
+				"text": "Дясно:"
+			},
+			"topLabel": {
+				"text": "Най-горе:"
+			},
+			"bottomLabel": {
+				"text": "Отдолу:"
+			},
+			"headerLabel": {
+				"text": "Заглавие:"
+			},
+			"footerLabel": {
+				"text": "Долен колонтитул:"
+			},
+			"gutterLabel": {
+				"text": "Улей:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Използвайте различно заглавие за първа страница"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Използвайте различно заглавие за четни и нечетни страници"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Брой колони:"
+			},
+			"lineBetweenLabel": {
+				"text": "Ред между"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Ширина и разстояние"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Еднаква ширина на колоните"
+			},
+			"columnNumberLabel": {
+				"text": "Номер на колоната:"
+			},
+			"widthLabel": {
+				"text": "Ширина:"
+			},
+			"spacingLabel": {
+				"text": "Разстояние:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"closeButton": {
+				"value": "Затвори"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Грешка"
+		},
+		"closeButton": {
+			"text": "Затвори"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Документът се отваря...",
+		"vssde-numberFormat-custom": "По избор",
+		"vssde-findTextPanel-textIsNotFound": "Текстът '{0}' не е намерен.",
+		"vssde-selectFunctionPanel-all": "Всички",
+		"vssde-createXlsxDocument": "Създайте нов XLSX документ",
+		"vssde-uploadXlsxFile": "Качете XLSX файл",
+		"vssde-downloadXlsxFile": "Качете XLSX файл",
+		"vssde-exportXlsxToPdf": "Експортирайте XLSX в PDF",
+		"vssde-fileSizeExceedsLimit": "Размерът на качения файл надвишава максималния размер ({0} байта).",
+		"vssde-error-noError": "Няма грешка.",
+		"vssde-error-divisionByZero": "Всяко число (включително нула) или всеки код на грешка се разделя на нула.",
+		"vssde-error-cellRefCannotBeEvaluated": "Препратка към клетка не може да бъде оценена, тъй като стойността за клетката не е била извлечена или изчислена.",
+		"vssde-error-valueIsNotAvailable": "Определена стойност не е налична.",
+		"vssde-error-wrongName": "Изглежда, че се използва име, но такова име не е дефинирано.",
+		"vssde-error-twoAreasNotIntersecting": "Две области трябва да се пресичат, но не се пресичат.",
+		"vssde-error-notCorrectValue": "Аргумент към функция има съвместим тип, но има стойност, която е извън домейна, върху който е дефинирана тази функция.",
+		"vssde-error-cannotEvaluateCellRef": "Препратка към клетка не може да бъде оценена.",
+		"vssde-error-incompatibleType": "Аргумент от несъвместим тип се предава на функция или операнд от несъвместим тип се използва с оператор.",
+		"vssde-error-unknownError": "Неизвестна грешка.",
+		"vssde-error-externalError": "Външна грешка.",
+		"vssde-uriOpen-question": "Отваряне на URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Адресът на този сайт не е валиден: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Искате ли да създадете нова работна книга?",
+		"vsde-documentIsOpening": "Документът се отваря...",
+		"vsde-createDocxDocument": "Създаване на нов DOCX документ",
+		"vsde-uploadDocumentFile": "Изтеглете и отворете файл",
+		"vsde-exportDocxDocumentToPdf": "Експортиране на DOCX документ в PDF",
+		"vsde-downloadFile": "Свали файл",
+		"vsde-cacheIsNotCleared": "Кешът не е изчистен, защото уеб услугата за файлове по подразбиране (Vintasoft.Shared.WebServiceJS.defaultFileService) не е дефинирана.",
+		"vsde-uriOpen-question": "Отваряне на URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Адресът на този сайт не е валиден: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Изтеглете и отворете файл",
+		"vsdv-uploadAndAddFileButton-addFileString": "Качете и добавете файл",
+		"vsui-textSearchPanel-pageLabel": "Страница",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Изгаряне на анотации",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Запазете анотациите",
+		"vsui-annotationListPanel-pageLabel": "Страница",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Свойства на анотация",
+		"vsdv-openFile-addFileString": "Добави файл",
+		"vsdv-openFile-authenticateFileString": "Удостоверете файла",
+		"vsdv-downloadFile-actionMessage": "Свали файл",
+		"vsdv-saveChanges-saveChangesInImages": "Запазете промените в изображенията",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Запазете промените в анотациите",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Записване на анотации върху изображения",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Изтеглете и отворете файл",
+		"vsui-uploadAndAddFileButton-addFileString": "Качете и добавете файл",
+		"vsui-openFile-addFileString": "Добави файл",
+		"vsui-openFile-authenticateFileString": "Удостоверете файла",
+		"vsui-downloadFile-actionMessage": "Свали файл",
+		"vsui-saveChanges-saveChangesInImages": "Запазете промените в изображенията",
+		"vsui-saveChanges-saveChangesInAnnotations": "Запазете промените в анотациите",
+		"vsui-saveChanges-burnAnnotationsInImages": "Записване на анотации върху изображения",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Запазете промените в PDF документ",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Изгаряне на анотации",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Запазете анотациите",
+		"vsui-documentPasswordDialog-title": "Парола за документ",
+		"vsui-dialog-okButton": "ОК",
+		"vsui-dialog-cancelButton": "Отказ",
+		"vsui-documentPasswordPanel-authenticateFileString": "Удостоверете файла",
+		"vsui-imageSelectionDialog-title": "Изберете изображения",
+		"vsui-imageSelectionDialog-currentImageString": "Текущо изображение",
+		"vsui-imageSelectionDialog-allImagesString": "Всички изображения",
+		"vsui-imageSelectionDialog-customImagesString": "По избор",
+		"vsui-documentLayoutSettingsDialog-title": "Настройки на оформлението на документа",
+		"vsui-printImagesDialog-title": "Печат на изображения",
+		"vsui-printImagesPanel-imagePrintingString": "Изображението се отпечатва",
+		"vsui-printImagesPanel-withAnnotationsLabel": "с анотации",
+		"vsui-imageViewerSettingsDialog-title": "Настройки за преглед на изображения",
+		"vsui-thumbnailViewerSettingDialog-title": "Настройки за преглед на миниатюри",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Показване на пояснения върху миниатюри:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Завъртане на анотираното изображение",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Ъгълът на въртене не трябва да е 0.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Коментираното изображение се завърта",
+		"vsui-uploadImageFromUrlDialog-title": "Качете изображение от URL",
+		"vsui-exportFileSettingsDialog-title": "Настройки за експортиране на файл",
+		"vsdv-documentLayoutSettingsDialog-title": "Настройки на оформлението на документа",
+		"vsdv-dialog-okButton": "ОК",
+		"vsdv-dialog-cancelButton": "Отказ",
+		"vsdv-uploadImageFromUrlDialog-title": "Качете изображение от URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Активиране на историята на промените",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Деактивиране на отмяна/възстановяване",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Активирайте 'Гумичка за анотации'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Деактивирайте 'Изтриване на пояснения'",
+		"vsui-documentNavigationTool-getActions": "Вземете действия",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Настройки за отстъп на абзаци",
+		"vsde-dialog-okButton": "ОК",
+		"vsde-dialog-closeButton": "Затвори",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Настройки за разстояние между редовете на абзаците",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Настройки за номериране на абзаци",
+		"vsde-documentTextPropertiesDialog-title": "Свойства на текста",
+		"vsde-documentParagraphPropertiesDialog-title": "Свойства на абзаца",
+		"vsde-documentInfoDialog-title": "Информация за документа",
+		"vsde-documentEditorSettingsDialog-title": "Настройки на редактора на документи",
+		"vsde-documentEditorViewSettingsDialog-title": "Настройки на изгледа на редактора на документи",
+		"vsde-documentPageSettingsDialog-title": "Настройки на страницата на документа",
+		"vsde-documentPageColumnsSettingsDialog-title": "Настройки на колоните на страницата"
+	}
+}

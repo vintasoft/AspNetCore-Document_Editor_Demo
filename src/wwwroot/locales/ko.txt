@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "파일"
+		},
+		"homeLabel": {
+			"text": "메인"
+		},
+		"insertLabel": {
+			"text": "삽입"
+		},
+		"layoutLabel": {
+			"text": "레이아웃"
+		},
+		"createDocxDocumentButton": {
+			"title": "새 DOCX 문서 만들기"
+		},
+		"uploadDocumentFileButton": {
+			"title": "문서 업로드 및 열기"
+		},
+		"documentInfoButton": {
+			"title": "문서 정보..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "원본 파일의 변경 사항을 저장하세요"
+		},
+		"downloadFileButton": {
+			"title": "파일 다운로드"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "DOCX 문서를 PDF로 내보내기 및 PDF 파일 다운로드..."
+		},
+		"printDocumentButton": {
+			"title": "문서 인쇄..."
+		},
+		"closeDocumentButton": {
+			"title": "문서 닫기"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "세션 캐시 지우기"
+		},
+		"documentEditorSettingsButton": {
+			"title": "문서 편집기 설정..."
+		},
+		"copyContentButton": {
+			"title": "내용 복사"
+		},
+		"cutContentButton": {
+			"title": "내용 잘라내기"
+		},
+		"pasteContentButton": {
+			"title": "내용 붙여넣기"
+		},
+		"pasteTextContentButton": {
+			"title": "텍스트 내용 붙여넣기"
+		},
+		"increaseFontSizeButton": {
+			"title": "글꼴 크기 늘리기"
+		},
+		"decreaseFontSizeButton": {
+			"title": "글꼴 크기 줄이기"
+		},
+		"boldTextButton": {
+			"title": "굵게"
+		},
+		"italicTextButton": {
+			"title": "기울임꼴"
+		},
+		"underlineTextButton": {
+			"title": "밑줄"
+		},
+		"strikethroughTextButton": {
+			"title": "교차"
+		},
+		"superscriptTextButton": {
+			"title": "위 첨자 텍스트"
+		},
+		"subscriptTextButton": {
+			"title": "아래 첨자 텍스트"
+		},
+		"setTextColorButton": {
+			"title": "텍스트 색상 설정"
+		},
+		"selectTextColorButton": {
+			"title": "텍스트 색상 선택"
+		},
+		"setTextFillColorButton": {
+			"title": "텍스트 채우기 색상 설정"
+		},
+		"selectTextFillColorButton": {
+			"title": "텍스트 채우기 색상 선택"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "모든 서식 지우기"
+		},
+		"textPropertiesButton": {
+			"title": "텍스트 속성..."
+		},
+		"decreaseIndentButton": {
+			"title": "들여쓰기 줄이기"
+		},
+		"increaseIndentButton": {
+			"title": "들여쓰기 늘리기"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "첫 줄 들여쓰기 줄이기"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "첫 줄 들여쓰기 늘리기"
+		},
+		"bulletedListButton": {
+			"title": "글머리 기호 목록"
+		},
+		"bulletedListStylesButton": {
+			"title": "글머리 기호 목록 스타일"
+		},
+		"numberedListButton": {
+			"title": "번호 매기기 목록"
+		},
+		"numberedListStylesButton": {
+			"title": "번호 매기기 목록 스타일"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "인쇄할 수 없는 문자 표시"
+		},
+		"alignLeftButton": {
+			"title": "왼쪽 정렬"
+		},
+		"alignCenterButton": {
+			"title": "가운데 정렬"
+		},
+		"alignRightButton": {
+			"title": "오른쪽 정렬"
+		},
+		"alignBothButton": {
+			"title": "둘 다 정렬"
+		},
+		"setParagraphFillColorButton": {
+			"title": "단락 채우기 색상 설정"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "단락 채우기 색상 선택"
+		},
+		"stylePainterButton": {
+			"title": "스타일 페인터"
+		},
+		"paragraphPropertiesButton": {
+			"title": "단락 속성..."
+		},
+		"insertPageBreakButton": {
+			"title": "페이지 나누기 삽입"
+		},
+		"createHeaderButton": {
+			"title": "머리글 만들기/편집"
+		},
+		"deleteHeaderButton": {
+			"title": "머리글 삭제"
+		},
+		"createFooterButton": {
+			"title": "바닥글 만들기/편집"
+		},
+		"deleteFooterButton": {
+			"title": "바닥글 삭제"
+		},
+		"changePageOrientationButton": {
+			"title": "페이지 방향 변경"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "구역 나누기 추가(다음 페이지)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "구역 나누기 추가(연속)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "구역 나누기 추가(짝수 페이지)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "구역 나누기 추가(홀수 페이지)"
+		},
+		"addColumnBreak_Button": {
+			"title": "단 나누기 추가"
+		},
+		"removeSectionBreakButton": {
+			"title": "구역 나누기 제거"
+		},
+		"pageSettingsButton": {
+			"title": "문서 페이지 설정..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "페이지 단 설정..."
+		},
+		"goToFirstPageButton": {
+			"title": "첫 페이지로 이동"
+		},
+		"goToPreviousPageButton": {
+			"title": "이전 페이지로 이동"
+		},
+		"gotoPageInput": {
+			"title": "페이지"
+		},
+		"goToNextPageButton": {
+			"title": "다음 페이지로 이동"
+		},
+		"goToLastPageButton": {
+			"title": "마지막 페이지로 이동"
+		},
+		"viewPropertiesButton": {
+			"title": "설정 보기..."
+		},
+		"view_fitToPageButton": {
+			"title": "페이지에 맞춤"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "페이지 너비에 맞춤"
+		},
+		"view_multiPagesButton": {
+			"title": "여러 페이지"
+		},
+		"view_onePageButton": {
+			"title": "한 페이지"
+		},
+		"zoomOutButton": {
+			"title": "축소"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "확대"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "왼쪽:"
+			},
+			"rightIndentationLabel": {
+				"text": "오른쪽:"
+			},
+			"specialIndentationLabel": {
+				"text": "특수:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "아니오"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "첫 줄"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "내어쓰기"
+			},
+			"byLabel": {
+				"text": "기준:"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			},
+			"viewModeListLabel": {
+				"text": "보기 모드:"
+			},
+			"Vertical": {
+				"text": "수직"
+			},
+			"Horizontal": {
+				"text": "가로"
+			},
+			"pagesInLineLabel": {
+				"text": "줄/열 페이지 수:"
+			},
+			"pagePaddingLabel": {
+				"text": "페이지 패딩(픽셀):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "이전:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "자동"
+			},
+			"spacingAfterLabel": {
+				"text": "이후:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "자동"
+			},
+			"lineSpacingLabel": {
+				"text": "줄 간격:"
+			},
+			"Scale": {
+				"text": "크기 조정"
+			},
+			"Exact": {
+				"text": "정확히"
+			},
+			"AtLeast": {
+				"text": "최소"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "같은 스타일의 단락 사이에 공백 추가 안 함"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "창 컨트롤"
+			},
+			"keepNextLabel": {
+				"text": "다음 단락 유지"
+			},
+			"keepLinesLabel": {
+				"text": "줄 유지"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "앞서 페이지 나누기"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "글꼴:"
+			},
+			"fontStyleLabel": {
+				"text": "글꼴 스타일:"
+			},
+			"Regular": {
+				"text": "보통"
+			},
+			"Italic": {
+				"text": "기울임꼴"
+			},
+			"Bold": {
+				"text": "굵게"
+			},
+			"BoldItalic": {
+				"text": "굵게 기울임꼴"
+			},
+			"fontSizeLabel": {
+				"text": "글꼴 크기:"
+			},
+			"fontColorLabel": {
+				"text": "글꼴 색상:"
+			},
+			"underlineStyleLabel": {
+				"text": "텍스트 밑줄:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "텍스트 취소선:"
+			},
+			"verticalPositionLabel": {
+				"text": "세로 위치:"
+			},
+			"Baseline": {
+				"text": "기준선"
+			},
+			"Superscript": {
+				"text": "위 첨자"
+			},
+			"Subscript": {
+				"text": "아래 첨자"
+			},
+			"smallCapsLabel": {
+				"text": "소문자"
+			},
+			"allCapsLabel": {
+				"text": "모두 대문자"
+			},
+			"scaleLabel": {
+				"text": "썸네일 크기:"
+			},
+			"spacingLabel": {
+				"text": "간격:"
+			},
+			"positionLabel": {
+				"text": "위치:"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "다단계 목록:"
+			},
+			"alignmentLabel": {
+				"text": "정렬:"
+			},
+			"Left": {
+				"text": "왼쪽"
+			},
+			"Right": {
+				"text": "맞음"
+			},
+			"Center": {
+				"text": "가운데 정렬"
+			},
+			"Both": {
+				"text": "양쪽 모두"
+			},
+			"lineSpacingLabel": {
+				"text": "줄 간격:"
+			},
+			"Single": {
+				"text": "단일"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "이중"
+			},
+			"Triple": {
+				"text": "삼중"
+			},
+			"Custom...": {
+				"text": "사용자 지정..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "단락 줄 간격 설정..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "단락 들여쓰기 설정..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "단락 페이지 매김 설정..."
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "제목:"
+			},
+			"subjectLabel": {
+				"text": "제목:"
+			},
+			"creatorLabel": {
+				"text": "작성자:"
+			},
+			"descriptionLabel": {
+				"text": "설명:"
+			},
+			"categoryLabel": {
+				"text": "카테고리:"
+			},
+			"keywordsLabel": {
+				"text": "키워드:"
+			},
+			"createdLabel": {
+				"text": "작성일:"
+			},
+			"modifiedLabel": {
+				"text": "수정일:"
+			},
+			"printedLabel": {
+				"text": "인쇄됨:"
+			},
+			"lastModifiedByLabel": {
+				"text": "최종 수정자:"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "텍스트 선택 색상:"
+			},
+			"backgroundColorLabel": {
+				"text": "배경색:"
+			},
+			"defaultUnitsLabel": {
+				"text": "기본 단위:"
+			},
+			"Centimeters": {
+				"text": "센티미터"
+			},
+			"Millimeters": {
+				"text": "밀리미터"
+			},
+			"Inches": {
+				"text": "신장"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "보이지 않는 테이블 테두리 표시"
+			},
+			"asyncModeLabel": {
+				"text": "비동기 모드"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "섹션 시작:"
+			},
+			"NextPage": {
+				"text": "다음페이지"
+			},
+			"NextColumn": {
+				"text": "다음열"
+			},
+			"Continuous": {
+				"text": "연속"
+			},
+			"EvenPage": {
+				"text": "짝수 페이지"
+			},
+			"OddPage": {
+				"text": "홀수 페이지"
+			},
+			"pageSizeLabel": {
+				"text": "페이지 크기:"
+			},
+			"pageOrientationLabel": {
+				"text": "페이지 방향:"
+			},
+			"Portrait": {
+				"text": "초상화"
+			},
+			"Landscape": {
+				"text": "풍경"
+			},
+			"pageMarginsLabel": {
+				"text": "페이지 여백(cm):"
+			},
+			"leftLabel": {
+				"text": "왼쪽:"
+			},
+			"rightLabel": {
+				"text": "오른쪽:"
+			},
+			"topLabel": {
+				"text": "상단:"
+			},
+			"bottomLabel": {
+				"text": "바닥:"
+			},
+			"headerLabel": {
+				"text": "헤더:"
+			},
+			"footerLabel": {
+				"text": "바닥글:"
+			},
+			"gutterLabel": {
+				"text": "홈통:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "첫 페이지에 다른 헤드라인 사용"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "홀수 페이지와 짝수 페이지에 다른 헤드라인 사용"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "열 수:"
+			},
+			"lineBetweenLabel": {
+				"text": "사이의 선"
+			},
+			"widthAndSpacingLabel": {
+				"text": "너비와 간격"
+			},
+			"equalColumnWidthLabel": {
+				"text": "동일한 열 너비"
+			},
+			"columnNumberLabel": {
+				"text": "열 번호:"
+			},
+			"widthLabel": {
+				"text": "너비:"
+			},
+			"spacingLabel": {
+				"text": "간격:"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"closeButton": {
+				"value": "닫기"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "오류"
+		},
+		"closeButton": {
+			"text": "닫기"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "문서를 여는 중...",
+		"vssde-numberFormat-custom": "사용자 정의",
+		"vssde-findTextPanel-textIsNotFound": "텍스트 '{0}'을(를) 찾을 수 없습니다.",
+		"vssde-selectFunctionPanel-all": "모두",
+		"vssde-createXlsxDocument": "새 XLSX 문서 만들기",
+		"vssde-uploadXlsxFile": "XLSX 파일 업로드",
+		"vssde-downloadXlsxFile": "XLSX 파일 업로드",
+		"vssde-exportXlsxToPdf": "XLSX를 PDF로 내보내기",
+		"vssde-fileSizeExceedsLimit": "업로드된 파일의 크기가 최대 크기({0}바이트)를 초과합니다.",
+		"vssde-error-noError": "오류가 없습니다.",
+		"vssde-error-divisionByZero": "모든 숫자(0 포함) 또는 오류 코드는 0으로 나뉩니다.",
+		"vssde-error-cellRefCannotBeEvaluated": "셀 값이 검색되거나 계산되지 않았기 때문에 셀 참조를 평가할 수 없습니다.",
+		"vssde-error-valueIsNotAvailable": "지정된 값을 사용할 수 없습니다.",
+		"vssde-error-wrongName": "이름이 사용된 것 같지만 해당 이름이 정의되지 않았습니다.",
+		"vssde-error-twoAreasNotIntersecting": "두 영역이 교차해야 하지만 그렇지 않습니다.",
+		"vssde-error-notCorrectValue": "함수에 대한 인수에는 호환 가능한 유형이 있지만 해당 함수가 정의된 도메인 외부에 있는 값이 있습니다.",
+		"vssde-error-cannotEvaluateCellRef": "셀 참조를 평가할 수 없습니다.",
+		"vssde-error-incompatibleType": "호환되지 않는 유형 인수가 함수에 전달되었거나 호환되지 않는 유형 피연산자가 연산자와 함께 사용되었습니다.",
+		"vssde-error-unknownError": "알수없는 오류.",
+		"vssde-error-externalError": "외부 오류입니다.",
+		"vssde-uriOpen-question": "URL '{0}'을(를) 여시겠습니까?",
+		"vssde-uriOpen-wrongUri": "이 사이트의 주소가 유효하지 않습니다: {0}",
+		"vssde-createXlsxDocumentConfirmation": "새 통합 문서를 만드시겠습니까?",
+		"vsde-documentIsOpening": "문서를 여는 중...",
+		"vsde-createDocxDocument": "새 DOCX 문서 만들기",
+		"vsde-uploadDocumentFile": "파일 다운로드 및 열기",
+		"vsde-exportDocxDocumentToPdf": "DOCX 문서를 PDF로 내보내기",
+		"vsde-downloadFile": "파일 다운로드",
+		"vsde-cacheIsNotCleared": "기본 파일 웹 서비스(Vintasoft.Shared.WebServiceJS.defaultFileService)가 정의되어 있지 않아 캐시가 지워지지 않습니다.",
+		"vsde-uriOpen-question": "URL '{0}'을(를) 여시겠습니까?",
+		"vsde-uriOpen-wrongUri": "이 사이트의 주소가 유효하지 않습니다: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "파일 다운로드 및 열기",
+		"vsdv-uploadAndAddFileButton-addFileString": "파일 업로드 및 추가",
+		"vsui-textSearchPanel-pageLabel": "페이지",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "주석 굽기",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "주석 저장",
+		"vsui-annotationListPanel-pageLabel": "페이지",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "주석 속성",
+		"vsdv-openFile-addFileString": "파일 추가",
+		"vsdv-openFile-authenticateFileString": "파일 인증",
+		"vsdv-downloadFile-actionMessage": "파일 다운로드",
+		"vsdv-saveChanges-saveChangesInImages": "이미지 변경사항 저장",
+		"vsdv-saveChanges-saveChangesInAnnotations": "주석 변경사항 저장",
+		"vsdv-saveChanges-burnAnnotationsInImages": "이미지에 주석 굽기",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "파일 다운로드 및 열기",
+		"vsui-uploadAndAddFileButton-addFileString": "파일 업로드 및 추가",
+		"vsui-openFile-addFileString": "파일 추가",
+		"vsui-openFile-authenticateFileString": "파일 인증",
+		"vsui-downloadFile-actionMessage": "파일 다운로드",
+		"vsui-saveChanges-saveChangesInImages": "이미지 변경사항 저장",
+		"vsui-saveChanges-saveChangesInAnnotations": "주석 변경사항 저장",
+		"vsui-saveChanges-burnAnnotationsInImages": "이미지에 주석 굽기",
+		"vsui-saveChanges-saveChangesInPdfDocument": "PDF 문서에 변경 사항 저장",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "주석 굽기",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "주석 저장",
+		"vsui-documentPasswordDialog-title": "문서 비밀번호",
+		"vsui-dialog-okButton": "확인",
+		"vsui-dialog-cancelButton": "취소",
+		"vsui-documentPasswordPanel-authenticateFileString": "파일 인증",
+		"vsui-imageSelectionDialog-title": "이미지 선택",
+		"vsui-imageSelectionDialog-currentImageString": "현재 이미지",
+		"vsui-imageSelectionDialog-allImagesString": "모든 이미지",
+		"vsui-imageSelectionDialog-customImagesString": "사용자 정의",
+		"vsui-documentLayoutSettingsDialog-title": "문서 레이아웃 설정",
+		"vsui-printImagesDialog-title": "이미지 인쇄",
+		"vsui-printImagesPanel-imagePrintingString": "이미지 인쇄 중",
+		"vsui-printImagesPanel-withAnnotationsLabel": "주석 포함",
+		"vsui-imageViewerSettingsDialog-title": "이미지 뷰어 설정",
+		"vsui-thumbnailViewerSettingDialog-title": "썸네일 뷰어 설정",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "섬네일에 주석 표시:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "주석 이미지 회전",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "회전 각도는 0이 아니어야 합니다.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "주석 이미지 회전 중",
+		"vsui-uploadImageFromUrlDialog-title": "URL에서 이미지 업로드",
+		"vsui-exportFileSettingsDialog-title": "파일을 내보내는 설정",
+		"vsdv-documentLayoutSettingsDialog-title": "문서 레이아웃 설정",
+		"vsdv-dialog-okButton": "확인",
+		"vsdv-dialog-cancelButton": "취소",
+		"vsdv-uploadImageFromUrlDialog-title": "URL에서 이미지 업로드",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "변경 내역 활성화",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "실행 취소/다시 실행 비활성화",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "'주석 지우개' 모드 활성화",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "'주석 지우개' 비활성화",
+		"vsui-documentNavigationTool-getActions": "작업 가져오기",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "단락 들여쓰기 설정",
+		"vsde-dialog-okButton": "확인",
+		"vsde-dialog-closeButton": "닫기",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "단락 줄 간격 설정",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "단락 페이지 매김 설정",
+		"vsde-documentTextPropertiesDialog-title": "텍스트 속성",
+		"vsde-documentParagraphPropertiesDialog-title": "단락 속성",
+		"vsde-documentInfoDialog-title": "문서정보",
+		"vsde-documentEditorSettingsDialog-title": "문서 편집기 설정",
+		"vsde-documentEditorViewSettingsDialog-title": "문서 편집기 보기 설정",
+		"vsde-documentPageSettingsDialog-title": "문서 페이지 설정",
+		"vsde-documentPageColumnsSettingsDialog-title": "페이지 열 설정"
+	}
+}

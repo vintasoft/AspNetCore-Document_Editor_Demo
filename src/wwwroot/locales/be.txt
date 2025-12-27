@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"homeLabel": {
+			"text": "Галоўная"
+		},
+		"insertLabel": {
+			"text": "Устаўка"
+		},
+		"layoutLabel": {
+			"text": "Макет"
+		},
+		"createDocxDocumentButton": {
+			"title": "Стварыць новы дакумент DOCX"
+		},
+		"uploadDocumentFileButton": {
+			"title": "Загрузіць і адкрыць дакумент"
+		},
+		"documentInfoButton": {
+			"title": "Інфармацыя пра дакумент..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "Захаваць змены ў зыходным файле"
+		},
+		"downloadFileButton": {
+			"title": "Спампаваць файл"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "Экспартаваць дакумент DOCX у PDF і спампаваць PDF-файл..."
+		},
+		"printDocumentButton": {
+			"title": "Друкаваць дакумент..."
+		},
+		"closeDocumentButton": {
+			"title": "Закрыць дакумент"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "Ачысціць кэш сеанса"
+		},
+		"documentEditorSettingsButton": {
+			"title": "Налады рэдактара дакументаў..."
+		},
+		"copyContentButton": {
+			"title": "Скапіяваць змесціва"
+		},
+		"cutContentButton": {
+			"title": "Выразаць змесціва"
+		},
+		"pasteContentButton": {
+			"title": "Уставіць змесціва"
+		},
+		"pasteTextContentButton": {
+			"title": "Уставіць тэкставы кантэнт"
+		},
+		"increaseFontSizeButton": {
+			"title": "Павялічыць памер шрыфта"
+		},
+		"decreaseFontSizeButton": {
+			"title": "Паменшыць памер шрыфта"
+		},
+		"boldTextButton": {
+			"title": "Паўтлусты"
+		},
+		"italicTextButton": {
+			"title": "Курсіў"
+		},
+		"underlineTextButton": {
+			"title": "Падкрэслены"
+		},
+		"strikethroughTextButton": {
+			"title": "Перакрэслены"
+		},
+		"superscriptTextButton": {
+			"title": "Надрадковы тэкст"
+		},
+		"subscriptTextButton": {
+			"title": "Падрадковы тэкст"
+		},
+		"setTextColorButton": {
+			"title": "Устанавіць колер тэксту"
+		},
+		"selectTextColorButton": {
+			"title": "Выбраць колер тэксту"
+		},
+		"setTextFillColorButton": {
+			"title": "Устанавіць колер заліўкі тэксту"
+		},
+		"selectTextFillColorButton": {
+			"title": "Выбраць колер заліўкі тэксту"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "Ачысціць усё фарматаванне"
+		},
+		"textPropertiesButton": {
+			"title": "Уласцівасці тэксту..."
+		},
+		"decreaseIndentButton": {
+			"title": "Паменшыць водступ"
+		},
+		"increaseIndentButton": {
+			"title": "Павялічыць водступ"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "Паменшыць водступ першага радка"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "Павялічыць водступ першага радка"
+		},
+		"bulletedListButton": {
+			"title": "Маркіраваны спіс"
+		},
+		"bulletedListStylesButton": {
+			"title": "Стылі для маркіраваных спісаў"
+		},
+		"numberedListButton": {
+			"title": "Нумараваны спіс"
+		},
+		"numberedListStylesButton": {
+			"title": "Стылі для нумараваных спісаў"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "Паказаць недрукаваныя сімвалы"
+		},
+		"alignLeftButton": {
+			"title": "Выраўнаваць па левым краі"
+		},
+		"alignCenterButton": {
+			"title": "Выраўнаваць па цэнтры"
+		},
+		"alignRightButton": {
+			"title": "Выраўнаваць па правым краі"
+		},
+		"alignBothButton": {
+			"title": "Выраўнаваць абодва"
+		},
+		"setParagraphFillColorButton": {
+			"title": "Устанавіць колер заліўкі абзаца"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "Выбраць колер заліўкі абзаца"
+		},
+		"stylePainterButton": {
+			"title": "Фармат па ўзоры"
+		},
+		"paragraphPropertiesButton": {
+			"title": "Уласцівасці абзаца..."
+		},
+		"insertPageBreakButton": {
+			"title": "Уставіць разрыў старонкі"
+		},
+		"createHeaderButton": {
+			"title": "Стварыць/рэдагаваць верхні калонтытул"
+		},
+		"deleteHeaderButton": {
+			"title": "Выдаліць верхні калонтытул"
+		},
+		"createFooterButton": {
+			"title": "Стварыць/рэдагаваць ніжні калонтытул"
+		},
+		"deleteFooterButton": {
+			"title": "Выдаліць ніжні калонтытул"
+		},
+		"changePageOrientationButton": {
+			"title": "Змяніць арыентацыю старонкі"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "Дадаць разрыў раздзела (наступная старонка)"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "Дадаць разрыў раздзела (бесперапынны)"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "Дадаць разрыў раздзела (цотная старонка)"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "Дадаць разрыў раздзела (няцотная старонка)"
+		},
+		"addColumnBreak_Button": {
+			"title": "Дадаць разрыў слупка"
+		},
+		"removeSectionBreakButton": {
+			"title": "Выдаліць разрыў раздзела"
+		},
+		"pageSettingsButton": {
+			"title": "Налады старонкі дакумента..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "Налады слупкоў старонкі..."
+		},
+		"goToFirstPageButton": {
+			"title": "Перайсці на першую старонку"
+		},
+		"goToPreviousPageButton": {
+			"title": "Перайсці на папярэднюю старонку"
+		},
+		"gotoPageInput": {
+			"title": "старонка"
+		},
+		"goToNextPageButton": {
+			"title": "Перайсці на наступную старонку"
+		},
+		"goToLastPageButton": {
+			"title": "Перайсці на апошнюю старонку"
+		},
+		"viewPropertiesButton": {
+			"title": "Налады прагляду..."
+		},
+		"view_fitToPageButton": {
+			"title": "Па памеры старонкі"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "Па памеры старонкі"
+		},
+		"view_multiPagesButton": {
+			"title": "Некалькі старонак"
+		},
+		"view_onePageButton": {
+			"title": "Адна старонка"
+		},
+		"zoomOutButton": {
+			"title": "Зменшыць маштаб"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "Павялічыць"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "Злева:"
+			},
+			"rightIndentationLabel": {
+				"text": "Справа:"
+			},
+			"specialIndentationLabel": {
+				"text": "Спецыяльны:"
+			},
+			"specialIndentation-noneLabel": {
+				"text": "Няма"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "Першы радок"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "Вісячы"
+			},
+			"byLabel": {
+				"text": "Па:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			},
+			"viewModeListLabel": {
+				"text": "Рэжым прагляду:"
+			},
+			"Vertical": {
+				"text": "Вертыкальны"
+			},
+			"Horizontal": {
+				"text": "Гарызантальны"
+			},
+			"pagesInLineLabel": {
+				"text": "Старонкі ў радку/слупку:"
+			},
+			"pagePaddingLabel": {
+				"text": "Выходы старонкі (пікс.):"
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "Да:"
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "Аўтаматычна"
+			},
+			"spacingAfterLabel": {
+				"text": "Пасля:"
+			},
+			"autoSpacingAfterLabel": {
+				"text": "Аўтаматычна"
+			},
+			"lineSpacingLabel": {
+				"text": "Міжрадковы інтэрвал:"
+			},
+			"Scale": {
+				"text": "Маштаб"
+			},
+			"Exact": {
+				"text": "Дакладна"
+			},
+			"AtLeast": {
+				"text": "Прынамсі"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "Не дадаваць прабел паміж абзацамі аднаго стылю"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "Кіраванне ўдовай"
+			},
+			"keepNextLabel": {
+				"text": "Захаваць наступны"
+			},
+			"keepLinesLabel": {
+				"text": "Захаваць радкі"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "Разрыў старонкі перад"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "Шрыфт:"
+			},
+			"fontStyleLabel": {
+				"text": "Стыль шрыфта:"
+			},
+			"Regular": {
+				"text": "Звычайны"
+			},
+			"Italic": {
+				"text": "Курсівам"
+			},
+			"Bold": {
+				"text": "Тлусты"
+			},
+			"BoldItalic": {
+				"text": "Тлусты курсіў"
+			},
+			"fontSizeLabel": {
+				"text": "Памер шрыфта:"
+			},
+			"fontColorLabel": {
+				"text": "Колер шрыфта:"
+			},
+			"underlineStyleLabel": {
+				"text": "Падкрэслены тэкст:"
+			},
+			"strikeoutTypeLabel": {
+				"text": "Закрэслены тэкст:"
+			},
+			"verticalPositionLabel": {
+				"text": "Вертыкальнае становішча:"
+			},
+			"Baseline": {
+				"text": "Базавы радок"
+			},
+			"Superscript": {
+				"text": "Надрадковы індэкс"
+			},
+			"Subscript": {
+				"text": "Ніжні індэкс"
+			},
+			"smallCapsLabel": {
+				"text": "Вялікія літары"
+			},
+			"allCapsLabel": {
+				"text": "Усе вялікія літары"
+			},
+			"scaleLabel": {
+				"text": "Маштаб:"
+			},
+			"spacingLabel": {
+				"text": "Інтэрвал:"
+			},
+			"positionLabel": {
+				"text": "Пазіцыя:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "Шматўзроўневы спіс:"
+			},
+			"alignmentLabel": {
+				"text": "Выраўноўванне:"
+			},
+			"Left": {
+				"text": "налева"
+			},
+			"Right": {
+				"text": "правільна"
+			},
+			"Center": {
+				"text": "Выраўнаваць па цэнтры"
+			},
+			"Both": {
+				"text": "Абодва"
+			},
+			"lineSpacingLabel": {
+				"text": "Міжрадковы інтэрвал:"
+			},
+			"Single": {
+				"text": "Адзінарнае"
+			},
+			"1.15": {
+				"text": "1.15"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "Падвойнае"
+			},
+			"Triple": {
+				"text": "Патройнае"
+			},
+			"Custom...": {
+				"text": "Наладжвальнае..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "Налады міжрадковага інтэрвалу абзацаў..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "Налады водступу абзацаў..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "Налады пагінацыі абзацаў..."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "Назва:"
+			},
+			"subjectLabel": {
+				"text": "Тэма:"
+			},
+			"creatorLabel": {
+				"text": "Стваральнік:"
+			},
+			"descriptionLabel": {
+				"text": "Апісанне:"
+			},
+			"categoryLabel": {
+				"text": "Катэгорыя:"
+			},
+			"keywordsLabel": {
+				"text": "Ключавыя словы:"
+			},
+			"createdLabel": {
+				"text": "Створана:"
+			},
+			"modifiedLabel": {
+				"text": "Зменена:"
+			},
+			"printedLabel": {
+				"text": "Надрукавана:"
+			},
+			"lastModifiedByLabel": {
+				"text": "Апошні раз зменена:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "Колер выбару тэксту:"
+			},
+			"backgroundColorLabel": {
+				"text": "Колер фону:"
+			},
+			"defaultUnitsLabel": {
+				"text": "Адзінкі па змаўчанні:"
+			},
+			"Centimeters": {
+				"text": "Сантыметры"
+			},
+			"Millimeters": {
+				"text": "Міліметры"
+			},
+			"Inches": {
+				"text": "цалі"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "Паказаць нябачныя межы табліцы"
+			},
+			"asyncModeLabel": {
+				"text": "Асінхронны рэжым"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "Пачатак раздзела:"
+			},
+			"NextPage": {
+				"text": "Наступная старонка"
+			},
+			"NextColumn": {
+				"text": "Наступны слупок"
+			},
+			"Continuous": {
+				"text": "Бесперапынны"
+			},
+			"EvenPage": {
+				"text": "Цотная старонка"
+			},
+			"OddPage": {
+				"text": "Няцотная старонка"
+			},
+			"pageSizeLabel": {
+				"text": "Памер старонкі:"
+			},
+			"pageOrientationLabel": {
+				"text": "Арыентацыя старонкі:"
+			},
+			"Portrait": {
+				"text": "Партрэт"
+			},
+			"Landscape": {
+				"text": "Пейзаж"
+			},
+			"pageMarginsLabel": {
+				"text": "Палі старонкі (см):"
+			},
+			"leftLabel": {
+				"text": "Злева:"
+			},
+			"rightLabel": {
+				"text": "Справа:"
+			},
+			"topLabel": {
+				"text": "Верх:"
+			},
+			"bottomLabel": {
+				"text": "Унізе:"
+			},
+			"headerLabel": {
+				"text": "Загаловак:"
+			},
+			"footerLabel": {
+				"text": "Ніжні калонтытул:"
+			},
+			"gutterLabel": {
+				"text": "Жолаб:"
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "Выкарыстоўвайце розныя загалоўкі для першай старонкі"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "Выкарыстоўвайце розныя загалоўкі для цотных і няцотных старонак"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "Колькасць слупкоў:"
+			},
+			"lineBetweenLabel": {
+				"text": "Рада паміж"
+			},
+			"widthAndSpacingLabel": {
+				"text": "Шырыня і інтэрвал"
+			},
+			"equalColumnWidthLabel": {
+				"text": "Аднолькавая шырыня слупкоў"
+			},
+			"columnNumberLabel": {
+				"text": "Нумар слупка:"
+			},
+			"widthLabel": {
+				"text": "Шырыня:"
+			},
+			"spacingLabel": {
+				"text": "Інтэрвал:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"closeButton": {
+				"value": "Блізка"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Памылка"
+		},
+		"closeButton": {
+			"text": "Блізка"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "Адкрываецца дакумент...",
+		"vssde-numberFormat-custom": "Карыстацкі",
+		"vssde-findTextPanel-textIsNotFound": "Тэкст '{0}' не знойдзены.",
+		"vssde-selectFunctionPanel-all": "Усе",
+		"vssde-createXlsxDocument": "Стварыце новы дакумент XLSX",
+		"vssde-uploadXlsxFile": "Загрузіць файл XLSX",
+		"vssde-downloadXlsxFile": "Выгрузіць файл XLSX",
+		"vssde-exportXlsxToPdf": "Экспарт XLSX у PDF",
+		"vssde-fileSizeExceedsLimit": "Памер запампаванага файла перавышае максімальны памер ({0} байт).",
+		"vssde-error-noError": "Няма памылкі.",
+		"vssde-error-divisionByZero": "Любы лік (уключаючы нуль) або любы код памылкі дзеліцца на нуль.",
+		"vssde-error-cellRefCannotBeEvaluated": "Спасылка на ячэйку не можа быць ацэненая, таму што значэнне ячэйкі не было атрымана або разлічана.",
+		"vssde-error-valueIsNotAvailable": "Прызначанае значэнне недаступнае.",
+		"vssde-error-wrongName": "Падобна на тое, што выкарыстоўваецца імя, але яно не вызначана.",
+		"vssde-error-twoAreasNotIntersecting": "Дзве вобласці павінны перасякацца, але гэтага не адбываецца.",
+		"vssde-error-notCorrectValue": "Аргумент функцыі мае сумяшчальны тып, але мае значэнне, якое знаходзіцца па-за даменам, у якім гэтая функцыя вызначана.",
+		"vssde-error-cannotEvaluateCellRef": "Спасылка на ячэйку не можа быць ацэненая.",
+		"vssde-error-incompatibleType": "Аргумент несумяшчальнага тыпу перадаецца функцыі, або аперанд несумяшчальнага тыпу выкарыстоўваецца з аператарам.",
+		"vssde-error-unknownError": "Невядомая памылка.",
+		"vssde-error-externalError": "Знешняя памылка.",
+		"vssde-uriOpen-question": "Адкрыць URL '{0}'?",
+		"vssde-uriOpen-wrongUri": "Адрас гэтага сайта несапраўдны: {0}",
+		"vssde-createXlsxDocumentConfirmation": "Вы хочаце стварыць новую працоўную кнігу?",
+		"vsde-documentIsOpening": "Адкрываецца дакумент...",
+		"vsde-createDocxDocument": "Стварыць новы дакумент DOCX",
+		"vsde-uploadDocumentFile": "Загрузіць і адкрыць файл",
+		"vsde-exportDocxDocumentToPdf": "Экспартаваць дакумент DOCX у PDF",
+		"vsde-downloadFile": "Спампаваць файл",
+		"vsde-cacheIsNotCleared": "Кэш не ачышчаны, бо вэб-сэрвіс файлаў па змаўчанні (Vintasoft.Shared.WebServiceJS.defaultFileService) не вызначаны.",
+		"vsde-uriOpen-question": "Адкрыць URL '{0}'?",
+		"vsde-uriOpen-wrongUri": "Адрас гэтага сайта несапраўдны: {0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Загрузіць і адкрыць файл",
+		"vsdv-uploadAndAddFileButton-addFileString": "Загрузіць і дадаць файл",
+		"vsui-textSearchPanel-pageLabel": "старонка",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "Запісаць анатацыі",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "Захаваць анатацыі",
+		"vsui-annotationListPanel-pageLabel": "старонка",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "Уласцівасці анатацыі",
+		"vsdv-openFile-addFileString": "Дадаць файл",
+		"vsdv-openFile-authenticateFileString": "Аўтэнтыфікаваць файл",
+		"vsdv-downloadFile-actionMessage": "Спампаваць файл",
+		"vsdv-saveChanges-saveChangesInImages": "Захаваць змены ў малюнках",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Захаваць змены ў анатацыях",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Запіс анатацый да малюнкаў",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "Загрузіць і адкрыць файл",
+		"vsui-uploadAndAddFileButton-addFileString": "Загрузіць і дадаць файл",
+		"vsui-openFile-addFileString": "Дадаць файл",
+		"vsui-openFile-authenticateFileString": "Аўтэнтыфікаваць файл",
+		"vsui-downloadFile-actionMessage": "Спампаваць файл",
+		"vsui-saveChanges-saveChangesInImages": "Захаваць змены ў малюнках",
+		"vsui-saveChanges-saveChangesInAnnotations": "Захаваць змены ў анатацыях",
+		"vsui-saveChanges-burnAnnotationsInImages": "Запіс анатацый да малюнкаў",
+		"vsui-saveChanges-saveChangesInPdfDocument": "Захаваць змены ў дакуменце PDF",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "Запісаць анатацыі",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "Захаваць анатацыі",
+		"vsui-documentPasswordDialog-title": "Пароль дакумента",
+		"vsui-dialog-okButton": "OK",
+		"vsui-dialog-cancelButton": "Адмяніць",
+		"vsui-documentPasswordPanel-authenticateFileString": "Аўтэнтыфікаваць файл",
+		"vsui-imageSelectionDialog-title": "Выберыце выявы",
+		"vsui-imageSelectionDialog-currentImageString": "Актуальны малюнак",
+		"vsui-imageSelectionDialog-allImagesString": "Усе выявы",
+		"vsui-imageSelectionDialog-customImagesString": "Карыстацкі",
+		"vsui-documentLayoutSettingsDialog-title": "Налады макета дакумента",
+		"vsui-printImagesDialog-title": "Друк малюнкаў",
+		"vsui-printImagesPanel-imagePrintingString": "Выява друкуецца",
+		"vsui-printImagesPanel-withAnnotationsLabel": "з анатацыямі",
+		"vsui-imageViewerSettingsDialog-title": "Налады прагляду малюнкаў",
+		"vsui-thumbnailViewerSettingDialog-title": "Налады прагляду эскізаў",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Паказаць анатацыі:",
+		"vsui-rotateImageWithAnnotationsDialog-title": "Паварот малюнка з анатацыямі",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "Кут павароту павінен быць больш нуля.",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "Паваротная выява з анатацыямі",
+		"vsui-uploadImageFromUrlDialog-title": "Загрузіць выяву з URL",
+		"vsui-exportFileSettingsDialog-title": "Налады для экспарту файла",
+		"vsdv-documentLayoutSettingsDialog-title": "Налады макета дакумента",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Адмяніць",
+		"vsdv-uploadImageFromUrlDialog-title": "Загрузіць выяву з URL",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "Уключыць адмену/паўтарэнне",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "Адключыць адмену/паўтарэнне",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "Уключыць 'Ласцік анатацый'",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "Адключыць 'Сціральнік анатацый'",
+		"vsui-documentNavigationTool-getActions": "Атрымаць дзеянні",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "Налады водступаў абзацаў",
+		"vsde-dialog-okButton": "OK",
+		"vsde-dialog-closeButton": "Блізка",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "Налады міжрадковага інтэрвалу абзацаў",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "Налады пагінацыі абзацаў",
+		"vsde-documentTextPropertiesDialog-title": "Уласцівасці тэксту",
+		"vsde-documentParagraphPropertiesDialog-title": "Уласцівасці абзаца",
+		"vsde-documentInfoDialog-title": "Інфармацыя пра дакумент",
+		"vsde-documentEditorSettingsDialog-title": "Налады рэдактара дакументаў",
+		"vsde-documentEditorViewSettingsDialog-title": "Налады выгляду рэдактара дакументаў",
+		"vsde-documentPageSettingsDialog-title": "Налады старонкі дакумента",
+		"vsde-documentPageColumnsSettingsDialog-title": "Налады слупкоў старонкі"
+	}
+}

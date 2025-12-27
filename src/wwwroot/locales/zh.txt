@@ -1,0 +1,725 @@
+﻿{
+	"documentEditor": {
+		"fileLabel": {
+			"text": "文件"
+		},
+		"homeLabel": {
+			"text": "家"
+		},
+		"insertLabel": {
+			"text": "插入"
+		},
+		"layoutLabel": {
+			"text": "布局"
+		},
+		"createDocxDocumentButton": {
+			"title": "创建新的 DOCX 文档"
+		},
+		"uploadDocumentFileButton": {
+			"title": "上传并打开文档"
+		},
+		"documentInfoButton": {
+			"title": "文档信息..."
+		},
+		"saveChangesToSourceFileButton": {
+			"title": "保存对原始文件的更改"
+		},
+		"downloadFileButton": {
+			"title": "下载文件"
+		},
+		"exportDocxDocumentToPdfAndDownloadPdfFileButton": {
+			"title": "将 DOCX 文档导出为 PDF 并下载 PDF 文件..."
+		},
+		"printDocumentButton": {
+			"title": "打印文档..."
+		},
+		"closeDocumentButton": {
+			"title": "关闭文档"
+		},
+		"vsde-clearSessionCacheButton": {
+			"title": "清除會話快取"
+		},
+		"documentEditorSettingsButton": {
+			"title": "文档编辑器设置..."
+		},
+		"copyContentButton": {
+			"title": "复制内容"
+		},
+		"cutContentButton": {
+			"title": "剪切内容"
+		},
+		"pasteContentButton": {
+			"title": "粘贴内容"
+		},
+		"pasteTextContentButton": {
+			"title": "粘贴文本内容"
+		},
+		"increaseFontSizeButton": {
+			"title": "增大字体"
+		},
+		"decreaseFontSizeButton": {
+			"title": "减小字体"
+		},
+		"boldTextButton": {
+			"title": "加粗字体"
+		},
+		"italicTextButton": {
+			"title": "斜体文本"
+		},
+		"underlineTextButton": {
+			"title": "下划线文本"
+		},
+		"strikethroughTextButton": {
+			"title": "删除线文本"
+		},
+		"superscriptTextButton": {
+			"title": "上标文本"
+		},
+		"subscriptTextButton": {
+			"title": "下标文本"
+		},
+		"setTextColorButton": {
+			"title": "设置文本颜色"
+		},
+		"selectTextColorButton": {
+			"title": "选择文本颜色"
+		},
+		"setTextFillColorButton": {
+			"title": "设置文本填充颜色"
+		},
+		"selectTextFillColorButton": {
+			"title": "选择文本填充颜色"
+		},
+		"clearFormattingPropertiesButton": {
+			"title": "清除所有格式"
+		},
+		"textPropertiesButton": {
+			"title": "文本属性..."
+		},
+		"decreaseIndentButton": {
+			"title": "减少缩进"
+		},
+		"increaseIndentButton": {
+			"title": "增加缩进"
+		},
+		"decreaseFirstLineIndentButton": {
+			"title": "减少首行缩进"
+		},
+		"increaseFirstLineIndentButton": {
+			"title": "增加首行缩进"
+		},
+		"bulletedListButton": {
+			"title": "项目符号列表"
+		},
+		"bulletedListStylesButton": {
+			"title": "项目符号列表样式"
+		},
+		"numberedListButton": {
+			"title": "编号列表"
+		},
+		"numberedListStylesButton": {
+			"title": "编号列表样式"
+		},
+		"showNonprintableCharactersButton": {
+			"title": "显示不可打印字符"
+		},
+		"alignLeftButton": {
+			"title": "左对齐"
+		},
+		"alignCenterButton": {
+			"title": "中心"
+		},
+		"alignRightButton": {
+			"title": "右对齐"
+		},
+		"alignBothButton": {
+			"title": "对齐"
+		},
+		"setParagraphFillColorButton": {
+			"title": "设置段落填充颜色"
+		},
+		"selectParagraphFillColorButton": {
+			"title": "选择段落填充颜色"
+		},
+		"stylePainterButton": {
+			"title": "风格画家"
+		},
+		"paragraphPropertiesButton": {
+			"title": "段落属性..."
+		},
+		"insertPageBreakButton": {
+			"title": "插入分页符"
+		},
+		"createHeaderButton": {
+			"title": "创建/编辑页眉"
+		},
+		"deleteHeaderButton": {
+			"title": "删除页眉"
+		},
+		"createFooterButton": {
+			"title": "创建/编辑页脚"
+		},
+		"deleteFooterButton": {
+			"title": "删除页脚"
+		},
+		"changePageOrientationButton": {
+			"title": "更改页面方向"
+		},
+		"addSectionBreak_NextPage_Button": {
+			"title": "添加分节符（下一页）"
+		},
+		"addSectionBreak_Continuous_Button": {
+			"title": "添加分节符（连续）"
+		},
+		"addSectionBreak_EvenPage_Button": {
+			"title": "添加分节符（偶数页）"
+		},
+		"addSectionBreak_OddPage_Button": {
+			"title": "添加分节符（奇数页）"
+		},
+		"addColumnBreak_Button": {
+			"title": "添加分栏符"
+		},
+		"removeSectionBreakButton": {
+			"title": "移除分节符"
+		},
+		"pageSettingsButton": {
+			"title": "文档页面设置..."
+		},
+		"pageColumnsSettingsButton": {
+			"title": "页面列设置..."
+		},
+		"goToFirstPageButton": {
+			"title": "跳转到第一页"
+		},
+		"goToPreviousPageButton": {
+			"title": "跳转到上一页"
+		},
+		"gotoPageInput": {
+			"title": "页"
+		},
+		"goToNextPageButton": {
+			"title": "跳转到下一页"
+		},
+		"goToLastPageButton": {
+			"title": "跳转到最后一页"
+		},
+		"viewPropertiesButton": {
+			"title": "视图设置..."
+		},
+		"view_fitToPageButton": {
+			"title": "适应页面"
+		},
+		"view_fitToPageWidthButton": {
+			"title": "适应页面宽度"
+		},
+		"view_multiPagesButton": {
+			"title": "多页"
+		},
+		"view_onePageButton": {
+			"title": "单页"
+		},
+		"zoomOutButton": {
+			"title": "缩小"
+		},
+		"zoomValueLabel": {
+			"text": "100%"
+		},
+		"zoomInButton": {
+			"title": "放大"
+		},
+		"documentParagraphIndentationSettingsDialog": {
+			"leftIndentationLabel": {
+				"text": "左侧："
+			},
+			"rightIndentationLabel": {
+				"text": "右侧："
+			},
+			"specialIndentationLabel": {
+				"text": "特殊设置："
+			},
+			"specialIndentation-noneLabel": {
+				"text": "没有任何"
+			},
+			"specialIndentation-firstLineLabel": {
+				"text": "首行"
+			},
+			"specialIndentation-hangingLabel": {
+				"text": "悬挂"
+			},
+			"byLabel": {
+				"text": "按："
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			},
+			"viewModeListLabel": {
+				"text": "视图模式："
+			},
+			"Vertical": {
+				"text": "垂直的"
+			},
+			"Horizontal": {
+				"text": "水平的"
+			},
+			"pagesInLineLabel": {
+				"text": "每行/每列页数："
+			},
+			"pagePaddingLabel": {
+				"text": "页面内边距（像素）："
+			}
+		},
+		"documentParagraphLineSpacingSettingsDialog": {
+			"spacingBeforeLabel": {
+				"text": "行前："
+			},
+			"autoSpacingBeforeLabel": {
+				"text": "自动"
+			},
+			"spacingAfterLabel": {
+				"text": "行后："
+			},
+			"autoSpacingAfterLabel": {
+				"text": "自动"
+			},
+			"lineSpacingLabel": {
+				"text": "行距："
+			},
+			"Scale": {
+				"text": "缩放"
+			},
+			"Exact": {
+				"text": "精确"
+			},
+			"AtLeast": {
+				"text": "至少"
+			},
+			"doNotAddSpaceBetweenParagraphsLabel": {
+				"text": "相同样式的段落之间不添加间距"
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		},
+		"documentParagraphPaginationSettingsDialog": {
+			"widowControlLabel": {
+				"text": "寡妇控制"
+			},
+			"keepNextLabel": {
+				"text": "保留下一行"
+			},
+			"keepLinesLabel": {
+				"text": "保留行"
+			},
+			"pageBreakBeforeLabel": {
+				"text": "页前分页符"
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		},
+		"documentTextPropertiesDialog": {
+			"fontNameLabel": {
+				"text": "字体："
+			},
+			"fontStyleLabel": {
+				"text": "字体样式："
+			},
+			"Regular": {
+				"text": "常规"
+			},
+			"Italic": {
+				"text": "斜体"
+			},
+			"Bold": {
+				"text": "粗体"
+			},
+			"BoldItalic": {
+				"text": "粗斜体"
+			},
+			"fontSizeLabel": {
+				"text": "字体大小："
+			},
+			"fontColorLabel": {
+				"text": "字体颜色："
+			},
+			"underlineStyleLabel": {
+				"text": "下划线文本："
+			},
+			"strikeoutTypeLabel": {
+				"text": "删除线文本："
+			},
+			"verticalPositionLabel": {
+				"text": "垂直位置："
+			},
+			"Baseline": {
+				"text": "基线"
+			},
+			"Superscript": {
+				"text": "上标"
+			},
+			"Subscript": {
+				"text": "下标"
+			},
+			"smallCapsLabel": {
+				"text": "小型大写字母"
+			},
+			"allCapsLabel": {
+				"text": "全部大写字母"
+			},
+			"scaleLabel": {
+				"text": "规模："
+			},
+			"spacingLabel": {
+				"text": "间距："
+			},
+			"positionLabel": {
+				"text": "位置："
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		},
+		"documentParagraphPropertiesDialog": {
+			"multiLevelListLabel": {
+				"text": "多级列表："
+			},
+			"alignmentLabel": {
+				"text": "对齐方式："
+			},
+			"Left": {
+				"text": "左边"
+			},
+			"Right": {
+				"text": "正确的"
+			},
+			"Center": {
+				"text": "中心"
+			},
+			"Both": {
+				"text": "双向对齐"
+			},
+			"lineSpacingLabel": {
+				"text": "行距："
+			},
+			"Single": {
+				"text": "单​​倍行距"
+			},
+			"1.15": {
+				"text": "1.15倍行距"
+			},
+			"1.5": {
+				"text": "1.5"
+			},
+			"Double": {
+				"text": "双倍行距"
+			},
+			"Triple": {
+				"text": "三倍行距"
+			},
+			"Custom...": {
+				"text": "自定义..."
+			},
+			"paragraphLineSpacingSettingsButton": {
+				"value": "段落行距设置..."
+			},
+			"paragraphIndentationSettingsButton": {
+				"value": "段落缩进设置..."
+			},
+			"paragraphPaginationSettingsButton": {
+				"value": "段落分页设置..."
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		},
+		"documentInfoDialog": {
+			"titleLabel": {
+				"text": "标题："
+			},
+			"subjectLabel": {
+				"text": "主题："
+			},
+			"creatorLabel": {
+				"text": "创建者："
+			},
+			"descriptionLabel": {
+				"text": "描述："
+			},
+			"categoryLabel": {
+				"text": "类别："
+			},
+			"keywordsLabel": {
+				"text": "关键词："
+			},
+			"createdLabel": {
+				"text": "创建日期："
+			},
+			"modifiedLabel": {
+				"text": "修改日期："
+			},
+			"printedLabel": {
+				"text": "打印日期："
+			},
+			"lastModifiedByLabel": {
+				"text": "最后修改者："
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		},
+		"documentEditorSettingsDialog": {
+			"textSelectionColorLabel": {
+				"text": "文本选择颜色："
+			},
+			"backgroundColorLabel": {
+				"text": "背景颜色："
+			},
+			"defaultUnitsLabel": {
+				"text": "默认单位："
+			},
+			"Centimeters": {
+				"text": "厘米"
+			},
+			"Millimeters": {
+				"text": "毫米"
+			},
+			"Inches": {
+				"text": "英寸"
+			},
+			"showInvisibleTableBordersLabel": {
+				"text": "显示不可见的表格边框"
+			},
+			"asyncModeLabel": {
+				"text": "异步模式"
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		},
+		"documentPageSettingsDialog": {
+			"sectionStartLabel": {
+				"text": "节起始位置："
+			},
+			"NextPage": {
+				"text": "下一页"
+			},
+			"NextColumn": {
+				"text": "下一列"
+			},
+			"Continuous": {
+				"text": "连续"
+			},
+			"EvenPage": {
+				"text": "偶数页"
+			},
+			"OddPage": {
+				"text": "奇数页"
+			},
+			"pageSizeLabel": {
+				"text": "页面大小："
+			},
+			"pageOrientationLabel": {
+				"text": "页面方向："
+			},
+			"Portrait": {
+				"text": "纵向"
+			},
+			"Landscape": {
+				"text": "横向"
+			},
+			"pageMarginsLabel": {
+				"text": "页面边距（厘米）："
+			},
+			"leftLabel": {
+				"text": "左边距："
+			},
+			"rightLabel": {
+				"text": "右边距："
+			},
+			"topLabel": {
+				"text": "上边距："
+			},
+			"bottomLabel": {
+				"text": "下边距："
+			},
+			"headerLabel": {
+				"text": "页眉："
+			},
+			"footerLabel": {
+				"text": "页脚："
+			},
+			"gutterLabel": {
+				"text": "装订线："
+			},
+			"useDifferentHeadlineForFirstPageLabel": {
+				"text": "首页使用不同的标题"
+			},
+			"useDifferentHeadlineForOddAndEvenPagesLabel": {
+				"text": "奇数页和偶数页使用不同的标题"
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		},
+		"documentPageColumnsSettingsDialog": {
+			"columnCountLabel": {
+				"text": "列数："
+			},
+			"lineBetweenLabel": {
+				"text": "行间距"
+			},
+			"widthAndSpacingLabel": {
+				"text": "宽度和间距"
+			},
+			"equalColumnWidthLabel": {
+				"text": "等宽列"
+			},
+			"columnNumberLabel": {
+				"text": "列号："
+			},
+			"widthLabel": {
+				"text": "宽度："
+			},
+			"spacingLabel": {
+				"text": "间距："
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"closeButton": {
+				"value": "关闭"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "错误"
+		},
+		"closeButton": {
+			"text": "关闭"
+		}
+	},
+	"strings": {
+		"vssde-documentIsOpening": "文档正在打开...",
+		"vssde-numberFormat-custom": "风俗",
+		"vssde-findTextPanel-textIsNotFound": "未找到文本'{0}'。",
+		"vssde-selectFunctionPanel-all": "全部",
+		"vssde-createXlsxDocument": "创建新的 XLSX 文档",
+		"vssde-uploadXlsxFile": "上传XLSX文件",
+		"vssde-downloadXlsxFile": "下载XLSX文件",
+		"vssde-exportXlsxToPdf": "将 XLSX 导出为 PDF",
+		"vssde-fileSizeExceedsLimit": "上传的文件大小超过最大大小（{0} 字节）。",
+		"vssde-error-noError": "没有错误。",
+		"vssde-error-divisionByZero": "任何数字（包括零）或任何错误代码都会除以零。",
+		"vssde-error-cellRefCannotBeEvaluated": "无法计算单元格引用，因为尚未检索或计算单元格的值。",
+		"vssde-error-valueIsNotAvailable": "没有指定值。",
+		"vssde-error-wrongName": "看起来好像使用了一个名称，但尚未定义这样的名称。",
+		"vssde-error-twoAreasNotIntersecting": "两个区域需要相交，但实际上并不相交。",
+		"vssde-error-notCorrectValue": "函数的参数具有兼容的类型，但其值位于定义该函数的域之外。",
+		"vssde-error-cannotEvaluateCellRef": "无法评估单元格引用。",
+		"vssde-error-incompatibleType": "将不兼容的类型参数传递给函数，或者将不兼容的类型操作数与运算符一起使用。",
+		"vssde-error-unknownError": "未知错误。",
+		"vssde-error-externalError": "外部错误。",
+		"vssde-uriOpen-question": "打开 URL'{0}'？",
+		"vssde-uriOpen-wrongUri": "此网站的地址无效：{0}",
+		"vssde-createXlsxDocumentConfirmation": "您想创建一个新的工作簿吗？",
+		"vsde-documentIsOpening": "文档正在打开...",
+		"vsde-createDocxDocument": "创建新的 DOCX 文档",
+		"vsde-uploadDocumentFile": "上传并打开文件",
+		"vsde-exportDocxDocumentToPdf": "将 DOCX 文档导出为 PDF",
+		"vsde-downloadFile": "下载文件",
+		"vsde-cacheIsNotCleared": "由于未定义默认文件 Web 服务 (Vintasoft.Shared.WebServiceJS.defaultFileService)，因此缓存未被清除。",
+		"vsde-uriOpen-question": "打开 URL'{0}'？",
+		"vsde-uriOpen-wrongUri": "此网站的地址无效：{0}",
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "上传并打开文件",
+		"vsdv-uploadAndAddFileButton-addFileString": "上傳並新增文件",
+		"vsui-textSearchPanel-pageLabel": "页",
+		"vsdv-burnAnnotationsButton-burnAnnotationsString": "刻录注释",
+		"vsdv-saveAnnotationsButton-saveAnnotationsString": "保存注释",
+		"vsui-annotationListPanel-pageLabel": "页",
+		"vsui-annotationListPanel-annotationPropertiesLabel": "注释属性",
+		"vsdv-openFile-addFileString": "添加文件",
+		"vsdv-openFile-authenticateFileString": "验证文件",
+		"vsdv-downloadFile-actionMessage": "下载文件",
+		"vsdv-saveChanges-saveChangesInImages": "保存图像中的更改",
+		"vsdv-saveChanges-saveChangesInAnnotations": "保存注释中的更改",
+		"vsdv-saveChanges-burnAnnotationsInImages": "在图像上刻录注释",
+		"vsui-uploadAndOpenFileButton-uploadFileString": "上传并打开文件",
+		"vsui-uploadAndAddFileButton-addFileString": "上傳並新增文件",
+		"vsui-openFile-addFileString": "添加文件",
+		"vsui-openFile-authenticateFileString": "验证文件",
+		"vsui-downloadFile-actionMessage": "下载文件",
+		"vsui-saveChanges-saveChangesInImages": "保存图像中的更改",
+		"vsui-saveChanges-saveChangesInAnnotations": "保存注释中的更改",
+		"vsui-saveChanges-burnAnnotationsInImages": "在图像上刻录注释",
+		"vsui-saveChanges-saveChangesInPdfDocument": "保存 PDF 文档中的更改",
+		"vsui-burnAnnotationsButton-burnAnnotationsString": "刻录注释",
+		"vsui-saveAnnotationsButton-saveAnnotationsString": "保存注释",
+		"vsui-documentPasswordDialog-title": "文档密码",
+		"vsui-dialog-okButton": "好的",
+		"vsui-dialog-cancelButton": "取消",
+		"vsui-documentPasswordPanel-authenticateFileString": "验证文件",
+		"vsui-imageSelectionDialog-title": "选择图像",
+		"vsui-imageSelectionDialog-currentImageString": "当前图像",
+		"vsui-imageSelectionDialog-allImagesString": "所有图片",
+		"vsui-imageSelectionDialog-customImagesString": "风俗",
+		"vsui-documentLayoutSettingsDialog-title": "文档布局设置",
+		"vsui-printImagesDialog-title": "打印图像",
+		"vsui-printImagesPanel-imagePrintingString": "图像正在打印",
+		"vsui-printImagesPanel-withAnnotationsLabel": "带注释",
+		"vsui-imageViewerSettingsDialog-title": "图像查看器设置",
+		"vsui-thumbnailViewerSettingDialog-title": "缩略图查看器设置",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "显示注释：",
+		"vsui-rotateImageWithAnnotationsDialog-title": "旋转带有注释的图像",
+		"vsui-rotateImageWithAnnotationsDialog-rotationAngleCannotBeZeroString": "旋转角度应大于零。",
+		"vsui-rotateImageWithAnnotationsDialog-rotatingImageWithAnnotationsString": "带注释旋转图像",
+		"vsui-uploadImageFromUrlDialog-title": "從 URL 上傳圖像",
+		"vsui-exportFileSettingsDialog-title": "匯出文件的設置",
+		"vsdv-documentLayoutSettingsDialog-title": "文档布局设置",
+		"vsdv-dialog-okButton": "好的",
+		"vsdv-dialog-cancelButton": "取消",
+		"vsdv-uploadImageFromUrlDialog-title": "從 URL 上傳圖像",
+		"vsdv-enableAnnotationHistoryButton-enableUndoRedo": "启用撤消/重做",
+		"vsdv-enableAnnotationHistoryButton-disableUndoRedo": "禁用撤消/重做",
+		"vsdv-enableAnnotationEraserButton-enableAnnotationEraser": "启用'注释橡皮擦'模式",
+		"vsdv-enableAnnotationEraserButton-disableAnnotationEraser": "禁用'注释橡皮擦'",
+		"vsui-documentNavigationTool-getActions": "获取操作",
+		"vsde-documentParagraphIndentationSettingsDialog-title": "段落缩进设置",
+		"vsde-dialog-okButton": "好的",
+		"vsde-dialog-closeButton": "关闭",
+		"vsde-documentParagraphLineSpacingSettingsDialog-title": "段落行距设置",
+		"vsde-documentParagraphPaginationSettingsDialog-title": "段落分页设置",
+		"vsde-documentTextPropertiesDialog-title": "文本属性",
+		"vsde-documentParagraphPropertiesDialog-title": "段落属性",
+		"vsde-documentInfoDialog-title": "文档信息",
+		"vsde-documentEditorSettingsDialog-title": "文档编辑器设置",
+		"vsde-documentEditorViewSettingsDialog-title": "文档编辑器视图设置",
+		"vsde-documentPageSettingsDialog-title": "文档页面设置",
+		"vsde-documentPageColumnsSettingsDialog-title": "页面列数设置"
+	}
+}
